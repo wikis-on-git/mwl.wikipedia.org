@@ -1,0 +1,157 @@
+{{portal-física}}
+[[Image:Lightning3.jpg|thumb|300px|La eilatricidade na sue manifestaçon natural más amponente: l relámpago]]
+
+{{eiletromagnetismo}}
+
+La '''eilatricidade''', tamien screbido cumo lhetricidade, ye un fenómeno físico oureginado por [[../carga eilétrica|cargas eilétricas]] státicas ó an mobimento i por sue anteraçon.  Quando ua carga se ancontra an repouso, produç [[../fuorça/]]s subre outras que stan al sou redror. Se la carga se mobe, produç tamien campos [[../magnetismo|magnéticos]].   
+Hai dous tipos de cargas eilétricas, chamadas positibas i negatibas. Las cargas de nome eigual (mesmos senhales) repelen-se i las de nomes çtintos (senhales defrentes) atraen-se. 
+
+La eilatricidade cria-se de la anteraçon de ciertos tipos de partículas sub-atómicas. La partícula más liebe que leba carga eilétrica ye l [[../eilétron/]], que assi cumo la partícula de carga eilétrica ambersa a la de l eilétron , l [[../próton/]], transporta la ounidade fundamental de carga <math>(1,60217646 x 10^{-19}C </math>), cargas eilétricas de balor mais pequeinho son tenidas cumo eisistentes an [[../subpartículas atómicas/]] cumo ls [[../quark/]]s.
+
+Ls [[../átomo/]]s an circunstáncias normales cunténen eilétrones, i muita beç ls que stan más loinge de l [[../núcleo atómico|núcleo]] çprenden-se cun muita facelidade. An alguas sustáncias, cumo ls [[../Metal|metales]], hai muitos eilétrones libres. Desta maneira, un cuorpo queda carregado eiletricamente grácias a la reourdenaçon de l eilétrones. 
+
+Un átomo normal ten cantidades eiguales de carga eilétrica positiba i negatiba, lougo ye eiletricamente neutro. La cantidade de carga eilétrica transportada por todos ls eilétrones de l átomo, que por cumbençon son negatibas, stá eiquilibrada pula carga positiba que queda ne l núcleo. Se un cuorpo tén un eicesso de eilétrones quedará carregado negatibamente. Al cuntrário, cula falta de eilétrones, un cuorpo queda carregado positibamente, porque hai más cargas eilétricas positibas ne l núcleo. 
+
+Eilatricidade ye la passaige de eilétrones an un cundutor. Buns cundutores son na grande maiorie de la família de l metales: [[../ouro/]], [[../prata/]] i [[../alumínio/]], assi cumo alguns nuobos materiales de propiedades físicas alteradas que cunduzen einergie cula mínima perda de einergie chamados [[../supercundutibidade|supercundutores]]. Yá la [[../porcelana/]], l [[../plástico/]], l [[../bidro/]] i la [[../borraixa/]] son buns eisolantes. Eisolantes son materiales que nun permiten la passaige de la eilatricidade.
+
+Alguns cunceitos amportantes que dízen respeito a la eiletricidade deben ser definidos:
+
+*[[../Campo eilétrico/]]: Eifeito produzido por ua carga l qual puode eisercer fuorça subre outras partículas carregadas.
+*[[../Potencial eilétrico/]]: Capacidade dun campo eilétrico de rializar trabalho. Ne l [[../Sistema Anternacional de Ounidades|SI]] (Sistema Anternacional de Ounidades) ye medido an [[../bolt/]] (B).
+*[[../Corrente eilétrica/]]: Cantidade de carga que ultrapassa un cacho nun dado anterbalo de tiempo. Ne l [[../Sistema Anternacional de Ounidades|SI]] ye medido an [[../ampère/]] (La). 
+*[[../Poténcia eilétrica/]]: Cantidade de einergie cumbertida an un dado anterbalo de tiempo.
+*[[../Carga eilétrica/]]: Grandeza probeniente de l nibles subatómicos.
+
+== Stória ==
+{{AP|[[../Stória de la eilatricidade/]]}}
+
+==Potencial eilétrico==
+{{AP|[[../Potencial eilétrico/]]}}
+La [[../deferença de potencial eilétrico/]] antre dous puntos ye definida cumo l trabalho neçairo para lebar ua [[../carga/]] positiba dun punto al outro debedido pul balor desta carga. Se eimanginarmos un punto cumo refrencial zero puode-se dezir que l potencial eilétrico dua carga an un punto ye eigual al trabalho para lebar ua carga positiba de l punto zero até l punto an queston debedido pul balor desta carga.
+
+Para refrenciales eisolados puode-se ousar esse punto de refréncia ne l anfenito. 
+Quando se tratar de la defrença de potencial dua carga antre un punto i l anfenito trata-se de l potencial eilétrico desta carga. L potencial ye medido an [[../bolt/]]s (1 bolt = [[../joule/]]/[[../coulomb/]]).
+
+L [[../gradiente/]] de l potencial eilétrico dua carga relacionado al sou [[../campo eilétrico/]] puode ser screbido deste modo:
+
+<center><math>-\vec\nabla V= \vec E\ </math></center>
+
+Sendo '''<math>V</math>''' l '''potencial eilétrico''' i <sup><math> \vec E\ </math></sup> l betor '''campo eilétrico'''.
+
+==Cunceituando==
+
+'''Cundutores (Corriente  eilétrica)'''
+
+Chama-se [[../corriente eilétrica/]] l fluxo ourdenado de [[../eilétron|eilétrones]] an un cacho. La [[../corriente cuntína/]] ten un fluxo custante, anquanto la [[../corrente alternada/]] ten un fluxo de média zero, inda que nun tenga balor nulo to l tiempo. Esta definiçon de corriente alternada amplica que l fluxo de eilétrones demuda de direçon cuntinamente.
+
+L fluxo de [[../carga eilétrica|cargas eilétricas]] puode gerar-se an un [[../cundutor/]], mas nun eisiste ne ls [[../eisolante/]]s. Alguns çpositibos eilétricos que outelizan estas caraterísticas eilétricas ne ls materiales se chaman çpositibos [[../Eiletrónica|eiletrónicos]]. 
+
+La [[../Lei de Ohm/]] çcribe la relaçon antre la antensidade i la tenson an ua corriente eilétrica: la deferença de [[../potencial eilétrico/]] ye diretamente porporcional a la [[../antensidade de corriente/]] i a la [[../resisténcia eilétrica/]]. La  [[../Lei de Ohm/]] ye spressa matematicamente assi:
+
+<math>U=R\cdot I</math>
+
+Adonde:
+
+* U = [[../Tenson eilétrica|Deferença de potencial eilétrico]] 
+* I  = [[../Corrente eilétrica/]] 
+* R = [[../Resisténcia eilétrica|Resisténcia]] 
+
+La quantidade de corriente an un cacho dada dun cundutor define-se cumo la [[../carga eilétrica/]] que la atrabessa an ua ounidade de [[../tiempo/]], esto ye, Colomb (C), por segundos (s).
+
+:<math>I = \frac{n e}{t}</math>
+
+:<math>I = \frac{Q}{t}</math>
+
+:<math>I = \frac{C}{s}</math>
+
+{{sboço-eilatricidade}}
+
+[[Category:Wp/mwl]]
+[[Category:Eilatricidade]]
+ 
+
+[[af:Elektrisiteit]]
+[[ak:Ɛlɛktrisiti]]
+[[an:Eletrezidat]]
+[[ar:كهرباء]]
+[[arz:كهربا]]
+[[ast:Lletricidá]]
+[[az:Elektrik]]
+[[bat-smg:Alektra]]
+[[be:Электрычнасць]]
+[[be-x-old:Электрычнасьць]]
+[[bg:Електричество]]
+[[bm:Kùran]]
+[[bn:তড়িৎ]]
+[[br:Tredan]]
+[[bs:Elektricitet]]
+[[ca:Electricitat]]
+[[cs:Elektřina]]
+[[cy:Trydan]]
+[[da:Elektricitet]]
+[[de:Elektrizität]]
+[[el:Ηλεκτρισμός]]
+[[en:Electricity]]
+[[eo:Elektro]]
+[[es:Electricidad]]
+[[et:Elekter]]
+[[eu:Argindar]]
+[[fa:الکتریسیته]]
+[[fi:Sähkö]]
+[[fr:Électricité]]
+[[fur:Eletricitât]]
+[[fy:Elektrisiteit]]
+[[ga:Leictreachas]]
+[[gl:Electricidade]]
+[[he:חשמל]]
+[[hi:विद्युत]]
+[[hr:Elektricitet]]
+[[hu:Elektromosság]]
+[[ia:Electricitate]]
+[[id:Listrik]]
+[[io:Elektro]]
+[[is:Rafmagn]]
+[[it:Elettricità]]
+[[iu:ᓴᕕᒐᐅᔭᖅ/ikumautit]]
+[[ja:電気]]
+[[ka:ელექტრობა]]
+[[ko:전기]]
+[[ku:Elektrîk]]
+[[kw:Tredan]]
+[[li:Elektricitèèt]]
+[[lt:Elektra]]
+[[lv:Elektrība]]
+[[mg:Aratra]]
+[[ml:വൈദ്യുതി]]
+[[mr:वीज]]
+[[ms:Elektrik]]
+[[nl:Elektriciteit]]
+[[nn:Elektrisitet]]
+[[no:Elektrisitet]]
+[[nrm:Êtricitaé]]
+[[oc:Electricitat]]
+[[pt:Electricidade]]
+[[pl:Elektryczność]]
+[[qu:Pinchikilla]]
+[[ro:Electricitate]]
+[[ru:Электричество]]
+[[si:විදුලිය]]
+[[simple:Electricity]]
+[[sk:Elektrina]]
+[[sl:Elektrika]]
+[[sq:Elektriciteti]]
+[[sr:Електрицитет]]
+[[stq:Elektrizität]]
+[[su:Listrik]]
+[[sv:Elektricitet]]
+[[ta:மின்சாரம்]]
+[[te:విద్యుత్తు]]
+[[th:ไฟฟ้า]]
+[[tr:Elektrik]]
+[[uk:Електрика]]
+[[ur:برق]]
+[[vi:Điện]]
+[[wo:Mbëj]]
+[[yi:עלעקטריע]]
+[[zh:電]]
+[[zh-yue:電]]
