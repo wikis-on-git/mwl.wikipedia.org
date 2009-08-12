@@ -1,0 +1,109 @@
+__NOTOC__ __NOEDITSECTION__
+{{Portada/Cabeceira
+  |títalo=Bienbenido
+<small>a</small> [[Biquipédia|Biquipédia]]
+  |subtítalo=La anciclopédia an lhéngua [[Lhéngua mirandesa|mirandesa]].
+  |box dreita=
+Agora hai [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] artigos an [[Lhéngua mirandesa|mirandés]]:
+<inputbox>
+type=search2
+searchbuttonlabel=Mirar
+buttonlabel=Mirar
+width=19
+id=MP
+</inputbox>
+  |introduzión=
+[[Aduya:Como rechistrar-se|Como rechistrar-se]] · [[Ajuda:FAQ|FAQ]] · [[Espezial:Cite|Zitar Wikipedia]] · [[Wikipedia:Abiso legal|Abiso legal]] <br /> [[Wikipedia:Pachina de Prebatinas|Pachina de Prebatinas]] · [[Wikipedia:Tabierna|A Tabierna]] · [[Portal:Portalada|Portals]] · [[foundation:Donaciones|Donazions]]
+<!-------------------------------------------------------------
+                           SUMARIO
+-------------------------------------------------------------->
+  |1= Zenzias naturals
+  |2= Artes
+  |3= Zenzias sozials
+  |4= Soziedat
+  |5= Tecnolochía
+  |6= Endize
+<!-------------------------------------------------------------
+                      SEUZIÓN PRENZIPAL
+-------------------------------------------------------------->
+  |seçon=
+{{finestraHome3|títalo=Buonas-benidas
+|link=template:Portada/Buonas-benidas
+  |logo=Emblem-fun.svg
+  |testo_eimaige=Buonas-benidas
+  |font_size=95
+  |cuntenido={{Portada/Buonas-benidas}} }}
+{{finestraHome3|títalo=[[Biquipédia:Quemunidade|Quemunidade]]
+  |link=plantilla:Portalada/Quemunidade
+  |logo=Nuvola apps kuser.png
+  |testo_eimaige=Quemunidade
+  |cuntenido={{Portada/Quemunidade}} }}
+{{finestraHome3|títalo=[[Biquipédia:Artigos an çtaque|Çtacado]]
+  |link=template:Portada/An çtaque
+  |logo=Nuvola filesystems services.png
+  |testo_eimaige=An çtaque
+  |font_size=95
+  |cuntenido={{Portada/An çtaque}} }}
+{{finestraHome3|títalo=Sabies que...
+  |link=template:Portada/Sabies
+  |logo=Nuvola apps filetypes.png
+  |testo_eimaige=Sabies que...
+  |font_size=95
+  |cuntenido={{Portada/Sabies}} }} 
+{{finestraHome3|títalo=[[:m:Lista de Wikipedias|Totas as luengas]]
+  |link=template:Portada/Lhénguas
+  |logo=Gnome-globe.svg
+  |testo_eimaige=Lhénguas
+  |font_size=95
+  |cuntenido={{Portada/Lhénguas}} }}
+}}
+<!-------------------------------------------------------------
+                       COLUNNA DREITA
+-------------------------------------------------------------->
+{{Portada/Coluna dreita
+  |títalo= [[Plantilla:Portada/Eimaige|Eimaige de l mes]]
+  |cuntenido= {{Portada/Eimaige}} 
+  |padding-right=23px}}
+{{Portada/Coluna dreita
+  |cuntenido= [[Espezial:Newpages|Nobidades]] e [[Wikipedia:Atualidade|atualidade]]
+  |cuntenido= {{Portada/Nobidades}} }}
+{{Portada/Coluna dreita
+  |títalo= [[Portal:Portada|Portales]]
+  |cuntenido= {{Portada/Portales}} }}
+<!-------------------------------------------------------------
+                         PROYEUTOS
+-------------------------------------------------------------->
+{{Portada/Coluna dreita ambaixo
+  |1= Wiktionary
+  |1_px = 45
+  |2= Wikispecies
+  |2_px = 45
+  |3= Wikisource
+  |3_px = 45
+  |4= Wikiquote
+  |4_px = 45
+  |5= Wikinews
+  |5_px = 46
+  |6= Wikibooks
+  |6_px = 45
+  |7= Wikiversity
+  |7_px = 44
+  |8= Commons
+  |8_px = 45
+  |9= Meta-Wiki 
+  |9_px = 45
+  }}
+<!-------------------------------------------------------------
+                         ATRAS LUENGAS
+---------------------------------------------------------------
+* más de 50.000 articlos e estato español
+-------------------------------------------------------------->
+[[ast:]]
+[[ca:]]
+[[en:]]
+[[es:]]
+[[eu:]]
+[[ext:]]
+[[gl:]]
+[[oc:]]
+[[pt:]]
