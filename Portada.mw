@@ -17,12 +17,12 @@ id=MP
 <!-------------------------------------------------------------
                            SUMARIO
 -------------------------------------------------------------->
-  |1= Zenzias naturals
+  |1= Ciéncias naturales
   |2= Artes
-  |3= Zenzias sozials
-  |4= Soziedat
-  |5= Tecnolochía
-  |6= Endize
+  |3= Ciéncias sociales
+  |4= Sociadade
+  |5= Tecnologie
+  |6= Índice
 <!-------------------------------------------------------------
                       CACHO PRENCIPAL
 -------------------------------------------------------------->
@@ -50,7 +50,7 @@ id=MP
   |testo_eimaige=Sabies que...
   |font_size=95
   |cuntenido={{Portada/Sabies}} }} 
-{{finestraHome3|títalo=[[:m:Lista de Wikipedias|Totas as luengas]]
+{{finestraHome3|títalo=[[:m:Lista de Wikipedias|Todas las lhéngas]]
   |link=template:Portada/Lhénguas
   |logo=Gnome-globe.svg
   |testo_eimaige=Lhénguas
@@ -61,7 +61,7 @@ id=MP
                        COLUNNA DREITA
 -------------------------------------------------------------->
 {{Portada/Coluna dreita
-  |títalo= [[Plantilla:Portada/Eimaige|Eimaige de l més]]
+  |títalo= [[Modelo:Portada/Eimaige|Eimaige de l més]]
   |cuntenido= {{Portada/Eimaige}} 
   |padding-right=23px}}
 {{Portada/Coluna dreita
