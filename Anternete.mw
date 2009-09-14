@@ -1,12 +1,12 @@
-La '''Anternete''', tamien a las bezes chamada cumo "Anterneta", ye un tela de [[Rede de cumputadores|redes]] a la scala mundial de milhones de [[cumputador]]es lhigados uns als outros pul [[Protocolo de Anternete]] que premite l acesso a anformaçones i a todo l tipo de [[trasferéncia de dados]]. La Anternete ye la percipal de las [[nuobas  tecnologies d'anformaçon i quemunicaçon]] (NTICs). Al cuntrário de l que normalmente se pensa, Anternete nun ye sinónimo de [[World Wide Web]]. Esta ye ua parte daqueilha, sendo la World Wide Web, qu'outeliza [[heipermédia]] na formaçon básica, un de ls muitos serbícios ouferecidos na Anternete. Cunsante dados de márcio de [[2007]], la Anternete ye ousada por 16,9% de la populaçon mundial (arrimado a 1,1 bilhon de pessonas).
+La '''Anternete''', tamien a las bezes chamada cumo "Anterneta", ye un tela de [[Rede de cumputadores|redes]] a la scala mundial de milhones de [[cumputador]]es lhigados uns als outros pul [[Protocolo de Anternete]] que premite l acesso a anformaçones i a todo l tipo de [[trasferéncia de dados]]. La Anternete ye la percipal de las [[nuobas tecnologies d'anformaçon i quemunicaçon]] (NTICs). Al cuntrário de l que normalmente se pensa, Anternete nun ye sinónimo de [[World Wide Web]]. Esta ye ua parte daqueilha, sendo la World Wide Web, qu'outeliza [[heipermédia]] na formaçon básica, un de ls muitos serbícios ouferecidos na Anternete. Cunsante dados de márcio de [[2007]], la Anternete ye ousada por 16,9% de la populaçon mundial (arrimado a 1,1 bilhon de pessonas).
 
 == Tipos de lhigaçon ==
 {{Acessos a la Anternete}}
-Métodos quemuns d'acesso doméstico a la Anternete méten l [[acesso discado]] ó por [[banda lharga]] por cabos (cumo [[ADSL]], [[ISDN]]), rádio, [[acesso dedicado]], sin filo, ([[Wi-Fi]]) por satélite ó por [[telemoble ]] [[3G]]. Sítios públicos para acesso a la grande rede méten [[biblioteca]]s i [[cyber café]]s, adonde cumputadores lhigados son çponeblizados para uso temporário.
+Métodos quemuns d'acesso doméstico a la Anternete méten l [[acesso discado]] ó por [[banda lharga]] por cabos (cumo [[ADSL]], [[ISDN]]), rádio, [[acesso dedicado]], sin filo, ([[Wi-Fi]]) por satélite ó por [[telemoble]]  [[3G]]. Sítios públicos para acesso a la grande rede méten [[biblioteca]]s i [[cyber café]]s, adonde cumputadores lhigados son çponeblizados para uso temporário.
 
 Eisísten tamien puntos d'acesso an sítios públicos, cumo [[campos de abiaçon]] i cafés, acessibles por meio de rede sin filo. Para esso, l'outelizador debe de tener un çpositibo cliente d'acesso, cumo qual un [[PDA]] ó [[latop]]. L'acesso puode ser lhemitado seinhas, pa la comercializaçon de l tiempo d'uso.
 
-==Stória==
+== Stória ==
 {{Artigo percipal|[[Stória de la Anternete]]}}
 Para antender l cunceito de Anternete, la rede mundial de cumputadores, hai que ir até las décadas de [[década de 1960|1960]] i [[década de 1970|1970]] para antender cumo eilha se tornou un de ls meios de quemunicaçon mais populares. Todo ampeçou ne l tiempo an que la [[guerra frie]] andaba pul aire aire antre las  dues maiores poténcias desse tiempo, ls [[Stados Ounidos]] i la s-[[Ounion Sobiética]].
 
@@ -26,13 +26,13 @@ L qu'hoije forma la Anternete, ampeçou an [[1969]] cumo la [[ARPANET]], criada 
 Cuntudo, la Anternete cumo hoije conhecemos, cun sue anteratibidade, cumo arcabouço de redes anterligadas de cumputadores i sous cuntenidos [[multimédia]], suolo se tornou possible pula cuntribuiçon de l cientista [[Tin Berners-Le]] i al [[CERN]], Cunseil Européen pour la Recherche Nucléaire - Centro Ouropeu de Pesquisas Nucleares, que criórun la [[World Wide Web]], einicialmente anterlhigando sistemas de pesquisa científicas i mais tarde académicas, anterlhigando ounibersidades; la rede coletiba ganhou ua maior dibulgaçon pública a partir de ls [[anhos 1990]]. An Agosto de [[1991]], Berners-Le publicou sou nuobo  porjeto para la World Wide Web,  dous anhos depuis de ampeçar a criar l [[HTML]], l [[HTTP]] i las poucas purmeiras [[páigina web|páiginas web]] ne l [[CERN]], na [[Suíça]]. Por este motibo, an [[23 d'Agosto]] se comemora l [[Die de l Anternauta]]. An [[1993]] l [[nabegador]] [[Mosaic Web Browser|Mosaic]] 1.0 fui lhançado, i ne l final de [[1994]] yá habie antresse público na Anternete. An [[1996]] la palabra Anternete yá era d'uso quemun, percipalmente ne ls [[purmeiro mundo|países zambolbidos]], referindo-se na maiorie de las bezes la [[WWW]].
 
 == Arquitetura ==
-[[Image:Internet map 1024.jpg|thumb|right|250px|Bisualizaçon gráfica de bárias rotas an ua porçon de la Anternete mostrando la scalabilidade de la rede]]
+[[Fexeiro:Internet map 1024.jpg|thumb|right|250px|Bisualizaçon gráfica de bárias rotas an ua porçon de la Anternete mostrando la scalabilidade de la rede]]
 Bários [[ciéncia de la cumputaçon|cientistas de la cumputaçon]] cunsideran la Anternete un "grande eisemplo dun sistema de grande scala, bastante angenhado, inda que mui cumplexo". La Anternete ye stremamente heterogénea; por eisemplo, las taxas de transferéncia de dados i las caratelísticas físicas de las cunexones barian bastante. Ajuntando a la sue cumplexidade stá la capacidade de mais dun cumputador outelizar la Anternete atrabeç dun nó de rede (un [[andereço IP]] público, ber splicaçon an ''[[prossy]]''), criando la possiblidade de sub-redes hierárquicas, que poderian ser stendidas anfenitamente (fuora pulas lemitaçones técnicas de l protocolo IPb4).
 
-===Possible colapso===
+=== Possible colapso ===
 Apuis de analisar l fluxo d'anformaçones que nabégan pula Anternete, l'ampresa Nemertes Research Group cuncluiu que la rede mundial poderá sufrir un [[colapso]] an [[2010]] debido a la scala de dados ambiados, pus l'atual strutura nun eirie cumportar l bolume de dados ne ls próssimos anhos. L relatório de la Nemertes andica que las struturas centrales de la Anternete eiboluiron d'acordo cula demanda de ls outelizadores, mas la [[anfrastrutura]] d'acesso nun eibolui na mesma belocidade, l qu'afetará alguas regiones de l mundo a partir de 2010. Segundo eilha, serien neçairos ambestimentos de 55 bilhones para eibitar l porblema.
 
-===Protocolos===
+=== Protocolos ===
 Para l funcionamento de la Anternete eisisten trés camadas de [[protocolo]]s. Na camada mais baixa stá l [[Protocolo de Anternete]] (''Anternete Protocol''), que define datagramas ó pacotes que carrégan blocos de dados dun nó de la rede para outro. La maiorie de la Anternete atual outeliza la [[IPb4]], quarta berson de l protocolo, apesar que l [[IPb6]] yá stá padronizado, sendo usado an alguas redes specíficas solamente. Andependientemente de la [[arquitetura de cumputador]] outelizada por  dous cumputadores quemunicando antre si na Anternete, zde qu'eilhes cumprendan l protocolo de Anternete, eilhes puoden se quemunicar. Esso permite que defrentes tipos de máquinas i sistemas puodan lhigar-se a la grande rede, seia un [[PDA]] cunetando-se a un [[serbidor WWW]] ó un cumputador pessonal eisecutando [[Microsoft Windows]] cunetando-se a un cumputador pessonal eisecutando [[Linux]].
 
 Na camada média stá l [[Transmission Cuntrol Protocol|TCP]], [[User Datagran Protocol|UDP]] i [[Anternete Cuntrol Message Protocol|ICMP]]. Esses son protocolos ne l qual ls dados son trasmetidos. L TCP ye capaç de rializar ua cunexon birtual, fornecendo cierto  grau de garantie na quemunicaçon de dados.
@@ -46,14 +46,14 @@ Defrente de sistemas de quemunicaçon mais antigos, ls protocolos de la Anternet
 La ICANN ye l'antidade que cordena la çtribuiçon d'eidantificadores únicos na Anternete, ancluindo nomes de [[domínio]], [[andereço IP|andereços IP]], puortas de protocolos i númaros de parámetros. Un spácio de nomes único i global ye eissencial para que la Anternete funcione, para nun haber cunflito de nomes. L'ourganizaçon stá lhocalizada an [[Marina del Rey]] ([[Califórnia]], [[Stados Ounidos]]), mas ye mantenida por un grupo anternacional de diretores de defrentes quemunidades, técnicas, comerciales i académicas.
 
 == Serbícios ==
-[[Image:Internet-mail.svg|thumb|right|150px|Ícone dun cliente de [[correio eiletrónico]]]]
+[[Fexeiro:Internet-mail.svg|thumb|right|150px|Ícone dun cliente de [[correio eiletrónico]]]]
 === Correio eiletrónico ===
 {{AP|[[correio eiletrónico]]}}
 L cunceito d'ambiar mensaiges eiletrónicas de maneira análoga al correio tradecional fui ua de las ouriges de la Anternete.  Mesmo atualmente cula popularizaçon de ls serbícios de mensaige anstantánea, l dezido ''e-mail'' inda ye amportante na quemunicaçon corporatiba. La tecnologie nun depende de la Anternete, pus mesmo ''e-mails'' anternos dua ampresa puoden circular lhimitados a un serbidor anterno. A partir de l momento que la mensaige ye ambiada antre  dous serbidores fura dua mesma [[LAN|rede anterna]], faç-se uso de la Anternete cumo meio de trasmisson.
 
 Tamien eisisten sistemas para l'outelizaçon de correio eiletrónico atrabeç de la [[World Wide Web]] (ber esse uso ambaixo), ls ''[[webmail]]s''. Son outelizadas páiginas web para l'apersentaçon i outelizaçon de ls protocolos ambolbidos pa ambiar i recebir  carta eilhetrónica ó ''e-mail''. Defrente dua aplicaçon d'acesso al correio eilhetrónico anstalado nun cumputador, que suolo puode ser bejitado lhocalmente pul outelizador ó atrabeç d'acesso remoto (ber esse uso ambaixo), l cunteúdo puode ser bejitado cun facelidade an qualquiera lhugar atrabeç dun sistema d'outenticaçon pula WWW.
 
-[[Image:Firefox 3.png|thumb|right|150px|Un [[nabegador]] apersentando ua [[páigina web]]]]
+[[Fexeiro:Firefox 3.png|thumb|right|150px|Un [[nabegador]] apersentando ua [[páigina web]]]]
 
 === Colaboraçon ===
 {{AP|[[Software colaboratibo]]}}
@@ -63,7 +63,7 @@ L ''[[messenger]]'', [[rede social]] son tecnologies que tamien outelizan la Ant
 
 Outra aplicaçon de colaboraçon na Anternete son ls sistemas [[wiki]], qu'outelizan la World Wide Web para rializar colaboraçon, fornecendo ferramientas cumo sistema de cuntrole de berson i outenticaçon d'outelizadores para l'eidiçon ''online'' de decumientos.
 
-[[Image:AMule screenshot.png|thumb|right|150px|Un [[cumpartilhamento d'arquibos|cumpartilhador d'arquibos]]]]
+[[Fexeiro:AMule screenshot.png|thumb|right|150px|Un [[cumpartilhamento d'arquibos|cumpartilhador d'arquibos]]]]
 
 === Cumpartilhamento d'arquibos ===
 {{AP|[[Cumpartilhamento d'arquibos]]}}
@@ -71,7 +71,7 @@ Un [[arquibo de cumputador]] puode ser cumpartilhado por dibersas pessonas atrab
 
 El tamien puode ser cumpartilhado an ua rede [[P2P]]. Nesse causo l'acesso ye cuntrolado por outenticaçon, i ua beç çponeblizados, l'arquibo ye çtrebuído por bárias máquinas, custituindo bárias fuontes para un mesmo arquibo. Mesmo que l'outor oureginal de l'arquibo yá nun l çponebilize, outras pessonas de la rede que yá obtubírun l'arquibo puoden çponeblizar. A partir de l momento que la medie ye publicada, perde-se l cuntrole subre eilha. Ls cumpartilhadores d'arquibo atrabeç de redes çcentralizadas cumo l [[P2P]] son custantemente albo de críticas debido la sue outelizaçon cumo meio de [[Piratarie na Anternete|piratarie digital]], ouriginalmente cul famoso causo [[Napster]]. Tales redes acabórun eiboluindo cul tiempo para ua maior çcentralizaçon, l que quier dezir ua maior scuridade an relaçon al cunteúdo.
 
-[[Image:Vlc-0.9.4-big buck bunny.png|thumb|150px|Trasmisson dun bídeo]]
+[[Fexeiro:Vlc-0.9.4-big buck bunny.png|thumb|150px|Trasmisson dun bídeo]]
 
 === Trasmisson de média ===
 Bários [[IPTB|canhales de telbison na Anternete]] ouferécen trasmisson de áudio i bídeo an tiempo rial. Outras tecnologies cumo l [[podcast]] premite la çponeblizaçon d'arquibos de áudio, de forma análoga a la blogues. Cun l popularizaçon de ''[[webcan]]s'', ye possible para qualquier pessona tornar-se un fornecedor de cunteúdo de áudio i bídeo pula Anternete an tiempo rial.
@@ -80,23 +80,23 @@ La [[Boç subre IP]] ye un protocolo de Anternete para la quemunicaçon por áud
 
 == Uso ==
 === Eiducaçon ===
-L'uso de las redes cumo ua nuoba  forma d'anteraçon ne l porcesso eiducatibo amplia l'açon de quemunicaçon antre [[aluno]] i [[porsor]] i l'antercámbio [[Eiducaçon|eiducacional]] i [[cultura]]l, desta forma, l'ato d'eiducar (cul auxílio de la Anternete), premite la quebra de barreiras, de frunteiras i remobe l'eisolamento de la sala d'aula, acelerando l'outonomie de la daprendizaige de ls alunos an sous própios ritmos, assi l'eiducaçon puode assumir un caráter coletibo i tornar-se acessible a todos (ambora inda eisista la barreira de l précio i l'analfabetismo tecnológico).
+L'uso de las redes cumo ua nuoba forma d'anteraçon ne l porcesso eiducatibo amplia l'açon de quemunicaçon antre [[aluno]] i [[porsor]] i l'antercámbio [[Eiducaçon|eiducacional]] i [[cultura]]l, desta forma, l'ato d'eiducar (cul auxílio de la Anternete), premite la quebra de barreiras, de frunteiras i remobe l'eisolamento de la sala d'aula, acelerando l'outonomie de la daprendizaige de ls alunos an sous própios ritmos, assi l'eiducaçon puode assumir un caráter coletibo i tornar-se acessible a todos (ambora inda eisista la barreira de l précio i l'analfabetismo tecnológico).
 
 Al outelizar l cumputador ne l porcesso d'ansino-daprendizaige, l mais amportante a çtacar ye la maneira cumo esses cumputadores seran outelizados, quanto a l'oureginalidade, a la criatibidade, a l'einobaçon que seran ampregadas an cada sala d'aula.
 
-Para l trabalho direto cun essa geraçon, qu'anseia mui tener un “cuntato” direto culas máquinas, ye neçairo tamien un nuobo  tipo de porfissional d'ansino. Que esse porfissional nun seia suolo reprodutor de coincimiento yá stabelecido, qu'steia birado pa l uso dessas nuobas  tecnologies. Nun basta que las scuolas i l goberno fágan cula [[multimedia]] l que ben fazendo culs lhibros didáticos, tornando -los la panacéia de l'atibidade de l porsor.
+Para l trabalho direto cun essa geraçon, qu'anseia mui tener un “cuntato” direto culas máquinas, ye neçairo tamien un nuobo tipo de porfissional d'ansino. Que esse porfissional nun seia suolo reprodutor de coincimiento yá stabelecido, qu'steia birado pa l uso dessas nuobas tecnologies. Nun basta que las scuolas i l goberno fágan cula [[multimedia]] l que ben fazendo culs lhibros didáticos, tornando -los la panacéia de l'atibidade de l porsor.
 
 L'outelizaçon de la Anternete lhieba-mos a acraditar nua nuoba dimenson qualitatiba para l'ansino, atrabeç de la qual se pon l'ato eiducatibo boltado para la bison coperatiba. Para alhá de que, l'uso de las redes traç para la prática pedagógica un ambiente atratibo adonde l'aluno se torna capaç, atrabeç de l'outo-daprendizaige i de sous porsores, de poder tirar probeito dessa tecnologie para sue bida.
 
-La preocupaçon de tornar cada beç mais dinámico l porcesso d'ansino i daprendizaige, cun porjetos anteratibos qu'úsen la rede eiletrónica amostra-mos que todos ls porcessos son rializados por pessonas. Antoce eilhas son l centro de todo, i nó las máquinas. Assi, nun podemos perder esto de bista i tentarmos fazer mudanças ne l'ansino sin passar puls porsores, i sin dar ua perparaçon para este nuobo  mundo que stá a aparecer.
+La preocupaçon de tornar cada beç mais dinámico l porcesso d'ansino i daprendizaige, cun porjetos anteratibos qu'úsen la rede eiletrónica amostra-mos que todos ls porcessos son rializados por pessonas. Antoce eilhas son l centro de todo, i nó las máquinas. Assi, nun podemos perder esto de bista i tentarmos fazer mudanças ne l'ansino sin passar puls porsores, i sin dar ua perparaçon para este nuobo mundo que stá a aparecer.
 
-Ajuntar las nuobas  tecnologies als porcessos i atebidades eiducatibas ye algo que puode querer dezir dinamismo, promoçon de nuobos i custantes coincimientos, i mais que todo, l prazer de l studar, de l daprender, criando i recriando, promobendo la berdadeira daprendizaige i renascimento custante de l'andibíduo, al dar ua anteratibidade rial i bien mais berdadeira, sien  çtáncias territoriales i materiales. Quier dezir ampulsionar l nino, anfin, l sujeito la se çfazer de la persona de la passibidade. 
+Ajuntar las nuobas tecnologies als porcessos i atebidades eiducatibas ye algo que puode querer dezir dinamismo, promoçon de nuobos i custantes coincimientos, i mais que todo, l prazer de l studar, de l daprender, criando i recriando, promobendo la berdadeira daprendizaige i renascimento custante de l'andibíduo, al dar ua anteratibidade rial i bien mais berdadeira, sien çtáncias territoriales i materiales. Quier dezir ampulsionar l nino, anfin, l sujeito la se çfazer de la persona de la passibidade. 
 
-Neçairo se torna qu'eiducadores se apropien de las nuobas  tecnologies, bendo nestas beíclos de spresson de lhenguaiges i spácio abierto de daprendizaiges, crecimento porfissional, i mais qu'esso, puorta d'anserçon de ls andebíduos na chamada sociadade de l'anformaçon. Para esso debe l'anstituiçon scolar stinguir l "faç-de-cunta" atrabeç de la pura i lhemitada compra de cumputadores, para abrir l berdadeiro spácio para ancluson atrabeç de l'afatibo uso de las máquinas i de l'eilhimitado ambiente web, nó cumo simples outelizador, mas cumo pordutor de nuobos coincimientos.
+Neçairo se torna qu'eiducadores se apropien de las nuobas tecnologies, bendo nestas beíclos de spresson de lhenguaiges i spácio abierto de daprendizaiges, crecimento porfissional, i mais qu'esso, puorta d'anserçon de ls andebíduos na chamada sociadade de l'anformaçon. Para esso debe l'anstituiçon scolar stinguir l "faç-de-cunta" atrabeç de la pura i lhemitada compra de cumputadores, para abrir l berdadeiro spácio para ancluson atrabeç de l'afatibo uso de las máquinas i de l'eilhimitado ambiente web, nó cumo simples outelizador, mas cumo pordutor de nuobos coincimientos.
 
 L cumputador se tornou un fuorte aliado para zambolber porjetos, para trabalhar temas çcutibles. El ye un anstrumento pedagógico qu'ajuda na custruçon de l coincimiento nun suolo para ls alunos, mas tamien als porsores. Antretanto ye amportante ressaltar que por si suolo l cumputador nun faç nada. L potencial de tal será detreminado pula teorie scolhida i pula metodologie ampregada nas aulas. Ne l'antanto, amportante lhembrar que colocar cumputadores nas scuolas nun segnefica anformatizar l'eiducaçon, mas si antroduzir l'anformática cumo recurso i ferramienta d'ansino, drento i fuora de la sala d'aula, esso si se torna sinónimo d'anformatizaçon de l'eiducaçon.
 
-Sabe-se que la mola mestra dua berdadeira daprendizaige stá na parcerie(aluno-porsor) i la custruçon de l coincimiento nesses  dous sujeitos.Para que puoda haber un ansino mais significatibo qu'abránjan todos ls alunos, las aulas percisan ser participatibas, anteratibas, ambolbentes, tornando ls alunos siempre “agentes” na custruçon de sou própio coincimiento.
+Sabe-se que la mola mestra dua berdadeira daprendizaige stá na parcerie(aluno-porsor) i la custruçon de l coincimiento nesses dous sujeitos.Para que puoda haber un ansino mais significatibo qu'abránjan todos ls alunos, las aulas percisan ser participatibas, anteratibas, ambolbentes, tornando ls alunos siempre “agentes” na custruçon de sou própio coincimiento.
 Tamien ye eissencial que ls porsores steian bien purparados para lhidar cun esse nuobo recurso. Esso amplica un maior cumprometimento zde la sue formaçon, stando este ato a outelizar, tener açones cumputacionales, cumprender las açones d'ansino que stan ne ls software outelizados stando siempre bien atualizados.
 
 === Lhazer ===
@@ -104,7 +104,7 @@ La Anternete bénen-se tornando ua fuonte de lhazer zde antes de l aparecimiento
 
 Las andústria de [[aposta]] (an forma de jogos eiletrónicos) i [[pornografie]] tamien tiran probeito de la popularidade de la Anternete. Outras grande ária refre-se als [[jogos multi-jogadores]], ua forma de lhazer que cria quemunidades de jogadores pul mundo.
 
-===Publecidade===
+=== Publecidade ===
 La Anternete tornou-se un grande [[mercado]] para [[ampresa]]s, que fázen uso de la natureza eifeciente de la [[publicidade]] cun baixo custo i de l [[comércio eiletrónico]]. La rede mundial ye la forma mais rápida de difundir anformaçon simultaneamente para ua grande cuntidade de pessonas. Cun ls recursos eiletrónicos ouferecidos pul meio, i las anformaçones qu'un anunciante puode oubtener de l stórico de l cliente, l marketing personalizado fui facilitado na Anternete.
 
 == Ética na Anternete ==
@@ -131,7 +131,7 @@ La palabra ''Anternete'' ye tradecionalmente screbida cula purmeira lhetra grand
 Outras ourganizaçones dízen que la purmeira lhetra debe ser pequeinha (''anternete''), i que l'artigo ''"'''la''' anternete"'' chega para çtinguir antre ''"'''ua''' anternete"'', ousada an outras anstáncias. Publicaçones qu'úsan essa forma stan ousentes ne l meio académico, mas persentes an médios cumo ''[[The Economist]]'' i ''[[The Guardian]]''.
 
 ''Anternete'' i ''anternete'' ténen segneficados defrentes. Anquanto ''anternete'' quier dezir un cunjunto de [[Anterlhigaçon de redes|redes de cumputadores anterlhigadas]], la ''Anternete'' trata-se de la ''anternete'' global i pública çponibilizada pul [[Protocolo de Anternete]]. Deste modo, eisisten einúmaras ''anternetes'' spalhadas por redes particulares, seia anterlhigando ampresas, ounibersidades ó casas. Antretanto, eisiste solamente ua rede única i global, l cunjunto de todas las redes.
-[[Category:Anternete]]
+[[Catadorie:Anternete]]
 
 [[ab:Аинтернет]]
 [[ace:Internèt]]
@@ -279,6 +279,7 @@ Outras ourganizaçones dízen que la purmeira lhetra debe ser pequeinha (''anter
 [[wa:Etrernete]]
 [[war:Internet]]
 [[wo:Internet]]
+[[xal:Интернет]]
 [[yi:אינטערנעץ]]
 [[yo:Internet]]
 [[zh:互联网]]
