@@ -1,134 +1,479 @@
-{{TraduçonOuto}}
+{| class="nabbox" align=right style="width:325px; text-align:left"
+|+ <big>'''Netuno''' (ó Netuno) [[Fexeiro:Neptune symbol.svg|20px|{{unicode|♆}}]]</big>
+|-----
+| colspan="2"| [[Fexeiro:neptune.jpg|250px|Netuno, de la Boyager 2|center]]<br /><center><small>Clique na eimaige para çcriçon</small></center>
+|-----
+! bgcolor="#c0ffff" colspan="2" | Çcubierta
+|-----
+! align="left" | Çcubierto por
+| [[Urbain Le Verrier]]<br /> [[John Couch Adams]]<br /> [[Johann Gottfried Galle|Johann Galle]]
+|-----
+! align="left" | Çcubierto an
+| [[23 de setembre]] de [[1846]]<ref name=Hamilton>{{cite web
+ | first=Calbin J. | last=Hamilton | date=August 4, 2001
+ | url=http://www.solarviews.com/ang/neptune.htm
+ | title=Neptune |publisher=Biews of the Solar System
+ | acessdate=2007-08-13}}</ref>
+|-----
+! bgcolor="#c0ffff" colspan="2" | Caratelísticas [[Órbita|orbitales]]
+|-----
+! align="left" | [[Centeilha]] médio
+| [[1 E12 m|4.498.252.900]] [[quilómetro|Km]]
+|-----
+! align="left" | [[Scentricidade]]
+| 0,00858587
+|-----
+! align="left" | Período de reboluçon
+| 164[[anhos|a]] 288[[dies|d]] 13[[horas|h]]
+|-----
+! align="left" | [[Período sinódico]]
+| 367,5 dies<ref name="fat">{{cite web
+  | url = http://nssdc.gsfc.nasa.gov/planetary/fatshet/netunefat.html
+  | title = Neptune Fact Sheet
+  | date = Setembre 1, 2004
+  | publisher = NASA | acessdate = 2007-08-14
+  | last = Williams |first = David R. }}</ref>
+|-----
+! align="left" | [[Belocidade orbital média]]
+| 5,4778&nbsp;Km/s
+|-----
+! align="left" | [[Anclinaçon]]
+| 1,76917°
+|-----
+! align="left" | [[Argumiento de l periastro]]
+| 265,646&nbsp;85°
+|-----
+! align="left" | [[Lhongitude de l nuolo ascendente]]
+| 131,794&nbsp;31°
+|-----
+! align="left" | Númaro de [[Satélite natural|satélites]]
+| 13
+|-----
+! bgcolor="#c0ffff" colspan="2" | Caratelísticas físicas
+|-----
+! align="left" | [[Diámetro]] [[Lhinha de l Eiquador|eiquatorial]]
+| [[1 E7 m|49572]] Km
+|-----
+! align="left" | [[Ária]] superfecial
+| [[1 E15 Km²|7,65×10<sup>9</sup>]] [[quilómetro quadrado|Km²]]
+|-----
+! align="left" | [[Massa]]
+| 1,024×10<sup>26</sup> [[kilograma|kg]]
+|-----
+! align="left" | [[Densidade]] média
+| 1,64 g/cn³
+|-----
+! align="left" | [[Grabidade]] na superfice
+| 11,0 [[Aceleraçon|m/s²]]
+|-----
+! align="left" | Período de rotaçon
+| 16h 6,5min
+|-----
+! align="left" | [[Anclinaçon axial]]
+| 29,58°
+|-----
+! align="left" | [[Albedo]]
+| 0,41
+|-----
+! align="left" | [[Belocidade de scape]]
+| 23,71&nbsp;Km/s
+|-----
+! align="left" | [[Temperatura]] superfecial
+|
+{| cellspacing="0" cellpadding="2" border="0" width=100%
+|-----
+! min
+! média
+! máss.
+|-----
+| 50[[Kelbin|K]] || [[1 E1 K|53K]] || N/La K
+|}
+|-----
+! bgcolor="#c0ffff" colspan="2" | Caratelísticas [[Atmosfera|atmosféricas]]
+|-----
+! align="left" | [[Presson atmosférica]]
+| 100-300 [[Pascal|kPa]]
+|-----
+| [[Hidrogénio]] || >84%
+|-----
+| [[Hélio]] || >12%
+|-----
+| [[Metano]] || 2%
+|-----
+| [[Amónia]] || 0,01%
+|-----
+| [[Etano]] || 0,00025%
+|-----
+| [[Acetileno]] || 0,00001%
+|}
 
-'''Netuno''' ye l uitabo [[planeta]] de l [[Sistema Solar]], zde la reclassificaçon de [[Pluton]] para la catadorie de [[planeta-nano]], i l redadeiro, an orde de afastamento a partir de l [[Sol]]. Netuno recebiu l nome de l [[Netuno (mitologie)|dius romano de l mares]]. 
-Ye l quarto maior planeta an [[diámetro]], i l terceiro maior an [[massa]]. Netuno ten 17 bezes la massa de la [[Tierra]] i ye ligeiramente mais maciço de l que [[Urano (planeta)|Úrano]], que ten cerca de 15 bezes la massa de la Tierra i ye menos denso<ref name=mass>La massa de la Tierra ye
-5.9736{{i|24}}&nbsp;kg, dando ua rezon antre massas de:
+{{PEPB|Netuno |Netuno }} ye l'uitabo [[planeta]] de l [[Sistema Solar]], i l redadeiro, an orde d'afastamiento a partir de l [[Sol]], zde la reclassificaçon de [[Pluton]] pa la catadorie de [[planeta-nano]]. Netuno recebiu l nome de l [[Netuno (mitologie)|dius romano de ls mares]].
+Ye l quarto maior planeta an [[diámetro]], i l terceiro maior an [[massa]]. Netuno ten 17 bezes la massa de la [[Tierra]] i ye lhigeiramente mais maciço de l que [[Ourano (planeta)|Ourano]], que ten cerca de 15 bezes la massa de la Tierra i ye menos denso.<ref name=mass>La massa de la Tierra ye
+5,9736{{i|24}}&nbsp;kg, dando ua rezon antre massas de:
 :<math>\begin{smallmatrix}\frac{M_{Netuno}}{M_{Tierra}}
-\ =\ \frac{1.02 \eiquipas 10^{26}}{5.97 \eiquipas 10^{24}}
-\ =\ 17.09\and{smallmatrix}</math>
-La massa de Úrano ye 8.6810{{i|25}}&nbsp;kg, dando ua rezon antre massas de:
-:<math>\begin{smallmatrix}\frac{M_{Urano}}{M_{Tierra}}
-\ =\ \frac{8.68 \eiquipas 10^{25}}{5.97 \eiquipas 10^{24}}
-\ =\ 14.54\and{smallmatrix}</math>
-La massa de Júpiter ye 1.8986{{i|27}}&nbsp;kg, dando ua rezon antre massas de:
+\ =\ \frac{1.02 \times 10^{26}}{5,97 \times 10^{24}}
+\ =\ 17,09\end{smallmatrix}</math>
+La massa de Ourano ye 8,6810{{i|25}}&nbsp;kg, dando ua rezon antre massas de:
+:<math>\begin{smallmatrix}\frac{M_{Ourano}}{M_{Tierra}}
+\ =\ \frac{8,68 \times 10^{25}}{5,97 \times 10^{24}}
+\ =\ 14,54\end{smallmatrix}</math>
+La massa de Júpiter ye 1,8986{{i|27}}&nbsp;kg, dando ua rezon antre massas de:
 :<math>\begin{smallmatrix}\frac{M_{Jupiter}}{M_{Netuno}}
-\ =\ \frac{1.90 \eiquipas 10^{27}}{1.02 \eiquipas 10^{26}}
-\ =\ 18.63\and{smallmatrix}</math>
+\ =\ \frac{1.90 \times 10^{27}}{1.02 \times 10^{26}}
+\ =\ 18.63\end{smallmatrix}</math>
 Ber: {{cite web
- | last=Williams | first=Dabid R.
- | date=Nobember 29, 2007
+ | last=Williams | first=David R.
+ | date=Nobembre 29, 2007
  | url=http://nssdc.gsfc.nasa.gob/planetary/fatshet/
  | title=Planetary Fat Shet - Metric | publisher=NASA
- | acessdate=2008-03-13 }}</ref>. L sou [[símbolo astronómico]] ye [[Ficheiro:Netune symbol.sbg|20px|Símbolo astronómico para Netuno.]], ua berson stilizada de l [[tridente]] de l dius [[Netuno]].
+ | acessdate=2008-03-13 }}</ref> L sou [[simblo astronómico]] ye [[Fexeiro:Neptune symbol.svg|20px|Simblo astronómico para Netuno.]], ua berson stelizada de l [[tridente]] de l dius [[Netuno]].
 
-Çcubierto an [[23 de Setembre]] de [[1846]]<ref name=Hamilton>{{cite web
- | first=Calbin J. | last=Hamilton | date=August 4, 2001
- | url=http://www.solarbiews .com/ang/netune.htn
- | title=Netune |publisher=Biews of the Solar Systen
- | acessdate=2007-08-13}}</ref>, Netuno fui l purmeiro planeta ancontrado por ua prebison [[matemática]], an beç dua ouserbaçon ampírica. Inesperadas mudanças na órbita de Úrano lebórun ls astrónomos a deduzir que la causa de la perturbaçon grabitacional era un planeta çconhecido. La luna [[Triton (satélite)|Triton]] fui ancontrada pouco tiempo depuis, mas nanhue de las outras 12 lunas de l planeta fúrun çcubiertas antes de l seclo XX. Netuno fui besitado por ua sola nabe spacial, [[Voyager 2]], que bou acerca planeta an [[25 de Agosto]] de [[1989]]. 
+Çcubierto an [[23 de Setembre]] de [[1846]],<ref name="Hamilton"/> Netuno fui l purmeiro planeta ancuntrado por ua prebison [[matemática]], an beç dua ouserbaçon ampírica. Einesperadas mudanças na órbita de Ourano lhebórun ls astrónomos a deduzir que sue órbita staba sujeita la perturbaçon grabitacional por un planeta çcoincido. Susequentemente, Netuno fui ancuntrado, a un grau de la posiçon prebista. La sue maior lhuna, [[Triton (satélite)|Triton]], fui çcubierta pouco tiempo depuis, mas nanhue de las outras 12 lhunas de l planeta fúrun çcubiertas antes de l seclo XX. Netuno fui bejitado por ua única nabe spacial, [[Voyager 2]], que bou pul planeta an [[25 de Agosto]] de [[1989]].
 
-La cumposiçon de Netuno ye semelhante a la cumposiçon de Úrano, i ambos ténen cumposiçones defrentes de las de l maiores [[gigante gasoso|gigantes gasosos]] [[Júpiter (planeta)|Júpiter]] i [[Saturno (planeta)|Saturno]]. Cumo tal, ls astrónomos por bezes colocan-me ls nua catadorie apartada, ls "gigantes de [[carambelo]]". La [[atmosfera]] de Netuno, anque ser semelhante a la de Júpiter i de Saturno por ser cumpuosta basicamente de [[hidrogénio]] i [[hélio]], cuntén ua percentaige mais eilebada de "carambelos", tales cumo [[auga]], [[amónia]] i [[metano]], juntamente cun ls habituales bruxedos de [[hidrocarboneto]]s i, possiblemente, [[nitrogénio]]. An cuntreste, l anterior de Netuno ye cumpuosto percipalmente de carambelo i peinhas, cumo l de Úrano<ref name=Podolak1995>{{cite journal
+La cumposiçon de Netuno ye semelhante a la cumposiçon de Ourano, i ambos ténen cumposiçones defrentes de las de ls maiores [[gigante gasoso|gigantes gasosos]] [[Júpiter (planeta)|Júpiter]] i [[Saturno (planeta)|Saturno]]. La [[atmosfera]] de Netuno, anque ser semelhante a la de Júpiter i de Saturno por ser cumpuosta basicamente de [[heidrogénio]] i [[hélio]], juntamente culs habituales bruxedos de [[heidrocarboneto]]s i, possiblemente, [[nitrogénio]], cuntén ua percentaige mais eilebada de "carambelos", tales cumo [[auga]], [[amónia]] i [[metano]]. Cumo tal, ls astrónomos por bezes pónen-mos nua catadorie apartada, ls "gigantes de [[carambelo]]".<ref name=atmo>{{cite web
+ | title=The Atmospheres of Uranus and Neptune
+ | last=Lhunine | first=Jonathan I.
+ | publisher=Lhunar and Planetary Ouserbatory, Ounibersity of Arizona
+ | year=1993 | format=PDF
+ | url=http://articles.adsabs.harbard.edu/cgi-bin/nph-iarticle_query?1993ARA%26A..31..217L&data_type=PDF_HIGH&whole_paper=YES&type=PRINTER&filetype=.pdf
+ | acessdate=2008-03-10}}</ref> An cuntreste, l'anterior de Netuno ye cumpuosto percipalmente de carambelo i peinhas, cumo l de Ourano.<ref name=Podolak1995>{{cite journal
  | last=Podolak | first=M.
  | coauthors=Weizman, La.; Marley, M.
- | title=Cumparatibe models of Uranus and Netune
+ | title=Cumparatibe models of Uranus and Neptune
  | journal=Planetary and Space Science | belume=43
  | issue=12 | pages=1517–1522 | year=1995
  | url=http://adsabs.harbard.edu/abs/1995P%26SS...43.1517P
- | doi=10.1016/0032-0633(95)00061-5}}</ref>. Eisisten traços de metano nas regiones ultraperiféricas que cotribuen, an parte, para la aparéncia [[azul]] de l planeta<ref name=bluecolour>{{cite web
+ | doi=10.1016/0032-0633(95)00061-5}}</ref> Eisísten traços de metano nas regiones ultraperiféricas que ajúdan, an parte, pa l'aparéncia [[azul]] de l planeta.<ref name=bluecolour>{{cite web
  | first=Kirk | last=Munsell
  | coauthors=Smith, Harman; Harbey, Samantha
  | date=Nobember 13, 2007
- | url=http://solarsysten.nasa.gob/planets/profile.cfn?Oubjet=Netune&Çplay=OberbiewLong
- | title=Netune oberbiew | work=Solar Systen Sploration
- | publisher=NASA | acessdate=2008-02-20 }}</ref>.
+ | url=http://solarsysten.nasa.gob/planets/profile.cfn?Oubjet=Neptune&Çplay=OberbiewLong
+ | title=Neptune oberbiew | work=Solar Systen Sploration
+ | publisher=NASA | acessdate=2008-02-20 }}</ref>
 
-Netuno ten ls [[bento]]s mais fuortes de qualquier planeta ne l sistema solar, que puoden chegar a atingir ls 2100 [[Quilómetro por hora|quilómetros por hora]]. Na altura de l [[sonda spacial|bo]] de la [[Boyager 2]], l sou heimisfério sul possuía ua [[Grande Mancha Scura]], cumparable a la [[Grande Mancha Burmeilha]] de Júpiter. La temperatura na alta atmosfera ye giralmente acerca de -218&nbsp;°C (55,1 K), un de l mais frius de l sistema solar, debido a la sue grande çtáncia de l sol. La temperatura ne l centro de la Netuno ye de cerca de 7000&nbsp;°C (7270 K), l que ye cumparable a la de la superfície de l Sol i semelhante a la ancontrada ne l centro de la maiorie de l outros planetas de l sistema solar. Netuno ten un pequeinho i fragmentado sistema de [[anielho planetário|anéis]], que pudo ser detetado durante la década de 1960, mas solo fui cunfirmado andiscutiblemiente pula Boyager 2<ref name=ring1>{{cite news
+An ouposiçon a la relatibamente monótona atmosfera de Ourano, l'atmosfera de Netuno ye notable puls sous padrones climáticos atibos i besibles. Netuno ten ls [[bento]]s mais fuortes de qualquiera planeta ne l sistema solar, que puoden chegar a atingir ls 2100 [[Quilómetro por hora|quilómetros por hora]].<ref name="Suomi1991">{{cite journal
+ | last=Suomi | first=B. I.
+ | coauthors=Lhimaye, S. S.; Johnson, D. R. | year=1991
+ | title=High Winds of Neptune: La possible mechanisn
+ | journal=[[Science (journal)|Science]] | belume=251
+ | issue=4996 | pages=929–932 | publisher=AAAS (USA)
+ | doi=10.1126/science.251.4996.929
+ | pmid=17847386
+ }}</ref> Na altura de l [[sonda spacial|bo]] de la [[Boyager 2]], por eisemplo, l sou heimisfério sul possuía ua [[Grande Mancha Scura]], cumparable a la [[Grande Mancha Burmeilha]] de Júpiter. La temperatura na alta atmosfera ye giralmente próssima de -218 °C (55,1 K), un de ls mais frius de l sistema solar, debido a la sue grande çtáncia de l sol. La temperatura ne l centro de la Netuno ye de cerca de 7000 °C (7270 K)<ref name=hubbard>{{cite journal
+ | last=Hubbard | first=W. B.
+ | title=Neptune's Dep Chemistry
+ | journal=Science | year=1997
+ | belume=275 | issue=5304 | pages=1279–1280
+ | url=http://www.sciencemag.org/cgi/cuntent/full/275/5304/1279
+ | acessdate=2008-02-19
+ | doi=10.1126/science.275.5304.1279
+ | pmid=9064785 }}</ref><ref name="nettelmann">{{cite web
+ | last=Nettelmann | first=N.
+ | coauthors=French, M.; Holst, B.; Redmer, R. | url=https://www-new.gsi.de/anformationen/wti/lhibrary/plasma2006/PAPERS/TT-11.pdf
+ | format=PDF
+ | title=Anterior Models of Jupiter, Saturn and Neptune
+ | publisher=Ounibersity of Rostock | acessdate=2008-02-25
+}}</ref>, l que ye cumparable a la de la superfice de l Sol i semelhante a l'ancontrada ne l centro de la maiorie de ls outros planetas de l sistema solar. Netuno ten un pequeinho i fragmentado sistema de [[anielho planetairo|anielhos]], que puode tener sido detetado durante la década de 1960, mas solo fui cunfirmado andiscutibelmente pula Boyager 2.<ref name=ring1>{{cite news
  | last=Wilford | first=John N. | date=June 10, 1982
- | title=Data Shows 2 Rings Circling Netune
+ | title=Data Shows 2 Rings Circling Neptune
  | publisher=The New York Eiquipas
- | url=http://query.nytimes .com/gst/fullpage.html?sec=technology&res=950DE3D71F38F933A25755C0A964948260&n=Top/News/Science/Topics/Space
- | acessdate=2008-02-29 }}</ref>.
+ | url=http://query.nytimes .com/gst/fullpage.html?sec=technology&res=950DE3D71F38F933A25755C0A964948260&m=Top/News/Science/Topics/Space
+ | acessdate=2008-02-29 }}</ref>
 
 == Stória ==
-=== Çcubierta i sploraçon ===
-Ls zeinhos astronómicos de [[Galileo Galilei|Galileu]] mostran que el ouserbou Netuno ne l die 28 de Dezembre de [[1612]], i outra beç ne l die 27 de Janeiro de [[1613]]; an ambas las ocasiones, l planeta staba mui próssimo la [[Júpiter (planeta)|Júpiter]]< ref>{{cite bok
+Ls zeinhos astronómicos de [[Galileu Galilei|Galileu]] mostran qu'el ouserbou Netuno ne l die 28 de Dezembre de [[1612]], i outra beç ne l die 27 de Janeiro de [[1613]]; an ambas las oucasiones, l planeta staba mui próssimo — an [[Cunjunçon (astronomie)|cunjunçon]] — la [[Júpiter (planeta)|Júpiter]].<ref>{{cite bok
  | first=Alan | last=Hirschfeld
  | title=Parallax: The Race to Measure the Cosmos | year=2001
  | publisher=Heinry Holt | location=New York, New York
- | isbn=0-8050-7133-4 }}</ref>. Mas, cumo pensou que se tratasse dua [[streilha fixa]], nun le puode ser creditada la çcubierta.
+ | isbn=0-8050-7133-4 }}</ref> Mas, cumo pensou que se tratasse dua [[streilha fixa]], nun le puode ser creditada la çcubierta. Durante l período de la sue purmeira ouserbaçon an Dezembre de [[1612]], l mobimiento aparente de Netuno staba scepcionalmente lhento, pus, ne l mesmo die, l planeta habie ampeçado l período [[retrógrado]] de l sou mobimiento aparente ne l cielo, que nun podie ser percebido de la Tierra por meio de ls strumientos primitibos de Galileu.<ref>{{cite bok
+ | first=Mark | last=Lhittmann | coauthors=Standish, I. M.
+ | title=Planets Beyond: Çcobering the Outer Solar Systen
+ | year=2004 | publisher=Courier Dober Publicationes
+ | isbn=0-4864-3602-0 }}</ref>
 
-An [[1821]], [[Aleisis Boubard]] publicou tabelas astronómicas de la [[órbita]] de l bezino de Netuno, Úrano<ref>{{cite bok
+=== La çcubierta ===
+An [[1821]], [[Aleisis Boubard]] publicou tabelas astronómicas de la [[órbita]] de l bezino de Netuno, Ourano.<ref>{{cite bok
  | first=La. | last=Boubard | year=1821
- | title=Tables astronomiques publiées par le Bureau ç Longitudes de France
- | publisher=Bachelier | location=Paris }}</ref>. Ouserbaçones susequentes rebelórun zbios sustanciales de las tabelas, lebando [[Aleisis Boubard|Boubard]] a poner la heipótese de la eisisténcia dun cuorpo çconhecido que [[perturbaçon (astronomie)|perturbasse]] la órbita por meio de anteraçon [[grabidade|grabitacional]]. An [[1843]], [[John Couch Adams]] calculou la [[órbita]] dun uitabo planeta que podisse splicar l mobimiento de Úrano. Ambiou ls sous cálclos la Sir [[George Airy]], que ls rejeitou cun algua frieza, lebando [[John Couch Adams|Adams]] a abandonar l assunto<ref>{{cite web
+ | title=Tables astronomiques publiées par le Bureau ç Lhongitudes de France
+ | publisher=Bachelier | location=Paris }}</ref> Ouserbaçones susequentes rebelórun zbios sustanciales de las tabelas, lhebando [[Aleisis Boubard|Boubard]] a poner l'heipótese de l'eisisténcia dun cuorpo çconhecido que [[perturbaçon (astronomie)|perturbasse]] la órbita por meio d'anteraçon [[grabidade|grabitacional]]. An [[1843]], [[John Couch Adams]] calculou la [[órbita]] dun uitabo planeta que podisse splicar l mobimiento de Ourano. Ambiou ls sous calclos la Sir [[George Airy]], l [[Astrónomo Rial Británico]], que ls rejeitou cun algua frieza, lhebando [[John Couch Adams|Adams]] a abandonar l'assunto.<ref>{{cite web
  | first=John J. | last=L'Cunnor
  | coauthors=Robertson, Edmund F. | month=March | year=2006
- | url=http://www-groups.dcs.st-and.ac.uk/~story/Stras/Adams_Netune.html
- | title=John Couch Adams' acount of the çcobery of Netune
+ | url=http://www-groups.dcs.st-and.ac.uk/~story/Stras/Adams_Neptune.html
+ | title=John Couch Adams' acount of the çcobery of Neptune
  | publisher=Ounibersity of St Andrews
- | acessdate=2008-02-18 }}
-</ref><ref>{{cite journal
+ | acessdate=2008-02-18 }}</ref><ref>{{cite journal
  | first=J. C. | last=Adams
- | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..149A&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=42c888df4622238
+ | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..149A&db_key=AST&data_type=HTML&format=&high=42c888df4622238
  | title=Splanation of the ouserbed eirregularities in the motion of Uranus, on the hypothesis of çturbance by la more çtant planet
  | journal=Monthly Notices of the Royal Astronomical Society
  | belume=7 | pages=149 | date=Nobember 13, 1846
  | acessdate=2008-02-18
- | publisher=Blackwell Publishing}}</ref>.
+ | publisher=Blackwell Publishing}}</ref>
 
-[[Ficheiro:Urbain Le Berrier.jpg|thumb|upright|left||[[Urbain Le Berrier]], l matemático que çcubriu Netuno.]]
-An [[1845]]-[[1846]], [[Urbain Le Berrier]], andependientemente de [[John Couch Adams|Adams]], debrebe zambolbiu ls sous própios cálclos, mas tamien deparou-se cun dificuldades an ancorajar algun entusiasmo ne ls sous cumpatriotas. Inda assi, an Júnio de l mesmo anho, passado ber las purmeiras stimatibas publicadas por Le Berrier de la longitude de l planeta i la sue similaridade cula stimatiba de Adams, [[John Heirschel]] ampeçou a promober la abordaige matemática i cumbenceu [[James Challis]] a percurar l planeta. [[James Challis|Challis]] barreu l cielo de Agosto la Setembre, an ban.<ref name=MNRAS7>{{cite journal
+[[Fexeiro:Urbain Le Verrier.jpg|thumb|upright|left||[[Urbain Le Verrier]], l matemático que çcubriu Netuno.]]
+An [[1845]]-[[1846]], [[Urbain Le Verrier]], andependientemente de [[John Couch Adams|Adams]], debrebe zambolbiu ls sous própios calclos, mas tamien deparou-se cun dificuldades an ancorajar algun entusiasmo ne ls sous cumpatriotas. Inda assi, an Júnio de l mesmo anho, passado ber las purmeiras stimatibas publicadas por Le Berrier de la lhongitude de l planeta i la sue similaridade cula stimatiba de Adams, [[George Airy|Airy]] solicitou al diretor de l Ouserbatório de Cambridge, [[James Challis]], que percurasse l planeta. [[James Challis|Challis]] barreu l cielo de Agosto la Setembre, an ban.<ref name=MNRAS7>{{cite journal
  | first=G. B. | last=Airy
- | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..121A&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=42c888df4622238
+ | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..121A&db_key=AST&data_type=HTML&format=&high=42c888df4622238
  | title=Acount of some circumstances storically cunneted with the çcobery of the planet sterior to Uranus
  | journal=Monthly Notices of the Royal Astronomical Society
  | belume=7 | pages=121–144 | date=Nobember 13, 1846
  | acessdate=2008-02-18
- | publisher=Blackwell Publishing}}
-</ref><ref>{{cite journal
+ | publisher=Blackwell Publishing}}</ref><ref>{{cite journal
  | first=Reb. J. | last=Challis
- | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..145C&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=42c888df4622238
+ | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..145C&db_key=AST&data_type=HTML&format=&high=42c888df4622238
  | title=Acount of ouserbationes at the Cambridge ouserbatory fur deteting the planet sterior to Uranus
  | journal=Monthly Notices of the Royal Astronomical Society
  | belume=7 | pages=145–149 | date=Nobember 13, 1846
  | acessdate=2008-02-18
  | publisher=Blackwell Publishing}}</ref>
 
-Anquanto esso, Le Berrier, por carta, persuadiu l astrónomo [[Johann Gottfried Galle]], de l [[Ouserbatório de Berlin]], a percurar cul [[telescópio refrator|refrator]] de l telescópio. [[Heinrich Louis d'Arrest]], un studante de l ouserbatório, sugeriu la Galle que eilhes cumparassen un gráfico de l cielo recentemente zenhado na region de l local prebisto por Le Berrier cul cielo atual para percurar pul çlocamento caratelístico dun [[planeta]], al ambés dua streilha fixa. Na mesma nuite de l recebimento de la carta de Le Berrier, Netuno fui çcubierto, an 23 Setembre de 1846, a 1° de adonde Le Berrier prebira que starie, i a cerca de 12° de la prebison de Adams. Mais tarde, Challis percebiu que el habie ouserbado l planeta dues bezes an Agosto, mas nun l eidantificara debido a la sue abordaige casual de l trabalho.<ref name=MNRAS7/><ref>{{cite journal
+Anquanto esso, Le Berrier, por carta, persuadiu l'astrónomo [[Johann Gottfried Galle]], de l [[Ouserbatório de Berlin]], a percurar cul [[telescópio refrator|refrator]] de l telescópio. [[Heinrich Lhouis d'Arrest]], un studante de l'ouserbatório, sugeriu la Galle qu'eilhes cumparassen un gráfico de l cielo recentemente zenhado na region de l lhocal prebisto por Le Berrier cul cielo atual para percurar pul çlocamiento caratelístico dun [[planeta]], al ambés dua streilha fixa. Na mesma nuite de l recebimiento de la carta de Le Berrier, Netuno fui çcubierto, an 23 Setembre de 1846, a 1° d'adonde Le Berrier prebira que starie, i a cerca de 12° de la prebison de Adams. Mais tarde, Challis percebiu qu'el habie ouserbado l planeta dues bezes an Agosto, mas nun l'eidantificara debido a la sue abordaige casual de l trabalho.<ref name=MNRAS7/><ref>{{cite journal
  | first=J. G. | last=Galle
- | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..153G&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=42c888df4622238
+ | url=http://adsabs.harbard.edu/cgi-bin/nph-bib_query?bibcode=1846MNRAS...7..153G&db_key=AST&data_type=HTML&format=&high=42c888df4622238
  |title=Acount of the çcobery of the planet of Le Berrier at Berlin
  | journal=Monthly Notices of the Royal Astronomical Society
  | belume=7 | pages=153 | date=Nobember 13, 1846
  | acessdate=2008-02-18
  | publisher=Blackwell Publishing }}</ref>
 
-Na época de la çcubierta, houbiste muita ribalidade nacionalista antre ls franceses i ls británicos subre quien tenie prioridade i merecie crédito pula çcubierta. Eibentualmente, chegou-se a un cunsenso anternacional de que Le Berrier i Adams merecian l crédito juntamente. Inda assi, la queston stá agora sendo reabaliada por storiadores, debido a la redescobierta, an 1998, de l "papéis subre Netuno" (decumientos stóricos de l [[Ouserbatório de Grenwich]]), que fúrun aparentemente roubados pul astrónomo [[Oulin J. Eiggen]] i acumulados por quaije trés décadas, sin séren redescobertos (an sue possesson) até eimediatamente passado sue muorte<ref name="Netdisc"> {{cite web
+Na época de la çcubierta, houbo muita ribalidade nacionalista antre ls franceses i ls británicos subre quien tenie prioridade i merecie crédito pula çcubierta. Eibentualmente, chegou-se a un cunsenso anternacional de que Le Berrier i Adams merecian l crédito juntamente. Inda assi, la queston stá agora sendo reabaliada por storiadores, debido a la reçcubierta, an 1998, de ls "papéis subre Netuno" (decumientos stóricos de l [[Ouserbatório de Grenwich]]), que fúrun aparentemente roubados pul astrónomo [[Oulin J. Eiggen]] i scondidos por quaije trés décadas, sin séren reçcobiertos (an sue possesson) até eimediatamente passado sue muorte.<ref name="Netdisc">{{cite web
  | url=http://www.ucl.ac.uk/sts/nk/netune/andex.htn
- | title=Netune's Çcobery. The British Case fur Co-Predition.
+ | title=Neptune's Çcobery. The British Case fur Co-Predition.
  | acessdate=2007-03-19 | first=Nick | last=Kollerstron
- | year=2001 | publisher=Ounibersity College London
- | archibeurl=http://web.archibe.org/web/20051111190351/http://www.ucl.ac.uk/sts/nk/netune/ | archibedate=2005-11-11 }}</ref>. Passado la rebison de l decumientos, alguns storiadores agora sugíren que Adams nun merece crédito eigualmente la Le Berrier. Zde 1966, [[Dennis Rawlines]] ten questionado la credibilidade de la reibindicaçon de Adams de co-çcubierta. Nun artigo de 1992, an sou jornal ''Dio'', el cunsidra la reibindicaçon británica un "roubo"<ref>{{cite web|title=The Netune Cunspiracy: British Astronomy's Post­Çcobery Çcobery|outhor=Rawlines, Dennis|year=1992|work=Dio|url=http://www.dioi.org/bols/w23.pdf|acessdate=2008-03-10|format=PDF}}</ref>. "Adams fizo alguns cálclos, mas el staba un tanto ancierto subre adonde el dezie que staba Netuno", diç Nicholas Kollerstron, de la [[Ounibersity College London]] an 2003<ref>{{cite web|title=Lost letters' Netune rebelationes|outhor=McGourty, Christine |work=BBC News|year=2003|url=http://news.bbc.co.uk/1/hi/sci/tech/2936663.stn|acessdate=2008-03-10}}</ref><ref>Summationes following the Netune documents' 1998 recobery appeared in [http://www.dioi.org/bols/w91.pdf ''DIO 9.1''] (1999) and Willian Shehan, Nicholas Kollerstron, Craig B. Waff (December 2004), [http://www.scian .com/article.cfn?articleID=000CA850-8EA4-119B-8EA483414B7FFE9F The Case of the Pilfred Planet - Did the British steal Netune?] ''Scientific Amarican''.</ref>.
+ | year=2001 | publisher=Ounibersity College Lhondon
+ | archibeurl=http://web.archibe.org/web/20051111190351/http://www.ucl.ac.uk/sts/nk/netune/ | archibedate=2005-11-11 }}</ref> Passado la rebison de ls decumientos, alguns storiadores agora sugíren que Adams nun merece crédito eigualmente la Le Berrier. Zde 1966, [[Dennis Rawlines]] ten questionado la credibelidade de la reibindicaçon de Adams de co-çcubierta. Nun artigo de 1992, an sou jornal ''Dio'', el cunsidra la reibindicaçon británica un "roubo".<ref>{{cite web|title=The Neptune Cunspiracy: British Astronomy's Post­Çcobery Çcobery|outhor=Rawlines, Dennis|year=1992|work=Dio|url=http://www.dioi.org/bols/w23.pdf|acessdate=2008-03-10|format=PDF}}</ref> "Adams fizo alguns calclos, mas el staba un tanto ancierto subre adonde el dezie que staba Netuno", diç Nicholas Kollerstron, de la [[Ounibersity College Lhondon]] an 2003.<ref>{{cite web|title=Lhost lhetters' Neptune rebelationes|outhor=McGourty, Christine |work=BBC News|year=2003|url=http://news.bbc.co.uk/1/hi/sci/tech/2936663.stn|acessdate=2008-03-10}}</ref><ref>Summationes following the Neptune documents' 1998 recobery appeared in [http://www.dioi.org/bols/w91.pdf ''DIO 9.1''] (1999) and Willian Shehan, Nicholas Kollerstron, Craig B. Waff (December 2004), [http://www.scian .com/article.cfn?articleID=000CA850-8EA4-119B-8EA483414B7FFE9F The Case of the Pilfred Planet - Did the British steal Neptune?] ''Scientific Amarican''.</ref>
 
-L planeta tamien fui splorado pul [[Porgrama Boyager]] i feturamente pula [[Netune/Triton Orbiter]].
+L planeta tamien fui splorado pul [[Porgrama Boyager]] i feturamente pula [[Neptune/Triton Orbiter]].
+
+=== La nomeaçon ===
+Pouco depuis de la sue çcubierta, Netuno fui simplesmente chamado de "planeta sterior a Ourano". Galle fui l purmeiro a sugerir un nome, propondo nomeá-lo an houmenaige al dius [[Jano]]. Na Anglaterra, Challis propós l nome ''[[Ouceano (mitologie)|Ouceano]]''.<ref>More (2000):206</ref>
+
+Reibindicando l dreito de nomear la sue çcubierta, Le Berrier debrebe propuso l nome ''Netuno'' pa l sou nuobo planeta, afirmando falsamente que l nome yá habie sido oufecialmente aprobado pul [[Bureau des longitudes]] francés.<ref>Lhittmann (2004):50</ref> An outubre, chegou a chamar l planeta ''Le Verrier'', cul sou própio nome, i fui lhealmente apoiado pul diretor de l [[Ouserbatório de Paris]], [[François Arago]]. Inda assi, cumo essa sugeston ancuntrou dura ouposiçon fura de la [[Fráncia]],<ref>Baun & Shehan (2003):109–110</ref> ls almanaques franceses debrebe reantroduzírun l nome ''Heirschel'' para ''Ourano'', an houmenaige al sou çcubridor, Sir [[Willian Heirschel]], i ''Leberrier'' pa l nuobo planeta.<ref>{{cite journal
+ | first=Owen | last=Gingerich
+ | title=The Naming of Uranus and Neptune
+ | journal=Astronomical Society of the Pacific Lheaflets
+ | year=1958 | belume=8 | pages=9–15
+ | url=http://adsabs.harvard.edu/abs/1958ASPL....8....9G
+ | acessdate=2008-02-19
+}}</ref>
+
+An [[29 de dezembre]] de [[1846]], [[Friedrich von Strube]] declarou-se publicamente a fabor de l nome ''Netuno'' pa la [[Academie de Ciéncias de la Rússia]].<ref>{{cite journal
+ | url=http://articles.adsabs.harvard.edu//full/seri/AN.../0025//0000164.000.html
+ |title=Second report of procedings in the Cambridge Ouserbatory relating to the new Planet (Neptune)
+ | year=1847 | journal=Astronomische Nachrichten
+ | belume=25 | pages=309 | last=Hind | first=J. R.
+ | acessdate=2008-02-18
+ |doi=10.1002/asna.18470252102 }} Smithsonian/NASA Astrophysics Data Systen (ADS).</ref> i, an poucos anhos, ''Netuno'' tornou-se l nome anternacionalmente aceito. Na [[mitologie romana]], [[Netuno]] ye l dius de ls mares, eidantificado cul griego [[Poseidon]]. L'uso dun nome mitológico parecie cuncordar cula nomenclatura de ls outros planetas, que fúrun nomeados an houmenaige a diuses romanos.<ref name=USGS>{{cite web
+ | first=Jennifer | last=Blue | date=December 17, 2008
+ | url=http://planetarynames.wr.usgs.gov/append7.html
+ | title=Planet and Satellite Names and Discoverers
+ | publisher=USGS | acessdate=2008-02-18 }}</ref>
+
+=== De 1850 als dies d'hoije ===
+[[Fexeiro:William Lassell.jpg|thumb|left|150 px|[[William Lassell]]]]
+
+Yá an [[10 d'outubre]] de [[1846]], 17 dies passado la çcubierta de Netuno, l'astrónomo anglés [[William Lassell]] çcubriu l sou percipal [[satélite natural|satélite]], [[Triton]].<ref name="LhassellDiscobery">{{cite journal
+ | title = Lhassell's Satellite of Neptune
+ | outhor= William Lassell
+ | year = 1847
+ | date = 12-11-1847
+ | journal = Monthly Notices of the Royal Astronomical Society
+ | belume = 8
+ | issue = 1
+ | url = http://adsabs.harvard.edu/abs/1847MNRAS...8....9B <!--- Mistake in Harbard abstrats shows Bond las outhor and next page, page is atually 8 not 9 and Lhassell is the outhor --->
+ | pages = 8
+}}</ref>
+
+A la fin de l [[seclo XIX]], criou-se l'heipótese de qu'eirregularidades ouserbadas ne l mobimiento de Ourano i Netuno fússen causados pula persença dun outro planeta mais sterior.<ref name="pluto guide">{{cite web
+ | url = http://www.space.com/spacewatch/050311_pluto_guide.html
+ | title = Finding Pluto: Tough Task, Eiben 75 Years Lhater
+ | outhor = J. Rao
+ | publisher = SPACE .com
+ | date=11-03-2005
+ | acessdate=08-09-2006
+}}</ref> Passado stensas campanhas de busca, Pluton fui çcubierto an [[18 de febreiro]] de [[1930]], nas cordenadas prebistas puls calclos de [[Willian Heinry Pickering]] i [[Percibal Lhowell]]. Inda assi, l nuobo planeta staba mui lhoinge para que podisse gerar l'eirregularidade ouserbada ne l mobimiento de Ourano, anquanto que l'eirregularidade de l mobimiento de Netuno era, na berdade, un erro ne l calclo de la massa de l planeta (que fui defenida cula misson de la Voyager 2),<ref>{{cite web|title=Hopes Fade in hunt fur Planet X|outhor=Ken Croswell|year=1993|url=http://kencroswell .com/HopesFadeInHuntForPlanetX.html |acessdate=04-11-2007}}</ref> i que, para alhá desso, ouriginaba de l'eirregularidade de Ourano. La çcubierta de Pluton fui, antoce, un tanto acidental.<ref>{{cite web
+ | url = http://www.phys-astro.sonoma.edu/people/faculty/tenn/asphistory/1994.html
+ | title = Story I: The Lhowell Ouserbatory in 20th century Astronomy
+ | publisher = The Astronomical Society of the Pacific
+ | date = 1994-06-28
+ | acessdate = 05-03-2006}}</ref>
+
+Debido a la sue grande çtáncia, pouco se sabie subre Netuno, pul menos até la metade de l [[seclo XX]], quando [[Gerard Kuiper]] çcubriu la sue segunda lhuna, [[Nereida (satélite)|Nereida]]. Ne ls [[Década de 1970|anhos setenta]] i [[Década de 1980|uitenta]], surgiran andícios subre la porbabelidade de la persença de [[anielho planetairo|anielhos]] ó arcos d'anielhos. An [[1981]], [[Harold Reitsema]] çcubriu la sue terceira lhuna, [[Larissa (satélite)|Larissa]].<ref name="Reitsema82">{{cite journal | outhor= H.J. Reitsema eit al| title= Ocultation by a possible third satellite of Neptune| journal= Science| year= 1982| belume= 215| pages= 289–291| url= http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1982Sci...215..289R&db_key=AST&data_type=HTML&format=&high=444b66a47d25546 | doi= 10.1126/science.215.4530.289| pmid= 17784355}}</ref>
+
+An agosto de [[1989]], l coincimiento subre Netuno tubo un grande salto quando de la purmeira sonda outomática ambiada para splorar ls antornos de l planeta, la [[Voyager 2]]. La sonda eidantificou amportantes detalhes de l'atmosfera de l planeta, cunfirmou l'eisisténcia de cinco anielhos i detetou nuobas lhunas para alhá de las yá çcubiertas na Tierra.
 
 == Caratelísticas físicas ==
+Cun ua massa de 1,0243{{i|26}}&nbsp;[[quilograma|kg]],<ref name="fat"/> Netuno ye un cuorpo antermediairo antre la [[Tierra]] i ls [[gigante gasoso|gigantes gasosos]] maiores: la sue massa ye dezessete bezes la de la Tierra, mas solamente un dezenobe abos la de Júpiter<ref name=mass/>. Netuno i [[Ourano]] son giralmente cunsidrados cumo ua subclasse de ls gigantes gasosos chamada "gigantes de [[carambelo]]", debido al sou menor tamanho i maior cuncentraçon de sustáncias [[bolátile|bolateles]] an relaçon la [[Júpiter]] i [[Saturno]].<ref>Ber, por eisemplo: {{cite journal
+ | first=Alan P. | last=Boss
+ | title=Formation of gas and ice giant planets
+ | journal=Earth and Planetary Science Lhetters
+ | year=2002 | belume=202 | issue=3–4
+ | pages=513–523 | doi=10.1016/S0012-821X(02)00808-7 }}</ref>. Na busca por [[soplaneta]]s, Netuno ten sido ousado cumo ua [[metonímia]]: ls planetas çcubiertos cun massa similar son chamados "netunianos"<ref>{{cite news
+ | first=C. | last=Lhobis | date=May 18, 2006
+ | coauthors=Mayor, M.; Alibert Y.; Benç W.
+ | url=http://www.so.org/public/outreach/press-rel/pr-2006/pr-18-06.html
+ | title=Trio of Neptunes and their Belt
+ | publisher=[[Ouropean Southern Ouserbatory|ESO]]
+ | acessdate=2008-02-25}}</ref>, de la mesma forma qu'astrónomos refíren-se a bários soplanetas cumo "jupiterianos".
 
-Orbitando tan loinge de l [[Sol]], Netuno recibe mui pouco [[calor]]. La sue temperatura superficial média ye de -218 [[Celsius|°C]]. Inda assi, l planeta parece tener ua fuonte anterna de calor. Pensa-se que esto se debe al calor restante, gerado pula matéria an queda durante l nacimento de l planeta, que agora eirradie pul spácio fura. La atmosfera de Netuno ten las mais altas belocidades de bentos ne l sistema solar, que son arriba de 2000&nbsp;kn/h; acradita-se que ls bentos son amplificados por este fluxo anterno de calor.
+Orbitando tan lhoinge de l [[Sol]], Netuno recibe mui pouco [[calor]]. La sue temperatura superficial média ye de -218 [[Celsius|°C]]. Inda assi, l planeta parece tener ua fuonte anterna de calor. Pensa-se qu'esto se debe al calor restante, gerado pula matéria an queda durante l nacimiento de l planeta, qu'agora eirradie pul spácio fura. L'atmosfera de Netuno ten las mais altas belocidades de bentos ne l sistema solar, que son arriba de 2000 Km/h; acradita-se que ls aires son amplificados por este fluxo anterno de calor.
 
 == Strutura de Netuno ==
+La strutura anterna lhembra la de [[Ourano (planeta)|Ourano]] -- un núcleo rochoso cubierto por ua costra de carambelo, scondida ne l perfundo de sue gruossa atmosfera. Ls dous terços anternos de Netuno son cumpuostos dua mistura de peinha fundida, [[auga]], [[amónia|amónia lhíquida]] i [[metano]]. La terça parte sterior ye ua mistura de [[gáç|gases]] calecidos cumpuosta por [[heidrogénio]], [[hélio]], auga i metano.
+'''[[Fexeiro:Netunoestrutura.jpg‎|350px|thumb|left|Strutura anterna de Netuno]]
+Tal cumo Ourano, la sue cumposiçon ye defrente de la cumposiçon uniforme de [[Júpiter (planeta)|Júpiter]] i [[Saturno]]. Acradita-se que la strutura anterna de Netuno cunsiste de trés camadas, cumo mostra la figura.
 
-La estrutura anterna lembra la de [[Urano (planeta)|Úrano]] -- un núcleo rochoso cubierto por ua costra de carambelo, scondida ne l perfundo de sue gruossa atmosfera. Ls dous terços anternos de Netuno son cumpuostos dua mistura de peinha fundida, [[auga]], [[amónia|amónia líquida]] i [[metano]]. La terça parte sterior ye ua mistura de [[gáç|gases]] calecidos cumpuosta por [[hidrogénio]], [[hélio]], auga i metano. 
-'''[[Ficheiro:Netunoestrutura.jpg‎|350px|thumb|left|Strutura anterna de Netuno]]
- Tal cumo Úrano, la sue cumposiçon ye defrente de la cumposiçon uniforme de [[Júpiter (planeta)|Júpiter]] i [[Saturno]]. Acradita-se que la strutura anterna de Netuno cunsiste de trés camadas, cumo mostra la figura.
- 
-Cumo Úrano, l [[campo magnético]] de Netuno ye mui anclinado an relaçon al sou eixe rotacional, a 47°, i zbiado an ne l mínimo 0,55 [[radianos]] (cerca de 13500 [[quilómetro]]s) de l centro físico de l planeta. Cumparando l campo magnético de l dous planetas, ls cientistas áchan que esta ourientaçon strema se debe als caratelísticos fluxos ne l anterior de l planeta, i nun de l resultado de la ourientaçon lateral de Úrano.
+La sue atmosfera corresponde a cerca de 5 a 10% de sue massa, stendendo-se de 10 a 20% de l sou raio, adonde atinge pressones de cerca de 10 [[Pascal (ounidade)|GPa]]. Nas regiones mais perfundas de l'atmosfera, ancóntran-se cuncentraçones crecentes de [[metano]], [[amónia]] i auga.<ref name=hubbard/>
 
-== Anéis ==
+Als poucos, essa region mais scura i caliente cundensa-se nun [[manto]] lhíquido superaquecido, adonde las temperaturas atinge balores que ban de 2000 K até 5000 K; l manto ten ua massa de 10-15 massas terrestres i ye rico an auga, amónia, metano i outras sustáncias.<ref name=Hamilton/> Cumo ye quemun nas ciéncias planetárias, essa mistura ye chamada de "gilada", mesmo anque ser un fluido caliente i altamente denso. Esse fluido, qu'apersenta alta cundutebidade eilétrica, ye por bezes chamado de "ouceano d'auga i amónia".<ref name=Atreya2006>{{cite journal
+ | last=Atreya | first=S. | coauthors=Eigeler, P.; Baines, K.
+ | title=Water-ammonia ionic ocean on Uranus and Neptune?
+ | journal=Geophysical Research Abstrats
+ | belume=8 | pages=05179 | year=2006 | format=pdf
+ | url=http://www.cosis.net/abstrats/EGU06/05179/EGU06-J-05179-1.pdf}}</ref> L'ua perfundidade de 7000&nbsp;Km, las cundiçones puoden ser tales que l metano se decumpone an cristales de diamente que se precipitan an direçon al núcleo.<ref>{{cite journal
+ | last=Kerr | first=Richard La.
+ | title=Neptune May Crush Methane Anto Diamonds
+ | journal=Science | year=1999 | belume=286
+ | issue=5437 | pages=25
+ | url=http://www.sciencemag.org/cgi/cuntent/full/286/5437/25a
+ | acessdate=2007-02-26
+ | doi=10.1126/science.286.5437.25a }}</ref>
 
-Ambora nun séian bisibles nas retratos de l telescópio spacial Hubble, Netuno faç parte de l planetas gigantes que possuen un cumplexo sistema de anéis. Ten cinco anéis percipales i sue çcubierta se debe a ua ouserbaçon efetuada inda an [[1984]] a bordo dun abion U2 que acumpanhou l çlocamento de l planeta por alguas horas durante la ocultaçon dua streilha.
+L [[Núcleo (geologie)|núcleo planetairo]] de Netuno ye cumpuosto de [[fierro]], [[níquel]] i [[selicato]]s; ls modelos dan ua massa de cerca de 1,2 massas terrestres.<ref name=pass43>{{cite journal
+ | cognome=Podolak | nome=M. | coautori=Weizman, La.; Marley, M.
+ | titolo=Cumparatibe models of Uranus and Neptune
+ | rebista=Planetary and Space Science
+ | anno=1995 | belume=43 | numero=12 | pagine=1517–1522
+ | doi=10.1016/0032-0633(95)00061-5 }}</ref> La presson ne l centro ye de 7 [[Bar (ounidade)|Mbar]] (700 [[Pascal (ounidade)|GPa]]), milhones de bezes superior a la de la superfice terrestre, i la temperatura puode ser de 5400 K.<ref name=hubbard/><ref name="nettelmann"/>
 
+== Atmosfera ==
+A altitudes eilebadas, l'atmosfera de Netuno ye formada por 80% de [[heidrogénio]] i 19% de [[hélio]], i traços de metano.<ref name="hubbard"/> Las bandas d'absorçon proeminentes de l metano stan próssimas al [[cumprimiento de óndia]] de 600 mm, nas porçones burmeilha i anfrabermelha de l spetro. Assi cumo Ourano, essa absorçon de la luç burmeilha pul metano atmosférico ye, an parte, respunsable pula sue quelor azul caratelística<ref>{{cite web
+ | last=Crisp | first=D. | coauthors=Hammel, H. B.
+ | date=June 14, 1995
+ | url =http://hubblesite.org/newscenter/archibe/releases/1995/09/eimage/la/
+ | title =Hubble Space Telescope Ouserbationes of Neptune
+ | publisher = Hubble News Center
+ | acessdate = 2007-04-22
+}}</ref>, anque a quelor azul de Netuno ser mais bíbida que a quelor [[Auga-marina (quelor)|auga-marina]] de Ourano. Cumo l cunteúdo de metano atmosférico de Netuno ye similar al de Ourano, debe haber algua outra sustáncia çcoincida que cuntribua pa a quelor de Netuno.<ref name=bluecolour/>
+
+L'atmosfera de Netuno ye subdibedida an dues regiones percipales: la [[troposfera]] anferior, adonde la temperatura diminui cula altitude, i la [[stratosfera]], adonde la temperatura oumenta cula altitude. L lhemite antre las dues, la [[tropopausa]], ancontra-se a ua presson de cerca de 0,1 bar (10 [[Pascal (ounidade)|kPa]]).<ref name="atmo"/> La stratosfera, anton, dá camino a la [[termosfera]], que stá a ua presson anferior a 10<sup>−5</sup>–10<sup>−4</sup> [[Bar (ounidade)|microbars]] (1 a 10 Pa)<ref name=atmo/>. La termosfera trasita als poucos pa la [[sosfera]].
+
+Modelos sugíren que la troposfera de Netuno ye cubierta por nubres de bariadas cumposiçones, dependendo de l'altitude. L nible superior de nubres stan a pressones ambaixo dun bar, adonde la temperatura ye faborable a la cundensaçon de l metano. Cun pressones antre un i cinco bars (100 i 500 kPa), acradita-se qu'ocorre la formaçon d'amónia i [[sulfeto d'heidrogénio]]. Arriba de cinco bars de presson, las nubes puoden cunsistir an amónia, [[sulfeto d'amónio]], sulfeto d'heidrogénio i auga. Nubres mais perfundas d'auga cungelada deben ser ancuntradas la pressones de cerca de 50 bars (5 MPa), adonde la temperatura chega a 0&nbsp;°C. Mais ambaixo, puoden-se ancontrar nubres d'amónia i sulfeto d'heidrogénio.
+
+L [[spetro]] de Netuno faç pensar que la sue baixa stratosfera seia nebulosa debido a la cundensaçon de pordutos de la [[fotólise]] ultrabioleta de l metano, cumo etano i acetileno<ref name= atmo /><ref name=hubbard/>; la stratosfera tamien cuntén traços de [[monóxido de carbono]] i [[cianeto d'heidrogénio]]<ref name=atmo />.<ref name=Ancrenaz2003>{{cite journal|last=Ancrenaç |first=Therese|title=ISO ouserbationes of the giant planets and Titan: what habe we lhearnt?|journal=Planet. Space Sci.|belume=51|pages=89–103|year=2003|doi=10.1016/S0032-0633(02)00145-9| url=http://adsabs.harbard.edu/abs/2003P%26SS...51...89E}}</ref> La stratosfera de Netuno ye mais caliente que la de Ourano por bies a l'eilebada cuncentraçon d'heidrocarbonetos.<ref name=atmo/>
+
+Por rezones que nun se sabe, la termosfera de l planeta stá a ua temperatura anormalmente alta de cerca de 750 K.<ref name=Broadfot19989>{{cite journal|last=Broadfot|first=La.L.|coauthors=Atreya, S.K.; Bertaux, J.L. eit al.|title=Ultrabiolet Spetrometer Ouserbationes of Neptune and Triton|journal=Science|belume=246|pages=1459–1456|year=1999| url=http://www-personal.umich.edu/~atreya/Articles/1989_Boyager_UB_Spetrometer.pdf|format=pdf|doi=10.1126/science.246.4936.1459|pmid=17756000}}</ref><ref name=Heirbert1999>{{cite journal|last=Heirbert|first=Floyd|coauthors=Sandel, Bill R. |title=Ultrabiolet Ouserbationes of Uranus and Neptune|journal=Planet.Space Sci.|belume=47|pages=1119–1139|year=1999| url=http://adsabs.harbard.edu/abs/1999P%26SS...47.1119H |doi=10.1016/S0032-0633(98)00142-1}}</ref> L planeta stá mui lhoinge de l Sol para qu'essa calor seia gerada por radiaçon [[ultrabioleta]]; un candidato para splicar l mecanismo de calecimiento ye l'anteraçon de l'atmosfera cun íones ne l [[campo magnético]] de l planeta. Outros candidatos son [[óndia de grabidade|óndias de grabidade]] de l'anterior de l planeta que se dessípan na atmosfera. La termosfera cuntén traços de [[dióxido de carbono]] i auga, que puoden tener sido depositados de fuontes sternas cumo [[meteorito]]s i polareda.<ref name=eilkines-tanton/><ref name=Ancrenaz2003/>
+
+== Magnetosfera ==
+{{Artigo percipal|[[Magnetosfera de Netuno]]}}
+
+Cumo Ourano, l [[campo magnético]] de Netuno ye mui anclinado an relaçon al sou eixe rotacional, a 47°, i zbiado an ne l mínimo 0,55 [[radianos]] (cerca de 13500 [[quilómetro]]s) de l centro físico de l planeta. Antes de la chegada de la ''Boyager 2'' an Netuno, acraditaba-se que la magnetosfera anclinada de Ourano fusse resultado de la sue rotaçon lhateral. Assi i to, cumparando l campo magnético de ls dous planetas, ls cientistas áchan qu'esta ourientaçon strema se debe als caratelísticos fluxos ne l'anterior de l planeta, i nun de l resultado de l'ourientaçon lhateral de Ourano. Esse campo puode ser gerado por mobimientos [[cumbecçon|cumbetibos]] nun fino ambólucro sférico de lhíquido [[cundutor eilétrico]] (probabelmente, ua cumbinaçon d'amónia, metano i auga),<ref name=eilkins-tanton>Eilkines-Tanton (2006):79–83.</ref> resultando nua açon [[dínamo]].<ref>{{cite journal
+ | last=Stanley | first=Sabine | coauthors=Bloxhan, Jeremy
+ | title=Cumbetibe-region geometry las the cause of Uranus' and Neptune's unusual magnetic fields
+ | journal=Nature | date=March 11, 2004
+ | belume=428 | pages=151–153
+ | doi=10.1038/nature02376 }}</ref>
+
+L campo magnético de la superfice eiquatorial de Netuno ye d'aprossimadamente 1,42 μ[[Tesla (ounidade)|T]], i un [[momiento magnético]] de 2,16{{i|17}} Tn³; l campo magnético de Netuno ten ua geometrie cumplexa qu'anclui cumponentes nó-dipolares, ancluindo un fuorte momiento [[quadrupolo]] que puode pasar an fuorça l [[momiento magnético]]. An ouposiçon, la Tierra, Júpiter i Saturno ténen momientos quadruplos relatibamente pequeinhos i ls sous campos son menos anclinados an relaçon al eixe polar. L grande momiento quadrupolo de Netuno puode ser resultado de l zalinhamiento an relaçon al centro de l planeta i restriçones de l gerador de l dínamo de l campo.<ref name=science4936>{{cite journal
+ | last=Ness | first=N. F.
+ | coauthors=Acuñla, M. H.; Burlaga, L. F.; Cunnerney, J. I. P.; Lhepping, R. P.; Neubauer, F. M.
+ | title=Magnetic Fields at Neptune
+ | journal=Science | year=1989 | belume=246
+ | issue=4936 | pages=1473–1478
+ | url=http://www.sciencemag.org/cgi/cuntent/abstrat/246/4936/1473?ck=nck
+ | acessdate=2008-02-25
+ | doi=10.1126/science.246.4936.1473
+ | pmid=17756002 }}</ref><ref>{{cite web
+ | last=Russell | first=C. T. | coauthors=Lhuhmann, J. G. | year=1997
+ | url=http://www-ssc.eigpp.ucla.edu/personnel/russell/papers/nep_mag.html
+ | title=Neptune: Magnetic Field and Magnetosphere
+ | publisher=Ounibersity of California, Los Angeles
+ | acessdate=2006-08-10
+}}</ref>
+
+L [[bow shock]] de Netuno, adonde la magnetosfera ampeça a zacelerar l [[bento solar]], acuntece a ua çtáncia de 34,9 bezes l centeilha de l planeta. La [[magnetopausa]], adonde la presson de la magnetosfera cuntrabalança l bento solar, queda a ua çtáncia de 23 a 26,5 bezes l centeilha de Netuno. La cauda de la magnetosfera se stende para fuora a pul menos 72 bezes l raio de Netuno, i, probabelmente, mui para alhá.
+
+== Anielhos ==
+Ambora nun séian besibles nas retratos de l telescópio spacial Hubble, Netuno faç parte de ls planetas gigantes que possuen un cumplexo sistema d'anielhos. Ten cinco anielhos percipales i sue çcubierta debe-se a ua ouserbaçon feita inda an [[1984]] a bordo dun abion U2 qu'acumpanhou l çlocamiento de l planeta por alguas horas anquanto scondie ua streilha.
+
+== Lhunas ==
+Netuno ten 13 lhunas coincidas. La maior deilhas ye [[Triton (satélite)|Triton]], çcubierta por [[William Lassell]] solo 17 dies depuis de la çcubierta de Netuno.
+
+{| border="1" cellspacing="0" cellpadding="2"
+|+ [[Satélites Naturales de Netuno|Satélites Naturales de Netuno]]
+|-----
+! style="background:#efefef;" | Nome
+! style="background:#efefef;" | Diámetro (Km)
+! style="background:#efefef;" | Massa (kg)
+! style="background:#efefef;" | Çtáncia média<br />de Netuno (Km)
+! style="background:#efefef;" | Período orbital
+|-----
+| [[Náiade (satélite)|Náiade]] || 58 || Çcoincida
+| 48.200 || 0,294396 dies
+|-----
+| [[Talassa (satélite)|Talassa]] || 80
+| Çcoincida || 50.000 || 0,311485 dies
+|-----
+| [[Çpina (satélite)|Çpina]] || 148
+| Çcoincida || 52.600 || 0,334655 dies
+|-----
+| [[Galateia (satélite)|Galateia]] || 158
+| Çcoincida || 62.000 || 0,428745 dies
+|-----
+| [[Lharissa (satélite)|Larissa]] || 193 (208 × 178)
+| Çcoincida || 73.600 || 0,554654 dies
+|-----
+| [[Protiu (satélite)|Protiu]] || 418 (436 × 416 × 402)
+| Çcoincida || 117.600 || 1,122315 dies
+|-----
+| [[Triton (satélite)|Triton]] || 2.700
+| 2.14×10<sup>22</sup> || 354.760 || -5,87685 dies **
+|-----
+| [[Nereida (satélite)|Nereida]] || 340
+| Çcoincida || 5,513,400 || 360,1362 dies
+|-----
+| [[S/2002 N1]]<sup>*</sup> || 60 || Çcoincida
+| 15.686.000 || -1874,8 dies **
+|-----
+| [[S/2002 N2]]<sup>*</sup> || 38 || Çcoincida
+| 22.337.190 || 2925,6 dies
+|-----
+| [[S/2002 N3]]<sup>*</sup> || 38 || Çcoincida
+| 22.613.200 || 2980,4 dies
+|-----
+| [[Psámata]] || 28 || Çcoincida
+| 46.695.000 || -9136,1 dies **
+|-----
+| [[S/2002 N4]]<sup>*</sup> || 60 || Çcoincida
+| 47.279.670 || -9007,1 dies **
+|}
+
+<sup><small>*</sup> Sperando cunfirmaçon i nomeaçon.<br />
+<sup>**</sup> Períodos orbitales negatibos andícan ua [[órbita retrógrada]] alredror de Netuno (ouposta a la rotaçon de l planeta)</small>
+
+Alguns [[asteróide]]s debíden ls mesmos nomes que las lhunas de Netuno: [[74 Galateia]], [[1162 Lharissa]].
+An alguas partes de ls anielhos, ocorren regiones de cuncentraçon. Esso probabelmente ten ourige an satélites pastores, mui próssimos als anielhos, i altarando sues formas atraindo grabitacionalmente i aglomerando las partículas i cachos de carambelo-rochosos cumponentes de ls anielhos.
+
+== {{Ber tamien}} ==
+* [[Neptune/Triton Orbiter]]
+* [[Planetas na astrologie]]
+
+{{Ref-section}}
+
+{{Sistema Solar}}
+{{Anéis planetairos|state=outocollapse}}
+
+{{DEFAULTSORT:Netuno (Planeta)}}
+{{Lhink FA|it}}
+{{Lhink FA|ru}}
+{{Lhink FA|sl}}
+{{Lhink FA|en}}
+
+{{Lhink FA|cs}}
+
+[[Catadorie:Netuno| ]]
 [[Catadorie:Planetas]]
+
 
 [[af:Neptunus (planeet)]]
 [[als:Neptun (Planet)]]
@@ -220,7 +565,7 @@ Ambora nun séian bisibles nas retratos de l telescópio spacial Hubble, Netuno 
 [[pa:ਵਰੁਣ]]
 [[pam:Neptune]]
 [[pl:Neptun]]
-[[pt:Neptuno (planeta)]]
+[[pt:Neptuno]]
 [[qu:Niptun (puriq quyllur)]]
 [[rm:Neptun (planet)]]
 [[ro:Neptun (planetă)]]
