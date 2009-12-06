@@ -24,7 +24,7 @@
 | lhonP            = L | lhonG = 41 | lhonM = 19 | lhonS = 26
 | stado          = Riu de Janeiro
 | mesorregion       = [[Mesorregion de l Norte Fluminense|Norte Fluminense]]
-| data_mesorregion    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gob.br/Organizacao/Dibisao_Territorial/2008/DTB_2008.zip |titulo=Debison Territorial de l Brasil |data=1 de júlio de 2008 |obra=Debison Territorial de l Brasil i Lhemites Territoriales| publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 de outubre de 2008}}</ref>
+| data_mesorregion    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gob.br/Organizacao/Dibisao_Territorial/2008/DTB_2008.zip |títalo=Debison Territorial de l Brasil |data=1 de júlio de 2008 |obra=Debison Territorial de l Brasil i Lhemites Territoriales| publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 de outubre de 2008}}</ref>
 | microrregion      = [[Microrregion de Campos de l Goytacazes|Campos de l Goytacazes]]
 | data_microrregion   = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008" />
 | region_metropolitana = 
@@ -33,7 +33,7 @@
 <!-- Caratelísticas geográficas -->
 | ária            = 4.031,910 <ref name="IBGE_Cidades">[http://www.ibge.gob.br/cidadesat/default.php IBGE Cidades]</ref>
 | populaçon        = 431.839
-| data_pop         = st. [[IBGE]]/[[2008]] <ref name="IBGE_Pop_2008">{{citar web | url = http://www.ibge.gob.br/home/estatistica/populacao/stimatiba2008/POP2008_DOU.pdf | titulo = Stimatibas de la populaçon para 1º de júlio de 2008| data = 29 de agosto de 2008 | publicado = Anstituto Brasileiro de Geografie i Statística (IBGE) | data = 29 de agosto de 2008 | acessodata = 5 de setembre de 2008 | formato = [[PDF]] }}</ref>  
+| data_pop         = st. [[IBGE]]/[[2008]] <ref name="IBGE_Pop_2008">{{citar web | url = http://www.ibge.gob.br/home/estatistica/populacao/stimatiba2008/POP2008_DOU.pdf | títalo = Stimatibas de la populaçon para 1º de júlio de 2008| data = 29 de agosto de 2008 | publicado = Anstituto Brasileiro de Geografie i Statística (IBGE) | data = 29 de agosto de 2008 | acessodata = 5 de setembre de 2008 | formato = [[PDF]] }}</ref>  
 | densidade        = 105,7
 | altitude         = 14
 | clima           = [[tropical]] temperatura média anual de 22,7°C
@@ -41,10 +41,10 @@
 | fuso_hor         = -3
 <!-- Andicadores -->
 | idh            = 0.752 <!--fabor mantener l formato-->
-| data_idh         = [[PNUD]]/[[2000]] <ref name="PNUD_IDH_2000">{{citar web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(puls%20dados%20de%202000).htn |titulo=Ranking decrescente de l IDH-M de l munecípios de l Brasil |data=2000 |obra=Atlas de l Zambolbimento Houmano|publicado=ourgrama de las Naciones Ounidas para l Zambolbimento (PNUD) |acessodata=11 de outubre de 2008}}</ref>
+| data_idh         = [[PNUD]]/[[2000]] <ref name="PNUD_IDH_2000">{{citar web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(puls%20dados%20de%202000).htn |títalo=Ranking decrescente de l IDH-M de l munecípios de l Brasil |data=2000 |obra=Atlas de l Zambolbimiento Houmano|publicado=ourgrama de las Naciones Ounidas pa l Zambolbimiento (PNUD) |acessodata=11 de outubre de 2008}}</ref>
 | idh_pos          = [[Aneixo:Lhista de munecípios de l stado de l Riu de Janeiro por IDH|RJ: 55º]]
 | pib            = 16.116.180 mil
-| data_pib         = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005">{{citar web |url=http://www.ibge.gob.br/home/estatistica/eiquenomie/pibmunicipios/2005/tab01.pdf |titulo=Produto Anterno Bruto de l munecípios 2002-2005 |data=19 de dezembre de 2007 |publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 de outubre de 2008}}</ref>
+| data_pib         = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005">{{citar web |url=http://www.ibge.gob.br/home/estatistica/eiquenomie/pibmunicipios/2005/tab01.pdf |títalo=Porduto Anterno Bruto de l munecípios 2002-2005 |data=19 de dezembre de 2007 |publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 de outubre de 2008}}</ref>
 | pib_pos          = [[Aneixo:Lhista de munecípios de l Brasil por PIB|BR: 18º]]
 | pib_per_capita     = 37.813,00
 | data_pib_per_capita  = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005" />
@@ -53,17 +53,17 @@
 '''Campos de l Goytacazes'''{{ref|nome}} ye un [[munecípio]] que queda ne l Norte de l [[Stado (subdebison)|stado]] de l [[Riu de Janeiro]], [[Brasil]]. Cun ua [[populaçon]] de 431.839 habitantes ([[2008]])<ref name="IBGE_Pop_2008"/>, ye a maior [[cidade]] de l [[Anterior de l Riu de Janeiro|anterior fluminense]] i la décima maior de l [[anterior de l Brasil]]. Ye tamien l [[munecípio]] cula maior stenson territorial de l [[Riu de Janeiro|stado]], acupando ua [[ária]] pouco menor que la de l [[Çtrito Federal (Brasil)|Çtrito Federal]]. <ref name="IBGE_Cidades"/> An Campos, çtacan-se amportantes [[ounibersidade]]s públicas i pribadas.
 
 == Caratelísticas ==
-L [[munecípio]] de Campos de l Goytacazes abrange ua [[ária]] total de 4.031,910 kn². L percipal modo de acesso ye por stradas, pula [[BR-101]].
+L [[munecípio]] de Campos de ls Goytacazes abrange ua [[ária]] total de 4.031,910 kn². L percipal modo de acesso ye por stradas, pula [[BR-101]].
 
-Al ancho de las sues cuostas, ne l [[Ouceano Atlántico]], hai un fuorte pólo de sploraçon de [[petrólio]] i [[gáç natural]] pula [[Petrobras]], na [[plataforma cuntinental]]. La [[cidade]] ye a maior pordutora de [[petrólio]] de l [[Brasil]], para alhá de cuncentrar la maior parte de la [[andústria cerámica]] [[fluminense]]. Delas siete [[central núclear]]s de [[açucre]] i [[álcol]] de l [[Stado (subdebison)|stado]], seis stan an Campos. Bárias [[andústria]]s fázen-se atualmente; solo an [[2007]] más de cinco fúrun anstaladas atrabeç de l Fundecan (Fondo de Zambolbimento de Campos).
+Al ancho de las sues cuostas, ne l [[Ouceano Atlántico]], hai un fuorte pólo de sploraçon de [[petrólio]] i [[gáç natural]] pula [[Petrobras]], na [[plataforma cuntinental]]. La [[cidade]] ye a maior pordutora de [[petrólio]] de l [[Brasil]], para alhá de cuncentrar la maior parte de la [[andústria cerámica]] [[fluminense]]. Delas siete [[central núclear]]s de [[açucre]] i [[álcol]] de l [[Stado (subdebison)|stado]], seis stan an Campos. Bárias [[andústria]]s fázen-se atualmente; solo an [[2007]] más de cinco fúrun anstaladas atrabeç de l Fundecan (Fondo de Zambolbimiento de Campos).
 
 ==Stória==
 
 Las tierras de l índios [[goitacás]] ampeçórun a ser quelonizadas puls [[Pertual|pertueses]] an [[1627]], cula chegada de l " siete Capitanes". Pertenciu a la [[capitanie de San Tomé]] i tornou-se, cinquenta anhos depuis, ne l die [[29 de maio]], la Bila de San Salbador de l Campos. Fui eilebada a la catadorie de Cidade an [[28 de márcio]] de [[1835]].
 
-Amportantes fatos stóricos dórun-se an Campos de l Goitacazes, antre eilhes stá la partida de l purmeiros beluntários para la [[Guerra de l Paraguai]], an [[28 de janeiro]] de l [[1865]], pul oupor "Ceres". Outro sfergante amportante fui l mobimiento de l [[abolicionismo]], que tubo l sou punto alto an [[17 de júlio]] de [[1881]], cula fundaçon de la Sociadade Campista Emancipadora, que propagaba la lhuita pula eimancipaçon de ls negros. L jornalista [[Luís Carlos de Lhacerda]] i [[José Carlos de l Patrocínio]], cognominado de l "Tigre de la Aboliçon" fúrun ls maiores spoentes de la causa. Mas, fui la redadeira cidade brasileira a aderir la aboliçon de la scrabidon. Las besitas de l amperador [[Pedro II de l Brasil|Don Pedro II]] i la lhuita republicana fúrun outros marcos de la stória de Campos.
+Amportantes fatos stóricos dórun-se an Campos de l Goitacazes, antre eilhes stá la partida de ls purmeiros beluntários para la [[Guerra de l Paraguai]], an [[28 de janeiro]] de l [[1865]], pul oupor "Ceres". Outro sfergante amportante fui l mobimiento de l [[abolicionismo]], que tubo l sou punto alto an [[17 de júlio]] de [[1881]], cula fundaçon de la Sociadade Campista Emancipadora, que propagaba la lhuita pula eimancipaçon de ls negros. L jornalista [[Luís Carlos de Lhacerda]] i [[José Carlos de l Patrocínio]], cognominado de l "Tigre de la Aboliçon" fúrun ls maiores spoentes de la causa. Mas, fui la redadeira cidade brasileira a aderir la aboliçon de la scrabidon. Las besitas de l amperador [[Pedro II de l Brasil|Don Pedro II]] i la lhuita republicana fúrun outros marcos de la stória de Campos.
  
-L aparecimiento an [[1652]] de la agroandústria [[açucre|açucrareira]], cula anstalaçon de l purmeiro [[angeinho]] an Campos, hoije menos promissor, daba ampeço al progresso de la region. L [[petrólio]] fui oufecialmente çcubierto ne l Farol de San Tomé, reatibando l zambolbimento de la region.
+L aparecimiento an [[1652]] de la agroandústria [[açucre|açucrareira]], cula anstalaçon de l purmeiro [[angeinho]] an Campos, hoije menos promissor, daba ampeço al progresso de la region. L [[petrólio]] fui oufecialmente çcubierto ne l Farol de San Tomé, reatibando l zambolbimiento de la region.
 
 ==Geografie==
 
@@ -71,7 +71,7 @@ L aparecimiento an [[1652]] de la agroandústria [[açucre|açucrareira]], cula 
 Ten ls 14 çtritos: Campos de Goitacazes, Delores de Macabu, Eibitioca, Morangaba, Morro de l Cóco, Mussurepe, Santa
 Marie, Santo Amaro de Campos, Santo Eduardo, San Sabastian de Campos, Serrinha, Tocos,
 Trabesson i Bila Nuoba de Campos.
-L antigo çtrito de Guarus (antes Guarulhos) fui aneixado al de Campos de l Goitacazes an [[1967]]<ref>http://biblioteca.ibge.gov.br/visualizacao/dtbs/riodejaneiro/camposdosgoytacazes.pdf</ref>, ye deste çtrito la ourige de l títalo de [[Baran de Guarulhos]]<ref>http://www.sfreinobreza.com/Nobg.htm</ref>.
+L antigo çtrito de Guarus (antes Guarulhos) fui aneixado al de Campos de ls Goitacazes an [[1967]]<ref>http://biblioteca.ibge.gov.br/visualizacao/dtbs/riodejaneiro/camposdosgoytacazes.pdf</ref>, ye deste çtrito la ourige de l títalo de [[Baran de Guarulhos]]<ref>http://www.sfreinobreza.com/Nobg.htm</ref>.
 
 ===Bairros===
 
@@ -84,7 +84,7 @@ Refréncia na ária ounibersitária por abrigar anstituiçones cumo [[UENF]], IF
 ==Puntos Turísticos==
 ===Atratibos Naturales===
 
-Criada al lhongo de milénios pul generoso riu Paraíba, tierra de alubion, l praino goitacá ancanta cula sue fauna i flora riquíssima i dibersificada, bastidon de berdes de todas las tonalidades, barrida pul aire nordeste. Ls campos de l goytacazes sténden-se até l ouceano Atlántico, punto einicial de la quelonizaçon.
+Criada al lhongo de milénios pul generoso riu Paraíba, tierra de alubion, l praino goitacá ancanta cula sue fauna i flora riquíssima i dibersificada, bastidon de berdes de todas las tonalidades, barrida pul aire nordeste. Ls campos de ls goytacazes sténden-se até l ouceano Atlántico, punto einicial de la quelonizaçon.
 Cumo atratibos naturales, çtacan-se: Lhagona de Cima, Region de l Eimbé, Region de la Guapa Joana, Region de las Serras (Pico San Mateus, Piedra Lhisa [pico de 726 metros] i Piedra de l Baú), Riu Negro (region norte), Lhagona de l Campelo, Lhagona Lhimpa, [[Lagona Feia]] ( la maior de l stado de l Riu de Janeiro i la segunda maior de l Brasil), Farol de San Tomé, dibersas i guapas [[praia]]s, çtacando-se la de l Farol de la Barra, ó solo "Praia de l Farol", antre muitos outros atratibos naturales que Campos oufrece.
 
 ===Eigreijas===
@@ -92,11 +92,11 @@ Cumo atratibos naturales, çtacan-se: Lhagona de Cima, Region de l Eimbé, Regio
 Capielha Nuossa Senhora de l Rosairo (queda an Donana i cuntruída na purmeira metade de l seclo XVII),
 Capielha Santo Ampeço (custruída ne l seclo XVII i ye lhocalizada ne l cunjunto arquitetónico de l Solar de l Coleijo - Lhapa),
 Mosteiro de San Bento (an Mussurepe, 30 km de Campos i cuntruídonoséclo XVII),
-Catedral de l Santíssimo Salbador (L atratibo chimpa na Praça San Salbador ne l centro comercial de Campos. La Eigreija Matriç subressai de l cunjunto arquitetónico, por sue amponéncia i lhocalizaçon - de frente para l Riu Paraíba de l Sul),
+Catedral de l Santíssimo Salbador (L atratibo chimpa na Praça San Salbador ne l centro comercial de Campos. La Eigreija Matriç subressai de l cunjunto arquitetónico, por sue amponéncia i lhocalizaçon - de frente pa l Riu Paraíba de l Sul),
 Eigreija Nuossa Senhora de l Rosário de l Saco (más coincida cun Eigreija de l Saco, tenendo sido custruída ne l final de l seclo XIX), Eigreija de Santo Amaro (custruída an 1735), Eigreija de San Gonçalo (fundada an 20 de abril de 1722 i lhocalizada an Goitacazes), Eigreija Nuossa Senhora de la Buona Muorte (obras acabadas an 17 de agosto de 1846 i la sue arquitetura eimita l gótico nas puortas i jinelas), Eigreija Nuossa Senhora de l Rosário (custruída antre ls anhos 1720 i 1740 i ye lhocalizada na Abenida 7 de setembre), Eigreija de Santa Eifigénia (custruída antre 1853 i 1870) Eigreija Nuossa Senhora de la Cunceiçon (ne l çtrito de Trabesson i custruída puls padres jesuitas ne l final de l seclo XIX), Eigreija Eigreija Nuossa Senhora de la Peinha (an Morro de l Coco, a 48 km de la sede de Campos i custruída an meado de l seclo XIX), Eigreija Nuossa Senhora de l Carmo (na rue 13 de Maio, custruída an 1797), Eigreija Nuossa Senhora de la Lhapa (custruída an 1748), Eigreija San Fracisco de Assis (custruída an 1652), Eigreija de Santo António (an Guarus, custruída an 1796), Eigreija de San Venedito (abiertura solene an 1875), Eigreija de San Sabastian (custruída ne l seclo XIX).
 
 ===Solares===
-Çtacan-se: Solar de l Airizes (queda na borda dreita de l riu Paraíba de l Sul, cerca de la Martines Lhaje, custruído alredror de l seclo XIX. Fui l purmeiro eimoble de Campos tombado pul Património Stórico Nacional, an 1940 i serbiu de anspiraçon i cenário para l scritor Vernardo Guimaranes, outor de l remanse "Scraba Eisaura", coincido por todo l mundo), Solar de l Coleijo (an stilo barroco jesuítico, custruído puls jesuitas na metade de l seclo XVII i ne l altar de sue capielha, stá sepultada Benta Pereira), Solar de l Baran de Pirapetinga (custruído antre 1861 i 1865), Solar Saturnino Braga (sue custruçon data de la purmeira metade de l seclo XIX), Solar de l Visconde de Araruama (custruído na fin de l seclo XVIII), Solar de la Baronesa (custruído an 1840), Solar de l Baran de la Lhagona Dourada (custruído an 1860 i atual sede de l Lhiceu de Houmanidades de Campos), Solar de l Baran de Carapebús (custruído an 1846 i atual Asilo de l Carmo), Solar de l Baran de Muriaé (custruído na purmeira metade de l seclo XIX i ye acupado pul Cuorpo de Bumbeiros).
+Çtacan-se: Solar de ls Airizes (queda na borda dreita de l riu Paraíba de l Sul, cerca de la Martines Lhaje, custruído alredror de l seclo XIX. Fui l purmeiro eimoble de Campos tombado pul Património Stórico Nacional, an 1940 i serbiu de anspiraçon i cenário pa l scritor Vernardo Guimaranes, outor de l remanse "Scraba Eisaura", coincido por todo l mundo), Solar de l Coleijo (an stilo barroco jesuítico, custruído puls jesuitas na metade de l seclo XVII i ne l altar de sue capielha, stá sepultada Benta Pereira), Solar de l Baran de Pirapetinga (custruído antre 1861 i 1865), Solar Saturnino Braga (sue custruçon data de la purmeira metade de l seclo XIX), Solar de l Visconde de Araruama (custruído na fin de l seclo XVIII), Solar de la Baronesa (custruído an 1840), Solar de l Baran de la Lhagona Dourada (custruído an 1860 i atual sede de l Lhiceu de Houmanidades de Campos), Solar de l Baran de Carapebús (custruído an 1846 i atual Asilo de l Carmo), Solar de l Baran de Muriaé (custruído na purmeira metade de l seclo XIX i ye acupado pul Cuorpo de Bumbeiros).
 
 ===Stórico-Cultural===
 ====Casarios====
@@ -109,7 +109,7 @@ Baran de l Riu Branco, Praça de l Santíssimo Salbador, Boulebard Fracisco de P
 ==Cultura i Quemércio==
 La [[cerámica]], l [[couro]], la [[palha]] i la [[madeira (material)|madeira]] son ls materiales de çtaque an sou [[artesanato]]. Na [[culinária]], para alhá de la [[caxaça]] i de la [[goiabada]] cascon, l [[suspiro]] i l [[chubisco (doce)|chubisco]] son famosos. Habendo grande tradiçon cultural i política na region de la chamada Baixada Campista. Bal la pena çtacar tamien la fundaçon de la purmeira sala de cinema de Campos custruida pul Sr. Alamir, coincida cumo Cine San José, sendo l prédio trazido de la Ouropa piedra por piedra i reconstruído na cidade, i tenendo cumo purmeira eisibiçon l filme Marcelino Pan i Bino. Para alhá desso, tenemos:
 - Palácio de la Cultura, que abriga la Biblioteca Pública Munecipal, que queda na Rue Albarenga Pinto, Pelinca.
-- Museu de Campos de l Goytacazes (ancontra-se an reforma), que queda na Praça San Salbador, Centro.
+- Museu de Campos de ls Goytacazes (ancontra-se an reforma), que queda na Praça San Salbador, Centro.
 - Museu Olabo Cardoso, que queda na Abenida 7 de Setembre, Centro.
 - Casa de Cultura Billa Marie, que queda na Praça de l Lhiceu.
 
@@ -117,11 +117,11 @@ La cidade ye un amportante pólo comercial i financeiro que abrage l Norte/Noroi
 Ne l bairro de la Pelinca, na abenida de l mesmo nome, podemos ancontrar l segundo centro comercial i financeiro de la cidade, adonde stan las lhoijas cuncentran-se las lhoijas más renomadas. Na region tamien stá lhocalizado l Shopping Abenida 28
 
 ==Eiluminaçon pública==
-An [[1883]], D. Pedro II einaugurou na cidade l purmeiro serbício público munecipal de eilhuminaçon, tornando Campos de l Goytacazes la purmeira cidade de l Brasil i de la América Lhatina a recebir eiluminaçon pública eilhétrica, atrabeç dua termeilhétrica a oupor atibada de trés dínamos cun poténcia de 52 KW, dando einergie para 39 lhámpadas de 2000 belas cada.
+An [[1883]], D. Pedro II einaugurou na cidade l purmeiro serbício público munecipal de eilhuminaçon, tornando Campos de ls Goytacazes la purmeira cidade de l Brasil i de la América Lhatina a recebir eiluminaçon pública eilhétrica, atrabeç dua termeilhétrica a oupor atibada de trés dínamos cun poténcia de 52 KW, dando einergie para 39 lhámpadas de 2000 belas cada.
 
 == Futebol campista ==
-La cidade de Campos de l Goytacazes ten cumo percipales clubes de futebol l [[Amaricano Futebol Clube ]] [[campeon]] de l [[Campeonato Brasileiro de Seleçones staduales|Campeonato Brasileiro de Seleçones Staduales]] repersentando l stado de l [[RJ]] i [[Campeon]] Brasileiro de l Módulo Azul dambos ls dous an [[1987]], l [[Goytacaç Futebol Clube]] i l [[Centro Sportibo Riu Branco]].
-L clássico citadino, antre l Amaricano i l Goytacaç, coincido cumo [[Goyta-Canho]], ye un de l maiores clássicos de futebol de l anterior de l [[Stado de l Riu de Janeiro]], por reunir las eiquipas más bitoriosas de la region, que se cunfróntan zde la [[década de 1910]].
+La cidade de Campos de ls Goytacazes ten cumo percipales clubes de futebol l [[Amaricano Futebol Clube ]] [[campeon]] de l [[Campeonato Brasileiro de Seleçones staduales|Campeonato Brasileiro de Seleçones Staduales]] repersentando l stado de l [[RJ]] i [[Campeon]] Brasileiro de l Módulo Azul dambos ls dous an [[1987]], l [[Goytacaç Futebol Clube]] i l [[Centro Sportibo Riu Branco]].
+L clássico citadino, antre l Amaricano i l Goytacaç, coincido cumo [[Goyta-Canho]], ye un de ls maiores clássicos de futebol de l anterior de l [[Stado de l Riu de Janeiro]], por reunir las eiquipas más bitoriosas de la region, que se cunfróntan zde la [[década de 1910]].
 
 ==Ber tamien==
 * [[Anterior de l Riu de Janeiro]]
@@ -138,7 +138,7 @@ La scrita correta an Pertués ye ''Campos de l Goitacases'' pus prescribe-se l u
 {{ref-section}}
 
 
-[[Category:Campos de ls Goytacazes| ]]
+[[Catadorie:Campos de ls Goytacazes| ]]
 
 [[bpy:কাম্পোস ডোস গোয়টাকাজাস]]
 [[de:Campos dos Goytacazes]]
