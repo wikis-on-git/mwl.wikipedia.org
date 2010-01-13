@@ -13,7 +13,7 @@ width=19
 id=MP
 </inputbox>
   |antroduçon=
-[[Ajuda:Cumo se registrar|Cumo se registrar]] · [[Ajuda:FAQ|FAQ]] · [[Special:Cite|Citar Biquipédia]] · [[Wikipedia:Abiso legal|Abiso legal]] <br /> [[Wikipedia:Páigina de Prebatinas|Páigina de Prebatinas]] · [[Wikipedia:Taberna|La Taberna]] · [[Portal:Portalada|Portalada]] · [[foundation:Donaçones|Donaçones]]
+[[Ajuda:Cumo se registrar|Cumo se registrar]] · [[Ajuda:FAQ|FAQ]] · [[Special:Cite|Citar Biquipédia]] · [[Biquipédia:Abiso legal|Abiso legal]] <br /> [[Biquipédia:Páigina de Prebatinas|Páigina de Prebatinas]] · [[Biquipédia:Taberna|La Taberna]] · [[Portal:Portalada|Portalada]] · [[foundation:Donaçones|Donaçones]]
 <!-------------------------------------------------------------
                            SUMARIO
 -------------------------------------------------------------->
@@ -65,7 +65,7 @@ id=MP
   |cuntenido= {{Portada/Eimaige}} 
   |padding-right=23px}}
 {{Portada/Coluna dreita
-  |cuntenido= [[Special:Newpages|Nobidades]] i [[Wikipedia:Atualidade|atualidade]]
+  |cuntenido= [[Special:Newpages|Nobidades]] i [[Biquipédia:Atualidade|atualidade]]
   |cuntenido= {{Portada/Nobidades}} }}
 {{Portada/Coluna dreita
   |títalo= [[Portal:Portada|Portales]]
@@ -100,6 +100,7 @@ id=MP
 -------------------------------------------------------------->
 
 [[Catadorie:Páigina percipal]]
+
 [[ast:]]
 [[ca:]]
 [[en:]]
