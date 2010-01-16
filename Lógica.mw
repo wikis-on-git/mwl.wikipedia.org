@@ -1,4 +1,3 @@
-
 La '''lógica''' (de l [[Griego antigo|griego clássico]] λογική [[logos]], que quier dezir palabra, pensamiento, eideia, argumento, relato, rezon lógica ó [[percípio lógico]]), ye ua [[ciéncia]] de índole [[matemática]] i fuortemente ligada a la [[Filosofie]]. Yá que l pensamiento ye la manifestaçon de l coincimiento, i que l coincimiento busca la berdade, ye perciso stabelecer alguas regras para que essa meta puoda ser atingida. Assi, la lógica ye l ramo de la filosofie que cuida de las regras de l bien pensar, ó de l pensar correto, sendo, antoce, un ''strumiento de l pensar''. La daprendizaige de la lógica nun custitui un fin an si. Eilha solo ten sentido anquanto meio de garantir que l nuosso pensamiento atua bien a fin de chegar la coincimientos berdadeiros. Podemos, anton, dezir que la lógica trata de l argumentos, esto ye, de las cunclusones a que chegamos atrabeç de la apersentaçon de eibidéncias que la sustentan. L percipal ourganizador de la lógica clássica fui [[Aristóteles]], cula obra chamada [[Uorgano]]. El debide la lógica an ''formal'' i ''material''.
 
 Un sistema lógico ye un cunjunto de axiomas i regras de anferéncia que percuran repersentar formalmente l raciocínio bálido. Defrentes sistemas de lógica formal fúrun custruídos al largo de l tiempo quier na scrita de la Lógica Teórica, quier an aplicaçones práticas na [[cumputaçon]] i an  [[Anteligéncia arteficial]].
@@ -26,7 +25,7 @@ Las letras pequeinhas ''p'', ''q'' i ''r'', an fuonte eitálica, son cumbenciona
 
 Esta declaraçon define que  ''p'' ye 1 + 2 = 3 i que esso ye ''berdadeiro''.
 
-dues proposiçones --ó más proposiçones-- puoden ser cumbinadas por meio de l chamados ''[[ouperadores lógicos]]'' [[binários]] , formando ''[[cunjunçon lógica|cunjunçones]]' ', ''[[çjunçon lógica|çjunçones]]' ' ó ''[[cundicional lógica|cundicionales]]' '. Essas proposiçones cumbinadas son chamadas '''proposiçones cumpuostas'''. Por eisemplo: 
+dues proposiçones—ó más proposiçones—puoden ser cumbinadas por meio de l chamados ''[[ouperadores lógicos]]'' [[binários]] , formando ''[[cunjunçon lógica|cunjunçones]]' ', ''[[çjunçon lógica|çjunçones]]' ' ó ''[[cundicional lógica|cundicionales]]' '. Essas proposiçones cumbinadas son chamadas '''proposiçones cumpuostas'''. Por eisemplo: 
 :p: 1 + 1 = 2 ''e''
 
 Neste causo, ''e'' ye ua  [[cunjunçon lógica|cunjunçon]]. Las dues proposiçones puoden ser defrentes por cumpleto ua de la outra!
@@ -52,7 +51,7 @@ Quando eisisten alguas bariables libres, la situaçon padron na [[análise matem
 Trata de la aplicaçon de las ouperaçones de l pensamiento, segundo la matéria ó naturaleza de l oubjeto a coincer. Neste causo, la lógica ye la própia metodologie de cada ciéncia. Ye, antoce, solamente ne l campo de la lógica material que se puode falar de la berdade: l argumento ye bálido quando las premissas son berdadeiras i se relacionan adequadamiente a la cuncluson.
 
 == Lógica matemática ==
-Lógica Matemática ye l uso de la lógica formal para studar l [[raciocínio matemático]]-- ó, cumo propone Alonzo Church (*Antrodution to Mathematical Logic* (Princeton, New Jersey: Princeton Ounibersity Press, 1956; décima eidiçon, 1996), 'lógica tratada pul método matemático'. Ne l ampeço de l [[seclo XX]], lógicos i filósofos tentórun probar  que la matemática, ó parte de la matemática, poderie ser reduzida a la lógica.([[Gottlob Frege]], p.s., tentou reduzir la aritmética a la lógica; [[Bertrand Russell]] i [[La. N. Whitehead]], tentórun reduzir toda la matemática anton coincida a la lógica -- la chamada 'lógica de segunda orde'.) Ua de las sues doutrinas lógico-semánticas era que la çcubierta de la forma lógica dua frase, na berdade, diç la forma adequada de dezir-la, ó diç algua eisséncia prebiamente scundida. Hai un cierto cunsenso que la reduçon falhou -- ó que percisarie de ajustes --, assi cumo hai un cierto cunsenso que la lógica -- ó algua lógica -- ye ua maneira percisa de repersentar l raciocínio matemático.
+Lógica Matemática ye l uso de la lógica formal para studar l [[raciocínio matemático]]-- ó, cumo propone Alonzo Church (*Antrodution to Mathematical Logic* (Princeton, New Jersey: Princeton Ounibersity Press, 1956; décima eidiçon, 1996), 'lógica tratada pul método matemático'. Ne l ampeço de l [[seclo XX]], lógicos i filósofos tentórun probar  que la matemática, ó parte de la matemática, poderie ser reduzida a la lógica.([[Gottlob Frege]], p.s., tentou reduzir la aritmética a la lógica; [[Bertrand Russell]] i [[La. N. Whitehead]], tentórun reduzir toda la matemática anton coincida a la lógica—la chamada 'lógica de segunda orde'.) Ua de las sues doutrinas lógico-semánticas era que la çcubierta de la forma lógica dua frase, na berdade, diç la forma adequada de dezir-la, ó diç algua eisséncia prebiamente scundida. Hai un cierto cunsenso que la reduçon falhou—ó que percisarie de ajustes --, assi cumo hai un cierto cunsenso que la lógica—ó algua lógica—ye ua maneira percisa de repersentar l raciocínio matemático.
 Ciéncia que ten por oubjeto l studo de l métodos i percípios que permiten çtinguir raciocínios bálidos d'outros nun bálidos.
 
 == Lógica filosófica ==
@@ -201,7 +200,7 @@ Bei l eisemplo dun [[paradoxo]] simples i antressante:
 {{Filosofie nabegaçon}}
 
 [[Catadorie:Lógica]]
-[[Catadorie:Ramos de la filosofie]] 
+[[Catadorie:Ramos de la filosofie]]
 
 [[af:Logika]]
 [[an:Lochica]]
