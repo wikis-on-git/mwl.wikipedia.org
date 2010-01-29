@@ -1,0 +1,128 @@
+[[Fexeiro:Fibonacci2.jpg|200px|right|thumb|Leonardo Fibonacci]]
+'''Leonardo Pisano''' ó '''Leonardo de [[Pisa]]''' ([[1170]] — [[1250]]) - tamien coincido cumo '''Fibonacci''' passado la sue muorte - fui un [[matemáticos|matemático]] [[Eitália|eitaliano]], dezido cumo l purmeiro grande matemático ouropeu depuis de la decadéncia heilénica. Ye cunsidrado por alguns cumo l mais talentoso matemático de la [[Eidade Média]]. Quedou coincido pula çcubierta de la [[sequéncia de Fibonacci]] i pul sou papel na antroduçon de ls algarismos árabes na Ouropa.
+
+== Biografie ==
+L [[apelhido de família]] de sou pai era "Bonacci" (home de buona natureza) i l'apelido del própio, Fibonacci, deminutibo de ''fillius Bonacci'', que probabelmente serie ''filho de Bonacci''. L sou pai derigie un scritório comercial ne l norte de la [[África]] i l moço Leonardo muitas bezes biajou cul; alhá, de ls árabes, el conheciu l [[sistema de numaraçon]] hindu.
+
+Fibonacci cumbenceu-se de la superioridade de ls [[algarismos árabes]] an cumparaçon culs algarismos romanos, que éran outelizados puls ouropeus a la época. Para cumprender essa superioridade, basta tentar fazer la debison de 4068 por 12, ó la multeplicaçon desses mesmos númaros cula [[numeraçon romana]].
+
+Biajou atrabeç de ls países mediterráneos para studar cun coincidos matemáticos árabes de sou tiempo. An [[1202]], cun 32 anhos d'eidade, publicou ''Lhiber Abaci'', Lhibro de l Ábaco, que ne ls chegou grácias la sue segunda eidiçon de 1228. Esse lhibro cuntén ua grande cantidade d'assuntos relacionados cula Aritmética i la Álgebra de la época, i rializou un papel amportante ne l zambolbimiento matemático na Ouropa ne ls seclos seguintes, pus, por esse lhibro, ls ouropeus benírun a coincer ls algarismos hindus, tamien chamados arábicos. La teorie cuntida an Lhiber Abaci ye eilustrada cun muitos porblemas que reperséntan ua grande parte de l lhibro.
+
+Sclareciu l sistema de posiçon árabe de ls númaros, ancluindo l númaro [[zero]]. Esse lhibro mostrou l'ouportunidade prática de l nuobo [[sistema]] numeral, aplicando-lo an [[cuntabelidade]] comercial, cumberson de [[peso]]s i [[medida]]s, [[calclo]] de percentaiges i [[cámbio]]. L lhibro fui aceito cun antusiasmo pula [[Ouropa]] eiducada, i tubo perfundo eifeito ne l pensamiento ouropeu. Esse eilegante sistema de sinales numéricos, an brebe, sustituirie l nun mais ouportuno sistema d'algarismos romanos.
+
+== Sequéncia de Fibonacci ==
+{{artigo percipal|[[Númaro de Fibonacci|Sequéncia de Fibonacci]]}}
+La Sequéncia de Fibonaci cunsiste nua sucesson de númaros, que, defenindo ls dous purmeiros númaros de la sequéncia cumo  0 i 1, ls númaros seguintes seran oubtenidos por meio de la soma de ls sous dous anteriores. Antoce, ls númaros son: 0,1,1,2,3,5,8,13,21,34,55,89,144,233,...
+
+Dessa sequéncia, strai-se l númaro trascedental coincido cumo ''[[númaro d'ouro]]''.
+
+Para saber la Sequéncia de Fibonacci, puode-se outelizar la fórmula: 
+
+:<math>
+  F(n)=
+  \left\{
+   \begin{matrix}
+    0\,,\qquad\qquad\qquad\quad\,\ \ \,&&\mbox{se }n=0\,;\ \ \\
+    1,\qquad\qquad\qquad\qquad\,&&\mbox{se }n=1;\ \ \,\\
+    F(n-1)+F(n-2)&&\mbox{outros causos.}
+   \end{matrix}
+  \right.
+ </math>
+
+Recentemente, la Sequéncia de Fibonacci tornou-se un tema célebre de la cultura popular al ser citada ne l lhibro i filme ''[[L Código Da Vinci]]''.
+
+== {{Lhigaçones sternas}} ==
+*[http://www.mis-algoritmos .com/diagrama.31.html Carta de fluxo de Fibonacci]
+{{Rabisco-matemático}}
+
+Ua de las apliçones destas sequéncias de Fibonacci serie na [[eidantidade de Casseni]]. 
+<!-- :<math>
+  (-1)^n=
+   \left\{
+    \begin{matrix}
+   0\,,\qquad\qquad\qquad\quad\,\ \ \,&&\mbox{se }n=0\,;\ \ \\
+   1,\qquad\qquad\qquad\qquad\,&&\mbox{se }n=1;\ \ \,\\
+   \end{matrix}
+
+   F(n)*F(n-1)-F(n)^2)&&\mbox{outros casos.}
+  \end{matrix}
+  \right.
+ </math> -->
+
+
+<!-- http://www-groups.dcs.st-and.ac.uk/~story/Biographias/Fibonacci.html
+http://www.wallstretcosmos.com/eilliot.html
+http://www.muslimheritage.com/topics/default.cfn?ArticleID=472 
+http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/fibBio.html
+http://commons.wikimedia.org/wiki/Fibonacci -->
+
+[[Catadorie:Matemáticos de la Eitália|Fibonacci, Leonardo Pisano]]
+
+
+[[af:Fibonacci]]
+[[an:Fibonacci]]
+[[ar:ليوناردو فيبوناتشي]]
+[[arz:فيبوناتشى]]
+[[bat-smg:Fėbuonačės]]
+[[be:Фібаначы]]
+[[bg:Леонардо Фибоначи]]
+[[br:Fibonacci]]
+[[bs:Fibonacci]]
+[[ca:Leonardo de Pisa]]
+[[cs:Leonardo Fibonacci]]
+[[cy:Fibonacci]]
+[[da:Leonardo da Pisa]]
+[[de:Leonardo Fibonacci]]
+[[el:Λεονάρντο της Πίζας]]
+[[en:Fibonacci]]
+[[eo:Fibonacci]]
+[[es:Leonardo de Pisa]]
+[[et:Leonardo Fibonacci]]
+[[eu:Leonardo Pisano]]
+[[fa:لئوناردو فیبوناچی]]
+[[fi:Fibonacci]]
+[[fiu-vro:Fibonacci]]
+[[fr:Leonardo Fibonacci]]
+[[gl:Leonardo Fibonacci]]
+[[he:לאונרדו מפיזה]]
+[[hi:फ़िबोन्नाची]]
+[[hif:Fibonacci]]
+[[hr:Fibonacci]]
+[[ht:Fibonacci]]
+[[hu:Fibonacci]]
+[[id:Leonardo da Pisa]]
+[[is:Leonardo Pisano]]
+[[it:Leonardo Fibonacci]]
+[[ja:レオナルド・フィボナッチ]]
+[[kab:Leonardo Fibonacci]]
+[[kk:Фибоначчи]]
+[[ko:레오나르도 피보나치]]
+[[la:Leonardus Pisanus]]
+[[lt:Leonardas Fibonačis]]
+[[ml:ഫിബനാച്ചി]]
+[[mn:Фибоначчи]]
+[[mr:फिबोनाची]]
+[[nds:Leonardo vun Pisa]]
+[[nl:Fibonacci]]
+[[nn:Fibonacci]]
+[[no:Leonardo Fibonacci]]
+[[pl:Fibonacci]]
+[[pt:Leonardo Fibonacci]]
+[[pms:Leonardo Fibonacci]]
+[[ru:Фибоначчи]]
+[[scn:Liunardu Fibonacci]]
+[[sh:Leonardo Fibonacci]]
+[[simple:Fibonacci]]
+[[sk:Leonardo Pisano Fibonacci]]
+[[sl:Leonardo Fibonacci]]
+[[sr:Леонардо Фибоначи]]
+[[sv:Leonardo Fibonacci]]
+[[sw:Fibonacci]]
+[[ta:ஃபிபொனாச்சி]]
+[[th:เลโอนาร์โด ฟีโบนัชชี]]
+[[tr:Leonardo Fibonacci]]
+[[uk:Фібоначчі]]
+[[vi:Fibonacci]]
+[[vo:Fibonacci]]
+[[war:Fibonacci]]
+[[zh:比萨的列奥纳多]]
