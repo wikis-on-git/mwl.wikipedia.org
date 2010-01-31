@@ -14,7 +14,7 @@ Ua de las teses para tentar justeficar l fato de l pais de l scritor nun se ten�
 
 De fato, seis dies passado la muorte de la abó que a esso se ouponerie, casórun-se ls pais de Eça de Queirós, quando l nino tenie quaije quatro anhos. Por bie dessas cuntingéncias fui antregue a ua ama, als cuidados de quien quedou até passar para la ''casa de Berdemilho'' an [[Aradas]], [[Abeiro]], la casa de la sue abó paterna que an 1855 morriu.
 
-Nessa altura, fui anternado ne l Coleijo de la Lhapa, ne l Porto, dadonde saliu an 1861, cun zasseis anhos,  pa la [[Ounibersidade de Coimbra]] adonde studou dreito.
+Nessa altura, fui anternado ne l Coleijo de la Lhapa, ne l Porto, dadonde saliu an 1861, cun zasseis anhos, pa la [[Ounibersidade de Coimbra]] adonde studou dreito.
 
 Para alhá de l escritor, l casal tenerie mais seis filhos.
 [[Fexeiro:Eca de Queiros.jpg|right|200px|Státua na Póboa de Barzin.]]
@@ -38,12 +38,12 @@ Fui tamien l outor de la ''[[Correspundéncia de Fradique Mendes]]'' i ''[[La Ca
 
 === Sumário de l Tiempo ===
 <timeline>
-ImageSize  = width:450 height:450
-PlotArea  = left:50 right:0 bottom:10 top:10
+ImageSize = width:450 height:450
+PlotArea = left:50 right:0 bottom:10 top:10
 
 DateFormat = yyyy
-Period    = from:1845 till:1900
-TimeAxis  = orientation:vertical 
+Period = from:1845 till:1900
+TimeAxis = orientation:vertical 
 ScaleMajor = unit:year increment:10 start:1845
 ScaleMinor = unit:year increment:1 start:1900
 
@@ -123,7 +123,7 @@ PlotData=
 [[eo:Eça de Queirós]]
 [[es:José Maria Eça de Queirós]]
 [[fi:José Maria Eça de Queiroz]]
-[[fr:Eça de Queiros]]
+[[fr:Eça de Queirós]]
 [[gl:José Maria Eça de Queirós]]
 [[io:Eça de Queiroz]]
 [[is:Eça de Queirós]]
