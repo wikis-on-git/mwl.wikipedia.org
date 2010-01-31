@@ -1,0 +1,125 @@
+'''Ária''' ye un [[cunceito]] [[Matemática|matemático]] que puode ser defenida cumo cantidade de [[spácio]] bidimensional, ó seia, de [[superfice]].
+
+Eisisten bárias ounidades de medida de ária, sendo la mais outelizada l [[metro quadrado]] (m²) i ls sous [[múltiplos i sub-múltiplos]]. Son tamien mui ousadas las medidas agrárias: [[are]], qu'eiquibale la cien metros quadrados; i sou múltiplo [[heitare]], qu'eiquibale a dieç mil metros quadrados. Outras ounidades de medida de ária son l [[acre (ounidade)|acre]] i l [[alqueire]].
+
+Na [[geografie]] i [[cartografie]], l termo "ária" corresponde a la [[porjeçon]] nun [[praino]] hourizontal dua parte de la [[superfice terrestre]]. Assi, la superfice dua [[muntanha]] poderá ser anclinada, mas la sue ária ye siempre medida nun praino hourizontal.
+
+== Fórmulas mais ousadas ==
+[[Fexeiro:Area.svg|thumb|L paralelogramo ten ária 4, l circlo ten ária <math>\frac{9}{4}\pi</math> i l trianglo ten ária <math>\frac{9}{2}</math>.]] 
+Para calcular la ária d'alguas figuras geométricas bidimensionales (A repersentando la ária): 
+
+
+=== [[Trianglo]] ===
+<math>A=\frac{b \times h}{2}</math> (b= base; h = altura)
+
+=== [[Quadrado]] ===
+<math>A = l \times l</math> (l=lhado);
+
+=== [[Retanglo]] ===
+<math>A = b \times h</math> (b = base; h = altura);
+
+=== [[Losango]] ===
+<math>A = \frac{D \times d}{2}</math> (D = [[diagonal]] maior; d = diagonal menor)
+
+=== [[Trapézio (geometrie)|Trapézio]] ===
+<math>A = \frac{B + b}{2} \times h</math> (B = base maior; b = base menor; h = altura) Esta fórmula puode ser apersentada cumo <math>A = M \times h</math>, an que M ye la mediana de l trapézio, ou seia, <math>M = \frac{B + b}{2}</math>.
+
+=== [[Circlo]] ===
+<math>A = \pi \times r^2</math> (r = raio)<br/>
+ou<br/>
+<math>A = \pi/4 \times d^2</math> (d = diámetro)
+
+=== [[Poligno regular]] qualquiera ===
+<math>\frac{P \times a}{2}</math> (P = [[perímetro]]; a = cumprimento de l [[apótema]])
+
+=== Ua funçon cuntina===
+<math>\int_{a}^{b} f(x)\, dx</math>   (    <math>\left [ a,b \right ]</math> = [[anterbalo]]; <math>f(x)</math> = [[funçon]] defenida)
+
+=={{Ber tamien}}==
+* [[Ounidades de ária]]
+
+{{rabisco-matemática}}
+
+[[Catadorie:Geometrie|Ária]]
+
+[[af:Oppervlakte]]
+[[als:Fläche]]
+[[ar:مساحة]]
+[[arc:ܫܛܝܚܘܬܐ]]
+[[az:Sahə (ölçü parametri)]]
+[[be:Плошча]]
+[[be-x-old:Плошча]]
+[[bg:Площ]]
+[[ca:Àrea]]
+[[cs:Obsah]]
+[[cy:Arwynebedd]]
+[[da:Areal]]
+[[de:Flächeninhalt]]
+[[el:Έκταση]]
+[[en:Area]]
+[[eo:Areo]]
+[[es:Área]]
+[[et:Pindala]]
+[[eu:Azalera]]
+[[fa:مساحت]]
+[[fi:Pinta-ala]]
+[[fo:Vídd]]
+[[fr:Superficie]]
+[[gd:Farsaingeachd]]
+[[gl:Área]]
+[[gu:ક્ષેત્રફળ]]
+[[gv:Eaghtyr]]
+[[he:שטח]]
+[[hi:क्षेत्रफल]]
+[[hr:Površina]]
+[[hu:Terület]]
+[[ia:Area]]
+[[id:Luas]]
+[[ilo:Kalawa]]
+[[io:Areo]]
+[[is:Flatarmál]]
+[[it:Area]]
+[[ja:面積]]
+[[jv:Jembar]]
+[[ka:ფართობი]]
+[[km:ក្រលាផ្ទៃ]]
+[[ko:넓이]]
+[[la:Area (geometria)]]
+[[lb:Fläch]]
+[[li:Oppervlak]]
+[[ln:Etando]]
+[[lo:ເນື້ອທີ່]]
+[[lt:Plotas]]
+[[lv:Laukums]]
+[[mg:Velarantany]]
+[[mhr:Кумдык]]
+[[mk:Плоштина]]
+[[ml:വിസ്തീര്‍ണ്ണം]]
+[[ms:Keluasan]]
+[[nds:Flach]]
+[[nl:Oppervlakte]]
+[[nn:Flatevidd]]
+[[no:Areal]]
+[[oc:Superfícia]]
+[[pl:Pole powierzchni]]
+[[pt:Área]]
+[[qu:Hallka k'iti k'anchar]]
+[[ro:Arie]]
+[[ru:Площадь]]
+[[sco:Aurie]]
+[[simple:Area]]
+[[sl:Površina]]
+[[sv:Ytmått]]
+[[ta:பரப்பளவு]]
+[[tg:Масоҳат]]
+[[th:พื้นที่]]
+[[tl:Lawak]]
+[[tr:Alan]]
+[[uk:Площа]]
+[[ur:رقبہ]]
+[[vi:Diện tích]]
+[[wuu:面积]]
+[[yi:שטח]]
+[[zh:面积]]
+[[zh-min-nan:Biān-chek]]
+[[zh-yue:面積]]
