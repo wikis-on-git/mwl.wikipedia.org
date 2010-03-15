@@ -1,22 +1,22 @@
-{{TraduçonOuto}}
-[[Ficheiro:Pendulo.png|thumb|right|200px|Ua eilustraçon dun péndulo simples.]]
 
-An [[Macánica]], un '''péndulo simples''' ye un strumiento ó ua montaige que cunsiste nun oubjeto qu'oscila an torno dun punto fixo. L braço eisecuta mobimientos altarnados an torno de la posiçon central, chamada ''posiçon d'eiquilíbrio''. L péndulo ye mui outelizado an studos de la [[fuorça peso]] i de l [[mobimiento oscilatório]].
+[[Fexeiro:Pendulo.png|thumb|right|200px|Ua eilustraçon dun péndulo simples.]]
 
-La çcubierta de la periodicidade de l mobimiento pendular fui feita por [[Galileu Galilei]]. L mobimiento dun péndulo simples ambolbe basicamente ua grandeza chamada [[período (física)|período]] (simbolizada por ''T''): ye l'anterbalo de tiempo que l'oubjeto lieba para percorrer to la trajetória (ó seia, retornar la sue posiçon ouriginal de lançamiento, ua beç que l mobimiento pendular ye periódico). Deribada dessa grandeza, eisiste la [[frequéncia]] (''f''), numericamente eigual al amberso de l período (f = 1 / T), i qu'antoce se carateriza pul númaro de bezes (ciclos) que l'oubjeto percorre la trajetória pendular nun anterbalo de tiempo specífico. A ounidade de la frequéncia ne l [[Sistema Anternacional de Ounidades|SI]] ye l [[heirtç]], eiquibalente a un ciclo por segundo(1/s).
+An [[Macánica]], un '''péndulo simples''' ye un strumiento ó ua montaige que cunsiste nun oubjeto que se abana al alredror dun punto fixo. L braço eisecuta mobimientos altarnados an torno de la posiçon central, chamada ''posiçon d'eiquelíbrio''. L péndulo ye mui outelizado an studos de la [[fuorça peso]] i de l [[mobimiento ouscilatório]].
+
+La çcubierta de la periodicidade de l mobimiento pendular fui feita por [[Galileu Galilei]]. L mobimiento dun péndulo simples ambuolbe basicamente ua grandeza chamada [[período (física)|período]] (simbolizada por ''T''): ye l'anterbalo de tiempo que l'oubjeto lieba para percorrer toda la trajetória (ó seia, retornar a sue posiçon oureginal de lançamiento, ua beç que l mobimiento pendular ye periódico). Deribada dessa grandeza, eisiste la [[frequéncia]] (''f''), numericamente eigual al amberso de l período (f = 1 / T), i qu'antoce carateriza-se pul númaro de bezes (ciclos) que l'oubjeto percorre la trajetória pendular nun anterbalo de tiempo specífico. La ounidade de la frequéncia ne l [[Sistema Anternacional de Ounidades|SI]] ye l [[hertz]], eiquibalente a un ciclo por segundo(1/s).
 ==Eiquaçon de l mobimiento==
 {{percipal|Eiquaçon de l péndulo}}
-Denota-se por <math>\theta\,</math> l ángulo formado antre la bertical i l braço de péndulo. Faç-se las seguintes heipóteses:
+Denota-se por <math>\theta\,</math> l anglo formado antre la bertical i l braço de péndulo. Faç-se las seguintes heipóteses:
 #L braço ye formado por un filo nun flexible que se mantén siempre cul mesmo formato i cumprimiento.
-#To la massa, <math>m\,</math>,  de l péndulo stá cuncentrada na punta de l braço a ua çtáncia custante <math>L\,</math> de l'eixe.
+#Toda la massa, <math>m\,</math>,  de l péndulo stá cuncentrada na punta de l braço a ua çtáncia custante <math>L\,</math> de l'eixe.
 #Nun eisisten outras fuorças a atuar ne l sistema senó la grabidade i la fuorça que mantén l'eixe de l péndulo fixo. (L mobimiento ye antoce cunserbatibo).
-#L péndulo rializa un mobimiento bidimensional ne l praino '''xy'''.
+#L péndulo rializa un mobimiento bidimensional ne l plano '''xy'''.
 
 Ye fácele ber que la [[segunda lei de Newton]] fornece la seguinte [[eiquaçon defrencial ourdinária]] nó-linear coincida cumo [[eiquaçon de l péndulo]]:
-:<math>{d^2\theta\ober dt^2}+{g\ober L} \sin\theta=0. </math>
+:<math>{d^2\theta\over dt^2}+{g\over L} \sin\theta=0. </math>
 
-== Fórmula de l Período para pequeinhas oscilaçones ==
-Para pequeinhas oscilaçones, l'aprossimaçon <math>\sin\theta \simeq \theta\,</math> fornece la seguinte spresson pa l período de l péndulo:
+== Fórmula de l Período para pequeinhas ouscilaçones ==
+Para pequeinhas ouscilaçones, l'aprossimaçon <math>\sin\theta \simeq \theta\,</math> dá la seguinte spresson pa l período de l péndulo:
 
 :<math>T = 2\pi\sqrt{\frac{L}{g}}</math>
 
@@ -24,29 +24,29 @@ Para pequeinhas oscilaçones, l'aprossimaçon <math>\sin\theta \simeq \theta\,</
 
 [[L]]: cumprimiento de l filo
 
-[[g]]: aceleraçon de la [[grabidade]]
+[[g]]: acelaraçon de la [[grabidade]]
 
-Bal lembrar que l período de l péndulo nun depende de la massa i que l filo ten que ser inelástico i de massa çprezible para que nó altare l período(T).
-Ua spresson percisa pa l período de l péndulo, bálida mesmo para amplitudes tan grandes cumo <math>60^l\,</math> ye dada por:
-:<math>T = 2\pi\sqrt{l \ober g} \left(1 + {\theta_0^2 \ober 16}\right)</math>.
+Bal la pena lembrar que l período de l péndulo nun depende de la massa i que l filo ten que ser eineilástico i de massa çprezible pa que nun altere l período(T).
+Ua spresson percisa pa l período de l péndulo, bálida mesmo pa amplitudes tan grandes cumo <math>60^l\,</math> ye dada por:
+:<math>T = 2\pi\sqrt{l \over g} \left(1 + {\theta_0^2 \over 16}\right)</math>.
 
 ===Stimando l cumprimiento de l péndulo===
 
-:<math>T_0 = 2\pi\sqrt{\frac{\eill}{g}}</math> puode ser spresso cumo <math>\eill = {\frac{g}{\pi^2}}\eiquipas{\frac{T_0^2}{4}}.</math>
+:<math>T_0 = 2\pi\sqrt{\frac{\ell}{g}}</math> puode ser spresso cumo <math>\ell = {\frac{g}{\pi^2}}\times{\frac{T_0^2}{4}}.</math>
 
 Se ousarmos l [[Sistema anternacional d'ounidades]] (esto ye, cumprimiento an [[metro]]s i tiempo an segundos), anton, na superfice de la [[Tierra]] (''g'' = 9.80665 m/s²), l cumprimiento de l péndulo puode ser stimado de forma simples a partir de l sou período:
-:<math>\eill\appross{\frac{T_0^2}{4}}</math>
+:<math>\ell\approx{\frac{T_0^2}{4}}</math>
 
 An outras palabras:
-'''Na superfice de la Tierra, l cumprimiento dun péndulo an metros ye aprossimadamente un quarto de l quadrado de l sou período an segundos'''.
+'''Na superfice de la Tierra, l cumprimiento dun péndulo an metros ye cerca dun quarto de l quadrado de l sou período an segundos'''.
 
 =={{Ber tamien}}==
-* [[Péndulo físico]]
+*[[Péndulo físico]]
 *[[Péndulo de Foucault]]
 *[[Péndulo de Newton]]
 
-{{commonscat|Pendulums}}
-{{rabisco-física}}
+{{commons|Pendulums}}
+
 {{rabisco}}
 
 [[Catadorie:Macánica clássica]]
