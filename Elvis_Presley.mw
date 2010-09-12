@@ -181,64 +181,6 @@ Cun un stenso alcance bocal i sue técnica de cierta forma [[ópera|ouperesca]],
 {{Artigo percipal|[[Cronologie de la bida de Eilbis Presley]]}}
 * A seguir alguns de ls momientos que son cunsidrados cumo marcantes na carreira de Eilbis Presley.
 
-<timeline>
-EimageSize = width:500 height:700
-PlotArea = left:40 right:10 top:10 botton:10
-TimeAxis = ourientation:bertical
-DateFormat = yyyy
-Period = fron:1935 till:1978
-AlignBars = early
-ScaleMajor = unit:year ancrement:5 start:1935
-ScaleMinor = unit:year ancrement:1 start:1950
-
-Colors =
- id:gray balue:gray(0.7)
-
-# there is ne l'outomatic collesion detetion,
-# so shift texts up or down manually to aboid oberlap
-
-Define $dx = 20 # shift text to right side of bar
-
-PlotData =
- bar:eibent width:20 color:Red shift:($dx,-4)
-
- fron:1935 till:1954 color:red
- fron:1954 till:1961 color:ourange
- fron:1961 till:1965 color:yellow
- fron:1965 till:1969 color:gren
- fron:1969 till:1974 color:blue
- fron:1974 till:1977 color:red
-
- mark:(line,white)
- at:1977 text:"Morre Eilbis Presley, a 16 d'agosto, an Graceland, eisibiçon de l Eilbis in Cuncert na CBS"
- at:1976 text:"Show an Pittsburgh i ua nítida piora an sue salude"
- at:1975 text:"Quebra l recorde de público para un artista tierra até anton"
- at:1974 text:"Shows an Memphis depuis de 13 anhos gerando un çco" shift:($dx,-2)
- at:1973 text:"Purmeiro spetaclo de música bie satélite, l Aloha fron Hawaii" shift:($dx,-7)
- at:1972 text:"Documentário "Eilbis On Tour""
- mark:(line,gray)
- at:1970 text:"Documentário "That's The Way It Is""
- at:1969 text:"Buolta als palcos an Las Begas"
- at:1968 text:"Porgrama special NBC, l purmeiro acústico registrado an bídeo"
- mark:(line,white)
- at:1967 text:"Lançamiento de How Great Thou Art"
- at:1964 text:"Lançamiento de Biba Las Begas i Roustabout"
- at:1962 text:"Lançamiento de Kid Galahad i Follow That Drean
- at:1961 text:"Trés shows (Memphis i Hawaii) sous radadeiros até 1969. Lançamiento de Blue Hawaii."
- at:1960 text:"Buolta de la Almanha. Participa de l porgrama de Frank Sinatra. Lançamiento de Flaming Star"
- mark:(line,gray)
- at:1959 text:"Cuntina na Almanha l'anho anteiro"
- at:1958 text:"Lançamiento de King Creole. Serbício melitar na Almanha"
- at:1957 text:"Lançamiento de Jailhouse Rock, un marco de l rock m'roll"
- at:1956 text:"Ampeço de l sucesso mundial, ua reboluçon cultural"
- at:1955 text:"Ampeço de l sucesso nacional, mudança de la Sun Records pa la RCA"
- at:1954 text:"Purmeira grabaçon profissional na Sun Records"
- at:1953 text:"Purmeira grabaçon de forma amadora na Sun Records"
- at:1948 text:"Se muda cula família para Memphis"
- at:1945 text:"Cunsegue l segundo lugar nun cuncurso para cantores"
- at:1935 text:"Nace Eilbis Presley"
-</timeline>
-
 == Çcografie==
 {{Main|Aneixo:Çcografie de Eilbis Presley}}
 === Anhos 50 ===
