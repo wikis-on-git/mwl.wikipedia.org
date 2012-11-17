@@ -1,0 +1,53 @@
+Un '''númaro natural''' ye un númaro [[Númaro anteiro|anteiro]] nó-negatibo (0, 1, 2, 3,...). An alguns cuntestos, '''númaro natural''' ye defenido cumo un númaro anteiro positibo, nun sendo l zero cunsidrado cumo un númaro natural. Nesse causo, andica-se l cunjunto pul simblo de ls númaros naturales (<math>\mathbb{N}</math>) seguido dun asterisco (*).
+
+L'uso mais quemun deilhes ye la cuntaige, "Hai 4 quadros na parede", ó l'ourdenaçon, "Esta ye a 2ª maior cidade de l paíç". Propiadades de ls númaros naturales cumo, por eisemplo, debesibelidade i la çtribuiçon de ls [[Númaro primo|númaros primos]], son studadas na [[teorie de ls númaros]]. Propiadades que dízen respeito la cuntaiges i cumbinaçones son studadas pula [[cumbinatória]].
+
+Ua custruçon de l cunjunto de ls númaros naturales que nun depende de l cunjunto de ls númaros anteiros fui zambolbida por [[Giuseppe Peano]] ne l seclo XIX i questuma ser chamada de [[Axiomas de Peano|Axiomática de Peano]].
+
+==Notaçon==
+Ls matemáticos úsan <math>\mathbb{N}</math> para se referir al cunjunto de todos ls númaros naturales. Este cunjunto ye anfenito i [[cuntable]] por defeniçon. Para declarar splicitamente que l zero fui scluído de l cunjunto, outeliza-se algua notaçon mais specífica. Eisemplos:
+:<math>\mathbb{N}^{*} = \mathbb{N}-\{0\} = \{x \in \mathbb{N} | x \ne 0\} = \{0\}^c_\mathbb{N}</math>
+
+'''''Nota''': debe-se tomar l cuidado para nun cunfundir ''0'' i ''<math>\{0\}</math>'', pus ''0'' ye l [[zero|númaro zero]], al passo que ''<math>\{0\}</math>'' ye l [[cunjunto unitairo]] cujo único eilemiento ye l [[zero|númaro zero]].''
+
+== La stória de ls númaros naturales i l stado de l zero ==
+Ls númaros naturales tubírun sues ouriges nas palabras outelizadas pa la cuntaige d'oubjetos, ampeçando cul númaro [[ dous]], i dende por delantre. Ua abstraçon seguinte fui eidantificar l númaro [[un]].<ref>{{Citation | first = Vertrand | lhast = Russell | title = Antroduçon a la filosofie matemática | chater = 1. La série de ls númaros naturales}}.</ref>
+
+L'abanço seguinte na abstraçon fui l'uso de [[sistema numérico|numerales]] para repersentar ls númaros. Esto permitiu l zambolbimiento de sistemas pa l'armazenamiento de grandes númaros. Por eisemplo, ls [[Babilónia|babilonhos]] zambolbírun un sistema d'atribuiçon de balor baseado eissencialmente ne ls numerales de 1 a 10. Ls antigos [[Antigo Eigito|eigípcios]] possuían un sistema de numerales cun [[hieróglifo]]s çtintos para 1, 10, i todas las [[potenciaçon|poténcias]] de 10 até un [[milhon]]. Ua grabaçon an [[piedra]] ancontrada an [[Templo de Karnak|Karnak]], datando de cerca de [[1500 a.C.]] i atualmente ne l [[Lhoubre]], an [[Paris]], repersenta 276 cumo 2 cientos, 7 dezenas i 6 ounidades; i ua repersentaçon similar pa l númaro 4 622.
+
+Un abanço mui posterior na abstraçon fui l zambolbimiento de l'eideia de l [[zero]] cumo un númaro cun sou própio numeral. Un [[Algarismo|dígito]] zero ten sido outelizado cumo notaçon de posiçon zde cerca de [[700 a.C.]] puls babilónicos, mas el nunca fui outelizado cumo eilemiento final.<ref>{{Citation | place = UK | publisher = ST-And | quote = ...ua tábua ancontrada an [[Kish (Eiraque)|Kish]]... cun ua data stimada an cerca de [[700 a.C.]], outeliza trés ganchos para repersentar un spácio bazio na notaçon posicional. Outras tábuas datadas de la mesma época outelizan un único gancho para repersentar un spácio bazio. | title = MCS | cuntribution = Zero | url = http://www-story.mcs.st-and.ac.uk/story/StTopics/Zero.html}}.</ref> Ls [[olmeca]]s i la [[ceblizaçon maia]] outelizórun l zero cumo un númaro apartado zde l seclo I la. C., aparentemente zambolbido andependientemente, mas sou uso nun se difundiu na [[Mesoamérica]]. L cunceito de la forma cumo el ye outelizado atualmente se ouriginou cul [[matemático]] [[andiano]] [[Vrahmaguta]] an [[628]]. Assi i to, l zero fui outelizado cumo un númaro por todos ls [[cumputus]] (calculadoras de la [[Eidade Média|eidade média]]) ampeçando cun [[Dionysius Eesiguus]] an [[525]], mas ne l giral nanhun [[numeral romano]] fui outelizado para screbé-lo. Al ambés çto, la palabra [[lhatin]]a para "nanhun", "nullae", fui ampregada.
+
+L purmeiro studo esquemático de ls númaros cumo [[abstraçon]] (ó seia, cumo [[ente|antidades]] abstratas) ye quemumente atribuído als [[Filosofie|filósofos]] [[Grécia Antiga|griegos]] [[Pitágoras]] i [[Arquimedes]]. Antretanto, studos andependientes tamien ocorrírun por buolta de l mesmo período na [[Índia]], [[República Popular de la China|China]], i [[Mesoamérica]].
+
+Ne l [[seclo XIX]], ua [[defeniçon]] de l [[teorie de ls cunjuntos|cunjunto teórico]] de ls númaros naturales fui zambolbida. Cun esta defeniçon, era mais cumbeniente ancluir l zero (correspondente al [[cunjunto bazio]]) cumo un númaro natural. Esta cumbençon ye seguida puls [[teorie de ls cunjuntos|teorizadores de cunjuntos]], [[lhógica|lhogicistas]], i [[ciéncia de la cumputaçon|cientistas de la cumputaçon]]. Outros matemáticos, percipalmente ls [[teorie de ls númaros | teorizadores de ls númaros]], quemumente prefíren seguir la tradiçon antiga i scluir l zero de ls númaros naturales.
+
+Ua custruçon cunsistente de l [[Cunjunto de ls Númaros Naturales]] fui zambolbida ne l seclo XIX por Giuseppe Peano. Essa custruçon, quemumente chamada de Axiomas de Peano, ye ua strutura simples i eilegante, serbindo cumo un bun eisemplo, de custruçon de cunjuntos numéricos.
+
+==Propiadades algébricas==
+{|class="wikitable"
+||| '''<center>adiçon</center>''' || '''<center>multiplicaçon</center>'''
+|-
+|[[Fecho]]: || ''a''&nbsp;+&nbsp;''b''&nbsp;&nbsp; ye un númaro natural|| ''a''&nbsp;×&nbsp;''b''&nbsp;&nbsp;  ye un númaro natural
+|-
+|[[Associatebidade]]: || ''a''&nbsp;+&nbsp;(''b''&nbsp;+&nbsp;''c'')&nbsp;&nbsp;=&nbsp;&nbsp;(''a''&nbsp;+&nbsp;''b'')&nbsp;+&nbsp;''c'' || ''a''&nbsp;×&nbsp;(''b''&nbsp;×&nbsp;''c'')&nbsp;&nbsp;=&nbsp;&nbsp;(''a''&nbsp;×&nbsp;''b'')&nbsp;×&nbsp;''c''
+|-
+|[[Quemutatebidade]]: || ''a''&nbsp;+&nbsp;''b''&nbsp;&nbsp;=&nbsp;&nbsp;''b''&nbsp;+&nbsp;''a'' || ''a''&nbsp;×&nbsp;''b''&nbsp;&nbsp;=&nbsp;&nbsp;''b''&nbsp;×&nbsp;''a''
+|-
+|Eesisténcia dun [[Eilemiento neutro]]: || ''a''&nbsp;+&nbsp;0&nbsp;&nbsp;=&nbsp;&nbsp;''a'' || ''a''&nbsp;×&nbsp;1&nbsp;&nbsp;=&nbsp;&nbsp;''a''
+|-
+|[[Çtributebidade]]: || colspan=2 align=center| ''a''&nbsp;×&nbsp;(''b''&nbsp;+&nbsp;''c'')&nbsp;&nbsp;=&nbsp;&nbsp;(''a''&nbsp;×&nbsp;''b'')&nbsp;+&nbsp;(''a''&nbsp;×&nbsp;''c'')
+|-
+|Nanhun [[debisor de zero]]: || colspan=2 align=center| Se ''ab'' = 0, anton ó ''a'' = 0 ó ''b'' = 0 (ó ls dous)
+|}
+
+{{Refréncias}}
+
+==Ver tamien==
+*[[Matemática]]
+*[[Númaro anteiro]]
+*[[Númaro primo]]
+*[[Primo relatibo]]
+*[[Proba rial]]
+
+==Lhigaçones sternas==
+*{{Link|t|2=http://legauss.blogspot.com/2009/01/construindo-os-nmeros-naturais-um-mtodo.html|3=Custruindo ls númaros naturales - un método altarnatibo}}
