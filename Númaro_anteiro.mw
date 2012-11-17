@@ -1,0 +1,135 @@
+Ls '''númaros anteiros''' son custituídos puls [[númaros naturales]], ancluindo l zero ([[Zero|0]], [[Un|1]], [[ dous|2]], [[Trés|3]], ...) i todos ls [[Númaro negatibo|númaros negatibos]] simétricos als númaros naturales nun nulos ([[Menos un|−1]], −2, −3, ...). dous númaros son simétricos se, i solamente se, la sue soma ye zero. Por bezes, ne l'ansino pré-ounibersitairo, chaman-se a estes númaros ''anteiros relatibos''.
+
+L [[cunjunto]] de todos ls anteiros ye repersentado por un '''Z''' an negrito (ó inda un <math>\mathbb{Z}</math> an ''[[blackboard bold]]'', ó ℤ, cujo código [[Unicode]] ye U+2124), que ben de l [[Lhéngua almana|alman]] ''[[wikt:Zahlen|Zahlen]]'', que senefica númaros, algarismos.
+
+Ls anteiros (juntamente cula ouparaçon d'adiçon) forman l menor [[Grupo (matemática)|grupo]] que cuntén l [[monoide]] aditibo de ls númaros naturales. Cumo ls númaros naturales, ls anteiros forman un cunjunto [[anfenito cuntable]].
+
+== Propiadades algébricas ==
+Ls resultados de las ouparaçones de [[adiçon]], [[subtraçon]] i [[multiplicaçon]] antre dous anteiros son anteiros.
+
+L fato de que todas las lheis usuales de l'aritmética son bálidas ne ls anteiros puode ser spresso matematicamente dezindo-se que ('''Z''', +, *) ye un [[Anielho (álgebra)|anielho]] [[quemutatibo]] cun ounidade.
+
+Ls anteiros nun forman un [[cuorpo (matemática)|cuorpo]], yá que, por eisemplo, nun eisiste un anteiro ''x'' tal que 2''x'' = 1. L menor cuorpo que cuntén ls anteiros son ls [[númaros racionales]].
+
+Ua amportante propiadade de ls anteiros ye la ''debison cun resto'': dados dous anteiros ''a'' i ''b'' cun ''b'' ≠ 0, podemos siempre achar anteiros ''q'' i ''r'' tales que ''a'' = ''b'' ''q'' + ''r'' i tal que 0 <= ''r'' < |''b''| (beija [[balor absoluto| módulo]] ó balor absoluto). ''q'' ye chamado l ''quociente'' i ''r'', l ''resto'' de la [[debison]] de ''a'' por ''b''. Ls númaros ''q'' i ''r'' son unicamente detreminados por ''a'' i ''b''. Esta debison torna possible l [[Algoritmo de Euclides|Algoritmo Euclidiano]] para calcular l [[mássimo debisor quemun]], que tamien mostra que l mássimo debisor quemun antre dous anteiros puode ser scrito cumo la soma de múltiplos destes dous anteiros.
+
+Todo esto puode ser resumido dezindo-se que '''Z''' ye un [[domínio euclidiano]].  Esto amplica que '''Z''' ye un [[domínio d'eideales percipales]] i que to númaro anteiro puoden ser scrito cumo perduto de [[númaros primos]] de forma única (zde que l 1 nun seia cunsidrado primo).
+
+Este ye l [[teorema fundamental de l'aritmética]].
+
+L galho de la [[matemática]] que studa ls anteiros ye chamado de [[teorie de ls númaros]].
+
+== Propiadades relatibas a l'orde ==
+ dous anteiros admiten relaçones binárias cumo =, > i <.
+
+L'orde de '''Z''' ye dada por  ... < −2 < −1 < 0 < 1 < 2 < ... i faç de '''Z''' ua [[ourdenaçon total]] sin lhemite superior ó anferior. Chama-se d'anteiro ''positibo'' ls anteiros maiores que zero; l própio zero nun ye cunsidrado un positibo. L'orde ye cumpatible culas ouparaçones algébricas ne l seguinte sentido:
+# se ''a'' < ''b'' i ''c'' < ''d'', anton ''a'' + ''c'' < ''b'' + ''d''
+# se ''a'' < ''b'' i 0 < ''c'', anton ''ac'' < ''bc''
+
+== Aplicaçones ==
+Anteiro ye frequentemente un tipo primitibo an [[lhenguaige de porgramaçon]], normalmente cun 1, 2, 4, ó 8 [[byte]]s de cumprimiento (8, 16, 32, ó 64 [[bits]]). Ouserbe, mas, qu'un cumputador puode solo repersentar un subconjunto de ls anteiros cun estes tipos, yá que ls anteiros son anfenitos i ua cantidade de bits fixa lhemita la repersentaçon a un mássimo de 2 a la poténcia de l númaro de bits (<math>2^{8}</math> para bytes, <math>2^{32}</math> para arquiteturas de 32 bits, etc). Inda assi, l'uso de técnicas de [[anteligéncia artificial]] permiten que cumputadores repersenten i raciocinen subre l cunjunto de ls anteiros.
+
+===RSA===
+L [[RSA]] ye l mais coincido de ls métodos de critografie de chabe pública. El fui criado an 1978 por R. L. Ribest, La. Shamir i L. Adleman, que na época trabalhában ne l [[MIT]] i ye l mais ousado an aplicaçones comerciales atualmente. La custruçon deste sistema ye baseada nas propiadades de la Teorie de ls Númaros i sues percipales caratelísticas son: simplicidade, chabe pública i strema deficuldade an biolar l código.
+
+[[af:Heelgetal]]
+[[an:Numero entero]]
+[[ar:عدد صحيح]]
+[[as:পূৰ্ণ সংখ্যা]]
+[[az:Tam ədədlər]]
+[[ba:Тулы һан]]
+[[bat-smg:Svēkasės skaitlios]]
+[[be:Цэлы лік]]
+[[be-x-old:Цэлы лік]]
+[[bg:Цяло число]]
+[[bn:পূর্ণ সংখ্যা]]
+[[br:Kevan daveel]]
+[[bs:Cijeli broj]]
+[[bxr:Бухэли тoo]]
+[[ca:Nombre enter]]
+[[ckb:ژمارەی تەواو]]
+[[cs:Celé číslo]]
+[[cv:Тулли хисеп]]
+[[cy:Cyfanrif]]
+[[da:Heltal]]
+[[de:Ganze Zahl]]
+[[el:Ακέραιος αριθμός]]
+[[en:Integer]]
+[[eo:Entjero]]
+[[es:Número entero]]
+[[et:Täisarv]]
+[[eu:Zenbaki oso]]
+[[fa:اعداد صحیح]]
+[[fi:Kokonaisluku]]
+[[fiu-vro:Terveharv]]
+[[fo:Heiltal]]
+[[fr:Entier relatif]]
+[[ga:Slánuimhir]]
+[[gan:整數]]
+[[gl:Número enteiro]]
+[[haw:Helu piha]]
+[[he:מספר שלם]]
+[[hi:पूर्णांक]]
+[[hr:Cijeli broj]]
+[[hsb:Cyła ličba]]
+[[hu:Egész számok]]
+[[ia:Numero integre]]
+[[id:Bilangan bulat]]
+[[io:Integro]]
+[[is:Heiltölur]]
+[[it:Numero intero]]
+[[ja:整数]]
+[[jbo:mulna'u]]
+[[ka:მთელი რიცხვი]]
+[[ko:정수]]
+[[ku:Tamjimar]]
+[[la:Numerus integer]]
+[[lmo:Nümar intreegh]]
+[[lo:ຈຳນວນຖ້ວນ]]
+[[lt:Sveikasis skaičius]]
+[[lv:Vesels skaitlis]]
+[[mg:Isa tsimivaky]]
+[[mk:Цел број]]
+[[ml:പൂർണ്ണസംഖ്യ]]
+[[mn:Бүхэл тоо]]
+[[mr:पूर्ण संख्या]]
+[[ms:Integer]]
+[[nds:Hele Tall]]
+[[nl:Geheel getal]]
+[[nn:Heiltal]]
+[[no:Heltall]]
+[[nso:Integer]]
+[[oc:Nombre entièr]]
+[[pl:Liczby całkowite]]
+[[pms:Nùmer antregh]]
+[[pnb:انٹیجر]]
+[[pt:Número inteiro]]
+[[ro:Număr întreg]]
+[[ru:Целое число]]
+[[scn:Nùmmuru rilativu]]
+[[sh:Cijeli broj]]
+[[si:නිඛිල]]
+[[simple:Integer]]
+[[sk:Celé číslo]]
+[[sl:Celo število]]
+[[sn:Nhamba mhumburu]]
+[[sq:Numrat e plotë]]
+[[sr:Цео број]]
+[[sv:Heltal]]
+[[ta:முழு எண்]]
+[[th:จำนวนเต็ม]]
+[[tl:Buumbilang]]
+[[tr:Tamsayı]]
+[[uk:Цілі числа]]
+[[ur:صحیح عدد]]
+[[uz:Butun sonlar]]
+[[vi:Số nguyên]]
+[[vls:Gehêel getal]]
+[[war:Buok]]
+[[xal:Бүкл тойг]]
+[[yi:גאנצע צאל]]
+[[yo:Nọ́mbà odidi]]
+[[zh:整数]]
+[[zh-classical:整數]]
+[[zh-min-nan:Chéng-sò͘]]
+[[zh-yue:整數]]
