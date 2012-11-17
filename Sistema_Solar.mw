@@ -12,33 +12,33 @@ L Sol ampeçou a brilhar quando l núcleo atingiu 10 milhones de graus [[Celsius
 |-
 |colspan=2|
 <timeline>
-EimageSize = width:300 height:640
-PlotArea = width:140 height:600 left:50 botton:20
+ImageSize = width:300 height:640
+PlotArea = width:140 height:600 left:50 bottom:20
 AlignBars = justify
 
-Period = fron:0 till:5000
-TimeAxis = ourientation:bertical
-ScaleMajor = unit:year ancrement:1000 start:0
-ScaleMinor = unit:year ancrement:500 start:0
+Period = from:0 till:5000
+TimeAxis = orientation:vertical
+ScaleMajor = unit:year increment:1000 start:0
+ScaleMinor = unit:year increment:500 start:0
 
 LineData=
   at:start color:yelloworange
 
 PlotData=
   width:15 color:blue align:left shift:(15,-5)
-  fron:46 till:70 text:"Mercúrio"
-  fron:107 till:109 align:right shift:(-15,-5) text:"Bénus"
-  fron:147 till:152 shift:(15,0) text:"Tierra"
-  fron:207 till:249 align:right shift:(-15,0) text:"Marte"
-  fron:314 till:494 shift:(15,5) color:yellow text:"Cinturon de asteróides"
-  fron:741 till:816 text:"Júpiter"
-  fron:1347 till:1507 text:"Saturno"
-  fron:2735 till:3004 text:"Urano"
-  fron:4456 till:4537 text:"Neturno"
+  from:46 till:70 text:"Marcúrio"
+  from:107 till:109 align:right shift:(-15,-5) text:"Bénus"
+  from:147 till:152 shift:(15,0) text:"Tierra"
+  from:207 till:249 align:right shift:(-15,0) text:"Marte"
+  from:314 till:494 shift:(15,5) color:yellow text:"Cinturon de asteróides"
+  from:741 till:816 text:"Júpiter"
+  from:1347 till:1507 text:"Saturno"
+  from:2735 till:3004 text:"Urano"
+  from:4456 till:4537 text:"Neturno"
 </timeline>
 |}
 
-Ls percipales eilemientos celhestres que orbitan an torno de l [[Sol]] son ls uito planetas percipales coincidos atualmente cujas dimensones ban de l gigante de [[gáç]] [[Júpiter (planeta)|Júpiter]] até al pequeinho i [[Peinha|rochoso]] [[Mercúrio (planeta)|Mercúrio]], que ten menos de la metade de l tamanho de la [[Tierra]].
+Ls percipales eilemientos celhestres que orbitan an torno de l [[Sol]] son ls uito planetas percipales coincidos atualmente cujas dimensones ban de l gigante de [[gáç]] [[Júpiter (planeta)|Júpiter]] até al pequeinho i [[Peinha|rochoso]] [[Marcúrio (planeta)|Marcúrio]], que ten menos de la metade de l tamanho de la [[Tierra]].
 
 Até Agosto de 2006, quando la [[Ounion Astronómica Anternacional]] alterou la definiçon oufecial de la palabra ''[[planeta]]'', [[Pluton]] era cunsidrado l nono planeta de l Sistema Solar. Hoije ye cunsidrado un [[planeta nano]], ó un [[planetóide]], por ser mui pequeinho.
 
@@ -46,12 +46,12 @@ Próssimos de l Sol ancontran-se ls quatro [[planeta telúrico|planetas telúric
 
 Mercúrio ye l mais próssimo de l Sol, a ua çtáncia de solo 57,9 milhones de quilómetros, anquanto Netuno stá a cerca de 4500 milhones de quilómetros.
 
-Ls planetas de l sistema solar son ls uito astros que tradecionalmente son coincidos cumo tal: Mercúrio (☿), Bénus (♀), Tierra (♁), Marte (♂), Júpiter (♃), Saturno (♄), Urano (♅) i Netuno (♆). Todos ls planetas recebírun nomes de diuses i diusas de la [[mitologie greco-romana]].
+Ls planetas de l sistema solar son ls uito astros que tradecionalmente son coincidos cumo tal: Marcúrio (☿), Bénus (♀), Tierra (♁), Marte (♂), Júpiter (♃), Saturno (♄), Urano (♅) i Netuno (♆). Todos ls planetas recebírun nomes de diuses i diusas de la [[mitologie greco-romana]].
 
 === La dimenson astronómica de las çtáncias ne l spácio ===
-Para ua noçon de la dimenson astronómica de las çtáncias ne l [[Spácio sideral|spácio]] debe-se fazer cálclos i usar un modelo que permita ua percepçon mais clara de l que stá an jogo. Por eisemplo, un modelo reduzido an que l Sol starie repersentado por ua [[bola|bola de futebol]] (de 22 cn de diámetro). A essa scala, la Tierra quedarie a 23,6 metros de çtáncia i serie ua [[Sfera (geometrie)|sfera]] cun solo 2 mn de diámetro (la [[Luna]] quedarie a uns 5 cn de la Tierra, i tenerie un diámetro duns 0,5 mn). Júpiter i Saturno serien berlindes cun cerca de 2 cn de diámetro, respetibamente a 123 i a 226 metros de l Sol. Pluton quedarie a 931 metros de l Sol, cun cerca de 0.36 mn de diámetro. Quanto a la streilha mais próssima, la [[Prossima Centauri]], essa starie a 6332&nbsp;km de l Sol, anquanto la streilha [[Sírio]] a 13150 kn.
+Para ua noçon de la dimenson astronómica de las çtáncias ne l [[Spácio sideral|spácio]] debe-se fazer cálclos i usar un modelo que permita ua percepçon mais clara de l que stá an jogo. Por eisemplo, un modelo reduzido an que l Sol starie repersentado por ua [[bola|bola de futebol]] (de 22 cm de diámetro). A essa scala, la Tierra quedarie a 23,6 metros de çtáncia i serie ua [[Sfera (geometrie)|sfera]] cun solo 2 mm de [[diámetro]] (la [[Luna]] quedarie a uns 5 cm de la Tierra, i tenerie un diámetro duns 0,5 mm). Júpiter i Saturno serien berlindes cun cerca de 2 cm de diámetro, respetibamente a 123 i a 226 metros de l Sol. Pluton quedarie a 931 metros de l Sol, cun cerca de 0.36 mn de diámetro. Quanto a la streilha mais próssima, la [[Prossima Centauri]], essa starie a 6332&nbsp;km de l Sol, anquanto la streilha [[Sírio]] a 13 150 km.
 
-Se l tiempo dua biaige de la Tierra a la Luna, a cerca de 257 000 kn/hora, fusse dua hora i un quarto, lebarie-se cerca de trés sumanas terrestres para se ir de la Tierra al Sol, 3 meses se ir la Júpiter, siete meses para Saturno i cerca de dous anhos i meio a chegar la Pluton i deixar l nuosso sistema solar. A partir dende, a essa belocidade, lebar-se-iba 17 600 anhos até chegar a la streilha mais próssima, i 35 000 anhos até Sírio.
+Se l tiempo dua biaige de la Tierra a la Luna, a cerca de 257 000 km/hora, fusse dua hora i un quarto, lebarie-se cerca de trés sumanas terrestres para se ir de la Tierra al Sol, 3 meses se ir la Júpiter, siete meses para Saturno i cerca de dous anhos i meio a chegar la Pluton i deixar l nuosso sistema solar. A partir dende, a essa belocidade, lebar-se-iba 17 600 anhos até chegar a la streilha mais próssima, i 35 000 anhos até Sírio.
 
 == Ls planetas nanos ==
 [[Planeta nano]] ye un [[cuorpo celhestre]] mui semelhante a un [[planeta]], dado que orbita an buolta de l [[Sol]] i ten [[grabidade]] suficiente para assumir ua forma cun eiquilíbrio hidrostático (aprossimadamente sférica), mas nun ten ua [[órbita]] zampedida, orbitando cun miles de outros pequeinhos cuorpos celhestres. 
