@@ -1,4 +1,4 @@
-Ls '''númaros anteiros''' son custituídos puls [[númaros naturales]], ancluindo l zero ([[Zero|0]], [[Un|1]], [[ dous|2]], [[Trés|3]], ...) i todos ls [[Númaro negatibo|númaros negatibos]] simétricos als númaros naturales nun nulos ([[Menos un|−1]], −2, −3, ...). dous númaros son simétricos se, i solamente se, la sue soma ye zero. Por bezes, ne l'ansino pré-ounibersitairo, chaman-se a estes númaros ''anteiros relatibos''.
+Ls '''númaros anteiros''' son custituídos puls [[númaro natural|númaros naturales]], ancluindo l zero ([[Zero|0]], [[Un|1]], [[ dous|2]], [[Trés|3]], ...) i todos ls [[Númaro negatibo|númaros negatibos]] simétricos als númaros naturales nun nulos ([[Menos un|−1]], −2, −3, ...). dous númaros son simétricos se, i solamente se, la sue soma ye zero. Por bezes, ne l'ansino pré-ounibersitairo, chaman-se a estes númaros ''anteiros relatibos''.
 
 L [[cunjunto]] de todos ls anteiros ye repersentado por un '''Z''' an negrito (ó inda un <math>\mathbb{Z}</math> an ''[[blackboard bold]]'', ó ℤ, cujo código [[Unicode]] ye U+2124), que ben de l [[Lhéngua almana|alman]] ''[[wikt:Zahlen|Zahlen]]'', que senefica númaros, algarismos.
 
@@ -9,7 +9,7 @@ Ls resultados de las ouparaçones de [[adiçon]], [[subtraçon]] i [[multiplica�
 
 L fato de que todas las lheis usuales de l'aritmética son bálidas ne ls anteiros puode ser spresso matematicamente dezindo-se que ('''Z''', +, *) ye un [[Anielho (álgebra)|anielho]] [[quemutatibo]] cun ounidade.
 
-Ls anteiros nun forman un [[cuorpo (matemática)|cuorpo]], yá que, por eisemplo, nun eisiste un anteiro ''x'' tal que 2''x'' = 1. L menor cuorpo que cuntén ls anteiros son ls [[númaros racionales]].
+Ls anteiros nun forman un [[cuorpo (matemática)|cuorpo]], yá que, por eisemplo, nun eisiste un anteiro ''x'' tal que 2''x'' = 1. L menor cuorpo que cuntén ls anteiros son ls [[Númaro racional|númaros racionales]].
 
 Ua amportante propiadade de ls anteiros ye la ''debison cun resto'': dados dous anteiros ''a'' i ''b'' cun ''b'' ≠ 0, podemos siempre achar anteiros ''q'' i ''r'' tales que ''a'' = ''b'' ''q'' + ''r'' i tal que 0 <= ''r'' < |''b''| (beija [[balor absoluto| módulo]] ó balor absoluto). ''q'' ye chamado l ''quociente'' i ''r'', l ''resto'' de la [[debison]] de ''a'' por ''b''. Ls númaros ''q'' i ''r'' son unicamente detreminados por ''a'' i ''b''. Esta debison torna possible l [[Algoritmo de Euclides|Algoritmo Euclidiano]] para calcular l [[mássimo debisor quemun]], que tamien mostra que l mássimo debisor quemun antre dous anteiros puode ser scrito cumo la soma de múltiplos destes dous anteiros.
 
