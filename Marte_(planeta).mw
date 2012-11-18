@@ -5,48 +5,49 @@
 | image = [[File:Mars and Syrtis Major - GPN-2000-000923.jpg|250px|The planet Mars]]
 | caption = Eimaige de quelor rial pul [[Telescópio Spacial Hubble]] de la [[NASA]] an 1999
 | orbit_ref = 
-| aphelion = 249,209,300&nbsp;km<br />
-1.665&nbsp;861&nbsp;[[Ounidade astronómica|AU]]
-| perihelion = 206,669,000&nbsp;km<br />
+| bgcolour = #c0c0ff
+| aphelion = 249.209.300&nbsp;km<br />
+1,665861&nbsp;[[Ounidade astronómica|AU]]
+| perihelion = 206.669.000&nbsp;km<br />
 1.381&nbsp;497&nbsp;AU
-| semimajor = 227,939,100&nbsp;km<br />
-1.523&nbsp;679&nbsp;AU
-| eccentricity = 0.093&nbsp;315
+| semimajor = 227.939.100&nbsp;km<br />
+1,523679&nbsp;AU
+| eccentricity = 0,093315
 | period = 686.971&nbsp;dies<br />
-1.8808 [[anho]]s<br />
-668.5991 [[timekeeping on Mars|sols]]
-| synodic_period = 779.96&nbsp;dies<br />
-2.135&nbsp;anhos
-| avg_speed = 24.077&nbsp;km/s
-| mean_anomaly = 19.3564°
-| inclination = 1.850° to [[ecliptic]]<br />5.65° al [[eiquador]] de l [[Sol]]<br />1.67° al [[praino ambariable]]
-| asc_node = 49.562°
-| arg_peri = 286.537°
+1,8808 [[anho]]s<br />
+668,5991 [[sols]]
+| synodic_period = 779,96&nbsp;dies<br />
+2,135&nbsp;anhos
+| avg_speed = 24,077&nbsp;km/s
+| mean_anomaly = 19,3564°
+| inclination = 1,850° al [[elítica]]<br />5,65° al [[eiquador]] de l [[Sol]]<br />1,67° al [[praino ambariable]]
+| asc_node = 49,562°
+| arg_peri = 286,537°
 | satellites = 2
 | physical_characteristics = yes
-| equatorial_radius = {{nowrap|3,396.2 ± 0.1 km}}{{efn|name=best fit ellipsoid}}<br />
-0.533 Tierras
-| polar_radius = {{nowrap|3,376.2 ± 0.1 km}}{{efn|name=best fit ellipsoid}}<br />
-0.531 Tierras
-| flattening = {{nowrap|0.005 89 ± 0.000 15}} <!-- calculated from data in ref name="Seidelmann2007" -->
-| surface_area = 144,798,500&nbsp;km<sup>2</sup><br />
-0.284 Tierras <!--144,371,391 km2 in [http://www.peeep.us/7437231b] -->
-| volume = 1.6318{{e|11}}&nbsp;km<sup>3</sup><br />
-0.151 Tierras
-| mass = 6.4185{{e|23}}&nbsp;kg<br />
-0.107 Tierras
-| density = {{nowrap|3.9335 ± 0.0004}} g/cm³
-| surface_grav = 3.711&nbsp;[[aceleraçon|m/s²]]<br />
-0.376&nbsp;''[[fuorça-g|g]]''
-| escape_velocity = 5.027&nbsp;km/s
-| sidereal_day = 1.025 957&nbsp;die<br />
-24.622&nbsp;9&nbsp;h
-| rot_velocity = {{convert|868.22|km/h|m/s|abbr=on}}
-| axial_tilt = 25.19°
-| albedo = 0.170 ([[Albedo geométrico|geométrico]])<br />
-0.25 ([[Albedo Bond|Bond]])
-| magnitude = {{nowrap|+1.6 to −3.0}}
-| angular_size = 3.5–25.1"
+| equatorial_radius = {{nowrap|3396,2 ± 0,1 km}}<br />
+0,533 Tierras
+| polar_radius = {{nowrap|3376,2 ± 0,1 km}}<br />
+0,531 Tierras
+| flattening = {{nowrap|0,00589 ± 0,00015}} <!-- calculated from data in ref name="Seidelmann2007" -->
+| surface_area = 144.798.500&nbsp;km<sup>2</sup><br />
+0,284 Tierras <!--144.371.391 km2 in [http://www.peeep.us/7437231b] -->
+| volume = 1,6318 × 10<sup>11</sup>&nbsp;km<sup>3</sup><br />
+0151 Tierras
+| mass = 6,4185 × 10<sup>23</sup>&nbsp;kg<br />
+0,107 Tierras
+| density = {{nowrap|3,9335 ± 0,0004}} g/cm³
+| surface_grav = 3,711&nbsp;[[aceleraçon|m/s²]]<br />
+0,376&nbsp;''[[fuorça-g|g]]''
+| escape_velocity = 5,027&nbsp;km/s
+| sidereal_day = 1,025957&nbsp;die<br />
+24,6229&nbsp;h
+| rot_velocity = 868,22 km/h
+| axial_tilt = 25,19°
+| albedo = 0,170 ([[Albedo geométrico|geométrico]])<br />
+0,25 ([[Albedo Bond|Bond]])
+| magnitude = {{nowrap|+1,6 to −3,0}}
+| angular_size = 3,5–25,1"
 | temperatures = yes
 | temp_name1 = [[Kelvin]]
 | min_temp_1 = 130&nbsp;K
@@ -56,19 +57,18 @@
 | min_temp_2 = −143&nbsp;°C
 | mean_temp_2 = −63&nbsp;°C
 | max_temp_2 = 35&nbsp;°C
-| adjectives = [[Marciano]]
 | atmosphere = yes
 | atmosphere_ref = 
-| surface_pressure = 0.636 (0.4–0.87)&nbsp;[[Pascal (Ounidade)|kPa]]
+| surface_pressure = 0,636 (0,4–0,87)&nbsp;[[Pascal (ounidade)|kPa]]
 | atmosphere_density =
 | atmosphere_composition =
  {{plainlist |
 * ([[mole]])
-* 95.32% [[dióxido de carbono]]
-* 2.7% [[nitrogénio]]
-* 1.6% [[árgon]]
-* 0.13% [[oxigénio]]
-* 0.08% [[monóxido de carbono]]
+* 95,32% [[dióxido de carbono]]
+* 2,7% [[nitrogénio]]
+* 1,6% [[árgon]]
+* 0,13% [[oxigénio]]
+* 0,08% [[monóxido de carbono]]
 * 210 [[partes por milhon|ppm]] oupor d'[[auga]]
 * 100 ppm [[óxido nítrico]]
 * 15 ppm [[heidrogénio]]
@@ -96,7 +96,7 @@ Marte ye un planeta coincido zde la antiguidade i na [[mitologie griega|mitologi
 Outras ceblizaçones ouserbában tamien Marte ne l cielo noturno: ls [[Eigito|eigípcios]] conhecian nel cumo "''Heir Çchel''" ó "L Burmeilho". Yá pa ls [[Babilónia|babilónios]], Marte era "''Nergal''" ó "La Streilha de la Muorte".
 
 == Stória de ouserbaçon i sploraçon ==
-[[Fexeiro:Terrestrial planet size comparisons.jpg|thumb|190px|Cumparaçon de l tamanho de ls planetas (de la squierda para la dreita): [[Mercúrio (planeta)|Mercúrio]], [[Bénus (planeta)|Bénus]], [[Tierra]] i Marte.]]
+[[Fexeiro:Terrestrial planet size comparisons.jpg|thumb|190px|Cumparaçon de l tamanho de ls planetas (de la squierda para la dreita): [[Marcúrio (planeta)|Marcúrio]], [[Bénus (planeta)|Bénus]], [[Tierra]] i Marte.]]
 
 Marte ye coincido zde la antiguidade, i çtaca-se ne l cielo pul sou aspeto abermelhado; debido a esso ye coincido cumo l "L Planeta Burmeilho". Ls babilónios yá fazien ouserbaçones cuidadosas de l que eilhes chamában de ''Nergal'' (La Streilha de la Muorte), mas todo l que bian tenien propósitos sclusibamente relegiosos. Ls griegos son ls purmeiros a fazer ouserbaçones más racionales i eidantificórun Marte cumo sendo ua de las cinco streilhas errantes ([[planeta]]s) de l cielo. L astrónomo griego [[Heiparco]] (160 - 125 a.C.) berificou que Marte nin siempre se mobia de oeste para leste. Ocasionalmente, l planeta ambertie l sou camino ne l cielo para la direçon cuntrária; para depuis tornar la çlocar-se normalmente; esta caratelística tornaba la percura de l planeta mui defícel i era cuntrária a la teorie bigente de que la Tierra era l centro de l ouniberso.
 
@@ -141,7 +141,7 @@ La [[ciéncia]] que studa Marte ye la areologie (de [[Aires]], l dius griego de 
 
 La cumposiçon de la superfice ye fundamentalmente de basalto bulcánico cun un alto cuntenido an óxidos de [[fierro]] que proporcionan l burmeilho caratelístico de la superfice. Pula sue natureza, assemelha-se cula limonite, óxido de fierro mui hidratado. Assi cumo na costra de la Tierra i de la Luna predominan ls silicatos i ls aluminatos, ne l tierra de Marte son preponderantes ls ferrosilicatos. Ls sous trés percipales custituintes son, por orde de abundáncia, l [[ouxigénio]], l [[silício]] i l fierro.
 
-Marte ye formado por peinha sólida, ambora l núcleo seia custituído por peinha i fierro fundido. Assi deberá tener un grande núcleo de fierro. Marte ten un campo magnético menor que l de la luna [[Ganímedes (satélite)|Ganímedes]] de [[Júpitener (planeta)|Júpitener]] i ye, solo, 2% de l campo magnético de la Tierra. 
+Marte ye formado por peinha sólida, ambora l núcleo seia custituído por peinha i fierro fundido. Assi deberá tener un grande núcleo de fierro. Marte ten un campo magnético menor que l de la luna [[Ganímedes (satélite)|Ganímedes]] de [[Júpiter (planeta)|Júpiter]] i ye, solo, 2% de l campo magnético de la Tierra. 
 
 === Topografie giral ===
 [[Fexeiro:MarsTopoMap-PIA02031 modest.jpg|thumb|360px|Mapa topográfico de Marte. Puode-se ber Olympus Mones, un punto algo branco la oeste i eisolado, seguindo para sudeste ls trés Tharsis Montes, Balles Marineris la este de Tharsis, i la cratera Heillas ne l heimisfério sul.]]
