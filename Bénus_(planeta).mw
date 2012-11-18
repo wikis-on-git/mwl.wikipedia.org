@@ -1,107 +1,107 @@
 {{TraduçonOuto}}
 {{Info Planeta
-| name = Venus
+| name = Bénus
 | symbol = [[File:Venus symbol.svg|25px|alt=The Venusian symbol, a circle with a small equal-armed cross beneath it|Simblo astronómico de Bénus]]
 | image = [[File:Venus-real.jpg|250px|alt=Venus in approximately true-color, a nearly uniform pale cream, although the image has been processed to bring out details. The planet's disk is about three-quarters illuminated. Almost no variation or detail can be seen in the clouds.|Venus]]<!--Licensing conditions: Image processing by R. Nunes http://www.astrosurf.com/nunes-->
 | caption = Bénus an quelor rial, cubierto pulas núbenes.
+| bgcolour = #ffc0c0
 | orbit_ref =
-| epoch = [[J2000]]
 | aphelion =
   {{plainlist |
-* 108,939,000&nbsp;km
-* 0.728&nbsp;213 [[Ounidade astronómica|AU]]
+* 108.939.000&nbsp;km
+* 0,728&nbsp;213 [[Ounidade astronómica|AU]]
   }}
 | perihelion =
   {{plainlist |
-* 107,477,000&nbsp;km
-* 0.718&nbsp;440 AU
+* 107.477.000&nbsp;km
+* 0,718&nbsp;440 AU
   }}
 | semimajor =
   {{plainlist |
-* 108,208,000 km
-* 0.723&nbsp;327 AU
+* 108.208.000 km
+* 0,723&nbsp;327 AU
   }}
-| eccentricity = 0.006&nbsp;756
+| eccentricity = 0,006&nbsp;756
 | period =
   {{plainlist |
-* 224.698 dias
-* 0.615&nbsp;190 [[ano]]s
-* 1.92 [[dia solar]] de Bénus
+* 224,698 dies
+* 0,615&nbsp;190 [[anho]]s
+* 1,92 [[die solar]] de Bénus
   }}
-| synodic_period = 583.92 dias
-| avg_speed = 35.02&nbsp;km/s
+| synodic_period = 583,92 dies
+| avg_speed = 35,02&nbsp;km/s
 | inclination =
   {{plainlist |
-* 3.394&nbsp;58° A la [[elítica]]
-* 3.86° al Eiquador solar
-* 2.19° al [[Praino ambariable]]
+* 3,394&nbsp;58° a la [[elítica]]
+* 3,86° al Eiquador solar
+* 2,19° al [[praino ambariable]]
   }}
-| asc_node = 76.678°
-| arg_peri = 55.186°
-| mean_anomaly = 50.115°
+| asc_node = 76,678°
+| arg_peri = 55,186°
+| mean_anomaly = 50,115°
 | satellites = Nanhun
 | physical_characteristics = yes
 | mean_radius =
   {{plainlist |
-* {{nowrap|6,051.8 ± 1.0&nbsp;km}}
-* 0.949&nbsp;9 Tierras
+* {{nowrap|6051,8 ± 1,0&nbsp;km}}
+* 0,9499 Tierras
   }}
 | flattening = 0
 | surface_area =
   {{plainlist |
-* 4.60{{e|8}} km<sup>2</sup>
-* 0.902 Tierras
+* 4,60 × 10<sup>8</sup> km<sup>2</sup>
+* 0,902 Tierras
   }}
 | volume =
   {{plainlist |
-* 9.28{{e|11}}&nbsp;km<sup>3</sup>
-* 0.866 Tierras
+* 9,28 × 10<sup>11</sup>&nbsp;km<sup>3</sup>
+* 0,866 Tierras
   }}
 | mass =
   {{plainlist |
-* 4.868&nbsp;5{{e|24}} kg
-* 0.815 Tierras
+* 4,8685 × 10<sup>24</sup> kg
+* 0,815 Tierras
   }}
-| density = 5.243&nbsp;g/cm<sup>3</sup>
+| density = 5,243&nbsp;g/cm<sup>3</sup>
 | surface_grav =
   {{plainlist |
-* 8.87&nbsp;[[Acceleration|m/s<sup>2</sup>]]
-* {{nowrap|0.904 ''[[g-force|g]]''}}
+* 8,87&nbsp;[[Aceleraçon|m/s<sup>2</sup>]]
+* {{nowrap|0,904 ''[[Fuorça-g|g]]''}}
   }}
-| escape_velocity = 10.36&nbsp;km/s
-| sidereal_day = −243.018&nbsp;5&nbsp;dias <small>([[Mobimiento retrógado|Retrógado]])</small>
-| rot_velocity = {{convert|6.52|km/h|m/s|abbr=on}}
-| axial_tilt = 177.3°
+| escape_velocity = 10,36&nbsp;km/s
+| sidereal_day = −243,0185&nbsp;dies <small>([[Mobimiento retrógado|Retrógado]])</small>
+| rot_velocity = 6,52 km/h
+| axial_tilt = 177,3°
 | albedo =
   {{plainlist |
-* 0.67 ([[Albedo geométrico|geométrico]])
-* 0.90 ([[Albedo Bond|Bond]])
+* 0,67 ([[Albedo geométrico|geométrico]])
+* 0,90 ([[Albedo Bond|Bond]])
   }}
 | magnitude =
   {{plainlist |
-* mais lhuziente −4.9 (crecente)
-* −3.8 (cheno)
+* mais lhuziente −4,9 (crecente)
+* −3,8 (cheno)
   }}
-| angular_size = {{nowrap|9.7"–66.0"}}
+| angular_size = {{nowrap|9,7"–66,0"}}
 | temperatures = yes
 | temp_name1 = [[Kelvin]]
 | mean_temp_1 = 735&nbsp;K
 | temp_name2 = Celsius
 | mean_temp_2 = 462&nbsp;°C
 | mean_name3 = [[Fahrenheit]]
-| mean_temp_3 = {{convert|864|°F|°C|abbr=on}}
+| mean_temp_3 = 864 °F
 | atmosphere = yes
-| surface_pressure = 93&nbsp;[[bar (unit)|bar]] (9.3&nbsp;[[Pascal (unit)|MPa]])
+| surface_pressure = 93&nbsp;[[Bar (ounidade)|bar]] (9,3&nbsp;[[Pascal (ounidade)|MPa]])
 | atmosphere_composition =
   {{plainlist |
-* ~96.5% [[dióxido decarbono]]
-* ~3.5% [[nitrogénio]]
-* 0.015% [[dióxido d'alxofre]]
-* 0.007% [[árgon]]
-* 0.002% [[oupor d'auga]]
-* 0.001&nbsp;7% [[monóxido de carbono]]
-* 0.001&nbsp;2% [[hélio]]
-* 0.000&nbsp;7% [[néon]]
+* ~96,5% [[dióxido de carbono]]
+* ~3,5% [[nitrogénio]]
+* 0,015% [[dióxido d'alxofre]]
+* 0,007% [[árgon]]
+* 0,002% [[oupor d'auga]]
+* 0,0017% [[monóxido de carbono]]
+* 0,0012% [[hélio]]
+* 0,0007% [[néon]]
   }}
 }}
 
@@ -124,11 +124,11 @@ L ciclo antre dues anclinaçones mássimas dura 584 dies. Depuis de 584 dies Bé
 Na cunjunçon anferior, Bénus puode se aprossimar de la Tierra mais de l que nanhun outro planeta. Ne l die [[16 de Dezembre]] de [[1850]], Bénus alcançou ua çtáncia mais próssima de la Tierra zde [[1800]] cun un balor de 39.514.827 quilómetros (0,26413854 [[Ounidade astronómica|UA]]) . Esta será la aprossimaçon mais próssima de la Tierra até l anho 2101, quando Bénus alcançará ua çtáncia de 39.541.578 quilómetros (0,26431736 UA).
 
 === Rotaçon ===
-Ouserbado dun punto heipotético localizado arriba de l [[pólo Norte]] de l [[Sol]], Bénus gira subre si mesmo lentamente nun mobimiento de Leste la Oeste (sentido horário) al ambés de Oeste la Leste (mobimiento anti-horário) cumo ls demales planetas (sceto [[Urano]]). Esta rotaçon cuntrária als demales planetas queda a deber-se al fato de Bénus tener ls pólos ambertidos. Se se podisse ber l Sol na superfice de Bénus, este nacerie ne l Oeste i tenerie l sou ocaso ne l Leste cun ua duraçon die-nuite de 116,75 dies terrestres, correspondendo un anho terrestre a 1,92 anhos benusianos. Anque de la rotaçon horária, ls períodos de rotaçon i orbital de Bénus stan sincronizados de tal maneira que apersenta siempre la mesma face de l planeta para la Tierra quando ambos ls cuorpos stan a menor çtáncia. Esto poderie ser ua simples coincidéncia, mas eisisten speculaçones subre ua possible ourige desta sincronizaçon cumo resultado de la açon de las [[maré]]s, afetando la rotaçon de Bénus quando ambos ls cuorpos stan suficientemente próssimos.
+Ouserbado dun punto heipotético localizado arriba de l [[pólo Norte]] de l [[Sol]], Bénus gira subre si mesmo lentamente nun mobimiento de Leste la Oeste (sentido horário) al ambés de Oeste la Leste (mobimiento anti-horário) cumo ls demales planetas (sceto [[Ourano (planeta)|Ourano]]). Esta rotaçon cuntrária als demales planetas queda a deber-se al fato de Bénus tener ls pólos ambertidos. Se se podisse ber l Sol na superfice de Bénus, este nacerie ne l Oeste i tenerie l sou ocaso ne l Leste cun ua duraçon die-nuite de 116,75 dies terrestres, correspondendo un anho terrestre a 1,92 anhos benusianos. Anque de la rotaçon horária, ls períodos de rotaçon i orbital de Bénus stan sincronizados de tal maneira que apersenta siempre la mesma face de l planeta para la Tierra quando ambos ls cuorpos stan a menor çtáncia. Esto poderie ser ua simples coincidéncia, mas eisisten speculaçones subre ua possible ourige desta sincronizaçon cumo resultado de la açon de las [[maré]]s, afetando la rotaçon de Bénus quando ambos ls cuorpos stan suficientemente próssimos.
 
 == Caratelísticas físicas ==
 === Atmosfera ===
-Bénus ten ua densa [[atmosfera]], cumpuosta an sue maior parte por [[dióxido de carbono]] i ua pequeinha quantidade de [[azoto]] mas parte de sue atmosfera tamien ye cumpuosta por [[nitrogénio]], la quantidade de nitrogénio na atmosfera de Bénus ye quaije eigual la porçon de l ouxigénio ancontrado na [[Tierra]] . La [[presson]] atmosférica al nible de l tierra ye de 90 bezes superior a la presson atmosférica na superfice [[Tierra|terrestre]] (ua presson eiquibalente a ua perfundidade dun quilómetro ambaixo de l [[nible de l mar]] na Tierra). La einorme quantidade de CO<sub>2</sub> de la atmosfera proboca un fuorte [[eifeito stufa]] que eileba la temperatura de la superfice de l planeta até 460 [[grau Celsius|°C]] nas regiones menos eilebadas al redror de l [[Eiquador (Geografie)|Eiquador]]. Esto faç Bénus ser mais caliente de l que [[Mercúrio (planeta)|Mercúrio]], anque star la mais de l que l dobro de la çtáncia de l [[Sol]] que este i recebir solamente 25% de sue [[radiaçon solar]] (2.613,9 W/n² na atmosfera superior i 1.071,1 W/n² na superfice). Debido a la [[inércia térmica]] de sue pesada atmosfera i al trasporte de calor puls fuortes bentos de sue atmosfera, la temperatura nun barie de forma seneficatiba antre l die i la nuite. Anque de la lenta [[rotaçon]] de Bénus (menos dua rotaçon por anho benusiano, eiquibalente a ua belocidade de rotaçon ne l Eiquador de 6,5&nbsp;kn/h), ls bentos de la atmosfera superior circundan l planeta an solamente 4 dies, çtribuindo eficazmente la calor. Para alhá de l mobimiento zonal de la atmosfera de Oeste la Leste, hai un mobimiento bertical an forma de [[célula de Hadley]], que trasporta la calor de l Eiquador até las regiones polares, ancluindo las latitudes médies de l lado nun eiluminado de l planeta.
+Bénus ten ua densa [[atmosfera]], cumpuosta an sue maior parte por [[dióxido de carbono]] i ua pequeinha quantidade de [[azoto]] mas parte de sue atmosfera tamien ye cumpuosta por [[nitrogénio]], la quantidade de nitrogénio na atmosfera de Bénus ye quaije eigual la porçon de l ouxigénio ancontrado na [[Tierra]] . La [[presson]] atmosférica al nible de l tierra ye de 90 bezes superior a la presson atmosférica na superfice [[Tierra|terrestre]] (ua presson eiquibalente a ua perfundidade dun quilómetro ambaixo de l [[nible de l mar]] na Tierra). La einorme quantidade de CO<sub>2</sub> de la atmosfera proboca un fuorte [[eifeito stufa]] que eileba la temperatura de la superfice de l planeta até 460 [[grau Celsius|°C]] nas regiones menos eilebadas al redror de l [[Eiquador (Geografie)|Eiquador]]. Esto faç Bénus ser mais caliente de l que [[Marcúrio (planeta)|Marcúrio]], anque star la mais de l que l dobro de la çtáncia de l [[Sol]] que este i recebir solamente 25% de sue [[radiaçon solar]] (2.613,9 W/n² na atmosfera superior i 1.071,1 W/n² na superfice). Debido a la [[inércia térmica]] de sue pesada atmosfera i al trasporte de calor puls fuortes bentos de sue atmosfera, la temperatura nun barie de forma seneficatiba antre l die i la nuite. Anque de la lenta [[rotaçon]] de Bénus (menos dua rotaçon por anho benusiano, eiquibalente a ua belocidade de rotaçon ne l Eiquador de 6,5&nbsp;kn/h), ls bentos de la atmosfera superior circundan l planeta an solamente 4 dies, çtribuindo eficazmente la calor. Para alhá de l mobimiento zonal de la atmosfera de Oeste la Leste, hai un mobimiento bertical an forma de [[célula de Hadley]], que trasporta la calor de l Eiquador até las regiones polares, ancluindo las latitudes médies de l lado nun eiluminado de l planeta.
 
 La [[radiaçon]] solar quaije nun alcança la superfice de l planeta. Las densas camadas de nubres refleten la maior parte de la luç de l Sol al spácio, i la maior parte de la luç que atrabessa las nubres ye absorbida pula atmosfera. Esto ampede la maior parte de la luç de l Sol de calecer la superfice. L [[albedo]] bolométrico de Bénus ye de aprossimadamente 60%, i sou [[albedo]] bisual ye inda maior, l qual cunclui que, anque ancontrar-se mais próssimo de l [[Sol]] de l que la [[Tierra]], la superfice de Bénus nun se calece nin se ilumina cumo era de asperar pula radiaçon solar que recibe. Na ouséncia de l eifeito stufa, la temperatura na superfice de Bénus poderie ser similar a la de la Tierra. L einorme eifeito stufa, associado a la eimensa quantidade de CO<sub>2</sub> na atmosfera retén la calor, probocando las eilebadas temperaturas deste planeta, sendo assi l planeta Bénus ganha l títalo de planeta mais caliente de l Sistema Solar.
 
@@ -136,7 +136,7 @@ Ls fuortes bentos na parte superior de las nubres puoden alcançar 350&nbsp;kn/h
 
 == Caratelísticas de la superfice ==
 [[Fexeiro:Venus globe.jpg|thumb|left|225px|Eimaige oubtida por [[radar]] de la superfice de Bénus, centrada a la longitude 180° Leste]]
-Bénus ten ua lenta [[rotaçon]] retrógrada, l que quier dezir que gira de Leste la Oeste, al ambés de fazé-lo de Oeste la Leste cumo fázen la maiorie de ls demales [[planeta]]s. ([[Pluton]] i [[Urano]] tamien ten ua rotaçon retrógrada, ambora l eixe de rotaçon de [[Urano]], anclinado a 97,86°, praticamente segue l [[órbita|praino orbital]]) . Se çconhece porque Bénus ye defrente neste aspeto, ambora poderie ser l resultado dua colison cun un [[asteróide|grande asteróide]] an algun momiento de l passado remoto. Para alhá desta rotaçon retrógrada ancomun, l período de rotaçon de Bénus i sue órbita stan quaije sincronizados, de maneira que siempre apersenta l mesmo lado para la [[Tierra]], quando ls dous planetas se ancontran an sue mássima aprossimaçon (5.001 dies benusianos antre cada [[cunjunçon (astronomie)|cunjunçon]] anferior). Esto poderie ser l resultado de las fuorças de las [[maré]]s que afetan la rotaçon de Bénus cada beç que ls planetas se ancontran suficientemente próssimos, ambora nun se conhece cun clareza l macanismo.
+Bénus ten ua lenta [[rotaçon]] retrógrada, l que quier dezir que gira de Leste la Oeste, al ambés de fazé-lo de Oeste la Leste cumo fázen la maiorie de ls demales [[planeta]]s. ([[Pluton (satélite)|Pluton]] i [[Ourano (planeta)|Ourano]] tamien ten ua rotaçon retrógrada, ambora l eixe de rotaçon de Ourano, anclinado a 97,86°, praticamente segue l [[órbita|praino orbital]]) . Se çconhece porque Bénus ye defrente neste aspeto, ambora poderie ser l resultado dua colison cun un [[asteróide|grande asteróide]] an algun momiento de l passado remoto. Para alhá desta rotaçon retrógrada ancomun, l período de rotaçon de Bénus i sue órbita stan quaije sincronizados, de maneira que siempre apersenta l mesmo lado para la [[Tierra]], quando ls dous planetas se ancontran an sue mássima aprossimaçon (5.001 dies benusianos antre cada [[cunjunçon (astronomie)|cunjunçon]] anferior). Esto poderie ser l resultado de las fuorças de las [[maré]]s que afetan la rotaçon de Bénus cada beç que ls planetas se ancontran suficientemente próssimos, ambora nun se conhece cun clareza l macanismo.
 
 Bénus ten dues mesetas percipales an forma de [[cuntinente]]s, eilebando-se subre ua basta prainada. La meseta de l Norte ye chamada de [[Ishtar Tierra]], i cuntén la maior [[muntanha]] de Bénus (Aprossimadamente dous quilómetros mais alta que l [[Monte Eiberest]]), chamada de [[Maxwell Montes]] an honra de [[James Clerk Maxwell]]. [[Ishtar Tierra]] ten l tamanho aprossimado de la [[Austrália]]. Ne l heimisfério Sul se ancontra [[Aphrodite Tierra]], maior que l anterior i cul tamanho eiquibalente al de la [[América de l Sul]]. Antre estas [[meseta]]s eisisten alguas depressones de l terreno, que ancluen [[Atalanta Planitia]], [[Guinebere Planitia]] i [[Labinia Planitie]]. Cula sola sceçon de l [[Maxwell Montes]], todas las caratelísticas çtinguibles de l terreno (acidentes geográficos) adotan nomes de [[mitologie|mulhieres mitológicas]]. 
 
@@ -160,7 +160,7 @@ Bénus ye l astro mais caratelístico ne l cielo de la manhana i de la tarde de 
 
 Bénus ye cunsidrado cumo l mais amportante de ls cuorpos celhestres ouserbados puls maias, que l chamórun «Chak ek» (la grande streilha). Possiblemente se dou mais amportança junto cul [[Sol]]. Ls maias studórun atentamente ls mobimientos de Bénus. Pensórun que las posiçones de Bénus i outros [[planeta]]s tenien anfluéncia subre la bida na Tierra, porque ls maias i outras [[Pré-colombiano|culturas pré-colombianas]] porgramórun sues guerras i outros eibentos amportantes baseando-se an sues ouserbaçones. Ne l [[códice de Dresden]], ls maias ancluíran un almanaque an que mostrában l ciclo cumpleto de Bénus, an cinco grupos de 584 dies cada un (aprossimadamente uito anhos), depuis de ls quales se repetie l mesmo squema (Bénus dá treze boltas al redror de l Sol praticamente ne l mesmo tiempo que la Tierra tarda an dar uito).
 
-Ls [[Grécia antiga|antigos griegos]] pensában que las apariçones matutinas i bespertinas de Bénus éran dous cuorpos defrentes, i ls chamórun de «[[Héspero]]» quando aparecie ne l cielo de l oeste al entardecer i «[[Cerilha]]» quando aparecie ne l cielo de l leste al amanhecer. Fui [[Pitágoras]] quien purmeiro falou que ambos ls oubjetos éran l mesmo planeta. Ne l [[seclo IV a.C.]], [[Heiráclides Póntico]] propós que tanto Bénus cumo [[Mercúrio (planeta)|Mercúrio]] orbitában l [[Sol]] al ambés de orbitar la [[Tierra]]. L nome Bénus quier dezir [[Bénus (mitologie)|diusa romana de l amor i de la beleza]]. 
+Ls [[Grécia antiga|antigos griegos]] pensában que las apariçones matutinas i bespertinas de Bénus éran dous cuorpos defrentes, i ls chamórun de «[[Héspero]]» quando aparecie ne l cielo de l oeste al entardecer i «[[Cerilha]]» quando aparecie ne l cielo de l leste al amanhecer. Fui [[Pitágoras]] quien purmeiro falou que ambos ls oubjetos éran l mesmo planeta. Ne l [[seclo IV a.C.]], [[Heiráclides Póntico]] propós que tanto Bénus cumo [[Marcúrio (planeta)|Marcúrio]] orbitában l [[Sol]] al ambés de orbitar la [[Tierra]]. L nome Bénus quier dezir [[Bénus (mitologie)|diusa romana de l amor i de la beleza]]. 
 
 [[Fexeiro:Venus orbita.png|left|thumb|250px|Fases de Bénus ouserbadas na Tierra.]]
 Al ancontrar la órbita de Bénus antre la Tierra i l Sol, de la Tierra podemos çtinguir sues defrentes [[fase]]s dua forma parecida àquelas que podemos ber de la Luna. [[Galileo Galilei]] fui la purmeira pessona a ouserbar las fases de Bénus an Dezembre de [[1610]], ua ouserbaçon que sustentaba la anton çcutida [[teorie heiliocéntrica]] de l Sistema Solar de [[Copérnico]]. Tamien anotou las mudanças de tamanho de l diámetro besible de Bénus an sues defrentes fases, sugerindo que este se ancontraba mais loinge de la Tierra quando el staba cheno i mais próssimo quando se ancontraba na fase crecente. Estas ouserbaçones proporcionórun ua sólida base al modelo heiliocéntrico. 
@@ -171,7 +171,7 @@ Al ancontrar la órbita de Bénus antre la Tierra i l Sol, de la Tierra podemos 
 
 Ls tránsitos de Bénus acunten quando l planeta cruza diretamente l camino antre la Tierra i l [[Sol]] i son eibentos [[Astronomie|astronómicos]] relatibamente ralos. La purmeira beç que ouserbou este tránsito astronómico fui an [[1639]] por [[Jeremiah Horrocks]] i [[Willian Crabtre]]. L tránsito de [[1761]], ouserbado por [[Mikhail Lomonosob]], proporcionou la purmeira eibidéncia de que Bénus tenie ua atmosfera, i las ouserbaçones telscópicas de l [[seclo XIX]] durante sous tránsitos permitiran oubter pula purmeira beç un cálclo perciso de la çtáncia antre la [[Tierra]] i l Sol. Ls tránsitos solo puoden ocorrer an Júnio ó Dezembre, sendo estes ls momientos an que Vénus cruza la [[eclítica]] (l praino an que la Tierra órbita al redror de l Sol), i suceden an pares a anterbalos de uito anhos, apartados ls pares de tránsitos por mais dun seclo. L par de tránsitos anterior sucediu an [[1874]] i [[1882]], i l persente par de tránsitos son ls de [[2004]] i [[2012]].
 
-Ne l [[seclo XIX]], muitos ouserbadores atribuíran la Vénus un período de [[rotaçon]] aprossimado de 24 horas. L astrónomo eitaliano [[Giobanni Schiaparelli]] fui l purmeiro a preber un período de rotaçon seneficatibamente menor, propondo que la rotaçon de Bénus staba bloqueada pul Sol (l mesmo que propós para [[Mercúrio (planeta)|Mercúrio]]) . Ambora rialmente nun seia berdade para nanhun de ls dous cuorpos, era ua stimaçon bastante aprossimada. La quaije ressonáncia antre sue rotaçon i la maior aprossimaçon de la Tierra ajudou a criar esta ampresson, yá que Bénus siempre aparece na mesma face quando se ancontra na melhor posiçon para ser ouserbado. L período de rotaçon de Bénus fui ouserbado pula purmeira beç durante la [[cunjunçon (astronomie)|cunjunçon]] de [[1961]] atrabeç dua antena de radar de 26 metros an Goldstone, [[Califórnia]], a partir de l ouserbatório de radioastronomie Jodrell Bank ne l [[Reino Ounido]] i nas anstalaçones de spácio perfundo de la Ounion Sobiética de [[Yebpatoria]]. La percison fui refinada nas seguintes cunjunçones, percipalmente a las de Goldstone i Yebpatoria. L sentido de rotaçon retrógrado deste planeta nun fui cunfirmado até [[1964]].
+Ne l [[seclo XIX]], muitos ouserbadores atribuíran la Vénus un período de [[rotaçon]] aprossimado de 24 horas. L astrónomo eitaliano [[Giobanni Schiaparelli]] fui l purmeiro a preber un período de rotaçon seneficatibamente menor, propondo que la rotaçon de Bénus staba bloqueada pul Sol (l mesmo que propós para [[Marcúrio (planeta)|Marcúrio]]) . Ambora rialmente nun seia berdade para nanhun de ls dous cuorpos, era ua stimaçon bastante aprossimada. La quaije ressonáncia antre sue rotaçon i la maior aprossimaçon de la Tierra ajudou a criar esta ampresson, yá que Bénus siempre aparece na mesma face quando se ancontra na melhor posiçon para ser ouserbado. L período de rotaçon de Bénus fui ouserbado pula purmeira beç durante la [[cunjunçon (astronomie)|cunjunçon]] de [[1961]] atrabeç dua antena de radar de 26 metros an Goldstone, [[Califórnia]], a partir de l ouserbatório de radioastronomie Jodrell Bank ne l [[Reino Ounido]] i nas anstalaçones de spácio perfundo de la Ounion Sobiética de [[Yebpatoria]]. La percison fui refinada nas seguintes cunjunçones, percipalmente a las de Goldstone i Yebpatoria. L sentido de rotaçon retrógrado deste planeta nun fui cunfirmado até [[1964]].
 
 Antes de las ouserbaçones de rádio de ls anhos sessenta, muitos acraditan que Bénus tenie un ambiente cumo l de la [[Tierra]]. Esto era debido al tamanho de l planeta i de l sou centeilha orbital, que sugerian claramente ua situaçon parecida cula de la Tierra, assi cumo la gruossa camada de nubres que ampedian ber la superfice. Antre las speculaçones subre Bénus stában las de que este tenie un ambiente salbaige, i que possuía ouceanos de [[petrólio]] i de [[auga carbonatada]]. Sin dúbeda, las ouserbaçones atrabeç de [[micronda]]s an [[1956]] por C. Mayer ''eit al'', andicában ua alta temperatura de la superfice de 600 [[Kelbin|K]]. Stranhamente, las ouserbaçones feitas por La.D. Kuzmin na banda melimétrica andicában temperaturas mui mais baixas. dues teories cuntrárias splicában l ancomun spetro de rádio: ua deilhas sugerie que las altas temperaturas se oureginában na [[ionosfera]] i la outra sugerie ua superfice caliente.
 
@@ -189,7 +189,7 @@ La sploraçon spacial de Bénus permaneciu mui atiba durante ls finales de ls an
 
 [[Fexeiro:VenusianArachnoid.png|right|thumb|250px|Eimaige de la superfice de Bénus oubtida por radar a 28 de Janeiro de 1998 pula sonda Magellan.]]
 
-An 10 de Agosto de [[1990]], la sonda norte-amaricana [[Magellan]] chegou la Bénus, rializando medidas por radar de la superfice de l planeta i oubtendo mapas dua reseluçon de 100 metros an 98% de l planeta. Depuis dua misson de quatro anhos, la sonda Magellan, tal cumo staba planeijado, antrou na atmosfera de Bénus a 11 de Outubre de 1994 i baporizou-se an parte, ambora se supone que alguas partes de la mesma alcançórun la superfice de l planeta. Zde anton, bárias sondas spaciales an rota para outros çtinos usórun l método de subrebóo orbital de Bénus para ancrementar la sue belocidade mediante l ampulso grabitacional. Esto anclui las missones [[Galileu (sonda spacial)|Galileo]] la [[Júpiter (planeta)|Júpiter]] i la [[Cassini-Huyges]] la [[Saturno]] (cun dous subrebóos). 
+An 10 de Agosto de [[1990]], la sonda norte-amaricana [[Magellan]] chegou la Bénus, rializando medidas por radar de la superfice de l planeta i oubtendo mapas dua reseluçon de 100 metros an 98% de l planeta. Depuis dua misson de quatro anhos, la sonda Magellan, tal cumo staba planeijado, antrou na atmosfera de Bénus a 11 de Outubre de 1994 i baporizou-se an parte, ambora se supone que alguas partes de la mesma alcançórun la superfice de l planeta. Zde anton, bárias sondas spaciales an rota para outros çtinos usórun l método de subrebóo orbital de Bénus para ancrementar la sue belocidade mediante l ampulso grabitacional. Esto anclui las missones [[Galileu (sonda spacial)|Galileo]] la [[Júpiter (planeta)|Júpiter]] i la [[Cassini-Huyges]] la [[Saturno (planeta)|Saturno]] (cun dous subrebóos). 
 
 La [[Agéncia Spacial Ouropéia]] ten ua misson la Bénus chamada [[Benus Spress|Bénus Spress]] que stá studando la atmosfera i las caratelísticas de la superfice de Bénus an órbita. A misson fui lançada ne l die 9 de nobembre de 2005 pul foguete Soyuç i chegou la Bénus ne l die 11 de abril de 2006, depuis de aprossimadamente 150 dies de biaige. La [[JAXA|Agéncia Spacial Japonesa]] (JAXA) planeija tamien ua misson la Bénus antre 2008 i 2009.
 
