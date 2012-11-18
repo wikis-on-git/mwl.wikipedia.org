@@ -1,84 +1,36 @@
 {{TraduçonOuto}}
-{| border="1" cellspacing="0" cellpadding="0" align="right"
-|+ '''Deimos'''
-|-----
-! colspan="2" bgcolor="#000000" |
-[[Ficheiro:deimos-viking1.jpg|none|200px|Ua eimaige de Deimos oubtida pul orbitador Viking 1.]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Çcubrimiento
-|-----
-! align="left" | Çcubierto por
-| [[Asaph Hall]]
-|-----
-! align="left" | Çcubierto an
-| [[1877]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Caratelísticas orbitales
-|-----
-! align="left" | [[Centeilha orbital|Centeilha]] médio
-| 23,459 [[metro|km]]
-|-----
-! align="left" | [[Scentricidade orbital|Scentricidade]]
-| 0.00033
-|-----
-! align="left" | Período de reboluçon
-| 1d 6h 17.9m
-|-----
-! align="left" | [[Releixe]]
-| 1.79°
-|-----
-! align="left" | Ye un [[satélite natural]] de
-| [[Marte]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Caratelísticas físicas
-|-----
-! align="left" | Diámetro eiquatorial
-| 15(×12.2×11) km
-|-----
-! align="left" | [[Ária|Ária superficial]]
-| [[quilómetro quadrado|km²]]
-|-----
-! align="left" | [[Massa]]
-| 1.8×10<sup>15</sup> [[quilograma|kg]]
-|-----
-! align="left" | [[Densidade]] média
-| 1.7 g/cm³
-|-----
-! align="left" | [[Aceleraçon de la grabidade|Aceleraçon grabítica]]<br /> a la superfice
-| 0.00297 [[Aceleraçon|m/s²]]
-|-----
-! align="left" | Grabidade superficial <br>(Tierra = 1):
-| 3.031x10<sup>−4</sup>
-|-----
-! align="left" | Período de rotaçon
-| 1d 6h 17.9m
-|-----
-! align="left" | [[Anclinaçon axial]]
-| °
-|-----
-! align="left" | [[Albedo]]
-| 0.07
-|-----
-! align="left" | [[Kelvin|Temperatura]]<br /> a la superfice
-|
-{| cellspacing="0" cellpadding="2" border="0"
-|-----
-! mín
-! méd
-! máx
-|-----
-| [[Kelvin|K]] || K || K
-|}
-|-----
-! bgcolor="#ffc0c0" colspan="2" | [[Atmosfera]]
-|-----
-! align="left" | [[Presson atmosférica]]
-| 0 [[Pascal|kPa]]
-|}
+{{Info Planeta
+| name               = Deimos
+| image              = [[Image:Deimos-MRO.jpg|250px|Deimos]]
+| caption            = Bista de Fobos, culas quelores melhoradas, tirada pula [[Mars Reconnaissance Orbiter]]. </br>''Image: NASA/JPL/University of Arizona'' 
+| discovery          = yes
+| bgcolour           = #ffc0c0
+| discoverer         = [[Asaph Hall]]
+| discovered         = 12 Agosto 1877
+| orbit_ref = 
+| semimajor          =  23 460 km
+| eccentricity       = 0,0002
+| period             = 1,262&nbsp;44 [[die|d]]    (30,30 horas)
+| avg_speed          = 1,35 km/s
+| inclination        = 0,93° (al eiquador de Marte)<br>1,793° (al [[praino de Laplace]] lhocal)<br>27,58° (a la [[elítica]])
+| satellite_of       = [[Marte]]
+| physical_characteristics = yes
+| mean_radius        =  6,2 km
+| dimensions         = 15 × 12,2 × 10,4 km
+| mass               = 1,48 × 10<sup>15</sup> kg<br>(2,5 × 10<sup>-15</sup> Tierras)
+| density            = 1,471 g/cm³
+| surface_grav       = 0,0039 [[aceleraçon|m/s²]] (3,9 mm/s²)<br>0,000&nbsp;40 ''[[Fuorça-g|g]]'' (400 [[Micro-|µ]]''g'')
+| escape_velocity    = 5,6 [[Metro por segundo|m/s]] (20 km/h)
+| rotation           = [[Rotaçon síncrona|Síncrona]]
+| albedo             = 0,068
+| magnitude          = 12,4 
+| single_temperature = ≈233 [[kelvin|K]]
+| Age                = 2 billion years
+}}
 
-'''Deimos''' ye a menor i mais afastada de las dues [[Satélite natural|lhunas]] de [[Marte (planeta)|Marte]]. Ye, tamien, a menor lhuna reconhecida de l [[Sistema Solar]].
+'''Deimos''' ye a menor i mais afastada de las dues [[Satélite natural|lhunas]] de [[Marte (planeta)|Marte]]. Ye, tamien, a menor lhuna reconhecida de l [[Sistema Solar]]. La lhuna fui çcubierta – tal cumo [[Fobos (satélite)|Fobos]], l'outro satélite de Marte – an agosto de [[1877]] por [[Asaph Hall]] i fotografado pula Biking 1 an 1977. Recebiu l nome de l dius griego [[Deimos (mitologie)|Deimos]] (que senefica terror), un de ls filhos de [[Aires]] ([[Marte (mitologie)|Marte]] na mitologie romana).
 
-La lhuna fui çcubierta – tal cumo [[Fobos (satélite)|Fobos]], l'outro satélite de Marte – an agosto de [[1877]] por [[Asaph Hall]] i fotografado pula Biking 1 an 1977. Deimos ten un formato bastante eirregular i acradita-se que se trate dun [[asteroide]] que fui perturbado de sue órbita por [[Júpiter (planeta)|Júpiter]] i qu'acabou por ser caturado pula [[grabidade]] de Marte, passando a ser sou satélite.
+Deimos ten un formato bastante eirregular i acradita-se que se trate dun [[asteroide]] que fui perturbado de sue órbita por [[Júpiter (planeta)|Júpiter]] i qu'acabou por ser caturado pula [[grabidade]] de Marte, passando a ser sou satélite.
 
 == Caratelísticas percipales ==
 Por ser pequeinho, Deimos nun apersenta ua forma [[sfera|sferica]], tenndo dimensones mui eirregulares. Ye cumpuosto por [[peinha]]s ricas an [[carbono]], tal cumo muitos [[asteróides]], i [[carambelo]]. La sue superfice apersenta un númaro razoable de [[cratera]]s mas, relatibamente la [[Fobos (satélite)|Fobos]], ye mui mais lhisa, cunsequéncia de l prenchimiento parcial de las crateras cun rególito (peinhas decumpostas). Las maiores crateras deste satélite son ''Swift'' i ''Voltaire'' que meden, aprossimadamente, 30&nbsp;Km de diámetro.
@@ -102,5 +54,77 @@ Solo dues formaçones geológicas an Deimos recebírun nomes. Las crateras Swift
 
 {{refréncias}}
 
-
+[[Catadorie:Sistema Solar]]
+[[Catadorie:Marte]]
 [[Catadorie:Lhunas de Marte]]
+
+[[af:Deimos (maan)]]
+[[ar:ديموس]]
+[[gn:Deimos]]
+[[az:Deymos]]
+[[zh-min-nan:Deimos (oē-chheⁿ)]]
+[[be:Дэймас]]
+[[be-x-old:Дэймас]]
+[[bg:Деймос (спътник)]]
+[[bs:Deimos (satelit)]]
+[[ca:Deimos (satèl·lit)]]
+[[cs:Deimos (měsíc)]]
+[[co:Deimos]]
+[[cy:Deimos (lloeren)]]
+[[da:Deimos (måne)]]
+[[de:Deimos (Mond)]]
+[[el:Δείμος (δορυφόρος)]]
+[[eml:Deimos]]
+[[es:Deimos (satélite)]]
+[[eo:Dejmo (luno)]]
+[[eu:Deimos (satelitea)]]
+[[fa:دیموس (ماه)]]
+[[fr:Déimos (lune)]]
+[[ga:Deimos]]
+[[gv:Deimos (fo-phlannad)]]
+[[gd:Deimos]]
+[[gl:Deimos (lúa)]]
+[[ko:데이모스 (위성)]]
+[[hy:Դեյմոս]]
+[[hi:डिमोज़ (उपग्रह)]]
+[[hr:Deimos (mjesec)]]
+[[id:Deimos (satelit)]]
+[[ia:Deimos (luna)]]
+[[is:Deimos]]
+[[it:Deimos (astronomia)]]
+[[he:דימוס (ירח)]]
+[[ka:დეიმოსი (თანამგზავრი)]]
+[[kk:Деймос]]
+[[ky:Деймос]]
+[[la:Dimos (satelles)]]
+[[lv:Deimoss (pavadonis)]]
+[[lt:Deimas (palydovas)]]
+[[hu:Deimosz (hold)]]
+[[mk:Дејмос]]
+[[mr:डीमॉस]]
+[[nl:Deimos (maan)]]
+[[ja:ダイモス (衛星)]]
+[[no:Deimos]]
+[[nn:Marsmånen Deimos]]
+[[nds:Deimos (Maand)]]
+[[pl:Deimos (księżyc)]]
+[[pt:Deimos (satélite)]]
+[[ro:Deimos (satelit)]]
+[[rm:Deimos (glina)]]
+[[ru:Деймос]]
+[[sq:Deimosi]]
+[[scn:Deimos (astronumia)]]
+[[simple:Deimos (moon)]]
+[[sk:Deimos (mesiac)]]
+[[sl:Deimos (luna)]]
+[[szl:Deimos]]
+[[sr:Дејмос]]
+[[fi:Deimos]]
+[[sv:Deimos (måne)]]
+[[tl:Deimos (buwan)]]
+[[th:ดีมอส]]
+[[tr:Deimos (uydu)]]
+[[uk:Деймос (супутник)]]
+[[vi:Deimos (vệ tinh)]]
+[[war:Deimos (bulan)]]
+[[zh:火卫二]]
