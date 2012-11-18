@@ -10,61 +10,62 @@
 *[[John Couch Adams]]
 *[[Johann Gottfried Galle|Johann Galle]]
  }}
-| discovered = 23 September 1846
+| discovered = 23 Setembre 1846
+| bgcolour = #c0c0ff
 | orbit_ref =
-| aphelion = 4,553,946,490&nbsp;km <br> 30.44125206&nbsp;[[Astronomical unit|AU]]
-| perihelion = 4,452,940,833&nbsp;km <br> 29.76607095&nbsp;AU
-| semimajor = 4,503,443,661&nbsp;km <br> 30.10366151&nbsp;AU
-| eccentricity = 0.011214269
-| period = 60,190.03&nbsp;[[die]]s <br> 164.79&nbsp;[[anho]]s <br> 89,666 [[Die solar|dies solares]]
-| synodic_period = 367.49&nbsp;die
-| avg_speed = 5.43&nbsp;km/s
-| inclination = 1.767975° al [[elítica]] <br> 6.43° al eiquador solar <br> 0.72° to [[praino ambariable]]
-| asc_node = 131.794310°
-| arg_peri = 265.646853°
-| mean_anomaly = 267.767281°
+| aphelion = 4.553.946.490&nbsp;km <br> 30,44125206&nbsp;[[Ounidade astronómica|AU]]
+| perihelion = 4.452.940.833&nbsp;km <br> 29,76607095&nbsp;AU
+| semimajor = 4.503.443.661&nbsp;km <br> 30,10366151&nbsp;AU
+| eccentricity = 0,011214269
+| period = 60.190,03&nbsp;[[die]]s <br> 164,79&nbsp;[[anho]]s <br> 89.666 [[Die solar|dies solares]]
+| synodic_period = 367,49&nbsp;dies
+| avg_speed = 5,43&nbsp;km/s
+| inclination = 1,767975° al [[elítica]] <br> 6,43° al eiquador solar <br> 0,72° al [[praino ambariable]]
+| asc_node = 131,794310°
+| arg_peri = 265,646853°
+| mean_anomaly = 267,767281°
 | satellites = [[Satélites de Netuno|13]]
 | physical_characteristics = yes
-| flattening = 0.0171 ± 0.0013 <!-- calculated from data in ref name="Seidelmann Archinal A'hearn et al. 2007" -->
-| equatorial_radius = 24,764 ± 15&nbsp;km <br> 3.883 Tierras
-| polar_radius = 24,341 ± 30&nbsp;km <br> 3.829 Tierras
-| surface_area = 7.6183{{e|9}}&nbsp;km<sup>2</sup> <br> 14.98 Tierras
-| volume = 6.254{{e|13}}&nbsp;km<sup>3</sup> <br> 57.74 Tierras
-| mass = 1.0243×10<sup>26</sup>&nbsp;kg <br> 17.147 Tierras
-| density = 1.638&nbsp;g/cm<sup>3</sup>
-| surface_grav = 11.15&nbsp;[[aceleraçon|m/s<sup>2</sup>]] <br> 1.14&nbsp;[[Fuorça-g|''g'']]
-| escape_velocity = 23.5&nbsp;km/s
-| sidereal_day = 0.6713&nbsp;die <br> 16&nbsp;h 6&nbsp;m 36&nbsp;s
-| rot_velocity = 2.68&nbsp;km/s <br> 9,660&nbsp;km/h
-| axial_tilt = 28.32°
-| albedo = 0.290 ([[Albedo Bond|Bond]]) <br>
-0.41 ([[Albedo geométrico|geométrico]])
-| magnitude = 8.02 to 7.78
-| angular_size = 2.2–2.4″
+| flattening = 0,0171 ± 0,0013 <!-- calculated from data in ref name="Seidelmann Archinal A'hearn et al. 2007" -->
+| equatorial_radius = 24.764 ± 15&nbsp;km <br> 3883 Tierras
+| polar_radius = 24.341 ± 30&nbsp;km <br> 3829 Tierras
+| surface_area = 7,6183 × 10<sup>9</sup>&nbsp;km<sup>2</sup> <br> 14,98 Tierras
+| volume = 6.254 × 10<sup>13</sup>&nbsp;km<sup>3</sup> <br> 57,74 Tierras
+| mass = 1,0243 × 10<sup>26</sup>&nbsp;kg <br> 17,147 Tierras
+| density = 1,638&nbsp;g/cm<sup>3</sup>
+| surface_grav = 11,15&nbsp;[[aceleraçon|m/s<sup>2</sup>]] <br> 1,14&nbsp;[[Fuorça-g|''g'']]
+| escape_velocity = 23,5&nbsp;km/s
+| sidereal_day = 0,6713&nbsp;die <br> 16&nbsp;h 6&nbsp;m 36&nbsp;s
+| rot_velocity = 2,68&nbsp;km/s <br> 9660&nbsp;km/h
+| axial_tilt = 28,32°
+| albedo = 0,290 ([[Albedo Bond|Bond]]) <br>
+0,41 ([[Albedo geométrico|geométrico]])
+| magnitude = 8,02 até 7,78
+| angular_size = 2,2–2,4″
 | temperatures = yes
 | temp_name1 = 1 bar
 | min_temp_1 =
 | mean_temp_1 = 72&nbsp;[[Kelvin|K]]
 | max_temp_1 =
-| temp_name2 = {{convert|0.1|bar|kPa|abbr=on}}
+| temp_name2 = 0,1 bar
 | min_temp_2 =
 | mean_temp_2 = 55&nbsp;K
 | max_temp =
 | atmosphere = yes
 | atmosphere_ref =
-| scale_height = 19.7&nbsp;±&nbsp;0.6&nbsp;km
+| scale_height = 19,7&nbsp;±&nbsp;0,6&nbsp;km
 | atmosphere_composition =
 <table>
 <tr><td>
-80±3.2%</td><td>[[heidrogénio]] (H<sub>2</sub>)
+80±3,2%</td><td>[[heidrogénio]] (H<sub>2</sub>)
 </td></tr><tr><td>
-19±3.2%</td><td>[[hélio]] (He)
+19±3,2%</td><td>[[hélio]] (He)
 </td></tr><tr><td>
-1.5±0.5%</td><td>[[metano]] (CH<sub>4</sub>)
+1,5±0,5%</td><td>[[metano]] (CH<sub>4</sub>)
 </td></tr><tr><td>
-~0.019%</td><td>[[heidrogénio deutério]] (HD)
+~0,019%</td><td>[[heidrogénio deutério]] (HD)
 </td></tr><tr><td>
-~0.00015%</td><td>[[etano]] (C<sub>2</sub>H<sub>6</sub>)
+~0,00015%</td><td>[[etano]] (C<sub>2</sub>H<sub>6</sub>)
 </td></tr><tr><td colspan=2>
 '''Carambelos''':
 * [[amónia]] (NH<sub>3</sub>)
