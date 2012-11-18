@@ -5,110 +5,110 @@
 | image = [[File:Saturn-cassini-March-27-2004.jpg|280px|The planet Saturn]] 
 | caption = Saturno retratado por ''[[Cassini–Huygens|Cassini]]'' 
 | orbit_ref = 
+| bgcolour = #c0c0ff
 | aphelion =
   {{plainlist |
-* 1 513 325 783&nbsp;km
-* {{nowrap|10.115 958 04 [[Ounidade Astronómica|AU]]}}
+* 1.513.325.783&nbsp;km
+* {{nowrap|10,11595804 [[Ounidade Astronómica|AU]]}}
   }}
 | perihelion =
   {{plainlist |
-* 1 353 572 956&nbsp;km
-* {{nowrap|9.048 076 35 AU}}
+* 1.353.572.956&nbsp;km
+* {{nowrap|9,04807635 AU}}
   }}
 | semimajor =
   {{plainlist |
-* 1 433 449 370&nbsp;km
-* {{nowrap|9.582 017 20 AU}}
+* 1.433.449.370&nbsp;km
+* {{nowrap|9,58201720 AU}}
   }}
-| eccentricity = {{nowrap|0.055 723 219}}
+| eccentricity = {{nowrap|0,055723219}}
 | period =
   {{plainlist |
-* 10 759.22 dies
-* 29.4571 [[anho]]s
-* 24 491.07 [[Dia Solar|dies solares]] de Saturno
+* 10.759,22 dies
+* 29,4571 [[anho]]s
+* 24.491,07 [[Die Solar|dies solares]] de Saturno
   }}
-| synodic_period = 378.09 dies
-| avg_speed = 9.69&nbsp;km/s
+| synodic_period = 378,09 dies
+| avg_speed = 9,69&nbsp;km/s
 | inclination =
   {{plainlist |
-* 2.485&nbsp;240° al [[elítica]]
-* 5.51° al Eiquador solar
-* 0.93° al [[praino ambariable]]
+* 2,485240° al [[elítica]]
+* 5,51° al Eiquador solar
+* 0,93° al [[praino ambariable]]
   }}
-| asc_node = 113.642&nbsp;811°
-| arg_peri = 336.013&nbsp;862°
-| mean_anomaly = 320.346&nbsp;750°
+| asc_node = 113,642811°
+| arg_peri = 336,013862°
+| mean_anomaly = 320,346750°
 | satellites = [[Satélites de Saturno|~ 200 ouserbados (62 cun órbitas coincidas ancluindo 53 cun nome)]]
-| maximum distance from sun = 1.5 billion km (938 million miles)
-| minimum distance from sun = 1.35 billion km (840 million miles)
+| maximum distance from sun = 1500 millones km
+| minimum distance from sun = 1350 millones km
 | physical_characteristics = yes
-| flattening = {{nowrap|0.097 96 ± 0.000 18}}<!-- calculated using data from ref name="SeidelmannArchinalA'hearn_2007" -->
+| flattening = {{nowrap|0,09796 ± 0,00018}}<!-- calculated using data from ref name="SeidelmannArchinalA'hearn_2007" -->
 | equatorial_radius =
   {{plainlist |
-* {{nowrap|60 268 ± 4 km}}
-* 9.4492 Tierras
+* {{nowrap|60.268 ± 4 km}}
+* 9,4492 Tierras
   }}
 | polar_radius =
   {{plainlist |
-* {{nowrap|54 364 ± 10 km}}
-* 8.5521 Tierras
+* {{nowrap|54.364 ± 10 km}}
+* 8,5521 Tierras
   }}
 | surface_area =
   {{plainlist |
-* 4.27{{e|10}} km²
-* 83.703 Tierras
+* 4,27 × 10<sup>10</sup> km²
+* 83,703 Tierras
   }}
 | volume =
   {{plainlist |
-* 8.2713{{e|14}} km<sup>3</sup><
-* 763.59 Tierras
+* 8,2713 × 10<sup>14</sup> km<sup>3</sup>
+* 763,59 Tierras
   }}
 | mass =
   {{plainlist |
-* 5.6846{{e|26}} kg
-* 95.152 Tierras
+* 5,6846 × 10<sup>26</sup> kg
+* 95,152 Tierras
   }}
-| density = 0.687&nbsp;g/cm<sup>3</sup> <br /> (anferior a l'[[auga]])
+| density = 0,687&nbsp;g/cm<sup>3</sup> <br /> (anferior a l'[[auga]])
 | surface_grav =
   {{plainlist |
-* 10.44 [[Aceleraçon|m/s²]]
-* 1.065 [[Fuorça-g|''g'']]
+* 10,44 [[Aceleraçon|m/s²]]
+* 1,065 [[Fuorça-g|''g'']]
   }}
-| escape_velocity = 35.5&nbsp;km/s
-| sidereal_day = 10.57 horas<br /> (10 hr 34&nbsp;min)
+| escape_velocity = 35,5&nbsp;km/s
+| sidereal_day = 10,57 horas<br /> (10h 34m)
 | rot_velocity =
   {{plainlist |
-* 9.87&nbsp;km/s
-* 35 500&nbsp;km/h
+* 9,87&nbsp;km/s
+* 35.500&nbsp;km/h
   }}
-| axial_tilt = 26.73°
+| axial_tilt = 26,73°
 | albedo =
   {{plainlist |
-* 0.342 ([[Albedo Bond|Bond]])
-* 0.47 ([[Albedo geométrico|geométrico]])
+* 0,342 ([[Albedo Bond|Bond]])
+* 0,47 ([[Albedo geométrico|geométrico]])
   }}
-| magnitude = +1.47 to −0.24
-| angular_size = 14.5"–20.1" <br /> (sclui ls anielhos)
+| magnitude = +1,47 até −0,24
+| angular_size = 14,5"–20,1" <br /> (sclui ls anielhos)
 | temperatures = yes
 | temp_name1 = 1 bar
 | min_temp_1 =
 | mean_temp_1 = 134&nbsp;[[Kelvin|K]]
 | max_temp_1 =
-| temp_name2 = 0.1 bar
+| temp_name2 = 0,1 bar
 | min_temp_2 =
 | mean_temp_2 = 84&nbsp;K
 | max_temp =
 | atmosphere = yes
 | atmosphere_ref = 
-| scale_height = 59.5&nbsp;km
 | atmosphere_composition =
 <table>
  <tr><td>~96%  </td><td>[[heidrogénio]] (H<sub>2</sub>)</td></tr>
  <tr><td> ~3%  </td><td>[[hélio]]</td></tr>
- <tr><td>~0.4% </td><td>[[metano]]</td></tr>
- <tr><td>~0.01%</td><td>[[amónia]]</td></tr>
- <tr><td>~0.01%</td><td>[[heidrogénio deutério]] (HD)</td></tr>
- <tr><td>0.0007%</td><td>[[etano]]</td></tr>
+ <tr><td>~0,4% </td><td>[[metano]]</td></tr>
+ <tr><td>~0,01%</td><td>[[amónia]]</td></tr>
+ <tr><td>~0,01%</td><td>[[heidrogénio deutério]] (HD)</td></tr>
+ <tr><td>0,0007%</td><td>[[etano]]</td></tr>
  <tr><td>'''Carambelos''':</td><td> </td></tr>
  <tr><td> </td><td>[[amónia]]</td></tr>
  <tr><td> </td><td>[[auga]]</td></tr>
@@ -117,7 +117,7 @@
 }}
 
 
-'''Saturno''' ye l sesto [[planeta]] de l [[Sistema Solar]] cun ua [[órbita]] antre las órbitas de [[Júpiter (planeta)|Júpiter]] i [[Ourano]]. Ye l segundo maior planeta apuis de Júpiter, sendo un de ls [[planetas gigantes]] de l [[Sistema Solar]], mas l de menor [[densidade]], tanto que se eisistisse un [[ouceano]] grande l bastante, Saturno flutuarie nel. Sou aspeto más caratelístico ye sou brilhante sistema de anielhos, l solo besible de la [[Tierra]]. Sou nome probén de ls dius romano Saturno. Faç parte de ls chamados planetas steriores.
+'''Saturno''' ye l sesto [[planeta]] de l [[Sistema Solar]] cun ua [[órbita]] antre las órbitas de [[Júpiter (planeta)|Júpiter]] i [[Ourano (planeta)|Ourano]]. Ye l segundo maior planeta apuis de Júpiter, sendo un de ls [[planetas gigantes]] de l [[Sistema Solar]], mas l de menor [[densidade]], tanto que se eisistisse un [[ouceano]] grande l bastante, Saturno flutuarie nel. Sou aspeto más caratelístico ye sou brilhante sistema de anielhos, l solo besible de la [[Tierra]]. Sou nome probén de ls dius romano Saturno. Faç parte de ls chamados planetas steriores.
 
 Saturno ye un [[planeta gasoso]], percipalmente cumpuosto de [[heidrogénio]] (97%), cun ua pequeinha porporçon de [[hélio]] i outros eilemientos. Sou anterior cunsiste dun pequeinho núcleo rochoso i carambelo, cercado por ua spessa camada de heidrogénio metálico i ua camada sterna de gases. La atmosfera sterna ten ua aparéncia suabe, ambora la belocidade de l aire an Saturno puoda chegar a 1.800&nbsp;km/h, seneficatibamente tan rápido cumo ls de Júpiter, mas nun tan rápidos cumo ls de [[Netuno (planeta)|Netuno]]. Saturno ten un campo magnético planetário antermediário antre las fuorças de la Tierra i l poderoso campo al redror de Júpiter.
 
@@ -130,7 +130,7 @@ Ten un númaro eilebado de [[satélite]]s, 60 çcubiertos até anton, de ls qual
 Saturno ye un [[sferóide]] oublato, sous diámetros polar i eiquatorial barian por quaije 10% (120.536 [[kn]] contra 108.728&nbsp;km). Este ye l resultado de sue rápida rotaçon. Na linha de l eiquador ye notable ua pequeinha saliéncia, debido la belocidade de rotaçon. Ls outros planetas gasosos tamien son oublatos, mas nun menor grau. Saturno ye l solo de l sistema solar que ye menos denso que la auga, cun ua densidade specífica de 0.69. Esta ye ua média; la atmosfera superior de Saturno ye menos densa i sou núcleo cunsidrablemente más denso que la auga.
 
 == Ourige de l nome ==
-Debido la sue posiçon orbital más loinge que [[Júpiter (planeta)|Júpiter]] ls [[Roma Antiga|antigos romanos]] l outorgórun l nome de l pai de ls dius [[Júpiter]] al planeta Saturno. Na mitologie romana, [[Saturno (mitologie)|Saturno]] era eiquibaliente de l antigo [[Titanas|titana]] [[mitologie griega|griego]] [[Cronos]]. Cronos era filho de [[Ourano]] i [[Gaia (mitologie)|Gaia]] i gobernaba l mundo de ls diuses i de ls homes deborando sous filhos al nacéren por que ua profecie dezie que sous filhos l çtronarian. Zeus, cunseguiu se squibar deste çtino i derrotou sou pai cumbertindo-se ne l dius supremo.
+Debido la sue posiçon orbital más loinge que [[Júpiter (planeta)|Júpiter]] ls [[Roma Antiga|antigos romanos]] l outorgórun l nome de l pai de ls dius [[Júpiter (mitologie)|Júpiter]] al planeta Saturno. Na mitologie romana, [[Saturno (mitologie)|Saturno]] era eiquibaliente de l antigo [[Titanas|titana]] [[mitologie griega|griego]] [[Cronos]]. Cronos era filho de [[Ourano (planeta)|Ourano]] i [[Gaia (mitologie)|Gaia]] i gobernaba l mundo de ls diuses i de ls homes deborando sous filhos al nacéren por que ua profecie dezie que sous filhos l çtronarian. Zeus, cunseguiu se squibar deste çtino i derrotou sou pai cumbertindo-se ne l dius supremo.
 
 Ls griegos i romanos, hardórun de l [[sumério]]s sous coincimientos de l cielo, habien stablecido an siete l númaro de astros que se mobian ne l firmamiento: l [[Sol]], la [[Luna]], i ls [[planeta]]s [[Marcúrio (planeta)|Marcúrio]], [[Bénus (planeta)|Bénus]], [[Marte (planeta)|Marte]], Júpiter i Saturno, las streilhas ''errantes'' que orbitában al redror de la [[Tierra]], centro de l [[Ouniberso]]. De ls cinco planetas, Saturno era l de mobimiento más lento, lebando cerca de trinta anhos (29,457 anhos) para cumpletar sue órbita, quaije l triplo que Júpiter (11,862 anhos). An relaçon la Marcúrio, Bénus i Marte la defrença ye mui maior. Saturno se çtacaba por sue lentidon. Se Júpiter era [[Zeus]], Saturno tenerie que ser Cronos, sou pai ancion, que passo a passo perambulaba antre las streilhas.
 
@@ -157,7 +157,7 @@ Assi cumo Júpiter a las bezes fórman-se tempestades de la atmosfera de Saturno
 
 [[Fexeiro:Rotatingsaturnhexagon.gif|thumbnail|180px|squierda|Caratelística nubre heixagonal ne l pólo norte, çcubierta por [[Voyager 1]] i cunfirmada an 2006 por [[Cassini-Huyges|Cassini]]. [http://www.nasa.gov/mission_pages/cassini/media/cassini-20070327.html] [http://www.nasa.gov/mission_pages/cassini/multimedie/pia09188.html]]]
 
-Las regiones polares aperséntan corrientes a 78ºN i a 78ºS. Las sondas [[Voyager]] detetórun ne ls anhos 80 un padron sestabado na region polar norte que fui ouserbado tamien pul [[telscópio spacial Hubble]] de l durante ls anhos 90. Las eimaiges más recentes oubtenidas pula sonda [[Cassini]] amostrórun l bértice polar cun detalhe. Saturno ye l único planeta coincido que ten un bértice polar destas caratelísticas anque ls bértices polares séian quemuns ne ls atmosferas de la [[Tierra]] ó de l [[Bénus]].
+Las regiones polares aperséntan corrientes a 78ºN i a 78ºS. Las sondas [[Voyager]] detetórun ne ls anhos 80 un padron sestabado na region polar norte que fui ouserbado tamien pul [[telscópio spacial Hubble]] de l durante ls anhos 90. Las eimaiges más recentes oubtenidas pula sonda [[Cassini]] amostrórun l bértice polar cun detalhe. Saturno ye l único planeta coincido que ten un bértice polar destas caratelísticas anque ls bértices polares séian quemuns ne ls atmosferas de la [[Tierra]] ó de l [[Bénus (planeta)|Bénus]].
 
 Ne l causo de l heixágono de Saturno ls lados ténen aprossimadamente 13.800&nbsp;km ne l cumprimiento (maior que l diámetro de la tierra) i na strutura cun un período eidéntico la sue rotaçon planetária, ye ua óndia reta que nun demuda de cumprimiento i nin strutura, defrentemente de las demales nubres de la atmosfera. Estes formato an polígono, antre dous i seis lados, puoden ser simulados an laboratório por meio de ls modelos de l líquido na rotaçon de la scala.
 [http://www.nature .com/news/2006/060515/full/060515-17.html] [http://www.physorg .com/news66924222.html]
@@ -169,7 +169,7 @@ Ne l cuntrário de l pólo norte, las eimaiges de l pólo sul amostra ua fuorte 
 
 L [[campo magnético]] de Saturno ye mui más fraco que l de [[Júpiter (planeta)|Júpiter]], i sue [[magnetosfera]] ye un tércio de la de Júpiter. La magnetosfera de Saturno cunsiste nun cunjunto de cinturones de radiaçon. Esses cinturones sténden por aprossimadamente 2 milhones de quilómetros de l centro de Saturno, percipalmente, ne l sentido ouposto de l [[Sol]], ambora l tamanho de la magnetosfera barie dependendo de la antensidade de l aire solar (l fluxo de l sol de partículas carregadas). L aire solar i ls satélites i l anielho de Saturno fornecen las partículas eilétricas pa l cinturon. L período de rotaçon an 10 horas, 39 minutos i 25 segundos de l anterior de Saturno fui medido pula [[Voyager 1]] quando cruzou la magnetosfera, que gira an forma assíncrona cul anterior de Saturno. La magnetosfera anterage cula eionosfera, la camada superior de la atmosfera de Saturno, causando eimissones de ouroras de [[radiaçon ultrabioleta]].
 
-Nas prossimidades de la órbita de [[Titana]] i stendendo até la órbita de [[Reia (satélite)|Reia]], se ancontra ua grande nubre de átomos de l heidrogénio neutro. Cumo un disco [[plasma]], cumpuosto de l heidrogénio i possiblemente de íones de ouxigénio, stendendo de la órbita de [[Tétis (satélite)|Tétis]] até las prossimidades de la órbita de Titana. L plasma gira an quaije purfeitamente assíncrona cul campo magnético de Saturno.
+Nas prossimidades de la órbita de [[Titana (satélite)|Titana]] i stendendo até la órbita de [[Reia (satélite)|Reia]], se ancontra ua grande nubre de átomos de l heidrogénio neutro. Cumo un disco [[plasma]], cumpuosto de l heidrogénio i possiblemente de íones de ouxigénio, stendendo de la órbita de [[Tétis (satélite)|Tétis]] até las prossimidades de la órbita de Titana. L plasma gira an quaije purfeitamente assíncrona cul campo magnético de Saturno.
 
 == Órbita ==
 Saturno ruoda al redror de l [[Sol]] nua çtáncia média de 1.418 milhones de quilómetros nua órbita de scentricidade 0.056, cun un [[afélio]] a 1.500 milhones quilómetros i l [[perélio]] a 1.240 milhones quilómetros. Saturno stubo ne l perélio an 1974. L período de la rotaçon an torno de l sol cumpleta la cada 29 anhos i 167 dies, bisto que sou [[Período sinódico]] se rializa de 378 dies, de modo que, la cada anho la ouposiçon acuntece cun quaije dues sumanas de atraso an relaçon al anho anterior. L período de traslaçon an sou eixe ye cúrtio, de 10 horas, 14 minutos, cun alguas bariaçones antre l eiquador i ls pólos.
@@ -188,21 +188,21 @@ Ls anielhos puoden demudar de quelor.
 {{Ber artigo percipal|[[Satélites de Saturno]]}}
 
 Saturno ten un grande númaro de satélites ó lunas, l maior que todos ls demales planetas. Ls sous maiores satélites, coincidos antes de l ampeço de la sploraçon spacial, son:
-[[Mimas]], [[Ancélado]], [[Tétis (satélite)|Tétis]], [[Dione]], [[Reia (satélite)|Reia]], [[Titana]], [[Heiperion]], [[Jápeto (satélite)|Jápeto]] i [[Febe (satélite)|Febe]]. 
+[[Mimas (satélite)|Mimas]], [[Ancélado (satélite)|Ancélado]], [[Tétis (satélite)|Tétis]], [[Dione (satélite)|Dione]], [[Reia (satélite)|Reia]], [[Titana (satélite)|Titana]], [[Heiperion (satélite)|Heiperion]], [[Jápeto (satélite)|Jápeto]] i [[Febe (satélite)|Febe]]. 
 
-La [[sonda Cassini-Huyges]] an júnio de 2004 fotografou l que son cunsidrados más dous satélites de Saturno, que fúrun batizados de [[Methone]] i [[Pallene]]. A 1 de Maio de 2005, un terceiro satélite natural fui çcubierto na [[Falha de Keler]] (un anterbalo eisistente ne l Anielho La de Saturno), i fui temporariamente zeignado de S/2005 S 1. L outro satélite eisistente drento de l sistema de anielhos de Saturno ye [[Pan (satélite)|Pana]]. 
+La [[sonda Cassini-Huyges]] an júnio de 2004 fotografou l que son cunsidrados más dous satélites de Saturno, que fúrun batizados de [[Methone (satélite)|Methone]] i [[Pallene (satélite)|Pallene]]. A 1 de Maio de 2005, un terceiro satélite natural fui çcubierto na [[Falha de Keler]] (un anterbalo eisistente ne l Anielho La de Saturno), i fui temporariamente zeignado de S/2005 S 1. L outro satélite eisistente drento de l sistema de anielhos de Saturno ye [[Pana (satélite)|Pana]]. 
 
-[[Ancélado (satélite)|Ancélado]] i [[Titana]] son mundos specialmente antressantes pa ls cientistas planetários, purmeiramente pula eisisténcia de auga líquida la pouca perfundidade de sue superfice, cula eimisson de oupor de la auga [[geyser]]. An segundo porque ten ua atmosfera rica de l metano, bien similar la de la tierra primitiba.
+[[Ancélado (satélite)|Ancélado]] i Titana son mundos specialmente antressantes pa ls cientistas planetários, purmeiramente pula eisisténcia de auga líquida la pouca perfundidade de sue superfice, cula eimisson de oupor de la auga [[geyser]]. An segundo porque ten ua atmosfera rica de l metano, bien similar la de la tierra primitiba.
 
 L sistema de satélites maiores de Saturno, que bai até [[Jápeto (satélite)|Jápeto]], se spalha por cerca de 3,5 milhones de kn, anquanto [[Febe (satélite)|Febe]], un satélite menor, faç parte dun sistema de satélites eirregulares sternos i stan a cerca de 12,9 milhones de km de l planeta.
 
 == Sploraçon spacial de Saturno ==
 
-Bisto de la [[tierra]], Saturno aparece cumo un oubjeto amarelhado, un de l más brilhantes ne l cielo noturno. Ouserbado atrabeç de [[telscópio]], l anielho A i l B son bistos facilmente, inda assi, ls anielhos D i E son bistos solamente an ótimas cundiçones atmosféricas. Cun telscópios de grande sensiblidade situados na [[Tierra]] puode çtinguir la nubrina gasosa que ambolbe Saturno, de l pálidos cinturones i de las struturas de faixas paralelas al [[eiquador]].
+Bisto de la [[Tierra]], Saturno aparece cumo un oubjeto amarelhado, un de l más brilhantes ne l cielo noturno. Ouserbado atrabeç de [[telscópio]], l anielho A i l B son bistos facilmente, inda assi, ls anielhos D i E son bistos solamente an ótimas cundiçones atmosféricas. Cun telscópios de grande sensiblidade situados na Tierra puode çtinguir la nubrina gasosa que ambolbe Saturno, de l pálidos cinturones i de las struturas de faixas paralelas al [[eiquador]].
 
 Trés nabes spaciales norte-amaricanas ampliórun einormemente l coincimiento de l sistema de Saturno: la sonda [[Porgrama Pioner|Pionner 11]], la [[Voyager 1]] i la [[Voyager 2|2]], que subrebou l planeta an setembre [[1979]], nobembre de [[1980]] i an agosto de [[1981]], respetibamente. Estas nabes spaciales lebórun cámaras i strumientos para analisar las antensidades i las polarizaçones de las radiaçones nas regiones bisibles, ultrabioletas, anfraburmelhas i de l spetrun eiletromagnético. Fúrun eiquipados tamien cun ls strumientos pa l studo de ls campos magnéticos i para la deteçon de partículas carregadas i granos de la polareda anterplanetária.
 
-An outubre de [[1997]] fui lançada la [[sonda special]] [[sonda Cassini-Huyges|Cassini]], cun çtino a Saturno, que ancluiu tamien la sonda [[sonda Cassini-Huyges|Huyges]] para splorar [[Titana]], ua de las lunas de l planeta. Sendo un porjeto de grande antressar de la [[NASA]] an colaboraçon cula [[Agéncia Spacial Ouropéia]] i la [[Agéncia Espacial Eitaliana]]. Apuis dua biaige de quaije siete anhos, stá prebisto que la [[Cassini]] recuolha dados an Saturno i an sous satélites durante quatro anhos. An outubre de [[2002]] la sonda oubtebe sue purmeira retrato de l planeta, tomada a ua çtáncia de 285 milhones quilómetros, na qual aparece tamien [[Titana]]. An júnio de [[2004]] la Cassini bolou subre [[Febe]], outro satélite de Saturno (l más afastado), oubtendo eimaiges spetaculares de sue superfice, repleta de crateras. An júlio de l mesmo anho, la sonda antrou na órbita de Saturno. An janeiro de [[2005]] la sonda Huyges cruzou la atmosfera de [[Titana]] i alcançou sue superfice, ambiando dados para tierra i eimaiges de l antresse satélite.
+An outubre de [[1997]] fui lançada la [[sonda special]] [[sonda Cassini-Huyges|Cassini]], cun çtino a Saturno, que ancluiu tamien la sonda [[sonda Cassini-Huyges|Huyges]] para splorar [[Titana (satélite)|Titana]], ua de las lunas de l planeta. Sendo un porjeto de grande antressar de la [[NASA]] an colaboraçon cula [[Agéncia Spacial Ouropéia]] i la [[Agéncia Espacial Eitaliana]]. Apuis dua biaige de quaije siete anhos, stá prebisto que la [[Cassini]] recuolha dados an Saturno i an sous satélites durante quatro anhos. An outubre de [[2002]] la sonda oubtebe sue purmeira retrato de l planeta, tomada a ua çtáncia de 285 milhones quilómetros, na qual aparece tamien Titana. An júnio de [[2004]] la Cassini bolou subre [[Febe]], outro satélite de Saturno (l más afastado), oubtendo eimaiges spetaculares de sue superfice, repleta de crateras. An júlio de l mesmo anho, la sonda antrou na órbita de Saturno. An janeiro de [[2005]] la sonda Huyges cruzou la atmosfera de Titana i alcançou sue superfice, ambiando dados para tierra i eimaiges de l antresse satélite.
 
 [[Fexeiro:Cassini Saturn Orbit Insertion.jpg|dreita|thumbnail|300px|Cuncepçon artística de la manobra orbital de la misson de [[sonda Cassini-Huyges|Cassini/Huyges]] i de sue passaige puls anielhos de l planeta.]]
 
@@ -210,8 +210,8 @@ Datas amportantes na ouserbaçon i na sploraçon de Saturno:
 * [[1610]] [[Galileu Galilei]] ouserba atrabeç de sou telscópio l anielho de Saturno.
 * [[1655]] Titana fui çcubierto pul astrónomo houlandés [[Christiaan Huyges]].
 * [[1659]] Huyges ouserba cun maior claridade ls anielhos de Saturno i çcribe sue berdadeira aparéncia.
-* [[1789]] Las lunas [[Mimas]] i [[Ancélado]] son çcubiertas por [[Willian Heirschel]].
-* [[1980]] Acelerada pul campo grabitacional de Júpiter, la sonda [[Voyager 1]] alcança Saturno an [[12 de nobembre]] a ua çtáncia de 124.200 quilómetros. Nesta oucasion çcubriu struturas cumplexas ne l sistema de anielhos de l planeta i oubtubo dados de la [[atmosfera]] de Saturno i sue maior [[luna]], [[Titana]] a ua çtáncia de menos de 6500 quilómetros.
+* [[1789]] Las lunas [[Mimas (satélite)|Mimas]] i [[Ancélado (satélite)|Ancélado]] son çcubiertas por [[Willian Heirschel]].
+* [[1980]] Acelerada pul campo grabitacional de Júpiter, la sonda [[Voyager 1]] alcança Saturno an [[12 de nobembre]] a ua çtáncia de 124.200 quilómetros. Nesta oucasion çcubriu struturas cumplexas ne l sistema de anielhos de l planeta i oubtubo dados de la [[atmosfera]] de Saturno i sue maior [[luna]], [[Titana (satélite)|Titana]] a ua çtáncia de menos de 6500 quilómetros.
 * [[1982]] La sonda [[Voyager 2]] aprossima de Saturno.
 * [[2004]] La [[sonda Cassini-Huyges]] alcança Saturno. Trasformando-se ne l purmeiro beiclo spacial a orbitar l planeta loinge i an aprossima-se de sous anielhos. La misson de spácio stá porgrama para cuncluir ne l final de l anho [[2009]].
 
@@ -235,9 +235,173 @@ Saturno fui coincido tamien cumo Φαίνων (''Faínon'') puls [[griegos]].
 
 == {{Ber tamien}} ==
 * [[Satélites de Saturno]]
-* [[anielhos de Saturno]]
+* [[Anielhos de Saturno]]
 * [[Saturno (mitologie)]]
 
 [[Catadorie:Planetas]]
 [[Catadorie:Saturno]]
 [[Catadorie:Sistema Solar]]
+
+
+[[af:Saturnus]]
+[[als:Saturn (Planet)]]
+[[am:ማህፈድ]]
+[[ang:Sætern (tungol)]]
+[[ar:زحل]]
+[[an:Saturno (planeta)]]
+[[frp:Saturno (planèta)]]
+[[as:শনি গ্ৰহ]]
+[[ast:Saturnu (planeta)]]
+[[gn:Satuyno]]
+[[az:Saturn (planet)]]
+[[bn:শনি গ্রহ]]
+[[zh-min-nan:Thó͘-chheⁿ]]
+[[map-bms:Saturnus]]
+[[ba:Сатурн (планета)]]
+[[be:Планета Сатурн]]
+[[be-x-old:Сатурн (плянэта)]]
+[[bg:Сатурн (планета)]]
+[[bar:Saturn (Planet)]]
+[[bo:སྤེན་པ།]]
+[[bs:Saturn]]
+[[br:Sadorn (planedenn)]]
+[[ca:Saturn (planeta)]]
+[[cv:Сатурн]]
+[[cs:Saturn (planeta)]]
+[[co:Saturnu]]
+[[cy:Sadwrn (planed)]]
+[[da:Saturn (planet)]]
+[[de:Saturn (Planet)]]
+[[en:Saturn]]
+[[nv:Séetin]]
+[[et:Saturn]]
+[[el:Κρόνος (πλανήτης)]]
+[[eml:Satûren]]
+[[es:Saturno (planeta)]]
+[[eo:Saturno (planedo)]]
+[[ext:Saturnu (praneta)]]
+[[eu:Saturno (planeta)]]
+[[fa:زحل]]
+[[hif:Sanigrah]]
+[[fo:Saturn]]
+[[fr:Saturne (planète)]]
+[[fy:Saturnus]]
+[[ga:Satarn (pláinéad)]]
+[[gv:Sarn (planaid)]]
+[[gd:Satarn]]
+[[gl:Saturno]]
+[[gan:土星]]
+[[gu:શનિ (ગ્રહ)]]
+[[xal:Бемб һариг]]
+[[ko:토성]]
+[[haw:Makulu]]
+[[hy:Սատուրն (մոլորակ)]]
+[[hi:शनि (ग्रह)]]
+[[hr:Saturn (planet)]]
+[[io:Saturno]]
+[[ilo:Saturno]]
+[[id:Saturnus]]
+[[ia:Saturno (planeta)]]
+[[os:Сатурн (планетæ)]]
+[[zu:USatureni]]
+[[is:Satúrnus (reikistjarna)]]
+[[it:Saturno (astronomia)]]
+[[he:שבתאי]]
+[[jv:Saturnus]]
+[[kn:ಶನಿ (ಗ್ರಹ)]]
+[[pam:Saturn]]
+[[ka:სატურნი (პლანეტა)]]
+[[csb:Saturna]]
+[[kk:Қоңырқай (ғаламшар)]]
+[[kw:Sadorn (planet)]]
+[[sw:Zohali]]
+[[kv:Сатурн]]
+[[ht:Satin]]
+[[ku:Keywan]]
+[[ky:Сатурн]]
+[[lez:Сатурн]]
+[[la:Saturnus (planeta)]]
+[[lv:Saturns (planēta)]]
+[[lb:Saturn (Planéit)]]
+[[lt:Saturnas]]
+[[lij:Satûrno (astrònomia)]]
+[[li:Saturnus (planeet)]]
+[[ln:Saturne]]
+[[jbo:saturn]]
+[[hu:Szaturnusz]]
+[[mk:Сатурн (планета)]]
+[[ml:ശനി]]
+[[mt:Saturnu (pjaneta)]]
+[[mr:शनी ग्रह]]
+[[arz:زحل]]
+[[mzn:زحل]]
+[[ms:Zuhal]]
+[[mdf:Сатурн (шары тяште)]]
+[[mn:Санчир]]
+[[my:စနေဂြိုဟ်]]
+[[nah:Tzitzimicītlalli]]
+[[nl:Saturnus (planeet)]]
+[[nds-nl:Saturnus (planeet)]]
+[[ne:शनिग्रह]]
+[[ja:土星]]
+[[frr:Saturnus]]
+[[no:Saturn]]
+[[nn:Planeten Saturn]]
+[[nov:Saturne (planete)]]
+[[oc:Saturne (planeta)]]
+[[or:ଶନି]]
+[[uz:Saturn]]
+[[pa:ਸ਼ਨੀ ਗ੍ਰਹਿ]]
+[[pnb:زحل]]
+[[ps:زحل]]
+[[km:ភពសៅរ៍]]
+[[pms:Saturn (pianeta)]]
+[[nds:Saturn (Planet)]]
+[[pl:Saturn]]
+[[pt:Saturno (planeta)]]
+[[ksh:Saturn]]
+[[ro:Saturn]]
+[[rm:Saturn (planet)]]
+[[qu:Hawcha]]
+[[rue:Сатурн]]
+[[ru:Сатурн]]
+[[sah:Сатурн]]
+[[se:Saturnus]]
+[[sa:शनिः]]
+[[stq:Saturn]]
+[[sq:Saturni]]
+[[scn:Saturnu (pianeta)]]
+[[si:සෙනසුරු (තාරකාවේදය)]]
+[[simple:Saturn (planet)]]
+[[sk:Saturn]]
+[[sl:Saturn]]
+[[szl:Saturn]]
+[[so:Raage]]
+[[ckb:هەسارەی کەیوان]]
+[[sr:Сатурн]]
+[[sh:Saturn (planeta)]]
+[[su:Saturnus]]
+[[fi:Saturnus]]
+[[sv:Saturnus]]
+[[tl:Saturno (planeta)]]
+[[ta:சனி (கோள்)]]
+[[tt:Сатурн (планета)]]
+[[th:ดาวเสาร์]]
+[[tg:Зуҳал]]
+[[chr:ᏌᏓᏂ]]
+[[tr:Satürn]]
+[[uk:Сатурн (планета)]]
+[[ur:زحل]]
+[[ug:ساتۇرن]]
+[[vi:Sao Thổ]]
+[[vo:Saturn]]
+[[fiu-vro:Saturn]]
+[[zh-classical:土星]]
+[[war:Saturno]]
+[[wuu:土星]]
+[[yi:סאטורן]]
+[[yo:Sátúrnù]]
+[[zh-yue:土星]]
+[[diq:Saturn]]
+[[bat-smg:Satorns]]
+[[zh:土星]]
