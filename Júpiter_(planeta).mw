@@ -3,74 +3,76 @@
 | symbol = [[File:Jupiter symbol.svg|25px|Astronomical symbol of Jupiter]]
 | image = [[File:Jupiter by Cassini-Huygens.jpg|260px]]
 | caption = Eimaige cumpuosta de Júpiter tirada pula [[Cassini–Huygens|Cassini]]. La mancha scura ye la selombra de [[Ouropa (satélite)|Ouropa]].
+| bgcolour = #c0c0ff
+
 | orbit_ref =
-| aphelion = {{convert|816520800|km|AU|abbr=on}}
-| perihelion = {{convert|740573600|km|AU|abbr=on}}
-| semimajor = {{convert|778547200|km|AU|abbr=on}}
-| eccentricity = 0.048775
+| aphelion = 816.520.800 km <br/>5,458104 AU
+| perihelion = 740.573.600 km <br/>4,950429 AU
+| semimajor = 778.547.200 km <br/>5,204267 AU
+| eccentricity = 0,048775
 | inclination =
   {{plainlist |
-* 1.305° al [[elítica]]
-* 6.09° al eiquador de l [[Sol]]
-* 0.32° al [[praino ambariable ]]
+* 1,305° al [[elítica]]
+* 6,09° al eiquador de l [[Sol]]
+* 0,32° al [[praino ambariable ]]
   }}
-| asc_node = 100.492°
-| arg_peri = 275.066°
-| mean_anomaly = 18.818°
+| asc_node = 100,492°
+| arg_peri = 275,066°
+| mean_anomaly = 18,818°
 | period =
   {{plainlist |
-* 4,332.59&nbsp;[[die]]s
-* 11.8618&nbsp;[[anho]]s
-* 10,475.8 [[Die solar|dies solares]] de Júpiter
+* 4332,59&nbsp;[[die]]s
+* 11,8618&nbsp;[[anho]]s
+* 10.475,8 [[Die solar|dies solares]] de Júpiter
   }}
-| synodic_period = 398.88&nbsp;dies
-| avg_speed = 13.07&nbsp;km/s
+| synodic_period = 398,88&nbsp;dies
+| avg_speed = 13,07&nbsp;km/s
 | satellites = [[Satélites de Júpiter|67]]
 | physical_characteristics = yes
-| flattening = 0.06487 ± 0.00015 <!-- calculated from data in ref name="Seidelmann Archinal A'hearn et al. 2007" -->
+| flattening = 0,06487 ± 0,00015 <!-- calculated from data in ref name="Seidelmann Archinal A'hearn et al. 2007" -->
 | equatorial_radius =
   {{plainlist |
 * 71,492 ± 4&nbsp;km
-* 11.209 [[Tierra]]s
+* 11,209 [[Tierra]]s
   }}
 | polar_radius =
   {{plainlist |
 * 66,854 ± 10&nbsp;km
-* 10.517&nbsp;Tierras
+* 10,517&nbsp;Tierras
   }}
 | mean_radius = 69,911 ± 6&nbsp;km
 | surface_area =
   {{plainlist |
-* 6.1419×10<sup>10</sup>&nbsp;km<sup>2</sup>
-* 121.9 Tierras
+* 6,1419 × 10<sup>10</sup>&nbsp;km<sup>2</sup>
+* 121,9 Tierras
   }}
 | volume =
   {{plainlist |
-* 1.4313×10<sup>15</sup>&nbsp;km<sup>3</sup>
-* 1321.3&nbsp;Tierras
+* 14313 × 10<sup>15</sup>&nbsp;km<sup>3</sup>
+* 1321,3&nbsp;Tierras
   }}
 | mass =
   {{plainlist |
-* 1.8986×10<sup>27</sup>&nbsp;kg
-* 317.8&nbsp;Tierras
+* 1,8986×10<sup>27</sup>&nbsp;kg
+* 317,8&nbsp;Tierras
 * 1/1047 Sol
    }}
-| density = 1.326&nbsp;g/cm<sup>3</sup>
-| surface_grav = 24.79&nbsp;[[Aceleraçon|m/s<sup>2</sup>]] <br /> 2.528&nbsp;[[Fuorça-g|g]]
-| escape_velocity = 59.5&nbsp;km/s
-| sidereal_day = 9.925&nbsp;h (9 h  55 m 30 s)
-| rot_velocity = 12.6&nbsp;km/s <br /> 45,300&nbsp;km/h
-| axial_tilt = 3.13°
-| albedo = 0.343 ([[Albedo Bond|Bond]]) <br />
-0.52 ([[Albedo geométrico|geométrico]])
-| magnitude = -1.6 to -2.94
-| angular_size = 29.8" — 50.1"
+| density = 1,326&nbsp;g/cm<sup>3</sup>
+| surface_grav = 24,79&nbsp;[[Aceleraçon|m/s<sup>2</sup>]] <br /> 2,528&nbsp;[[Fuorça-g|g]]
+| escape_velocity = 59,5&nbsp;km/s
+| sidereal_day = 9,925&nbsp;h (9h 55m 30s)
+| rot_velocity = 12,6&nbsp;km/s <br /> 45.300&nbsp;km/h
+| axial_tilt = 3,13°
+| albedo = 0,343 ([[Albedo Bond|Bond]]) <br />
+0,52 ([[Albedo geométrico|geométrico]])
+| magnitude = -1,6 to -2,94
+| angular_size = 29,8" — 50,1"
 | temperatures = yes
 | temp_name1 = 1 bar
 | min_temp_1 =
 | mean_temp_1 = 165&nbsp;[[Kelvin|K]]
 | max_temp_1 =
-| temp_name2 = 0.1 bar
+| temp_name2 = 0,1 bar
 | min_temp_2 =
 | mean_temp_2 = 112&nbsp;K
 | max_temp =
@@ -81,19 +83,19 @@
 | atmosphere_composition =
 <table>
 <tr><td>
-89.8±2.0%</td><td>[[hidrogénio]] (H<sub>2</sub>)
+89,8±2,0%</td><td>[[hidrogénio]] (H<sub>2</sub>)
 </td></tr><tr><td>
-10.2±2.0%</td><td>[[hélio]]
+10,2±2,0%</td><td>[[hélio]]
 </td></tr><tr><td>
-~0.3%</td><td>[[metano]]
+~0,3%</td><td>[[metano]]
 </td></tr><tr><td>
-~0.026%</td><td>[[amónia]]
+~0,026%</td><td>[[amónia]]
 </td></tr><tr><td>
-~0.003%</td><td>[[heidrogénio deutério]] (HD)
+~0,003%</td><td>[[heidrogénio deutério]] (HD)
 </td></tr><tr><td>
-0.0006%</td><td>[[etano]]
+0,0006%</td><td>[[etano]]
 </td></tr><tr><td>
-0.0004%</td><td>[[auga]]
+0,0004%</td><td>[[auga]]
 </td></tr><tr><td>
 '''Carambelos''':</td><td>
 </td></tr><tr><td>
@@ -105,14 +107,14 @@
 </td></tr></table>
 }}
 
-'''Júpiter''' ye l maior [[planeta]] de l [[Sistema Solar|sistema solar]], i l quinto a partir de l [[Sol]]. Ye coincido pula [[Grande Mancha Burmeilha]] i puls sous quatro grandes [[Satélites de Júpiter|satélites]]: [[Ganímedes (satélite)|Ganímedes]], [[Ouropa (satélite)|Ouropa]], [[Io]] i [[Calisto (satélite)|Calisto]]. Júpiter ye un de ls planetas de l sistema solar que ténen anielhos.
+'''Júpiter''' ye l maior [[planeta]] de l [[Sistema Solar|sistema solar]], i l quinto a partir de l [[Sol]]. Ye coincido pula [[Grande Mancha Burmeilha]] i puls sous quatro grandes [[Satélites de Júpiter|satélites]]: [[Ganímedes (satélite)|Ganímedes]], [[Ouropa (satélite)|Ouropa]], [[Io (satélite)|Io]] i [[Calisto (satélite)|Calisto]]. Júpiter ye un de ls planetas de l sistema solar que ténen anielhos.
 
 == Panorámica ==
 Júpiter ten 2,5 bezes mais [[massa]] de l que todos ls outros [[planetas]] tomados an cunjunto, de tal forma que l sou [[Centro de grabidade|baricentro]] cul [[Sol]] se lhocaliza arriba de la superfice solar (a 1,068 centeilhas solares de l centro de l [[Sol]]). Ten 318 bezes mais massa de l que la [[Tierra]], un [[diámetro]] 11 bezes superior al terrestre i un [[belume]] 1300 bezes maior que l de la [[Tierra]]. Fui apelhidado por muitos de "streilha falhada". Mesmo assi, i por mais ampressionante que Júpiter seia, yá se çcubriran bários [[planeta stra-solar|planetas stra-solares]] cun massas mui maiores. Por outro lhado, pensa-se que Júpiter tenga un diámetro tan grande cumo ye possible a un planeta cula sue cumposiçon, bisto que adecionar-le mais massa tenerie solo cumo resultado oumentar la cumpresson grabitacional. Nun eisiste ua defeniçon einequíboca de l que çtingue un planeta grande i massibo, cumo Júpiter, dua [[nana castanha]], mas para que fusse ua [[streilha]] Júpiter tenerie de tener cerca de setienta bezes mais massa de l que la que ten.
 
 Júpiter ten tamien la rotaçon mais rápida de todos ls planetas de l [[sistema solar]], l que resulta nun [[ancolhimiento]] facilmente besible atrabeç dun [[telscópio]]. La sue caratelística mais coincida ye probablemente la [[Grande Mancha Burmeilha]], ua [[tempestade]] cun bentos de até 500 km/h. Ye quaije dues bezes maior que la [[Tierra]], i stá atiba hai cerca de 300 anhos. L planeta stá perpetamente cobierto por camadas de [[nubre]]s. Nuobos retratos tiradas pul [[telscópio Hubble]] amóstran ua nuoba mancha burmeilha surgindo próssima a la Grande Mancha Burmeilha.
 
-Júpiter questuma ser l quarto cuorpo mais brilhante ne l cielo (depuis de l [[Sol]], de la [[Lhuna]] i de [[Bénus]]; por bezes, [[Marte]] aparece mais brilhante de l que Júpiter, anquanto outras bezes Júpiter brilha mais de l que Bénus). L planeta ye coincido zde ls tiempos antigos. La çcubierta de [[Galileu Galilei]] an [[1610]] de quatro grandes satélites naturales grabitando al redor de Júpiter, hoije chamados ''satélites galileanos'' ([[Io]], [[Ouropa (satélite)|Ouropa]], [[Ganímedes]] i [[Calisto (satélite)|Calisto]]) fui la purmeira çcubierta de mobimientos de cuorpos ne l spácio aparentemente nun tenendo la [[Tierra]] cumo centro. Este fui l maior punto a fabor de la [[teorie heiliocentrista]] de l mobimiento de l planetas, de [[Nicolau Copérnico]]; ls çcursos de Galileu an fabor de las teories de Copérnico fazírun cun que fusse julgado pula [[Anquesiçon]].
+Júpiter questuma ser l quarto cuorpo mais brilhante ne l cielo (depuis de l [[Sol]], de la [[Lhuna]] i de [[Bénus (planeta)|Bénus]]; por bezes, [[Marte (planeta)|Marte]] aparece mais brilhante de l que Júpiter, anquanto outras bezes Júpiter brilha mais de l que Bénus). L planeta ye coincido zde ls tiempos antigos. La çcubierta de [[Galileu Galilei]] an [[1610]] de quatro grandes satélites naturales grabitando al redor de Júpiter, hoije chamados ''satélites galileanos'' ([[Io (satélite)|Io]], [[Ouropa (satélite)|Ouropa]], [[Ganímedes (satélite)|Ganímedes]] i [[Calisto (satélite)|Calisto]]) fui la purmeira çcubierta de mobimientos de cuorpos ne l spácio aparentemente nun tenendo la [[Tierra]] cumo centro. Este fui l maior punto a fabor de la [[teorie heiliocentrista]] de l mobimiento de l planetas, de [[Nicolau Copérnico]]; ls çcursos de Galileu an fabor de las teories de Copérnico fazírun cun que fusse julgado pula [[Anquesiçon]].
 
 == Caratelísticas físicas ==
 
@@ -123,7 +125,7 @@ Júpiter ye cumpuosto dun centro rochoso relatibamente pequeinho, eimerso an [[h
 [[Fexeiro:PIA04866 modest.jpg|thumb|left|200px|L [[planeta]] Júpiter [[Retrato|retratado]] pula [[sonda spacial]] "[[Sonda Cassini-Huyges|Cassini-Huyges]]".]]
 La atmosfera [[Júpiter|jobiana]] ye cumpuosta de aprossimadamente 86% de [[heidrogénio]], i 14% de [[hélio]] (pul [[númaro atómico]] desses [[átomos]], la cumposiçon atmosférica queda an torno de 76%/24% se cunsidrarmos las massas, ua beç que l heidrogénio ye mais lhebe que l hélio; cun cerca de 1% de la massa cumpuosta por outras sustáncias menos seneficatibas — l anterior de l planeta cuntén mais sustáncias densas, sendo la cumposiçon por buolta de 71%/24%/5%).
 
-La atmosfera apersenta inda traços de [[metano]], [[oupor de auga]], [[amónia]] i sustáncias sólidas. Hai tamien cantidades çprezibles de [[gáç carbónico]], [[etano]], [[gáç sulfídrico]], [[neon]], [[ouxigénio]] i [[alxofre]]. Essa cumposiçon atmosférica ye mui aparecida a la cumposiçon de la [[nebulosa solar]]. L planeta [[Saturno]] ten cumposiçon semelhante, mas [[Ourano]] i [[Netuno]] ténen mui menos heidrogénio i hélio.
+La atmosfera apersenta inda traços de [[metano]], [[oupor de auga]], [[amónia]] i sustáncias sólidas. Hai tamien cantidades çprezibles de [[gáç carbónico]], [[etano]], [[gáç sulfídrico]], [[neon]], [[ouxigénio]] i [[alxofre]]. Essa cumposiçon atmosférica ye mui aparecida a la cumposiçon de la [[nebulosa solar]]. L planeta [[Saturno (planeta)|Saturno]] ten cumposiçon semelhante, mas [[Ourano (planeta)|Ourano]] i [[Netuno (planeta)|Netuno]] ténen mui menos heidrogénio i hélio.
 
 La rotaçon de la atmosfera superior de Júpiter nun ye custante an todos ls sous puntos, un eifeito notado purmeiramente por [[Giobanni Domenico Cassini]] an [[1690]]. La rotaçon de la region polar de la atmosfera de l planeta ye aprossimadamente 5 minutos mais demorada de l que na region eiquatorial de la atmosfera. Para alhá desso, grupos de nubres an defrentes [[latitude]]s méxen-se an defrentes direçones, seguindo las corrientes de aire. La anteraçon desses padrones cunflitantes de circulaçon causa [[tormienta]]s i [[turbuléncia]]. La belocidade de ls aires puode atingir até 600 km/h.
 La camada mais alta de la atmosfera cuntén cristales de [[amónia]] cungelada.
@@ -131,11 +133,11 @@ La camada mais alta de la atmosfera cuntén cristales de [[amónia]] cungelada.
 Juter ten 2,5 mais massa de l que ls outros planetas
 
 === Anéis planetários ===
-Júpiter ten un sistema de anielhos planetários cumpuosto por partículas de polareda cósmica, anque nun tan eibidente cumo [[Saturno]].
+Júpiter ten un sistema de anielhos planetários cumpuosto por partículas de polareda cósmica, anque nun tan eibidente cumo [[Saturno (planeta)|Saturno]].
 
 === Campo magnético ===
 [[Fexeiro:Jupiter gany.jpg|thumb|right|La nabe [[Boyager 1]] tirou esse retrato de l planeta Júpiter an 24 de Janeiro, anquanto staba a ua çtáncia de mais de 40 milhones de quilómetros.]]
-Júpiter ten un [[campo magnético]] mui fuorte. Se el podisse ser anxergado, la eimaige del bisto de la [[Tierra]] tenerie l tamanho cinco bezes maior de l que l disco de la Lhuna chena, anque de la grande çtáncia. La fuorça desse campo atrai un grande fluxo de partículas de radiaçon ne ls [[cinturon de radiaçon|cinturones de radiaçon]] de l planeta, porduzindo tamien un fuorte fluxo de gáç an forma de tubo associado cul satélite [[Io]].
+Júpiter ten un [[campo magnético]] mui fuorte. Se el podisse ser anxergado, la eimaige del bisto de la [[Tierra]] tenerie l tamanho cinco bezes maior de l que l disco de la Lhuna chena, anque de la grande çtáncia. La fuorça desse campo atrai un grande fluxo de partículas de radiaçon ne ls [[cinturon de radiaçon|cinturones de radiaçon]] de l planeta, porduzindo tamien un fuorte fluxo de gáç an forma de tubo associado cul satélite [[Io (satélite)|Io]].
 
 == Sploraçon de Júpiter ==
 [[Fexeiro:Jupiter_180mm_8_megapixel.jpg|thumb|left| Júpiter bisto atrabeç de telscópio doméstico de 180mn i retratado por cámara quemun de 8 megapixel.]]
@@ -163,7 +165,7 @@ Júpiter ten einúmaros satélites naturales an torno de si. An [[15 de Maio]] d
 | colspan="2" | [[Métis (satélite)|Métis]] ||align="center"| 43 ||align="right"| 1.2E+17 ||align="right"| 127 690<sup>(1)</sup> ||align="right"| 0.294780<sup>(2)</sup> ||align="right"| 0.000° ||align="right"| 0.0012
 ! rowspan="4"| Amalteia
 |-
-| colspan="2" | [[Adrasteia]] ||align="center"| 26×20×16 ||align="right"| 7.5E+15 ||align="right"| 128 690<sup>(1)</sup> ||align="right"| 0.29826<sup>(2)</sup> ||align="right"| 0.000° ||align="right"| 0.0018
+| colspan="2" | [[Adrasteia (satélite)|Adrasteia]] ||align="center"| 26×20×16 ||align="right"| 7.5E+15 ||align="right"| 128 690<sup>(1)</sup> ||align="right"| 0.29826<sup>(2)</sup> ||align="right"| 0.000° ||align="right"| 0.0018
 |-
 | colspan="2" | [[Amalteia (satélite)|Amalteia]] ||align="center"| 262×146×134 ||align="right"| 2.1E+18 ||align="right"| 181 170<sup>(1)</sup> ||align="right"| 0.49817905<sup>(2)</sup> ||align="right"| 0.360° ||align="right"| 0.0031
 |-
@@ -188,7 +190,7 @@ Júpiter ten einúmaros satélites naturales an torno de si. An [[15 de Maio]] d
 |-
 | colspan="2" | [[Lisiteia (satélite)|Lisiteia]] ||align="center"| 36 ||align="right"| 6.3E+16 ||align="right"| 11 653 225 ||align="right"| 256.995413 ||align="right"| 25.771° ||align="right"| 0.1132
 |-
-| colspan="2" | [[Eilara]] ||align="center"| 86 ||align="right"| 8.7E+17 ||align="right"| 11 683 115 ||align="right"| 257.984888 ||align="right"| 30.663° ||align="right"| 0.1723
+| colspan="2" | [[Eilara (satélite)|Eilara]] ||align="center"| 86 ||align="right"| 8.7E+17 ||align="right"| 11 683 115 ||align="right"| 257.984888 ||align="right"| 30.663° ||align="right"| 0.1723
 |-
 | colspan="2" | [[S/2000 J 11]] ||align="center"| 4 ||align="right"| 9.0E+13 ||align="right"| 12 570 575 ||align="right"| 287.931046 ||align="right"| 26.169° ||align="right"| 0.2058
 |-
@@ -311,7 +313,7 @@ Júpiter ten einúmaros satélites naturales an torno de si. An [[15 de Maio]] d
 |-
 | colspan="2" | [[Calírroe (satélite)|Calírroe]] ||align="center"| 9 ||align="right"| 8.7E+14 ||align="right"| 24 356 030 ||align="right"| 776.543335 ||align="right"| 131.895° ||align="right"| 0.2644
 |-
-| colspan="2" | [[Megaclite ((satélite)|Megaclite]] ||align="center"| 5 ||align="right"| 2.1E+14 ||align="right"| 24 687 240 ||align="right"| 792.436947 ||align="right"| 143.760° ||align="right"| 0.3078
+| colspan="2" | [[Megaclite (satélite)|Megaclite]] ||align="center"| 5 ||align="right"| 2.1E+14 ||align="right"| 24 687 240 ||align="right"| 792.436947 ||align="right"| 143.760° ||align="right"| 0.3078
 |-
 | colspan="2" | [[S/2003 J 2]] ||align="center"| 2 ||align="right"| 1.5E+13 ||align="right"| 30 290 845 ||align="right"| 1077.018006 ||align="right"| 151.523° ||align="right"| 0.1882
 ! rowspan="1" | ?
