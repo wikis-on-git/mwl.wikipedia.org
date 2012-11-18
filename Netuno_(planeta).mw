@@ -1,113 +1,80 @@
-{| class="nabbox" align=right style="width:325px; text-align:left"
-|+ <big>'''Netuno''' (ó Neptuno) [[Fexeiro:Neptune symbol.svg|20px|{{unicode|♆}}]]</big>
-|-----
-| colspan="2"| [[Fexeiro:neptune.jpg|250px|Netuno, de la Boyager 2|center]]<br /><center><small>Clique na eimaige para çcriçon</small></center>
-|-----
-! bgcolor="#c0ffff" colspan="2" | Çcubierta
-|-----
-! align="left" | Çcubierto por
-| [[Urbain Le Verrier]]<br /> [[John Couch Adams]]<br /> [[Johann Gottfried Galle|Johann Galle]]
-|-----
-! align="left" | Çcubierto an
-| [[23 de setembre]] de [[1846]]<ref name=Hamilton>{{cite web
- | first=Calbin J. | last=Hamilton | date=August 4, 2001
- | url=http://www.solarviews.com/ang/neptune.htm
- | title=Neptune |publisher=Biews of the Solar System
- | acessdate=2007-08-13}}</ref>
-|-----
-! bgcolor="#c0ffff" colspan="2" | Caratelísticas [[Órbita|orbitales]]
-|-----
-! align="left" | [[Centeilha]] médio
-| [[1 E12 m|4.498.252.900]] [[quilómetro|Km]]
-|-----
-! align="left" | [[Scentricidade]]
-| 0,00858587
-|-----
-! align="left" | Período de reboluçon
-| 164[[anhos|a]] 288[[dies|d]] 13[[horas|h]]
-|-----
-! align="left" | [[Período sinódico]]
-| 367,5 dies<ref name="fat">{{cite web
-  | url = http://nssdc.gsfc.nasa.gov/planetary/fatshet/netunefat.html
-  | title = Neptune Fact Sheet
-  | date = Setembre 1, 2004
-  | publisher = NASA | acessdate = 2007-08-14
-  | last = Williams |first = David R. }}</ref>
-|-----
-! align="left" | [[Belocidade orbital média]]
-| 5,4778&nbsp;Km/s
-|-----
-! align="left" | [[Anclinaçon]]
-| 1,76917°
-|-----
-! align="left" | [[Argumiento de l periastro]]
-| 265,646&nbsp;85°
-|-----
-! align="left" | [[Lhongitude de l nuolo ascendente]]
-| 131,794&nbsp;31°
-|-----
-! align="left" | Númaro de [[Satélite natural|satélites]]
-| 13
-|-----
-! bgcolor="#c0ffff" colspan="2" | Caratelísticas físicas
-|-----
-! align="left" | [[Diámetro]] [[Lhinha de l Eiquador|eiquatorial]]
-| [[1 E7 m|49572]] Km
-|-----
-! align="left" | [[Ária]] superfecial
-| [[1 E15 Km²|7,65×10<sup>9</sup>]] [[quilómetro quadrado|Km²]]
-|-----
-! align="left" | [[Massa]]
-| 1,024×10<sup>26</sup> [[kilograma|kg]]
-|-----
-! align="left" | [[Densidade]] média
-| 1,64 g/cn³
-|-----
-! align="left" | [[Grabidade]] na superfice
-| 11,0 [[Aceleraçon|m/s²]]
-|-----
-! align="left" | Período de rotaçon
-| 16h 6,5min
-|-----
-! align="left" | [[Anclinaçon axial]]
-| 29,58°
-|-----
-! align="left" | [[Albedo]]
-| 0,41
-|-----
-! align="left" | [[Belocidade de scape]]
-| 23,71&nbsp;Km/s
-|-----
-! align="left" | [[Temperatura]] superfecial
-|
-{| cellspacing="0" cellpadding="2" border="0" width=100%
-|-----
-! min
-! média
-! máss.
-|-----
-| 50[[Kelbin|K]] || [[1 E1 K|53K]] || N/La K
-|}
-|-----
-! bgcolor="#c0ffff" colspan="2" | Caratelísticas [[Atmosfera|atmosféricas]]
-|-----
-! align="left" | [[Presson atmosférica]]
-| 100-300 [[Pascal|kPa]]
-|-----
-| [[Hidrogénio]] || >84%
-|-----
-| [[Hélio]] || >12%
-|-----
-| [[Metano]] || 2%
-|-----
-| [[Amónia]] || 0,01%
-|-----
-| [[Etano]] || 0,00025%
-|-----
-| [[Acetileno]] || 0,00001%
-|}
+{{Info Planeta
+| name = Netuno
+| symbol = [[File:Neptune symbol.svg|20px|Simblo astronómico de Netuno.]]
+| image = [[File:neptune.jpg|240px|Neptune from Voyager 2]]
+| caption = Netuno bisto de la ''Voyager 2'' cula [[Grande Mancha Scura]] a la squierda
+| discovery = yes
+| discoverer =
+  {{plainlist |
+*[[Urbain Le Verrier]]
+*[[John Couch Adams]]
+*[[Johann Gottfried Galle|Johann Galle]]
+ }}
+| discovered = 23 September 1846
+| orbit_ref =
+| aphelion = 4,553,946,490&nbsp;km <br> 30.44125206&nbsp;[[Astronomical unit|AU]]
+| perihelion = 4,452,940,833&nbsp;km <br> 29.76607095&nbsp;AU
+| semimajor = 4,503,443,661&nbsp;km <br> 30.10366151&nbsp;AU
+| eccentricity = 0.011214269
+| period = 60,190.03&nbsp;[[die]]s <br> 164.79&nbsp;[[anho]]s <br> 89,666 [[Die solar|dies solares]]
+| synodic_period = 367.49&nbsp;die
+| avg_speed = 5.43&nbsp;km/s
+| inclination = 1.767975° al [[elítica]] <br> 6.43° al eiquador solar <br> 0.72° to [[praino ambariable]]
+| asc_node = 131.794310°
+| arg_peri = 265.646853°
+| mean_anomaly = 267.767281°
+| satellites = [[Satélites de Netuno|13]]
+| physical_characteristics = yes
+| flattening = 0.0171 ± 0.0013 <!-- calculated from data in ref name="Seidelmann Archinal A'hearn et al. 2007" -->
+| equatorial_radius = 24,764 ± 15&nbsp;km <br> 3.883 Tierras
+| polar_radius = 24,341 ± 30&nbsp;km <br> 3.829 Tierras
+| surface_area = 7.6183{{e|9}}&nbsp;km<sup>2</sup> <br> 14.98 Tierras
+| volume = 6.254{{e|13}}&nbsp;km<sup>3</sup> <br> 57.74 Tierras
+| mass = 1.0243×10<sup>26</sup>&nbsp;kg <br> 17.147 Tierras
+| density = 1.638&nbsp;g/cm<sup>3</sup>
+| surface_grav = 11.15&nbsp;[[aceleraçon|m/s<sup>2</sup>]] <br> 1.14&nbsp;[[Fuorça-g|''g'']]
+| escape_velocity = 23.5&nbsp;km/s
+| sidereal_day = 0.6713&nbsp;die <br> 16&nbsp;h 6&nbsp;m 36&nbsp;s
+| rot_velocity = 2.68&nbsp;km/s <br> 9,660&nbsp;km/h
+| axial_tilt = 28.32°
+| albedo = 0.290 ([[Albedo Bond|Bond]]) <br>
+0.41 ([[Albedo geométrico|geométrico]])
+| magnitude = 8.02 to 7.78
+| angular_size = 2.2–2.4″
+| temperatures = yes
+| temp_name1 = 1 bar
+| min_temp_1 =
+| mean_temp_1 = 72&nbsp;[[Kelvin|K]]
+| max_temp_1 =
+| temp_name2 = {{convert|0.1|bar|kPa|abbr=on}}
+| min_temp_2 =
+| mean_temp_2 = 55&nbsp;K
+| max_temp =
+| atmosphere = yes
+| atmosphere_ref =
+| scale_height = 19.7&nbsp;±&nbsp;0.6&nbsp;km
+| atmosphere_composition =
+<table>
+<tr><td>
+80±3.2%</td><td>[[heidrogénio]] (H<sub>2</sub>)
+</td></tr><tr><td>
+19±3.2%</td><td>[[hélio]] (He)
+</td></tr><tr><td>
+1.5±0.5%</td><td>[[metano]] (CH<sub>4</sub>)
+</td></tr><tr><td>
+~0.019%</td><td>[[heidrogénio deutério]] (HD)
+</td></tr><tr><td>
+~0.00015%</td><td>[[etano]] (C<sub>2</sub>H<sub>6</sub>)
+</td></tr><tr><td colspan=2>
+'''Carambelos''':
+* [[amónia]] (NH<sub>3</sub>)
+* [[auga]] (H<sub>2</sub>O)
+* [[heidrosulfido d'amónia]] (NH<sub>4</sub>SH)
+* metano (?)
+</td></tr></table>
+}}
 
-'''Netuno''' (ó Neptuno) ye l'uitabo [[planeta]] de l [[Sistema Solar]], i l redadeiro, an orde d'afastamiento a partir de l [[Sol]], zde la reclassificaçon de [[Pluton]] pa la catadorie de [[planeta-nano]]. Netuno recebiu l nome de l [[Netuno (mitologie)|dius romano de ls mares]].
+'''Netuno''' (ó Neptuno) ye l'uitabo [[planeta]] de l [[Sistema Solar]], i l redadeiro, an orde d'afastamiento a partir de l [[Sol]], zde la reclassificaçon de [[Pluton (planeta nano)|Pluton]] pa la catadorie de [[planeta-nano]]. Netuno recebiu l nome de l [[Netuno (mitologie)|dius romano de ls mares]].
 Ye l quarto maior planeta an [[diámetro]], i l terceiro maior an [[massa]]. Netuno ten 17 bezes la massa de la [[Tierra]] i ye lhigeiramente mais maciço de l que [[Ourano (planeta)|Ourano]], que ten cerca de 15 bezes la massa de la Tierra i ye menos denso.<ref name=mass>La massa de la Tierra ye
 5,9736{{i|24}}&nbsp;kg, dando ua rezon antre massas de:
 :<math>\begin{smallmatrix}\frac{M_{Netuno}}{M_{Tierra}}
@@ -190,7 +157,7 @@ Ls zeinhos astronómicos de [[Galileu Galilei|Galileu]] mostran qu'el ouserbou N
  | title=Planets Beyond: Çcobering the Outer Solar Systen
  | year=2004 | publisher=Courier Dober Publicationes
  | isbn=0-4864-3602-0 }}</ref>
-v hgdfgxcfdy
+
 === La çcubierta ===
 An [[1821]], [[Aleisis Boubard]] publicou tabelas astronómicas de la [[órbita]] de l bezino de Netuno, Ourano.<ref>{{cite bok
  | first=La. | last=Boubard | year=1821
@@ -263,7 +230,7 @@ An [[29 de dezembre]] de [[1846]], [[Friedrich von Strube]] declarou-se publicam
  | year=1847 | journal=Astronomische Nachrichten
  | belume=25 | pages=309 | last=Hind | first=J. R.
  | acessdate=2008-02-18
- |doi=10.1002/asna.18470252102 }} Smithsonian/NASA Astrophysics Data Systen (ADS).</ref> i, an poucos anhos, ''Netuno'' tornou-se l nome anternacionalmente aceito. Na [[mitologie romana]], [[Netuno]] ye l dius de ls mares, eidantificado cul griego [[Poseidon]]. L'uso dun nome mitológico parecie cuncordar cula nomenclatura de ls outros planetas, que fúrun nomeados an houmenaige a diuses romanos.<ref name=USGS>{{cite web
+ |doi=10.1002/asna.18470252102 }} Smithsonian/NASA Astrophysics Data Systen (ADS).</ref> i, an poucos anhos, ''Netuno'' tornou-se l nome anternacionalmente aceito. Na [[mitologie romana]], [[Netuno (mitologie)|Netuno]] ye l dius de ls mares, eidantificado cul griego [[Poseidon]]. L'uso dun nome mitológico parecie cuncordar cula nomenclatura de ls outros planetas, que fúrun nomeados an houmenaige a diuses romanos.<ref name=USGS>{{cite web
  | first=Jennifer | last=Blue | date=December 17, 2008
  | url=http://planetarynames.wr.usgs.gov/append7.html
  | title=Planet and Satellite Names and Discoverers
@@ -272,7 +239,7 @@ An [[29 de dezembre]] de [[1846]], [[Friedrich von Strube]] declarou-se publicam
 === De 1850 als dies d'hoije ===
 [[Fexeiro:William Lassell.jpg|thumb|left|150 px|[[William Lassell]]]]
 
-Yá an [[10 d'outubre]] de [[1846]], 17 dies passado la çcubierta de Netuno, l'astrónomo anglés [[William Lassell]] çcubriu l sou percipal [[satélite natural|satélite]], [[Triton]].<ref name="LhassellDiscobery">{{cite journal
+Yá an [[10 d'outubre]] de [[1846]], 17 dies passado la çcubierta de Netuno, l'astrónomo anglés [[William Lassell]] çcubriu l sou percipal [[satélite natural|satélite]], [[Triton (satélite)|Triton]].<ref name="LhassellDiscobery">{{cite journal
  | title = Lhassell's Satellite of Neptune
  | outhor= William Lassell
  | year = 1847
@@ -303,7 +270,7 @@ Debido a la sue grande çtáncia, pouco se sabie subre Netuno, pul menos até la
 An agosto de [[1989]], l coincimiento subre Netuno tubo un grande salto quando de la purmeira sonda outomática ambiada para splorar ls antornos de l planeta, la [[Voyager 2]]. La sonda eidantificou amportantes detalhes de l'atmosfera de l planeta, cunfirmou l'eisisténcia de cinco anielhos i detetou nuobas lhunas para alhá de las yá çcubiertas na Tierra.
 
 == Caratelísticas físicas ==
-Cun ua massa de 1,0243{{i|26}}&nbsp;[[quilograma|kg]],<ref name="fat"/> Netuno ye un cuorpo antermediairo antre la [[Tierra]] i ls [[gigante gasoso|gigantes gasosos]] maiores: la sue massa ye zassiete bezes la de la Tierra, mas solamente un zenuobe abos a de Júpiter<ref name=mass/>. Netuno i [[Ourano]] son giralmente cunsidrados cumo ua subclasse de ls gigantes gasosos chamada "gigantes de [[carambelo]]", debido al sou menor tamanho i maior cuncentraçon de sustáncias [[bolátile|bolateles]] an relaçon la [[Júpiter]] i [[Saturno]].<ref>Ber, por eisemplo: {{cite journal
+Cun ua massa de 1,0243{{i|26}}&nbsp;[[quilograma|kg]],<ref name="fat"/> Netuno ye un cuorpo antermediairo antre la [[Tierra]] i ls [[gigante gasoso|gigantes gasosos]] maiores: la sue massa ye zassiete bezes la de la Tierra, mas solamente un zenuobe abos a de Júpiter<ref name=mass/>. Netuno i [[Ourano (planeta)|Ourano]] son giralmente cunsidrados cumo ua subclasse de ls gigantes gasosos chamada "gigantes de [[carambelo]]", debido al sou menor tamanho i maior cuncentraçon de sustáncias [[bolátile|bolateles]] an relaçon la [[Júpiter (planeta)|Júpiter]] i [[Saturno (planeta)|Saturno]].<ref>Ber, por eisemplo: {{cite journal
  | first=Alan P. | last=Boss
  | title=Formation of gas and ice giant planets
  | journal=Earth and Planetary Science Lhetters
@@ -321,7 +288,7 @@ Orbitando tan lhoinge de l [[Sol]], Netuno recibe mui pouca [[calor]]. La sue te
 == Strutura de Netuno ==
 La strutura anterna lhembra la de [[Ourano (planeta)|Ourano]] -- un núcleo rochoso cubierto por ua costra de carambelo, scondida ne l perfundo de sue gruossa atmosfera. Ls dous terços anternos de Netuno son cumpuostos dua mistura de peinha fundida, [[auga]], [[amónia|amónia lhíquida]] i [[metano]]. La terça parte sterior ye ua mistura de [[gáç|gases]] calecidos cumpuosta por [[heidrogénio]], [[hélio]], auga i metano.
 '''[[Fexeiro:Netunoestrutura.jpg‎|350px|thumb|left|Strutura anterna de Netuno]]
-Tal cumo Ourano, la sue cumposiçon ye defrente de la cumposiçon ouniforme de [[Júpiter (planeta)|Júpiter]] i [[Saturno]]. Acradita-se que la strutura anterna de Netuno cunsiste de trés camadas, cumo mostra la figura.
+Tal cumo Ourano, la sue cumposiçon ye defrente de la cumposiçon ouniforme de [[Júpiter (planeta)|Júpiter]] i [[Saturno (planeta)|Saturno]]. Acradita-se que la strutura anterna de Netuno cunsiste de trés camadas, cumo mostra la figura.
 
 La sue atmosfera corresponde a cerca de 5 a 10% de sue massa, stendendo-se de 10 a 20% de l sou raio, adonde atinge pressones de cerca de 10 [[Pascal (ounidade)|GPa]]. Nas regiones mais perfundas de l'atmosfera, ancóntran-se cuncentraçones crecentes de [[metano]], [[amónia]] i auga.<ref name=hubbard/>
 
@@ -347,6 +314,7 @@ L [[Núcleo (geologie)|núcleo planetairo]] de Netuno ye cumpuosto de [[fierro]]
  | doi=10.1016/0032-0633(95)00061-5 }}</ref> La presson ne l centro ye de 7 [[Bar (ounidade)|Mbar]] (700 [[Pascal (ounidade)|GPa]]), milhones de bezes superior a la de la superfice terrestre, i la temperatura puode ser de 5400 K.<ref name=hubbard/><ref name="nettelmann"/>
 
 == Atmosfera ==
+[[Fexeiro:Neptune_clouds.jpg|thumb|left|300 px|Bandas de núbenes d'alta altitude]]
 A altitudes eilebadas, l'atmosfera de Netuno ye formada por 80% de [[heidrogénio]] i 19% de [[hélio]], i traços de metano.<ref name="hubbard"/> Las bandas d'absorçon proeminentes de l metano stan próssimas al [[cumprimiento de óndia]] de 600&nbsp;mm, nas porçones burmeilha i anfrabermelha de l spetro. Assi cumo Ourano, essa absorçon de la luç burmeilha pul metano atmosférico ye, an parte, respunsable pula sue quelor azul caratelística<ref>{{cite web
  | last=Crisp | first=D. | coauthors=Hammel, H. B.
  | date=June 14, 1995
@@ -400,7 +368,7 @@ Ambora nun séian besibles nas retratos de l telscópio spacial Hubble, Netuno f
 Netuno ten 13 lhunas coincidas. La maior deilhas ye [[Triton (satélite)|Triton]], çcubierta por [[William Lassell]] solo 17 dies depuis de la çcubierta de Netuno.
 
 {| border="1" cellspacing="0" cellpadding="2"
-|+ [[Satélites Naturales de Netuno]]
+|+ [[Satélites de Netuno|Satélites Naturales de Netuno]]
 |-----
 ! style="background:#efefef;" | Nome
 ! style="background:#efefef;" | Diámetro (Km)
@@ -441,7 +409,7 @@ Netuno ten 13 lhunas coincidas. La maior deilhas ye [[Triton (satélite)|Triton]
 | [[S/2002 N3]]<sup>*</sup> || 38 || Çcoincida
 | 22.613.200 || 2980,4 dies
 |-----
-| [[Psámata]] || 28 || Çcoincida
+| [[Psámata (satélite)|Psámata]] || 28 || Çcoincida
 | 46.695.000 || -9136,1 dies **
 |-----
 | [[S/2002 N4]]<sup>*</sup> || 60 || Çcoincida
