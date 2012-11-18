@@ -1,77 +1,118 @@
 {{TraduçonOuto}}
-{| border="1" cellspacing="0" cellpadding="0" align="right"
-|+ '''Fobos'''
-|-----
-! colspan="2" bgcolor="#000000" |
-[[Ficheiro:Phobos moon (large).jpg|200px|none|Phobos, fotografado por Mars Global Surveyor an 01.06.2003 (NASA).]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Çcubrimiento
-|-----
-! align="left" | Çcubierto por
-| [[Asaph Hall]]
-|-----
-! align="left" | Çcubierto an
-| [[1877]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Caratelísticas orbitales
-|-----
-! align="left" | [[Centeilha orbital|Centeilha]] média
-| 9.378 [[metro|km]]
-|-----
-! align="left" | [[Scentricidade orbital|Scentricidade]]
-| 0,0151
-|-----
-! align="left" | Período de reboluçon
-| 7h 39min 12s
-|-----
-! align="left" | [[Releixe]]
-| 1,08°
-|-----
-! align="left" | Ye un [[satélite natural]] de
-| [[Marte]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | Caratelísticas físicas
-|-----
-! align="left" | Diámetro eiquatorial
-| 26 km
-|-----
-! align="left" | [[Ária|Ária superficial]]
-| 6,100 [[quilómetro quadrado|km²]]
-|-----
-! align="left" | [[Massa]]
-| 1.072×10<sup>16</sup> [[quilograma|kg]]
-|-----
-! align="left" | [[Densidade]] média
-| 1.876 g/cm³
-|-----
-! align="left" | [[Aceleraçon de la grabidade|Aceleraçon grabítica]]<br /> a la superfice
-| 0,0089 [[Aceleraçon|m/s²]]
-|-----
-! align="left" | Grabidade superficial <br>(Tierra = 1):
-| 9,1x10<sup>−4</sup>
-|-----
-! align="left" | Período de rotaçon
-| 7h 39min 12s
-|-----
-! align="left" | [[Anclinaçon axial]]
-| °
-|-----
-! align="left" | [[Albedo]]
-| 0.071
-|-----
-! align="left" | [[Kelvin|Temperatura]]<br /> a la superfice
-| -233 [[Kelvin|K]]
-|-----
-! bgcolor="#ffc0c0" colspan="2" | [[Atmosfera]]
-|-----
-! align="left" | [[Presson atmosférica]]
-| 0 [[Pascal|kPa]]
-|}
+{{Info Planeta
+| name = Fobos
+| alt_names = Marte I
+| image = [[File:Phobos colour 2008.jpg|250px|Phobos]]
+| caption = Bista de Fobos, culas quelores melhoradas, tirada pula ''[[Mars Reconnaissance Orbiter]]'' an 2008. 
+| bgcolour = #ffc0c0
+| discovery = yes
+| discoverer = [[Asaph Hall]]
+| discovered = 18 Agosto 1877
+| semimajor = 9377,2 km
+| eccentricity = 0,0151
+| periapsis = 9235,6 km
+| apoapsis = 9518,8 km
+| period = 0.318 910 23 [[die|d]]<br />(7 h 39,2 min)
+| avg_speed = 2138 km/s
+| inclination = 1,093[[grau (ángulo)|°]] (al eiquador de Marte)<br />0,046° (al [[praino de Laplace]] lhocal)<br />26,04° (a la [[elítica]])
+| satellite_of = [[Marte]]
+| physical_characteristics = yes
+| mean_radius = 11,1 km<br />0,0021 [[Tierra]]s)
+| dimensions = 26,8 × 22,4 × 18,4 km
+| surface_area = 6100 km<sup>2</sup><br />(11,9 [[micro-|µ]]Tierras)
+| volume = 5680 km<sup>3</sup><br />(5,0 [[nano-|n]]Tierras)
+| mass = 1,072 × 10<sup>16</sup> kg<br />(1,8 nTierras)
+| density = 1,876 [[grama|g]]/cm<sup>3</sup>
+| surface_grav = 0,0084–0,0019 [[aceleraçon|m/s<sup>2</sup>]]<br />(8,4–1,9 mm/s<sup>2</sup>)<br />(860–190 µ''[[fuorça-g|g]]'')
+| escape_velocity = 11,3 [[Metro por segundo|m/s]] (40 km/h)
+| rotation = [[Rotaçon síncrona|Síncrona]]
+| rot_velocity = 11,0 km/h (ne l'eixe mais lhongo)
+| axial_tilt = 0°
+| albedo = 0,071
+| magnitude = 11,3
+| single_temperature = ~233 [[kelvin|K]]
+}}
 
-'''Fobos''' ye ua de las dues lhunas de [[Marte (planeta)|Marte]]. Fobos ye la maior i la mais próssima lhuna de Marte. Fobos fui çcubierta por [[Asaph Hall]] an [[18 de Agosto]] de [[1877]], justamente seis dies passado la çcubierta de la sue cumpanheira [[Deimos (satélite)|Deimos]].
+'''Fobos''' ye ua de las dues lhunas de [[Marte (planeta)|Marte]]. Fobos ye la maior i la mais próssima lhuna de Marte. Fobos fui çcubierta por [[Asaph Hall]] an [[18 de Agosto]] de [[1877]], justamente seis dies passado la çcubierta de la sue cumpanheira [[Deimos (satélite)|Deimos]]. Recebiu l nome de l dius griego [[Fobos (mitologie)|Fobos]] (que senefica medo), un de ls filhos de [[Aires]] ([[Marte (mitologie)|Marte]] na mitologie romana).
 
-Fobos ye, an to l Sistema Solar, l satélite qu'orbita mais próssimo de l planeta-mai: menos de seis mil quilómetros arriba de la superfice de Marte. Ancontra-se, por esso, ambaixo de la órbita síncrona de Marte. Por esse motibo, la sue órbita bai çcendo a un ritmo de 1,8 m por seclo. Assi, drento de 50 milhones d'anhos puode ocorrer ua de dues cousas: ó Fobos se çpenha subre Marte ó, l que ye mais probable, antes qu'esso acunteça las fuorças grabitacionales çtruiron l satélite criando un anielho al redror de Marte.
+Fobos ye, an to l [[Sistema Solar]], l satélite qu'orbita mais próssimo de l planeta-mai: menos de seis mil quilómetros arriba de la superfice de Marte. Ancontra-se, por esso, ambaixo de la órbita síncrona de Marte. Por esse motibo, la sue órbita bai çcendo a un ritmo de 1,8 m por seclo. Assi, drento de 50 milhones d'anhos puode ocorrer ua de dues cousas: ó Fobos se çpenha subre Marte ó, l que ye mais probable, antes qu'esso acunteça las fuorças grabitacionales çtruiron l satélite criando un anielho al redror de Marte.
 
 Ls astrónomos suponen que l satélite era probabelmente un asteroide que fui caturado pula fuorça de grabidade de l planeta.
 
-L'outra lhuna Deimos i tamien alguas lhunas de [[Netuno (planeta)|Netuno]], acraditan-se tamien que éran [[asteroide|asteroides]] que fúrun caturados.
+L'outra lhuna Deimos i tamien alguas lhunas de [[Netuno (planeta)|Netuno]], acraditan-se tamien que éran [[asteróide]]s que fúrun caturados.
+
+[[Catadorie:Marte]]
+[[Catadorie:Sistema Solar]]
+
+[[af:Phobos (maan)]]
+[[ar:فوبوس]]
+[[az:Fobos]]
+[[bar:Phobos (Mond)]]
+[[be:Фобас, спадарожнік Марса]]
+[[be-x-old:Фобас]]
+[[bg:Фобос (спътник)]]
+[[br:Fobos (loarenn)]]
+[[bs:Fobos (satelit)]]
+[[ca:Fobos (satèl·lit)]]
+[[co:Phobos]]
+[[cs:Phobos (měsíc)]]
+[[cy:Phobos (lloeren)]]
+[[da:Phobos (måne)]]
+[[de:Phobos (Mond)]]
+[[el:Φόβος (δορυφόρος)]]
+[[eml:Phobos]]
+[[en:Phobos (moon)]]
+[[eo:Fobo (luno)]]
+[[es:Fobos (satélite)]]
+[[eu:Phobos (satelitea)]]
+[[fa:فوبوس (ماه)]]
+[[fi:Phobos]]
+[[fr:Phobos (lune)]]
+[[ga:Phobos]]
+[[gl:Fobos (lúa)]]
+[[gn:Fobos]]
+[[gv:Phobos (fo-phlannad)]]
+[[he:פובוס (ירח)]]
+[[hi:फ़ोबस (उपग्रह)]]
+[[hr:Fobos (mjesec)]]
+[[hu:Phobosz (hold)]]
+[[hy:Ֆոբոս]]
+[[ia:Phobos (luna)]]
+[[id:Phobos (satelit)]]
+[[io:Fobos]]
+[[is:Fóbos]]
+[[it:Fobos (astronomia)]]
+[[ja:フォボス (衛星)]]
+[[ka:ფობოსი (თანამგზავრი)]]
+[[ko:포보스 (위성)]]
+[[ku:Fobos]]
+[[la:Phobos (satelles)]]
+[[lt:Fobas (palydovas)]]
+[[lv:Foboss (pavadonis)]]
+[[mk:Фобос]]
+[[ml:ഫോബോസ് (ഉപഗ്രഹം)]]
+[[nds:Phobos (Maand)]]
+[[nl:Phobos (maan)]]
+[[nn:Marsmånen Phobos]]
+[[no:Phobos (måne)]]
+[[pl:Fobos (księżyc)]]
+[[rm:Phobos (glina)]]
+[[ro:Phobos (satelit)]]
+[[ru:Фобос]]
+[[scn:Phobos (astronumia)]]
+[[sh:Fobos (mjesec)]]
+[[si:ෆෝබෝස්]]
+[[simple:Phobos (moon)]]
+[[sk:Fobos (mesiac)]]
+[[sl:Fobos (luna)]]
+[[sq:Fobosi]]
+[[sr:Фобос]]
+[[sv:Phobos (måne)]]
+[[szl:Fobos]]
+[[th:โฟบอส]]
+[[tl:Phobos (buwan)]]
+[[tr:Phobos (uydu)]]
+[[uk:Фобос (супутник)]]
+[[vi:Phobos (vệ tinh)]]
+[[war:Phobos (bulan)]]
+[[zh:火卫一]]
