@@ -2,81 +2,80 @@
 | name = Ourano
 | symbol = [[File:Uranus symbol.svg|25px|Simblo astronómico de Ourano]]
 | image = [[File:Uranus2.jpg|240px|Ourano bisto de la Voyager 2]]
-| caption = Ourano bisto de la ''[[Voyager 2]]'' an 1986 
+| caption = Ourano bisto de la ''[[Voyager 2]]'' an 1986
+| bgcolour = #c0c0ff
 | discovery = yes
 | discoverer = [[William Herschel]]
-| discovered = March 13, 1781
+| discovered = 13 Márcio 1781
 | orbit_ref =
 | aphelion =
  {{plainlist |
-* 3,004,419,704&nbsp;[[kilómetro|km]]
-* 20.083&nbsp;305&nbsp;26&nbsp;[[Ounidade astronómica|AU]]
+* 3.004.419.704&nbsp;[[kilómetro|km]]
+* 20,08330526&nbsp;[[Ounidade astronómica|AU]]
  }}
 | perihelion =
  {{plainlist |
-* 2,748,938,461&nbsp;km
-* 18.375&nbsp;518&nbsp;63 AU
+* 2.748.938.461&nbsp;km
+* 18,37551863 AU
  }}
 | semimajor =
  {{plainlist |
-* 2,876,679,082&nbsp;km
-* 19.229&nbsp;411&nbsp;95 AU
+* 2.876.679.082&nbsp;km
+* 19,22941195 AU
  }}
-| eccentricity = 0.044&nbsp;405&nbsp;586
+| eccentricity = 0,044405586
 | period =
  {{plainlist |
-* 30,799.095&nbsp;[[die]]s
-* 84.323&nbsp;326 [[anho]]s
-* 42,718 [[Die solar|dies solares]] de Ourano
+* 30.799,095&nbsp;[[die]]s
+* 84,323326 [[anho]]s
+* 42.718 [[Die solar|dies solares]] de Ourano
  }}
-| synodic_period = 369.66&nbsp;dies
-| avg_speed = 6.81&nbsp;km/s
-| inclination = 0.772&nbsp;556° al [[elítica]] <br /> 6.48° al eiquador [[Sol]]ar <br /> 1.02° al [[praino ambariable]]
-| asc_node = 73.989&nbsp;821°
-| arg_peri = 96.541&nbsp;318°
-| mean_anomaly = 142.955&nbsp;717°
+| synodic_period = 369,66&nbsp;dies
+| avg_speed = 6,81&nbsp;km/s
+| inclination = 0,772556° al [[elítica]] <br /> 6,48° al eiquador [[Sol]]ar <br /> 1,02° al [[praino ambariable]]
+| asc_node = 73,989821°
+| arg_peri = 96,541318°
+| mean_anomaly = 142,955717°
 | satellites = [[Satélites de Ourano|27]]
 | physical_characteristics = yes
-| flattening = 0.022&nbsp;9&nbsp;±&nbsp;0.000&nbsp;8{{efn | Calculated using data from Seidelmann, 2007. }}
-| equatorial_radius = 25,559&nbsp;±&nbsp;4&nbsp;km <br /> 4.007&nbsp;Tierras {{efn|name=atmospheric pressure}}
-| polar_radius = 24,973&nbsp;±&nbsp;20&nbsp;km <br /> 3.929&nbsp;Tierras {{efn|name=atmospheric pressure}}
-| circumference = 159,354.1&nbsp;km
-| surface_area = 8.115&nbsp;6{{e|9}}&nbsp;km<sup>2</sup> {{efn|name=atmospheric pressure}} <br /> 15.91&nbsp;Tierras
-| volume = 6.833{{e|13}}&nbsp;km<sup>3</sup> {{efn|name=atmospheric pressure}} <br /> 63.086&nbsp;Tierras
-| mass = {{nowrap|(8.6810 ± 0.0013){{e|25}} [[kilograma|kg]]}} <br /> 14.536&nbsp;Tierras <br />
+| flattening = 0,0229&nbsp;±&nbsp;0,0008
+| equatorial_radius = 25.559&nbsp;±&nbsp;4&nbsp;km <br /> 4,007&nbsp;Tierras
+| polar_radius = 24.973&nbsp;±&nbsp;20&nbsp;km <br /> 3,929&nbsp;Tierras
+| circumference = 159.354,1&nbsp;km
+| surface_area = 8,1156 × 10<sup>9</sup> km<sup>2</sup> <br /> 15,91&nbsp;Tierras
+| volume = 6,833 × 10<sup>13</sup> km<sup>3</sup><br /> 63,086&nbsp;Tierras
+| mass = (8,6810 ± 0,0013) × 10<sup>25</sup> [[kilograma|kg]] <br /> 14,536&nbsp;Tierras <br />
 [[standard gravitational parameter|GM]]=5&nbsp;793&nbsp;939&nbsp;±&nbsp;13&nbsp;km<sup>3</sup>/s<sup>2</sup>
-| density = 1.27&nbsp;g/cm<sup>3</sup> {{efn|name=atmospheric pressure}}
-| surface_grav = 8.69&nbsp;[[Aceleraçon|m/s<sup>2</sup>]]{{efn|name=atmospheric pressure}} <br /> 0.886&nbsp;[[Fuorça-g|g]]
-| escape_velocity = 21.3&nbsp;km/s {{efn|name=atmospheric pressure}}
-| sidereal_day = 0.718&nbsp;33 die <small>([[Mobimiento retrógrado|Retrógrado]]) </small> <br /> {{nowrap|17 [[hora|h]] 14 [[minuto|min]] 24 [[segundo|s]]}}
-| rot_velocity = 2.59&nbsp;km/s <br /> 9,320&nbsp;km/h
-| axial_tilt = 97.77°
-| albedo = 0.300 ([[Albedo Bond|Bond]]) <br />
-0.51 ([[Albedo geométrico|Geométrico]])
-| magnitude = 5.9 até 5.32
-| angular_size = 3.3"–4.1"
+| density = 1,27&nbsp;g/cm<sup>3</sup>
+| surface_grav = 8,69&nbsp;[[Aceleraçon|m/s<sup>2</sup>]] <br /> 0,886&nbsp;[[Fuorça-g|g]]
+| escape_velocity = 21,3&nbsp;km/s 
+| sidereal_day = 0,71833 die <small>([[Mobimiento retrógrado|Retrógrado]]) </small> <br /> {{nowrap|17 [[hora|h]] 14 [[minuto|min]] 24 [[segundo|s]]}}
+| rot_velocity = 2,59&nbsp;km/s <br /> 9320&nbsp;km/h
+| axial_tilt = 97,77°
+| albedo = 0,300 ([[Albedo Bond|Bond]]) <br />
+0,51 ([[Albedo geométrico|Geométrico]])
+| magnitude = 5,9 até 5,32
+| angular_size = 3,3"–4,1"
 | temperatures = yes
 | temp_name1 = 1&nbsp;[[bar (ounidade)|bar]]
 | min_temp_1 =
 | mean_temp_1 = 76&nbsp;[[kelvin|K]]
 | max_temp_1 =
-| temp_name2 = 0.1&nbsp;bar <br /> ([[tropopausa]])
+| temp_name2 = 0,1&nbsp;bar <br /> ([[tropopausa]])
 | min_temp_2 = 49&nbsp;K
 | mean_temp_2 = 53&nbsp;K
 | max_temp_2 = 57&nbsp;K
 | atmosphere = yes
 | atmosphere_ref =
-{{efn | Calculation of He, H<sub>2</sub> and CH<sub>4</sub> molar fractions is based on a 2.3% mixing ratio of methane to hydrogen and the 15/85 He/H<sub>2</sub> proportions measured at the tropopause. }}
-| scale_height = 27.7&nbsp;km
-| atmosphere_composition = ''(Ambaixo de 1.3&nbsp;bar)''
+| atmosphere_composition = ''(Ambaixo de 1,3&nbsp;bar)''
 <table>
 <tr><td>
 83&nbsp;±&nbsp;3%</td><td>[[heidrogénio]] (H<sub>2</sub>)
 </td></tr><tr><td>
 15&nbsp;±&nbsp;3%</td><td>[[hélio]]
 </td></tr><tr><td>
-2.3%</td><td>[[metano]]</td></tr><tr><td>
-0.009% <br /> (0.007–0.015%)</td><td>[[heidrogénio deutério]]&nbsp;(HD)
+2,3%</td><td>[[metano]]</td></tr><tr><td>
+0,009% <br /> (0,007–0,015%)</td><td>[[heidrogénio deutério]]&nbsp;(HD)
 </td></tr><tr><td>
 '''Carambelos''':</td><td>
 </td></tr><tr><td>
@@ -119,10 +118,171 @@ Puode eisistir un grande númaro d'anéis streitos, ó possiblemente anéis ancu
 * [[Planeta]]
 * [[Sol]]
 * [[Tierra]]
-* [[Saturno]]
+* [[Saturno (planeta)|Saturno]]
 
 [[Catadorie:Ourano]]
 [[Catadorie:Planetas]]
 [[Catadorie:Sistema Solar]]
 [[Catadorie:Astronomie]]
 {{Link FA|ru}}
+
+[[af:Uranus (planeet)]]
+[[als:Uranus (Planet)]]
+[[am:ኡራኑስ]]
+[[ang:Uranus]]
+[[ar:أورانوس]]
+[[an:Urano (planeta)]]
+[[frp:Urano (planèta)]]
+[[as:ইউৰেনাচ]]
+[[ast:Uranu (planeta)]]
+[[gn:Urano]]
+[[az:Uran (planet)]]
+[[bn:ইউরেনাস গ্রহ]]
+[[zh-min-nan:Thiⁿ-ông-chheⁿ]]
+[[be:Планета Уран]]
+[[be-x-old:Уран (плянэта)]]
+[[bg:Уран (планета)]]
+[[bar:Uranus (Planet)]]
+[[bo:སྐར་མ་གནམ་རྒྱལ།]]
+[[bs:Uran (planeta)]]
+[[br:Ouran (planedenn)]]
+[[ca:Urà (planeta)]]
+[[cv:Уран (планета)]]
+[[cs:Uran (planeta)]]
+[[cy:Wranws (planed)]]
+[[da:Uranus (planet)]]
+[[de:Uranus (Planet)]]
+[[nv:Yoowéinis]]
+[[en:Uranus]]
+[[et:Uraan (planeet)]]
+[[el:Ουρανός (πλανήτης)]]
+[[eml:Uràn]]
+[[es:Urano (planeta)]]
+[[eo:Urano (planedo)]]
+[[ext:Uranu (praneta)]]
+[[eu:Urano (planeta)]]
+[[fa:اورانوس]]
+[[hif:Arungrah]]
+[[fo:Uranus]]
+[[fr:Uranus (planète)]]
+[[fy:Uranus]]
+[[ga:Úránas (pláinéad)]]
+[[gv:Uranus]]
+[[gd:Urànus (planaid)]]
+[[gl:Urano]]
+[[gan:天王星]]
+[[gu:યુરેનસ (ગ્રહ)]]
+[[ko:천왕성]]
+[[haw:Hele‘ekela]]
+[[hy:Ուրան (մոլորակ)]]
+[[hi:अरुण (ग्रह)]]
+[[hr:Uran (planet)]]
+[[io:Urano]]
+[[ilo:Urano]]
+[[id:Uranus]]
+[[ia:Urano (planeta)]]
+[[iu:ᐅᕌᓄᔅ]]
+[[os:Уран (планетæ)]]
+[[zu:U-Uranu]]
+[[is:Úranus (reikistjarna)]]
+[[it:Urano (astronomia)]]
+[[he:אורנוס]]
+[[jv:Uranus]]
+[[kn:ಯುರೇನಸ್]]
+[[pam:Uranus]]
+[[ka:ურანი (პლანეტა)]]
+[[csb:Ùran]]
+[[kk:Уран (ғаламшар)]]
+[[kw:Ouran (planet)]]
+[[sw:Uranus]]
+[[kv:Уран (планет)]]
+[[ht:Iranis]]
+[[ku:Ûranûs]]
+[[ky:Уран]]
+[[la:Uranus (planeta)]]
+[[lv:Urāns (planēta)]]
+[[lb:Uranus (Planéit)]]
+[[lt:Uranas (planeta)]]
+[[lij:Oran (astronomia)]]
+[[li:Uranus (planeet)]]
+[[jbo:uranos]]
+[[hu:Uránusz]]
+[[mk:Уран (планета)]]
+[[mg:Uranus]]
+[[ml:യുറാനസ്]]
+[[mt:Uranu (pjaneta)]]
+[[mr:युरेनस ग्रह]]
+[[arz:اورانوس]]
+[[mzn:اورانوس]]
+[[ms:Uranus]]
+[[mdf:Уран (шары тяште)]]
+[[mn:Тэнгэрийн ван]]
+[[my:ယူရေးနပ်စ်ဂြိုဟ်]]
+[[nah:Ilhuicateōcītlalli]]
+[[nl:Uranus (planeet)]]
+[[nds-nl:Uranus (planeet)]]
+[[ne:युरेनस]]
+[[ja:天王星]]
+[[frr:Uranus]]
+[[no:Uranus]]
+[[nn:Planeten Uranus]]
+[[nov:Urane (planete)]]
+[[oc:Uranus (planeta)]]
+[[or:ଇଉରେନ୍ସେ]]
+[[uz:Uran (sayyora)]]
+[[pa:ਉਰਣ]]
+[[pnb:یورینس]]
+[[km:ភពអ៊ុយរ៉ានុស]]
+[[pms:Uran (pianeta)]]
+[[tpi:Yurenes (planet)]]
+[[nds:Uranus (Planet)]]
+[[pl:Uran]]
+[[pt:Urano (planeta)]]
+[[ksh:Urranuß (Planneet)]]
+[[ro:Uranus]]
+[[rm:Uranus (planet)]]
+[[qu:Uranu (puriq quyllur)]]
+[[rue:Уран (планета)]]
+[[ru:Уран (планета)]]
+[[sah:Уранус]]
+[[se:Uranus]]
+[[sa:अरुणः (युरेनस्)]]
+[[stq:Uranus]]
+[[st:Yuranese]]
+[[sq:Urani (planet)]]
+[[scn:Uranu (pianeta)]]
+[[si:යු‍රේනස්]]
+[[simple:Uranus]]
+[[sk:Urán (planéta)]]
+[[sl:Uran (planet)]]
+[[szl:Ůrůn]]
+[[so:Uraano]]
+[[ckb:ئورانوس]]
+[[sr:Уран]]
+[[sh:Uran (planeta)]]
+[[su:Uranus]]
+[[fi:Uranus]]
+[[sv:Uranus]]
+[[tl:Urano]]
+[[ta:யுரேனசு]]
+[[tt:Уран (планета)]]
+[[te:యురేనస్]]
+[[th:ดาวยูเรนัส]]
+[[tg:Уран]]
+[[chr:ᏳᏪᏅᏍ]]
+[[tr:Uranüs]]
+[[uk:Уран (планета)]]
+[[ur:یورینس]]
+[[ug:ئۇران (پلانىت)]]
+[[vep:Uran (planet)]]
+[[vi:Sao Thiên Vương]]
+[[fiu-vro:Uraan (hod'otäht)]]
+[[zh-classical:天王星]]
+[[war:Urano]]
+[[wo:Uraanus]]
+[[yi:אוראנוס]]
+[[yo:Úránù]]
+[[zh-yue:天王星]]
+[[diq:Uranus]]
+[[bat-smg:Orans]]
+[[zh:天王星]]
