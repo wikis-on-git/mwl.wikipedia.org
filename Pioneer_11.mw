@@ -1,0 +1,175 @@
+{{TraduçonOuto}}
+La [[sonda spacial]] '''Pioneer 11''' fui ua de las purmeiras sondas de l porgrama de sploraçon spacial de la [[NASA]]. Fui lançada de l [[Staçon de la Fuorça Aérea de Cabo Canaberal|Cabo Canaberal]], [[Estados Ounidos]], an [[5 d'abril]] de [[1973]]. Depuis d'atrabessar cun éxito l [[cintura d'asteróides]] [[19 d'abril]] de [[1974]], chegou an [[1 de setembre]] de [[1979]] la [[Saturno (planeta)|Saturno]], tomando las purmeiras [[retrato]]s la cúrtie çtáncia de l planeta, adonde pudo çcubrir nuobas [[satélite natural|lunas]] i anielhos. Depuis de sou ancuontro cun Saturno, prosseguiu sue rota pa l sterior de l [[Sistema Solar]], studando las partículas einergéticas de l [[bento solar]].
+
+Nun eisiste mais la quemunicaçon cula nabe, l radadeiro cuntato fui an 24 de nobembre de 1995.<ref>http://solarsysten.nasa.gob/missiones/profile.cfn?MCode=Pioneer_11</ref>  
+==Storia==
+L porjeto pa la custruçon de las dues sondas [[Pioneer 10]] i Pioneer 11 fui aprobado an [[1969]]. Cedendo la multiplas perpuostas durante la decada de 1960 ls oubjetibos eniciales de a misson fúrun defenidos:
+*Splorar l meio anterplanetairo para para alhá de la órbita de [[Marte (planeta)|Marte]].
+*Ambestigar la natureza de l [[cintura d'asteróides]] de l punto de bista científico i abaluar eibentuales peligros a correr de missones pa ls planetas steriores.
+*Splorar l'ambiente de Júpiter.
+
+Apos l planeijamiento de l'ancuontro cun [[Saturno (planeta)|Saturno]], muitos outros oubjetibos fúrun  acrecentados:
+*Mapear l campo magnético de Saturno, sue antensidade, direçon i strutura.
+Detreminar cumo muitos eilétrons i prótones de bárias einergies son çtribuídas al longo de la trajetória de la nabe atrabeç de l sistema de Saturno.
+*Mapear l'anteraçon de l [[bento solar]] cul sistema de Saturno.
+*Medir la temperatura de l'atmosfera de Saturno i [[Titana (satélite)|Titana]], la grande luna de Saturno.
+*Mapear la strutura térmica de l'atmosfera de Saturno atrabeç d'ouserbaçones ne l'anfrabermelho acoplada cun rádio d'ocultaçon de dados.
+*Oubter i digitalizar las eimaiges de l sistema de Saturno an dues quelores i durante la sequéncia de medidas de polarimetrie ne l'ancuontro cul planeta.
+*Sondar l sistema d'anielhos i atmosfera de Saturno cun óndias de rádio na banda S.
+*Detreminar cun maior percison la massa de Saturno i sous satélites maiores por ouserbaçones percisas de ls eifeitos de sous campos grabitacionales subre l mobimiento de la nabe spacial.
+*Cumo un precursor pa a misson Mariner [[Júpiter (planeta)|Júpiter]]/Saturno , berificar l'ambiente de l praino de l'anielho para çcubrir adonde el puode ser seguramente cruzado pula sonda Mariner sin grabes danos.
+
+Muitos eilemientos i la speriencia cula sonda Pioneer 11 i 10 probou ser fundamental pa las sondas [[Voyager 1]] i [[Voyager 2]], qu'oubtibírun mui sucesso an sous oubjetibos i missones.
+
+==Zeign i strutura==
+===Placa Pioneer===
+Ua placa de [[ouro]]-[[alumínio]] fui aneixada na Pionner 11 i outra na sue sonda armana [[Pioneer 10]], fúrun criadas ne l causo dua forma de bida anteligente d'outros lugares de l'ouniberso cunseguiren achar ó antercetar la sonda, la placa mostra dous houmanos, un masculino i outro femenino, alen de simbolos que mostran la localizaçon de l'ourige de la nabe, la Tierra.
+
+===Cuntrole d'altitude i propulson===
+La nabe tenie seis propulsores de 4,5 newtones cada, eilhes outelizában heidrazina, la referencia pa la Tierra era la streilha Canopus i dous sensores solares.
+
+===Quemunicaçon===
+La sonda spacial ancluia un sistema redundante de trascetores , un ligado a l'antena d'alto ganho , l'outro para ua antena omni i  ua antena de médio prazo. Cada trasmissor tenie 8 watts i trasmite dados an to la banda S cun 2110 MHç pa l'uplink de la Tierra i 2292 MHç para downlink pa la Tierra cula Deep Space Network rastrear l senhal. Antes de la trasmisson de dados, outelizou un codificador cumbolucional , ua forma de correçon d'erro , para eibitar l'ambio de dados corrompidos.
+
+===Einergie eilétrica===
+L'einergie pa la sonda probinha de quatro RTGs SNAP-19 que stában posicionadas a tres metros por ua antena, ne l lançamiento la nabe recolhia 155 Watts de ls RTGs, quando chegou la Júpiter la potencia era de 140 watts, éran necessairos 100 watts para que la sonda funcionasse corretamente.
+
+===Cumputador===
+Grande parte de l cálclo pa a misson na [[Tierra]] fui rializada i trasmitida pa la sonda, adonde fui capaç de reter na mimória, até cinco comandos de ls 222 possibles antradas puls cuntroladores de tierra. La sonda anclui dous decodificadores de comando i ua ounidade de çtribuiçon de comando, ua forma mui lemitada de processador, para ouparaçones diretas na nabe spacial. Este sistema eisige que ls ouperadores de a misson prepáren ls comandos mui antes de trasmiti-las pa la sonda. Ua ounidade d'armazenamiento de dados fui ancluído para grabar até 6144 [[byte]]s d'anformaçones recolhidas puls strumientos. A ounidade de telemetrie digital serie anton ousada para preparar ls dados coletados nun de ls possibles formatos de ls treze antes de trasmiti-lo de buolta a la Tierra. 
+
+=== Strumientos Científicos ===
+{| class="wikitable"
+|-
+| colspan="2" style="background: #f2f2f2"  | Helio Magnetometro Betor ('''HBM''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P50 - fx.jpg|100px]]
+| Mede la strutura fina de l campo magnético anterplanetairo, mapeou l campo magnético de Júpiter i las anteraçones deste cul bento solar. <ref name="NSSDCHVM">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Magnetic Fields|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Edward Smith / JPL</small>
+*<small>'''Data:''' [http://pds-ppi.igpp.ucla.edu/search/?filter=PN_5001,PN_6001&título=Pioneer_11_Helium_Vector_Magnetometer PDS/PPI data catalog], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/mag/ NSSDC data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Analizador de Plasma Quadrilátero
+|-
+| [[Fexeiro:Pioneer 10-11 - P51b - fx.jpg|100px]]
+| Tenie la funçon d'analizar las particulas carregadas probenientes de l [[Sol]]. <ref name="NSSDCQPA">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Quadrispherical Plasma Analyzer|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Aaron Barnes / NASA Ames Research Center ([http://web.archibe.org/web/20000520044455/arwen.arc.nasa.gob/ archibed website])</small>
+*<small>'''Data:''' [http://pds-ppi.igpp.ucla.edu/search/?filter=PN_5001,PN_6001&título=Pioneer_11_Quadrispherical_Plasma_Analyser PDS/PPI data catalog], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/plasma/ NSSDC data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Detetor de partículas Carregadas  ('''CPI''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P52a - fx.jpg|100px]]
+| Detetaba centeilhas cósmicos drento de l [[sistema solar]]. <ref name="NSSDCCPI">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Charged Particle Instrument (CPI)|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' John Simpson / University of Chicago</small>
+*<small>'''Data:''' [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/particle/cpi/ NSSDC data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Telescópio de Centeilhas Cósmicos ('''CRT''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P52b - fx.jpg|100px]]
+| Reúne dados subre las partículas carregadas de ls centeilhas cósmicos, sue einergie i scala. <ref name="NSSDCCRT">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Cosmic-Ray Spectra|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Frank McDonald / NASA Goddard Space Flight Center</small>
+*<small>'''Data:''' [http://pds-ppi.igpp.ucla.edu/search/?filter=PN_5001,PN_6001&título=Pioneer_11_Cosmic_Ray_Telescope PDS/PPI data catalog], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/particle/crt/ NSSDC data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Tubo de Telescópio de Geiger ('''GTT''')
+|-
+| [[Fexeiro:Pioneer 10-11 - p53 - fx.jpg|x100px]]
+| Pesquisa l'anstensidade, spetro d'einergie i çtribuiçon angular d'eilétrons i prótones al longo de l camino.  <ref name="NSSDCGTT">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Geiger Tube Telescope (GTT)|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' James Ban Allen / University of Iowa ([http://www-pw.physics.uiowa.edu/Pioneer/home.html website])</small>
+*<small>'''Data:''' [http://pds-ppi.igpp.ucla.edu/search/?filter=PN_5001,PN_6001&título=Pioneer_11_Gieger_Tube_Telescope PDS/PPI data catalog], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/particle/gtt/ NSSDC data archive], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/geiger_tube_telescope_%28gtt%29/jupiter_encounter_data/ NSSDC Jupiter data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Detetor de Radiaçon ('''TRD''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P54 - fx.jpg|100px]]
+| Deteta la luç eimitida an determiada direçon, [[eilétron]]s cun einergie antre 100 i 400 KeB i [[próton]]s antre 50 a 350 MeB. <ref name="NSSDCTRD">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Jovian Trapped Radiation|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' R. Fillius / University of California San Diego</small>
+*<small>'''Data:''' [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/particle/trd/ NSSDC hourly data archive], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/jovian_trapped_radiation/saturn_enctr_binary_reduction_dat/ NSSDC Saturn data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Detetor de Meteoros
+|-
+| [[Fexeiro:Pioneer 10-11 - P56 - fx.jpg|100px]]
+| duoze paineis para detetar pequeinhos mateoritos i registrar ampatos contra eilhes.. <ref name="NSSDCMD">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Meteoroid Detectors|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' William Kinard / NASA Langley Research Center <!--([])--></small>
+*<small>'''Data:''' [http://nssdc.gsfc.nasa.gov/nmc/datasetSearch.do?spacecraft=Pioneer%2011&experiment=Meteoroid%20Detectors NSSDC data archive list]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Detetor de Asteróides/Meteoros ('''AMD''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P55b - fx.jpg|100px]]
+| Deteta pequeinhos Asteróides i meteoros atrabes de quatro telescópios. <ref name="NSSDCAMD">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Asteroid/Meteoroid Astronomy|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Robert Soberman / General Eiletric Cumpany <!--([])--></small>
+*<small>'''Data:''' [http://nssdc.gsfc.nasa.gov/nmc/datasetSearch.do?spacecraft=Pioneer%2011&experiment=Asteroid/Meteoroid%20Astronomy NSSDC data archive list]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Fotometro Ultrabioleta
+|-
+| [[Fexeiro:Pioneer 10-11 - P57a - fx.jpg|100px]]
+| Usa la luç ultrabileta para detetar la cantidade [[heidrogénio]] ne l spácio i an Júpiter. <ref name="NSSDCUVP">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Ultraviolet Photometry|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Darrell Judge / University of Southern California <!--([])--></small>
+*<small>'''Data:''' [http://ppi.pds.nasa.gov/search?filter=PN_5001,PN_6001&título=Pioneer_11_Ultraviolet_Photometer PDS/PPI data catalog], [ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/pioneer/pioneer11/uv/ NSSDC data archive]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Fotopolarimetro de Eimaige ('''IPP''')
+|-
+| [[Fexeiro:Pioneer 10-11 - P60 - fx.jpg|100px]]
+| L spurmiento d'eimaige depende de la rotaçon de la nabe spacial para barrer un pequeinho telescópio, an to l planeta an tiras streitas solo 0,03 graus d'anchura, mirando pa l planeta azul i luç burmeilha. Essas tiras fúrun processados ​​para criar ua eimaige bisual de l planeta. <ref name="NSSDCIPP">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Imaging Photopolarimeter (IPP)|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigador:''' Ton Gehrels / University of Arizona <!--([])--></small>
+*<small>'''Data:''' [http://nssdc.gsfc.nasa.gov/nmc/datasetSearch.do?spacecraft=Pioneer%2011&experiment=Imaging%20Photopolarimeter%20%28IPP%29 NSSDC data archive list]</small>
+|-
+| colspan="2" style="background: #f2f2f2"  | Radiometro Anfrabermelho
+|-
+| [[Fexeiro:P58 - fx.jpg|100px]]
+| Recolhe anformaçones subre la temperatura de nubres i de la porduçon de calor an Júpiter. <ref name="NSSDCIRR">{{cite web |url= http://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=1973-019A-08|título= Infrared Radiometers|publisher= NASA / National Space Science Data Center|accessdate= 2011-02-19}}</ref>
+*<small>'''Percipal ambestigator:''' Andrew Angersoll / California Anstitute of Technology <!--([])--></small>
+|}
+
+==Stado Atual==
+An Maio de [[2010]], la sonda ancontraba-se a 80,8 [[UA]] de l [[Sol]] a ua [[belocidade|belocidade relatiba]] de 11,4 Km/s, na custelaçon de la [[Aquila|Águila]].
+
+Daqui a 14.000 anhos ó mais, la sonda ultrapassará ls lemites de la [[Nubre de Oort]], causo nun acunteça nanhun dano físico que la cumprometa, se libertando defenitibamente de l'anfluéncia solar. An 4 milhones d'anhos aprossimadamente, la sonda (causo resista a to esse tiempo ne l spácio) passará próssima a la streilha Lámbda de la custelaçon de Águila.
+
+
+{{refréncias}}
+
+
+{{Saturno}}
+
+[[Catadorie:Júpiter]]
+[[Catadorie:Saturno]]
+
+[[ar:بيونير 11]]
+[[be:КА Піянер-11]]
+[[be-x-old:Піянэр-11]]
+[[bg:Пионер 11]]
+[[bs:Pioneer 11]]
+[[ca:Pioneer 11]]
+[[cs:Pioneer 11]]
+[[cy:Pioneer 11]]
+[[da:Pioneer 11]]
+[[de:Pioneer 11]]
+[[el:Πάιονηρ 11]]
+[[en:Pioneer 11]]
+[[es:Pioneer 11]]
+[[eu:Pioneer 11]]
+[[fa:پایونیر ۱۱]]
+[[fi:Pioneer 11]]
+[[fr:Pioneer 11]]
+[[he:פיוניר 11]]
+[[hi:पायोनियर ११]]
+[[hr:Pioneer 11]]
+[[hu:Pioneer–11]]
+[[id:Pioneer 11]]
+[[it:Pioneer 11]]
+[[ja:パイオニア11号]]
+[[ko:파이어니어 11호]]
+[[lb:Pioneer 11]]
+[[lt:Pioneer 11]]
+[[mr:पायोनियर ११]]
+[[nds:Pioneer 11]]
+[[nl:Pioneer 11]]
+[[nn:Pioneer 11]]
+[[no:Pioneer 11]]
+[[pl:Pioneer 11]]
+[[ru:Пионер-11]]
+[[simple:Pioneer 11]]
+[[sk:Pioneer 11]]
+[[sl:Pioneer 11]]
+[[sr:Pionir 11]]
+[[sv:Pioneer 11]]
+[[tr:Pioneer 11]]
+[[uk:Піонер 11]]
+[[zh:先驱者11号]]
