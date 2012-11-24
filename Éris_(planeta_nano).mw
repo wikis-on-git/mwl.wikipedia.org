@@ -1,3 +1,74 @@
+{{Info Planeta
+| name = Éris
+| symbol = 
+| image = [[File:Eris and dysnomia2.jpg|240px|Eris (centre) and Dysnomia (left of centre), taken by the [[Hubble Space Telescope]]]]
+| caption = Éris ne l centro i la lhuna Çnomie a la squierda. <br /> [[Hubble Space Telescope]]
+| discovery = yes
+| discoverer =
+  {{plainlist |
+* [[Michael E. Brown|M. E. Brown]]
+* [[Chad Trujillo|C. A. Trujillo]]
+* [[David L. Rabinowitz|D. L. Rabinowitz]]
+  }}
+| discovered = 5 Janeiro 2005<!--The date given by the IAU, 21 October 2003, is not the discovery date by the observation date of the discovery images.-->
+| mp_name = '''136199 Eris'''
+| note = yes
+| alt_names = 2003 UB<sub>313</sub>
+| named_after = [[Éris (mitologie)|Éris]]
+| mp_category =
+  {{plainlist |
+* [[Planeta nano]]
+* [[Oubjeto trasnetuniano|OTN]]
+* [[Plutóide]]
+  }}
+| orbit_ref =
+| aphelion =
+  {{plainlist |
+* 97,65&nbsp;[[Ounidade astronómica|OA]]
+* 14,60 × 10<sup>9</sup> km
+  }}
+| perihelion = 38,375&nbsp;AU <br /> 5,65 × 10<sup>9</sup>} km
+| semimajor =
+  {{plainlist |
+* 68,01&nbsp;AU
+* 10,12 × 10<sup>9</sup> km
+  }}
+| eccentricity = 0,435763
+| period =
+  {{plainlist |
+* 204.870&nbsp;[[die]]s
+* 560,90&nbsp;[[anho]]s
+  }}
+| avg_speed = 3,436&nbsp;km/s
+| mean_anomaly = 202,75388°
+| inclination = 43,844°
+| asc_node = 36,051°
+| arg_peri = 150,809°
+| satellites = [[Çnomie (satélite)|Çnomie]]
+| physical_characteristics = yes
+| mean_radius = {{nowrap|1163 ± 6 km}}</small>
+| mass =
+  {{plainlist |
+* {{nowrap|(1,67 ± 0,02) × 10<sup>22</sup> kg}}
+* 0,0028 [[Tierra]]s
+* 0,23 [[Lhuna]]s
+  }}
+| surface_area = 17.000.000 km<sup>2</sup>
+| density = {{nowrap|2,52 ± 0,05 g/cm<sup>3</sup>}}
+| surface_grav = 0,827 [[Aceleraçon|m/s<sup>2</sup>]]
+| escape_velocity = 1,384 km/s
+| sidereal_day = 25,9&nbsp;±&nbsp;8 h
+| albedo = 0,96{{±|0,09|0,04}}
+| temperatures = yes
+| temp_name1 = (aprossimadamente)
+| min_temp_1 = 30&nbsp;[[Kelvin|K]]
+| mean_temp_1 = 42,5&nbsp;K
+| max_temp_1 = 55&nbsp;K
+| spectral_type = [[Oubjeto trasnetuniano|B-V]]=0,78, V-R=0,45
+| magnitude = 18,7
+| abs_magnitude = −1,19&nbsp;±&nbsp;0,3
+| angular_size = 40 [[meliarcsegundo|meli-arcsec]]
+}}
 
 '''Éris''', coincido ouficialmente cumo '''136199 Eris''', ye un [[planeta nano]]<ref name="IAUPressRelease2006">[[União Astronômica Internacional|UAI]] (2006-08-16)''[http://www.iau2006.org/mirror/www.iau.org/iau0601/iau0601_release.html The IAU draft definition of "planet" and "plutons"]'' Press release. Acessado em 16-08-2006</ref> i un [[plutoide]]<ref name="IAU0804">{{cite web
   |date=11 de junho de 2008, Paris
@@ -151,6 +222,7 @@ L sistema Éris-Çnomie parece semelhante al sistema Tierra-Lhuna. Anque de las 
 [[nv:Ééwis]]
 [[oc:Èris]]
 [[pl:136199 Eris]]
+[[pt:Éris (planeta nano)]]
 [[qu:Eris (tuna puriq quyllur)]]
 [[rm:Eris (planet nanin)]]
 [[ro:Eris (planetă pitică)]]
