@@ -1,9 +1,9 @@
 {{TraduçonOuto}}
 
-{{Anfo/Moneda
+{{Anfo moneda
 | nome          = Iene
 | nome_local      = 日本円 {{ja}}
-| eimaige_moeda     = JPY coin2.JPG
+| eimaige_moneda     = JPY coin2.JPG
 | nomecódigo      = Monedas an circulaçon
 | código ISO 4217   = JPY
 | ousado          = {{JAP}}
@@ -13,7 +13,7 @@
 | númaro         = 1/100 i 1/1000
 | simblo        = ¥
 | plural         = Ienes (an [[léngua japonesa|japonés]] nun hai çtinçon de númaro)
-| moedas         = ¥1, ¥5, ¥10, ¥50, ¥100, ¥500
+| monedas         = ¥1, ¥5, ¥10, ¥50, ¥100, ¥500
 | notas          = ¥1000, ¥2000, ¥5000, ¥10000
 | banco          = [[Banco de l Japon]]
 | site de l banco    = [http://www.boj.or.jp www.boj.or.jp]
