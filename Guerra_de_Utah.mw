@@ -1,3 +1,13 @@
+{{#if:
+ | {{#switch: {{{2}}}
+    | a = ''Piede-se a un admenistrador que bote fuora la páigina [[:{{{1}}}]] cunsante la cumbersa [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 09h44min de 28 de Febreiro de 2013 (UTC)''
+    | c = ''La páigina [[:{{{1}}}]] criada por bós fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Podeis borrar este abiso quando quejirdes. 09h44min de 28 de Febreiro de 2013 (UTC)''
+    | m = ''Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Cumbersou-se i antendiu-se que deberie de quedar. 09h44min de 28 de Febreiro de 2013 (UTC)''
+    | ''La páigina [[:{{{1}}}]] fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 09h44min de 28 de Febreiro de 2013 (UTC)''
+   }}
+ | ''<mark>Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{FULLPAGENAME}}|eiqui]]. 09h44min de 28 de Febreiro de 2013 (UTC)</mark>''
+}}
+
 La '''Guerra de Utah''' ([[1857]]-[[1858]]) ye l nome dado al cunflito ne ls [[Stados Ounidos de la América]] antre ls [[Santos de ls Redadeiros Dies]] i l goberno federal de l Stados Ounidos, pula heigemonia i comando de l Stado de [[Utah]].
 
 == Andice ==
