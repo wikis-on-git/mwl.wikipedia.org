@@ -1,3 +1,13 @@
+{{#if:
+ | {{#switch: {{{2}}}
+    | a = ''Piede-se a un admenistrador que bote fuora la páigina [[:{{{1}}}]] cunsante la cumbersa [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 16h22min de 3 de Março de 2013 (UTC)''
+    | c = ''La páigina [[:{{{1}}}]] criada por bós fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Podeis borrar este abiso quando quejirdes. 16h22min de 3 de Março de 2013 (UTC)''
+    | m = ''Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Cumbersou-se i antendiu-se que deberie de quedar. 16h22min de 3 de Março de 2013 (UTC)''
+    | ''La páigina [[:{{{1}}}]] fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 16h22min de 3 de Março de 2013 (UTC)''
+   }}
+ | ''<mark>Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{FULLPAGENAME}}|eiqui]]. 16h22min de 3 de Março de 2013 (UTC)</mark>''
+}}
+
 [[Fexeiro:ATR72-200 at Co Ong.jpg|240px|thumb|right|Aeroporto Con Dao]]
 L '''Aeroporto Con Dao''' (''Sân bay Côn Đảo'') i cun un aeroporto doméstico, lhocalizado ne l çtrito de [[Con Son]], l’aeroporto Con Dao ye ua strutura que ten atualmente ua pista asfaltada de 1278 metros de cumprimiento cun 30 metros d'anchura, situado a 2 quilómetros ne l norte de la cidade de [[Con Son]], província Ba Ria-Vung Tau, [[Vietnam]].<ref name="CDairport">[http://www.sac.vn/cms/vi/gioithieusac/dinh-huong-phat-trien/cang-hk-dia-phuong Con Dao Airport Southern Airports Coporation]léngua bietnamita</ref><ref>[http://trade.dongnai.gov.vn/tin_tuc/trong_nuoc/mlnews.2006-05-18.0361567389 Sân bay Côn Đảo Thuong mai Du lich Dong Nai] léngua bietnamita</ref> Queda a 360 km norte de la cidade de [[Ho Chi Minh Cidade]].
 [[Vietnam Air Services Company]] i l quarto stá reserbado para bóos pribados. L aeroporto de Con Son ye l segundo an tráfego aéreo de l Vietnam, [[Cidade de Ho Chi Minh]].
