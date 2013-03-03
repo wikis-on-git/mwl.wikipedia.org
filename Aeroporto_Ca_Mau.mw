@@ -1,3 +1,13 @@
+{{#if:
+ | {{#switch: {{{2}}}
+    | a = ''Piede-se a un admenistrador que bote fuora la páigina [[:{{{1}}}]] cunsante la cumbersa [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 10h45min de 3 de Março de 2013 (UTC)''
+    | c = ''La páigina [[:{{{1}}}]] criada por bós fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Podeis borrar este abiso quando quejirdes. 10h45min de 3 de Março de 2013 (UTC)''
+    | m = ''Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Cumbersou-se i antendiu-se que deberie de quedar. 10h45min de 3 de Março de 2013 (UTC)''
+    | ''La páigina [[:{{{1}}}]] fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 10h45min de 3 de Março de 2013 (UTC)''
+   }}
+ | ''<mark>Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{FULLPAGENAME}}|eiqui]]. 10h45min de 3 de Março de 2013 (UTC)</mark>''
+}}
+
 [[Fexeiro:Camau Airport2.JPG|240px|thumb|right|Aeroporto Ca Mau]]
 L '''Aeroporto Ca Mau''' (''Sân bay Cà Mau'') i cun un aeroporto doméstico, lhocalizado ne l çtrito de [[Phuong 6]], l’aeroporto Ca Mau ye ua strutura que ten atualmente ua pista asfaltada de 2600 metros de cumprimiento cun 45 metros d'anchura, situado a 2 quilómetros ne l norte de la cidade de [[Ca Mau]], província Ca Mau, [[Vietnam]]. Queda a 360 km norte de la cidade de [[Ho Chi Minh Cidade]].
 [[Vietnam Airlines]] i l quarto stá reserbado para bóos pribados. L aeroporto de Ca Mau ye l segundo an tráfego aéreo de l Vietnam, [[Cidade de Ho Chi Minh]].
