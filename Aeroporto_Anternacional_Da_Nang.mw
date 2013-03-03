@@ -1,3 +1,13 @@
+{{#if:
+ | {{#switch: {{{2}}}
+    | a = ''Piede-se a un admenistrador que bote fuora la páigina [[:{{{1}}}]] cunsante la cumbersa [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 16h21min de 3 de Março de 2013 (UTC)''
+    | c = ''La páigina [[:{{{1}}}]] criada por bós fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Podeis borrar este abiso quando quejirdes. 16h21min de 3 de Março de 2013 (UTC)''
+    | m = ''Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Cumbersou-se i antendiu-se que deberie de quedar. 16h21min de 3 de Março de 2013 (UTC)''
+    | ''La páigina [[:{{{1}}}]] fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 16h21min de 3 de Março de 2013 (UTC)''
+   }}
+ | ''<mark>Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{FULLPAGENAME}}|eiqui]]. 16h21min de 3 de Março de 2013 (UTC)</mark>''
+}}
+
 [[Fexeiro:Da Nang Airport.jpg|240px|thumb|right|Aeroporto Anternacional Da Nang]]
 L '''Aeroporto Anternacional Da Nang''' (''Sân bay quốc tế Đà Nẵng'') i cun un aeroporto doméstico, lhocalizado ne l çtrito de [[Quan Hai Chau]], l’aeroporto Da Nang ye ua strutura que ten atualmente ua pista asfaltada de 3000 metros de cumprimiento cun 45 metros d'anchura, situado a 2 quilómetros ne l norte de la cidade de [[Da Nang]], [[Vietnam]]. Queda a 730 km norte de la cidade de [[Hanói]].
 [[Vietnam Airlines]] i l quarto stá reserbado para bóos pribados. L aeroporto de Dong Hoi ye l segundo an tráfego aéreo de l Vietnam, [[Hanói]], [[Cidade de Ho Chi Minh]], [[Nha Trang]], [[Da Lat]], [[Pleiku]], [[Buon Me Thuot]], [[Quy Nhon]].
