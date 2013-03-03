@@ -1,3 +1,13 @@
+{{#if:
+ | {{#switch: {{{2}}}
+    | a = ''Piede-se a un admenistrador que bote fuora la páigina [[:{{{1}}}]] cunsante la cumbersa [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 23h27min de 3 de Março de 2013 (UTC)''
+    | c = ''La páigina [[:{{{1}}}]] criada por bós fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Podeis borrar este abiso quando quejirdes. 23h27min de 3 de Março de 2013 (UTC)''
+    | m = ''Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. Cumbersou-se i antendiu-se que deberie de quedar. 23h27min de 3 de Março de 2013 (UTC)''
+    | ''La páigina [[:{{{1}}}]] fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{{1}}}|eiqui]]. 23h27min de 3 de Março de 2013 (UTC)''
+   }}
+ | ''<mark>Esta páigina fui purpuosta para botar fuora [[Biquipédia:Botar fuora#{{FULLPAGENAME}}|eiqui]]. 23h27min de 3 de Março de 2013 (UTC)</mark>''
+}}
+
 [[Fexeiro:North Dakota State Capitol in Bismarck.jpg|thumb|250px|Bismarck]]
 '''Bismarck''' ye la [[capital]] de l [[Stados de ls Stados Ounidos de la América|stado]] [[Stados Ounidos de la América|americano]] de [[Dakota de l Norte]], cun {{formatnum:61272}} habitantes (2010).
 
