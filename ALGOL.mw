@@ -1,0 +1,102 @@
+L '''ALGOL''' ye ua família de [[lenguaige de porgramaçon|lenguaiges de porgramaçon]] d'alto nible buoltadas percipalmente para aplicaçones científicas. Sou nome probén de las palabras "ALGOrithmic Language" ([[Algoritmo|Lenguaige Algorítmica]]).
+
+L nome ye scrito '''ALGOL''' ó '''Algol''', dependendo de la fuonte de cunsulta.
+
+Bárias lenguaiges razoabelmente defrentes recebírun l nome de '''ALGOL''' ó '''Algol''', adicionando al nome letras ó númaros, por çcendíren diretamente de l '''ALGOL''' ouriginal.
+
+==Stória==
+[[John Backus]] zambolbiu la [[Formalismo de Backus-Naur|Forma Normal de Backus]], coincido cumo [[BNF]], para çcrebir [[ALGOL 58]]. L método fui rebisado i spandido por [[Peter Naur]], recebindo anton l nome de [[Formalismo de Backus-Naur|Forma de Backus-Naur]], i mantendo la sigla.
+
+[[Charles Antony Richard Hoare|C.La.R. Hoare]] dixe de [[ALGOL 60]]: "Eiqui stá ua lenguaige tan la frente de sou tiempo, que nun fui ua melhorie subre sous predecessoras, mas tamien la quaije todas sues sucessoras". Essa fala fui tamien ua crítica belada la [[ALGOL 68]], ua lenguaige cunsidrada ''anchada demales'' por muitos de sous críticos (i que nun tubo praticamente nanhun sucesso comercial).
+
+== Ampato ==
+La defeniçon de l [[ALGOL 60]] fui un eibento-chabe na stória de las lenguaiges de porgramaçon. Fui la purmeira lenguaige de [[Porgramaçon struturada]]. Nanhue outra lenguaige tubo anfluéncia tan amportante ne ls porjetos de nuobas lenguaiges.
+
+Para alhá desso, la specificaçon de la lenguaige tamien criou zafios técnicos pa la custruçon de cumpiladores, cumo mais tarde acuntecerie cun [[PL/I]] i [[Ada (lenguaige de porgramaçon)|Ada]]
+
+== Caratelísticas ==
+Las dues caratelísticas percipales de l Algol son: la clareza i l'eilegáncia de la sue strutura baseada ne ls blocos i l stilo de sue defeniçon, qu'usa ua lenguaige [[metalinguística]] para defenir de forma cuncisa i relatibamente cumpleta la sue [[sintaxe]].
+
+La lenguaige cuntinou sendo zambolbida i anriquecida cun nuobas custruçones i nuobos comandos qu'oumentórun sou potencial.
+
+Eesisten outras bersones de l Algol, cumo, por eisemplo, l Algol 68, l Algol W buoltado para máquinas [[IBM]] i l Algol 6000/7000 de la [[Burroughs]]. 
+
+== ALGOL i Burroughs ==
+An particular, la [[Burroughs]], porjetou l [[hardware]] de sou cumputador B6700 cun base na strutura de la lenguaige Algol. Esso fizo cun que l nome de ALGOL fusse lougo associado la máquinas Burroughs, i al alrobés.
+
+L Algol B6000/7000 ye ua lenguaige mui mais poderosa de l que l Algol 60. Las percipales stensones que fúrun acrecentadas son: facelidade pa l tratamiento d'antrada i salida (defeniçon d'arquibos i sous atributos, comandos para manipulaçon d'arquibos i bariadade de formatos)<ref>{{Refréncia a libro|outor=NUNES, Daltro José; TELICHEBESKY, Nilton|títalo=Antroduçon a la Lenguaige ALGOL B-6700|subtítulo=|léngua=|eidiçon=|local=Porto Alegre|eiditora=EMMA, UFRGS|anho=1975|páiginas=147|belumes=|belume=|id=}}</ref>, facelidades pa l tratamiento de cadeias de carateres (tipo [[cadeia de carateres|string]], tipo POINTER (ó [[Ponteiro]]), comandos i funçones para manipulaçon de cadeias), acesso la bits de mimória (palabra parcial) i facelidade para defenir macros (declaraçon DEFINE).
+
+Esta lenguaige se tornou apropiada para screbir ''[[software]]'' básico; an particular l [[sistema ouperatibo|sistema ouperacional]] de l B6700 (MCP – "[[Master_Cuntrol_Porgran|Master Cuntrol Porgran]]" stá scrito an ESPOL, ua stenson de l Algol, permitindo manipulaçones mais acerca de l'hardware. Hai ua outra stenson, l DCALGOL, Data Communicationes ALGOL, ousado para screbir software de quemunicaçon de dados.
+
+== Bariantes ==
+=== Padrones ===
+* [[ALGOL 58]], purmeira perpuosta de la lenguaige 
+* [[ALGOL 60]], berson mais coincida de la lenguaige
+* [[ALGOL 68]], berson bien mais poderosa, mas menos coincida
+
+=== Bariantes propiatárias ===
+* [[Eilliot ALGOL]], la berson stendida de la [[Burroughs]].
+* [[DCALGOL]], Data Communicationes ALGOL, ua stenson de la [[Burroughs]] para acesso als protocolos de quemunicaçon (algo mui superior al eqibalente de la IBM na época).
+* [[DMALGOL]], Data Management ALGOL, outra stenson de la [[Burroughs]] para anterface al sistema de Data Base (algo bien superior al eqibalente de la IBM na época).
+
+=== Outras bariantes ===
+* [[Algol-W]], perpuosta por [[Niklaus Wirth]], ne l comité de trasiçon de [[ALGOL 60|Algol 60]] para [[ALGOL 68|Algol 68]], antecessora de [[Pascal]]
+* [[Ex-algol]], Algol cun tipos de dados ortogonales, zambolbido por [[Ron Morrison]]
+* [[Jobial]]
+* [[Simula]]
+
+== Eisemplo de código ==
+=== Procedimiento ===
+<pre>
+procedure Absmax(a) Size:(n, m) Result:(y) Subscripts:(i, k);
+    value n, m; array a; integer n, m, i, k; real y;
+comment The absolute greatest element of the matrix a, of size n by m 
+is transferred to y, and the subscripts of this element to i and k;
+begin integer p, q;
+    y := 0; i := k := 1;
+    for p:=1 step 1 until n do
+    for q:=1 step 1 until m do
+        if abs(a[p, q]) > y then
+            begin y := abs(a[p, q]);
+            i := p; k := q
+            end
+end Absmax
+</pre>
+
+=== Heillo world ===
+<pre>
+BEGIN
+FILE F (KIND=REMOTE);
+EBCDIC ARRAY E [0:11];
+REPLACE E BY "HELLO WORLD!";
+WHILE TRUE DO
+  BEGIN
+  WRITE (F, *, E);
+  END;
+END.
+</pre>
+
+=== Hello world an Eilliot Algol ===
+Eilliot Algol usaba simblos defrentes para abrir i ancerrar strings, mas esso nun puode ser feito cun código [[ASCII]].
+
+<pre>
+program HelloWorld;
+ begin
+    print "Hello world";
+ end;
+</pre>
+
+== {{Ber tamien}} ==
+* [[Pascal (lenguaige de porgramaçon)]]
+
+==Refréncias==
+<references/>
+
+== {{Bibliografie}} ==
+* {{Refréncia a libro|outor=ORGANICK, I. I.;FORSYTHE, La. I.;PLUMMER, R. P.|títalo=Porgramming Language Strutures|subtítulo=|léngua=|eidiçon=|local=New York|eiditora=Academic Press|anho=1978|páiginas=659|belumes=|belume=|id=ISBN 0-12-528260-5}}
+* {{Refréncia a libro|outor=PACITTI, Tércio; ATKINSON, Cyril P.|títalo=Porgramaçon i Métodos Cumputacionales|subtítulo=|léngua=|eidiçon=4ª|local=Riu de Janeiro, RJ, Brasil|eiditora=Libros Técnicos i Científicos Eiditora|anho=1983|páiginas=435|belumes=2|belume=1|id=ISBN 85-216-0283-9}}
+* {{Refréncia a libro|outor=WEXELBLAT, Richard L.(Eiditor)|títalo=Story of Porgramming Languages|subtítulo=|léngua=|eidiçon=|local=New York|eiditora=Academic Press|anho=1981|páiginas=758|belumes=|belume=|id=ISBN 0-12-745040-8}}
+
+
+[[Catadorie:Lenguaiges de porgramaçon]]
+[[Catadorie:Lenguaiges de porgramaçon procedurales]]
