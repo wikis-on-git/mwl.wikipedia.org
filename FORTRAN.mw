@@ -1,0 +1,204 @@
+[[Fexeiro:Fortran acs cover.jpeg|thumb|]]
+La família de [[lenguaige de porgramaçon|lenguaiges de porgramaçon]] coincida globalmente cumo '''Fortran''' fui zambolbida a partir de la década de [[Década de 1950|1950]] i cuntina a ser ousada hoije an die. 
+L nome ye un [[acrónimo]] de la spresson "IBM Mathematical '''FOR'''mula '''TRAN'''slation Systen" 
+
+Las bersones eniciales de la lenguaige éran coincidas cumo FORTRAN, mas la capitalizaçon fui eignorada an bersones recentes de la lenguaige ampeçando a partir de l Fortran 90. Ls padrones oufeciales de la lenguaige refíren- se a eilha atualmente cumo "Fortran".
+
+La lenguaige Fortran ye percipalmente ousada an [[Ciéncia de la Cumputaçon]] i [[Análeze Numérica]]. Anque tener sido einicialmente ua lenguaige de porgramaçon [[porgramaçon procedural|procedural]], bersones recentes de Fortran possuen caratelísticas que permiten suportar [[ourientaçon a oubjeto|porgramaçon ourientada por oubjetos]].
+
+== Stória, bersones i rebisones ==
+[[Fexeiro:Ibm704.gif|dreita|thumb|320px|An [[IBM 704]] [[mainframe]] ]]
+Fui la purmeira [[lenguaige de porgramaçon]] amperatiba. L purmeiro [[cumpilador]] de FORTRAN fui zambolbido pa l [[IBM 704]] an [[1954]]-[[1957|57]] por ua eiquipe de la [[IBM]] xefiada por '''[[John Backus|John W. Backus]]'''. L cumpilador era outimizado, pus ls outores acraditában que naide eirie ousar essa lenguaige se la sue prestaçon nun fusse cumparable cula de la [[lenguaige assembly]]. <!-- reber link -->
+Le langage Fortran la cunnu de nombreuses ébolutiones<ref>Beija eiqui l site de [http://www.nag.co.uk/sc22wg5/ Working Group 5] i de [http://www.j3-fortran.org/ comité J3] para mais anformaçones subre l'eiboluçon atual de l Acuordo</ref> :
+* '''1956'''. Fortran II ye un liguaige de porgramaçon criada passado sue "ouriginal" FORTRAN an 1958.<ref name="fortran">{{Refréncia a libro|outor=Feio, Rui Alberto Lopes|títalo=Curso de Porgramaçon Fortran|subtítulo=|léngua=|eidiçon=|local=Lisboua|eiditora=Fundaçon Calouste Gulbenkian|anho=1986|páiginas=191|páigina=2|belumes=|belume=|id=Depósito Legal mº 13449/86}}</ref> Esta ouriginou outras lenguaiges cumo BASIC
+* '''1958'''. Fortran III Berson que nunca fui çponibelizada.
+* '''1962'''. Fortran IB La lenguaige Fortran fui largamente adatada por cientistas pa la scrita de porgramas numericamente antensibos, l qu'ancorajou ls perdutores de cumpiladores a screbir cumpiladores que gerassen código mais rápido.
+
+* '''1965'''. Decumiento ECMA Fortran<ref>{{Citar web|url= http://www.ecma-anternational.org/publicationes/files/ECMA-ST-WITHDRAWN/ECMA-9,%201st%20Edition,%20April%201965.pdf | títalo=Standard ECMA Fortran |formato=PDF | acessodata=25 de setembre 2012}}</ref>
+
+* '''1966'''. Fortran 66 (ANSI X3.9-1966)<ref>{{Citar web|url= http://www.fh-jena.de/~kleine/story/languages/ansi-x3dot9-1966-Fortran66.pdf |títalo=Standard Fortran 66 |formato=PDF|acessodata=25 de setembre 20112}}</ref>, quando la purmeira berson padronizada de la lenguaige, coincida cumo '''FORTRAN IB''' ó '''FORTRAN 66''', staba çponible, Fortran yá era la lenguaige mais ousada pula quemunidade científica. ''FORTRAN IB'' fui padronizada pula ''Amarican Standard Association'' (ASA).<ref name="fortranib"> {{Refréncia a libro|Outor = Setzer, Baldemar Waingort; [[Eimre Simon|Simon, Eimre]]; [[Tomasç Kowaltowski|Kowaltowski, Tomasç]]|Títalo = Curso de Fortran IB Básico|local=San Paulo|páigina=5|páiginas=102|Eiditora = Edgard Blucher|Anho = 1972|ID = CDD 651.8}}</ref> L'ampla çponibelidade de cumpiladores para defrentes cumputadores, la simplicidade de la lenguaige, facelidade para ansiná-la, sue eficiéncia i las bantaiges antroduzidas pul uso de sub-rotinas i cumpilaçon andependiente destas i la capacidade de lidar cun [[númaros cumplexos|númaro cumplexo]], para alhá de muitas outras caratelísticas, ajudórun an sue ampla difuson drento de la quemunidade científica.
+
+* '''1978'''. Fortran 77 (ANSI X3.9-1978)<ref>{{Citar web|url=http://www.fh-jena.de/~kleine/story/languages/ansi-x3dot9-1978-Fortran77.pdf |títalo=Standard Fortran 77|acessodata=25 de setembre 2012 |formato=PDF}}</ref>,<p> antre outras melhories, facelita la porgramaçon de struturas cun blocos. « IF / THEN / ELSE / ENDIF ». An 1978, ua stenson antroduzia antre outros « DO WHILE / END DO »<ref>{{Citar web|url= http://www.eiberyspec .com/MIL-STD/MIL-STD+(1700+-+1799)/download.php?spec=MIL-STD-1753.011044.PDF | títalo=MIL-STD-1753, Melitary Standard: Fortran, DOD Supplement to Amarican National Standard X3.9-1978 |acessodata=25 de setembre 2012|formato=PDF}}</ref>. Ua caratelística marcante de l FORTRAN 77 son las regras d'alinhamiento de las linhas de l porgrama, ua hardança de l'era de ls [[carton perfurado|cartones perfurados]]. Ouriginalmente, la sintaxe de l FORTRAN 77 fui defenida de forma que cada linha de l porgrama fusse scrita nun [[carton perfurado]], cun un carater por coluna, oubedecendo las seguintes regras:
+
+* Coluna 1 - ousada para andicar linha de comentairo. Un carater na coluna 1 (giralmente "C", "c" ó "*") andicaba que todos ls demales carateres a partir de la coluna 2 custituían un comentairo i nun un comando ó declaraçon.
+* Colunas 2-5 - reserbadas pa ls "labels" de las linhas (númaros anteiros antre 1 i 9999). Ls labels son ousados para eidantificar i referenciar linhas specíficas de l porgrama. 
+* Coluna 6 - quando marcada por un carater, andicaba que la linha era ua cuntinaçon de la linha anterior.
+* Colunas 7-72 - reserbadas pa ls comandos i declaraçones.
+* Colunas 73 an delantre - reserbadas para comentairos.
+
+Las mesmas regras cuntinórun an bigor , mesmo depuis de ls [[carton perfurado|cartones perfurados]] tenéren caído an desuso i ls porgramas an FORTRAN 77 passáren a ser scritos diretamente an eiditores de testo.
+
+Na mesma época que l FORTRAN 77 surgiu, yá eisistian outras lenguaiges de porgramaçon cumo l [[C]], [[Pascal]], [[Ada (lenguaige de porgramaçon)|Ada]] i [[Modula]], qu'habien antroduzido nuobos cunceitos an porgramaçon ó fundamentado outros cumo a tipaige splícita de bariables i la defeniçon de nuobos tipos de dados, l que permitie al porgramador defenir struturas de dados mais adequadas para resulber porblemas; alocaçon dinámica de dados; subprogramas recursibos; cuntrole de sceçon (ua de las percipales caratelísticas de la lenguaige [[Ada (lenguaige de porgramaçon)|Ada]]); i stablecimiento de módulos.
+
+L FORTRAN 77 nun ouferecie nanhun desses recursos i ampeçou a ser pouco a pouco abandonado pula quemunidade científica que passórun a recorrer l'outras lenguaiges de porgramaçon.</p>
+* '''1980'''. Fortran 8X. Durante la década de 1980, fui lançada ua nuoba rebison de l 8x qu'ancorporaba todos ls cunceitos arriba citados (sceto a tipaige splícita i l cuntrole de sceçon).
+* '''1990'''. Fortran 90 (ANSI X3.198-1992)<ref>{{Citar web|url=http://www.fortran .com/f90_std.pdf |títalo=Standard Fortran 90 |formato=PDF |acessodata=25 de setembre 2012}}</ref> : L porcesso de defeniçon de l nuobo padron fui longo i demorado, mas permitiu l'amadurecimiento de muitos de ls nuobos cunceitos que la lenguaige apersentarie. La berson final desta rebison fui apersentada cul nome de '''FORTRAN 90'''. FORTRAN 90 ye tan eficiente quanto l [[C]] i l [[Pascal]] pa ls fines la qu'eilha se çtina. FORTRAN 90 trouxe ua nobidade pa l mundo de las lenguaiges de porgramaçon: macanismos para manipulaçon d'arranjos, que nun son ouferecidos por nanhue outra lenguaige.<ref>de la Cunha, Rudnei Dies, "''Antroduçon a la Lenguaige de Porgramaçon Fortran 90"'', Eiditora de la UFRGS, Porto Alegre, 2005. ISBN 85-7025-829-1.</ref>
+* '''1995'''. Fortran 95 (ISO/IEC 1539-1:1997)<ref>{{Citar web|url= http://www.fortran .com/f95_std.pdf |formato=PDF|títalo=Standard Fortran 95|acessodata=25 de setembre 2012}}</ref>L padron formal de la lenguaige mais recente, publicado an [[1996]], ye coincido cumo '''[[Fortran 95]]'''<ref>de la Cunha, Rudnei Dies, "''Porgramaçon Científica an Fortran 95"'', Clube de Outores, Porto Alegre, 2010. ISBN 978-85-910277-0-5.</ref>. Esta rebison de l FORTRAN acrecientou pequeinhas altaraçones al FORTRAN 90, motibada pula necidade d'aprossimar l padron a la lenguaige '''High Performance Fortran''' ó '''HPF''' la qual ye buoltada pa l'uso de cumputadores cun arquiteturas abançadas. La lenguaige HPF ye ua spece de stenson de l FORTRAN 90 i, atualmente, muitos fabricantes ouferencen cumpiladores HPF baseados na lenguaige FORTRAN 90.
+* '''2003'''. Fortran 2003 (ISO/IEC 1539-1:2004)<ref>{{Citar web|url= http://www.fortran .com/f03_std.pdf|títalo=Standard Fortran 2003 |formato=PDF|acessodata=25 de setembre 2012}}</ref> : Zde 1997, l FORTRAN ben passando por un nuobo porcesso de rebison. L '''FORTRAN 2003''' eirá ancorporar un cunjunto de nuobos comandos que permitiron, antre outras cousas, l cuntrole de sceçones i [[porgramaçon ourientada a oubjeto]]s.
+* '''2008'''. Fortran 2008 (ISO/IEC 1539-1:2010)<ref>{{Citar web|url= http://www.fortran .com/f08_std.pdf|títalo= Standard Fortran 2008| formato= PDF| acessodata=25 de setembre 2012}}</ref>. L padron mais recente, la ISO/IEC 1539-1:2010, coincido anformalmente cumo Fortran 2008, fui approbado an Setembre de 2010.<ref>N1836, Summary of Boting/Table of Replies on ISO/IEC FDIS 1539-1, Anformation technology - Porgramming languages - Fortran - Part 1: Base language {{PDFlink|ftp://ftp.nag.co.uk/sc22wg5/N1801-N1850/N1836.pdf| 101&nbsp;KiB<!-- application/pdf, 101k bytes -->}}</ref>  Tal cumo l Fortran 95, sofriu pequeinhos melhoramientos, ancorporando clarificaçones i correçones al Fortran 2003, assi cumo alguas nuobas funcionalidades, tales cumo:
+
+* Submodulos – facelidades struturales adicionales pa ls modulos; sustitui ISO/IEC TR 19767:2005
+* Co-array Fortran – un modelo d'eisecuçon paralela
+* La custruçon Scalable parallelisn – para iteraçones sin anterdependécias.
+* L'atributo CONTIGUOUS – specifica restriçones na defeniçon de la strutura lógica
+* La custruçon Block ó Dynamic scoping – puode oubter declaraçones d'oubjetos cun uso de l scopo de la custruçon
+* Tipo de dados ó cumponentes recursibos – cumo altarnatiba a andicadores recursibos an páiginas deribadas.
+
+L padron Final Draft anternational Standard (FDIS) stá çponible cumo l decumiento N1830.<ref>N1830, Anformation technology — Porgramming
+languages — Fortran — Part 1: Base language {{PDFlink|ftp://ftp.nag.co.uk/sc22wg5/N1801-N1850/N1830.pdf| 7.9&nbsp;MiB<!-- application/pdf, 7.9M bytes -->}}</ref> Outro amportante suplemiento al  Fortran 2008 ye la specificaçon técnica (TS) 29113 de la [[Anternational Organization fur Standardization|ISO]] an Anglés ''Further Anteroperabelity of Fortran with C'',<ref>ISO page to [http://www.eiso.org/eiso/eiso_catalogue/catalogue_tc/catalogue_detail.htn?csnumber=45136 ISO/IEC DTS 29113, Further Anteroperabelity of Fortran with C]</ref><ref>Draft of the Technical Specification (TS) 29113 {{PDFlink|ftp://ftp.nag.co.uk/sc22wg5/N1901-N1950/N1917.pdf| 312&nbsp;kiB<!-- application/pdf, 312k bytes -->}}</ref> que fui submetida para aprobaçon de l ISO an Maio de 2012. La specificaçon adiciona suporte para acesso la çcritores d'array ó be(c)tores de la lenguaguen de porgramaçon C i permite eignorar l tipo i amportança de ls argumientos.
+
+[[Fexeiro:FortranCardPROJ039.agr.jpg|right|thumb|Código FORTRAN nun [[Carton perfurado]], mostrando las colunas de testo specializadas 1-5, 6 i 73-80.]]
+== Cumpiladores ==
+L cumpilador libre [[GNU Cumpiler Colletion|gc]] permite la cumpilaçon cul Fortran 77 (cumpilador g77<ref>[http://www.kilmnj .com/g77/ Copia arquibo de site subre g77]</ref>, até al 3.4.6) i depuis l [[Fortran 90|90]] i [[Fortran 95|95]] (a partir de gc 4.0.0, que sustitui g77 para gfortran<ref>[http://gc.gnu.org/wiki/GFortran GCC Wiki - GFortran]</ref>{{,}}<ref>[http://www.gfortran.org/ gfortran.org]</ref>), pa las nuobas plataformas, l cumpilador g95<ref>[http://www.g95.org/ Sitio oufecial de g95]</ref> ye tamben baseado ne l gc, mas yá nun era mantido depuis de 2011. L cumpilador g77, agora çtribuido separadamente de l gc, puode se ancluído ne l gc para cumpilart<ref>[http://www.gfortran.org/build-g77.shtml Cumo cumpilar g77 cun ua berson recente de gc ?]</ref>, i ls sou binarios son inda çponibelizados para ciertos modelos de cumputadores<ref>[http://www.mbr-pwrc.usgs.gob/software/g77.html g77 pa l Windows] site oufecial [[United States Geological Surbey|USGS]]</ref>{{,}}<ref>[http://hpc.sourceforge.net/ g77 para MacOS X]</ref>{{,}}<ref>[ftp://ftp.delorie .com/pub/djgpp/current/b2gnu/ g77 para MS-DOS] ne l site de la [[DJGPP]]</ref>. Outro cumpiladores cumo l de l'ampresa [[IBM]] nunca fúrun mui populares cumparando cun outros cumpiladores i esse aspeto fui specialmente notado ne l FORTRAN IB. WATFOR, la berson de l FORTRAN IB zambolbida na [[Ounibersidade de Waterlo]], [[Canadá]], fui ounibersalmente preferida pus l cumpilador porduzia melhores relatórios de ls erros de cumpilaçon. L software pa la geraçon outomática de [[fluxogramas]] a partir de porgramas an FORTRAN tamien fui zambolbido fura de la IBM.
+
+Cumpiladores Fortran para [[processamiento paralelo]] i/ó [[processamiento çtribuído|çtribuído]] an [[Cluster]] of Workstationes ([[COW]]) ó Clustes of PCs ([[Cluster|agrupamientos de PCs]]):
+*[[gFortran]] -- [[g95]] -- [[GNU Cumpiler Colletion]] -- [[F2c]] -- [[Antel Fortran Cumpiler]] -- [[IBM BisualAge]] -- [[Oupen64]]
+
+== Caratelísticas i stensones ==
+L Fortran permite la criaçon de porgramas que priman pula belocidade d'eisecuçon. Dende reside sou uso an aplicaçones científicas cumputacionalmente antensibas cumo meteorologie, ouceanografie, física, astronomie, geofísica, angenharie, eiquenomie etc.
+
+Einicialmente, la lenguaige dependia de la formataçon percisa de l [[código-fuonte]] i de l'uso stensibo de númaros de depoimiento i de depoimientos '''<code>goto</code>'''. Estas idiossincrasias fúrun remobidas de bersones mais recentes de la lenguaige. Las dibersas atualizaçones tamien antroduziran cunceitos "modernos" de porgramaçon, tales cumo comentairos ne l código-fuonte i salidas de testo<!-- traduçon d'output -->, IF-THEN-ELSE (an FORTRAN 77), recursebidade (an FORTRAN 90), i custruçones paralelas<!-- termo correto?-->, anquanto se tentaba preserbar l perfil "lebe" i la prestaçon d'alto rendimiento que fazien l'eimaige de marca de l Fortran. Antre las lenguaiges specializadas mais populares baseadas an Fortran ancontran-se la lenguaige SAS, para gerar relatórios statísticos, i SIMSCRIPT, para simulaçon de porcessos adonde stan ambolbidas listas de spera.
+Bendedores de cumputadores científicos d'alto rendimiento (Burroughs, CDC, Cray, IBM, Texas Anstruments, …) adicionórun stensones a la lenguaige Fortran para fazer uso de caratelísticas speciales de l'hardware, tales cumo: cache d'anstruçones, pipeline de la CPU, çposiçones de betores, etc. Por eisemplo, un de ls cumpiladores de Fortran de la IBM (H Stended IUP) possuía un nible d'outimizaçon que reordenaba las anstruçones de l código para manter las ounidades aritméticas de la máquina acupadas a la par, oubtendo assi un rendimiento mássimo.<!-- esta frase percisa de trabalho --> Outro eisemplo ye CFD, ua "berson" special de la lenguaige Fortran porjetada especialmente pa l [[supercumputador]] ILLIAC IB, que se ancontra ne l '''Centro de Pesquisa Ames''' de la [[NASA]]. Estas stensones ténen benido zde anton a zaparecer ó anton ls sous eilemientos ténen sido ancorporados ne l padron percipal de la lenguaige; la stenson de la lenguaige qu'inda persiste ye la [[OupenMP]], que ye ua stenson multi-plataforma<!-- cross-platforn? --> para porgramaçon de mimória partilhada. Ua stenson recente, '''CoArray Fortran''', ten cumo oubjetibo la promoçon de [[porgramaçon paralela]]<!-- termo correto?-->.
+
+== Puntos fuortes/fracos de la sintaxe ==
+Ne l que fui la purmeira tentatiba de projeçon dua [[lenguaige de porgramaçon d'alto nible]], la sintaxe de la lenguaige ye cunsidrada arcaica por muitos porgramadores que daprendírun lenguaiges mais modernas. Ye defícel screbir un [[lop fur]], i erros na scrita de solo un caráter puoden liebar a erros durante l [[tiempo d'eisecuçon]] an beç d'erros de [[tiempo de cumpilaçon|cumpilaçon]], causo custruçones mais recentes nun fúren ousadas, tales cumo stilo libre de l código fuonte. Alguas de las bersones anteriores nun possuían facelidades<!-- éh? traduçon de "facelities"--> que serien tenidas cumo úteles an máquinas modernas, tales cumo l'alocaçon dinámica de mimória.
+Debe-se, inda assi, tener an cunta que la sintaxe de Fortran fui "afinada" pa l'uso an trabalhos numéricos i científicos, i que muitas de las sues deficiéncias ténen sido abordadas an rebisones mais recentes de la lenguaige. Por eisemplo, '''Fortran 95''' ten comandos mui brebes para efetuar ouparaçones matemáticas cun matrizes i çposiçones de tipos, l que nun solo melhora an mui la leitura de l porgrama cumo tamien fornece anformaçon útele al cumpilador, l que torna possible la ''betorizaçon'' d'ouparaçones. Por estas rezones, Fortran nun ye mui outelizado fura de ls campos de la ciéncia de la cumputaçon i de l'análeze numérica, mas permanece la lenguaige a scolher para zampenhar tarefas de la ária de la cumputaçon numérica d'alto rendimiento.
+
+== Padrones ==
+Ls dous padrones<!--normas--> ambaixo refleten las amplementaçones atuales de Fortran:
+* ANSI X3.198-1992 (R1997). Títalo: Porgramming Language "Fortran" Stended. Ye anformalmente coincida cumo Fortran 90.L padron ye publicado pula [[Amarican National Standards Anstitute|ANSI]].
+* ISO/IEC 1539-1:1997. Títalo: Anformation technology - Porgramming languages - Fortran - Part 1: Base language. Ye anformalmente coincido cumo Fortran 95. Eesisten mais dues partes deste padron. La Parte 1 fui formalmente aporfilhada pul ANSI.
+
+== Eisemplos de código ==
+{{Artigo percipal|Porgrama Oulá Mundo}}
+===  an FORTRAN 77 ===
+<source lang="fortran">
+C 1 2 3 4
+C234567890123456789012345678901234567890
+      PROGRAM HELLO
+      PRINT *, "HELLO WORLD!"    ! ← USANDO COMANDO PRINT
+      END
+</source>
+
+==== Resolbendo ua eiquaçon de 2o. grau ====
+<source lang="fortran">
+C 1 2 3 4 5 6
+C2345678901234567890123456789012345678901234567890123456789012345
+      PROGRAM BASKHARA
+C
+      REAL :: A,B,C, DELTA, X1,X2, RE, IM
+C
+      PRINT *, "Este programa resolve uma equação de 2o.grau"
+      PRINT *, "no formato: a*x**2 + b*x + c = 0"
+C
+      PRINT  10, "Digite a, b, c: "
+ 10   FORMAT( A, 1X, $)
+ 20   READ(*, *, ERR=20)A, B, C
+C
+      DELTA= B**2-4.0*A*C
+C
+      IF( DELTA.GT.0 )THEN      ! (DUAS RAIZES REAIS)
+          X1= ( -B-SQRT(DELTA) ) / ( 2.0*A )
+          X2= ( -B+SQRT(DELTA) ) / ( 2.0*A )
+          PRINT *, "RAIZES:  X1= ", X1
+          PRINT *, "X2= ", X2
+      ELSE 
+          IF( DELTA.EQ.0 ) THEN ! (DUAS RAIZES REAIS IGUAIS)
+          X1= -B / ( 2.0*A )
+          X2= X1
+          PRINT *, "RAIZES: X1=X2= ", X1
+      ELSE                      ! (DUAS RAIZES COMPLEXAS)
+          RE= -B / ( 2.0*A )
+          IM= SQRT( -DELTA ) / ( 2.0*A )
+          PRINT *, "RAIZES COMPLEXAS: X1= ", RE,"- ", IM, "i"
+          PRINT *, "X2= ", RE, "+ ",IM, "i"
+          END IF
+      END IF
+C         
+      END PROGRAM BASKHARA
+</source>
+
+=== an [[Fortran 90]]===
+
+====  tabela de graus -> radianes ====
+<source lang="fortran">
+      PROGRAM DEGRAD 
+! Declaracao das variaveis                                             
+      INTEGER DEG 
+      REAL RAD, COEFF 
+! Inicio do programa
+      WRITE ( *, 10) 
+   10 FORMAT      (' ',20('*') /                                        &
+     &             ' * Degres * Radians *' /                            &
+     &             ' ', 20('*') )                                       
+! Corpo do programa
+      COEFF = (2.0 * 3.1416) / 360.0 
+      DO DEG = 0, 90 
+         RAD = DEG * COEFF 
+         WRITE ( *, 20) DEG, RAD 
+   20 FORMAT         (' *  ',I4,'  * ',F7.5,' *') 
+      END DO 
+! Fim da tabela
+      WRITE ( *, 30) 
+   30 FORMAT      (' ',20('*') ) 
+! Fim do programa
+      STOP 
+      END PROGRAM DEGRAD      
+</source>
+
+=== an [[Fortran 95|FORTRAN 95]]===
+<source lang="fortran">
+program ola
+print*,"Olá Mundo!"
+end program ola
+</source>
+
+==== Ária de l celindro ====
+<source lang="fortran">
+program cilindro
+! Calcula a área de um cilindro.
+!
+! Declara as variáveis e constantes.
+implicit none ! Requer que todas as variáveis sejam declaradas -- Habilidade do Fortran 90.
+integer :: ierr
+real :: raio,altura,area
+real , parameter :: pi = 3.14159
+do
+   ! Pergunta ao usuário o raio e a altura e lê os valores. 
+   write (*,*) "Entre com o raio e a altura, 'q' para sair."
+   read (*,*,iostat=ierr) raio,altura
+   ! 
+   ! Se o raio e a altura não puderam ser lidos da entrada, termina o programa.
+   if (ierr /= 0) stop "finalizando o programa"
+   !
+   ! Calcula a área. O sinal ** significa "eleva a uma potência".
+   area = 2*pi*(raio**2 + raio*altura)
+   !
+   ! Escreve as variáveis de entrada (raio, altura) e a saida (área) na tela.
+   write (*,"(1x,'raio=',f6.2,5x,'altura=',f6.2,5x,'area=',f6.2)") raio,altura,area
+end do
+end program cilindro
+</source>
+
+==Refréncias==
+<references/>
+
+==Ligaçones sternas==
+*[http://bibaolinux .com.br/artigo/Antroducao-al-Fortran-%28parte-1%29/ Porgramaçon an Fortran ne l Linux]
+*[http://www.geocities .com/heilder_pc/fortran/ Curso de Fortran 77 i 90 an pertués]
+*[http://www.fh-jena.de/~kleine/story/ Early Fortran Manuals]
+*[http://www.fortran .com The Fortran Cumpany: cumpilers, books, tutorials, cunsulting]
+*[http://dmoç.org/Cumputers/Porgramming/Languages/Fortran/ Fortran Oupen Diretory category]
+*[http://groups-beta.gogle .com/group/cump.lang.fortran Usenet forun: cump.lang.fortran]
+*[http://www.fortranplus.co.uk Fortran 90, 95 and 2003 anformation]
+*[http://www.ibiblio.org/pub/languages/fortran/unfp.html USER NOTES ON FORTRAN PROGRAMMING (UNFP)]
+*[http://www.aspire.cs.uah.edu/textbook/andex_f77.html Unit 7.1 FORTRAN 77] –; Part of [http://www.aspire.cs.uah.edu/ ASPIRE]'s textbook in Cumputational Science
+*[http://www.aspire.cs.uah.edu/textbook/andex_f90.html Unit 7.2 FORTRAN 90] –; Ditto
+*[http://acmqueue .com/modules.php?name=Cuntent&pa=showpage&pid=271 How Not to Write FORTRAN in Any Language] There are charateristics of god coding that trascend all porgramming languages.
+*[http://www.allinea .com/?page=48 Debugging tol fur FORTRAN and its deribatibes.]
+*[http://rsusu1.rnd.runnet.ru/debelop/fortran/prof77/prof77.html Professional Porgrammer's Guide to Fortran77]
+
+[[Catadorie:Fortran| ]]
+[[Catadorie:Lenguaiges de porgramaçon]]
+[[Catadorie:Normas d'anformática i telecomunicaçon]]
+[[Catadorie:Lenguaiges de porgramaçon procedurales]]
