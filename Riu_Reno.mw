@@ -6,7 +6,7 @@
  |cumprimiento_milhas  = 
  |nacente    = 
  |alt_nacente = 2344
- |débito     = 
+ |débito     = 2300
  |débito_lhocal = 
  |foç       = [[Mar de l Norte]]
  |ária_bacie  = 185 000
@@ -25,7 +25,7 @@ L Reno nace ne ls [[Alpes]], ne l [[lheste]] de la [[Suíça]], ne l canton de [
 Zagua ne l [[mar de l Norte]] misturando sues augas culas de l [[riu Mosa]] ne l grande [[Delta de l Reno i Mosa|delta]]. Atrabessa ó acumpanha seis países: la Suíça, la [[Áustria]], l [[Lhiechtenstein]], la [[Almanha]], la [[Fráncia]] i ls [[Países Baixos]]. Custitui la frunteira natural antre la Suíça i l Lhiechtenstein, antre la Almanha i la Suíça i antre la Almanha i la Fráncia.
 {{clr}}
 === Subdebisones ===
-[[Fexeiro:Rhein-Karte.png|lheft|400px|thumb|L Reno i sous afluentes.]]
+[[Fexeiro:Flusssystemkarte Rhein 03.jpg|lheft|400px|thumb|L Reno i sous afluentes.]]
 L riu subdebide-se an uito trechos:
 * Km 0 - 76: Region de ls dous rius formadores de l Reno - l Reno anterior (an alman, ''Borderrhein'')  i l Reno posterior (''Hinterrhein'')
 * Km 76 - 162: Reno alpino (''Alpenrhein'') antre la cunfluéncia de ls dous rius de fuonte i la foç al [[Lhago de Custança]] acerca de [[Bregenç]]
@@ -51,7 +51,7 @@ L Reno stá lhigado cun numerosos eibentos stóricos, cumo por eisemplo:
 * La [[Batailha de la Floresta de Teutoburgo]] na qual las tropas romanas la norte de l riu (trés lhegiones) fúrun aniquiladas puls [[queruscos]], de forma que [[Augusto]] decidiu stablecer l Reno cumo frunteira norte de l [[Ampério Romano]] i renunciar la qualquiera spanson nas tierras germánicas.
 * Nua nuite de Dezembre de [[406]], [[suebos]], [[alanos]] i [[bándalos]] cruzórun l Reno gilado an [[Mainç|Mogúncia]], assolando la [[Gália]] i spalhando-se pul [[Ampério Romano]].
 * An [[1806]], [[Napoleon I]] stableciu la [[Cunfederaçon de l Reno]], passado la cunquista de la quaije totalidade de la [[Renánia]].
-* L Reno fui storicamente ua fuonte de porblemas frunteiriços antre [[Fráncia]] i [[Almanha]]. Por eisemplo, an [[1840]] la crise de l Reno eiboluiu debido al purmeiro-menistro francés Thiers tener ampeçado a falar acerca de la frunteira de l Reno. La cançon nacionalista "La guarda junto al Reno" (''Die Wacht an Rhein'') fui cumpuosta naqueilha época i durante la [[Guerra Franco-Prussiana]] eilebou-se a la catadorie d'hino nacional na Almanha. La cançon apela a la defesa de l Reno contra la Fráncia i fui popular durante la [[Purmeira Guerra Mundial]].
+* L Reno fui storicamente ua fuonte de porblemas frunteiriços antre [[Fráncia]] i [[Almanha]]. Por eisemplo, an [[1840]] la crise de l Reno eiboluiu debido al purmeiro-menistro francés Thiers tener ampeçado a falar acerca de la frunteira de l Reno. La cançon nacionalista "La guarda junto al Reno" (''Die Wacht am Rhein'') fui cumpuosta naqueilha época i durante la [[Guerra Franco-Prussiana]] eilebou-se a la catadorie d'hino nacional na Almanha. La cançon apela a la defesa de l Reno contra la Fráncia i fui popular durante la [[Purmeira Guerra Mundial]].
 * Passado la Purmeira Guerra Mundial, l [[Tratado de Bersalhes (1919)]] specificou la çmelitarizaçon andefenida de la Renánia, antre la frunteira francesa i l Reno, mais ua faixa de 50&nbsp;Km l'este de l riu.
 
 == Hidrologie ==
@@ -78,9 +78,9 @@ An [[Basileia]], l balor médio ye 1 062 m/s, an tiempo de seca 202 m³ i la mai
 | 162
 | Dreito
 | [[Bregenzer Ach]]
-| align="right"|80
-| align="right"|
-| align="right"|
+| align="right"|70
+| align="right"|835
+| align="right"|46
 | Lhago de Custança
 |-
 | 267
@@ -104,7 +104,7 @@ An [[Basileia]], l balor médio ye 1 062 m/s, an tiempo de seca 202 m³ i la mai
 | [[Riu Aar|Aar]]
 | align="right"|291
 | align="right"|17620
-| align="right"|590
+| align="right"|560
 | Reno alto
 |-
 | 456,50
@@ -208,7 +208,7 @@ An [[Basileia]], l balor médio ye 1 062 m/s, an tiempo de seca 202 m³ i la mai
 | [[Riu Wupper|Wupper]]
 | align="right"|117
 | align="right"|827
-| align="right"|15
+| align="right"|17
 | Reno anferior
 |-
 | 943,2
@@ -224,7 +224,7 @@ An [[Basileia]], l balor médio ye 1 062 m/s, an tiempo de seca 202 m³ i la mai
 | [[Riu Ruhr|Ruhr]]
 | align="right"|219
 | align="right"|4485
-| align="right"|79
+| align="right"|78
 | Reno anferior
 |-
 | 1000,7
@@ -240,15 +240,15 @@ An [[Basileia]], l balor médio ye 1 062 m/s, an tiempo de seca 202 m³ i la mai
 | [[Riu Lhippe|Lhippe]]
 | align="right"|220
 | align="right"|4888
-| align="right"|46
+| align="right"|45
 | Reno anferior
 |-
 | 1128,5
 | Squerdo
-| [[Riu Mosa|Mosa]] ''(até 1904)''
+| [[Riu Mosa|Mosa]]
 | align="right"|920
 | align="right"|34548
-| align="right"|400
+| align="right"|357
 | Delta
 |}
 
