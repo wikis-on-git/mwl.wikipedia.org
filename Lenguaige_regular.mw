@@ -18,8 +18,7 @@ Beija [[Spresson regular]] para ber la semántica i la síntaxe dessas ouparaço
 ;Eisemplos
 To lenguaige fenita ye regular. Outros eisemplos típicos ancluen la lenguaige cunsistindo de todas las cadeias subre l'alfabeto {''la'',''b''} que cuntenhan un númaro par de ''la''s, ó la lenguaige cunsistindo de todas las cadeias de la forma: bários ''la''s seguido por bários ''b''s.
 
-Un simples eisemplo de lenguaige que nun ye regular ye l cunjunto de cadeias <math>\{la^nb^m\,\bert\; m\ge 0\}</math>. Esso porque nessa lenguaige, l númaro de ''la''s cuntrola l númaro de ''b''s, que nun son permitidos por qualquiera ua de las regras arriba. Ber mais an [[Lema de l bombeamiento para lenguaiges regulares]].
-
+Un simples eisemplo de lenguaige que nun ye regular ye l cunjunto de cadeias <math>\{a^nb^n\,\vert\; n\ge 0\}</math>. Esso porque nessa lenguaige, l númaro de ''la''s cuntrola l númaro de ''b''s, que nun son permitidos por qualquiera ua de las regras arriba. Ber mais an [[Lema de l bombeamiento para lenguaiges regulares]].
 
 ==Eiquibaléncia cun outros formalismos==
 Ua lenguaige regular sastifaç las seguintes propiadades que son eiquibalentes:
