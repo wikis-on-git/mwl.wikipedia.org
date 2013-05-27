@@ -25,7 +25,7 @@ Cun este artigo benirun a a tona ls cunceitos
 == Antropia de l'anformaçon ==
 Ne l porcesso de zambolbimiento dua teorie de la quemunicaçon que podisse ser aplicada por angenheiros eiletricistas para porjetar sistemas de telecomunicaçon melhores, [[Claude Shannon|Shannon]] defeniu ua medida chamada de [[antropia (teorie de l'anformaçon)|antropia]], defenida cumo:
 
-:<math> H(X) = -\sun_{x \in \mathbb{X}} p(x) \log p(x)</math>
+:<math> H(X) = -\sum_{x \in \mathbb{X}} p(x) \log p(x)</math>
 
 adonde <big><math>log</math></big>  ye l logaritmo na base 2, que detremina l grau de caoticidade de la çtribuiçon de porbabelidade <math>p_i</math> i puode ser ousada para detreminar la capacidade de l canhal neçaira para trasmitir l'anformaçon.
 
@@ -39,7 +39,7 @@ Outras medidas d'anformaçon úteles ancluen anformaçon mútua, que ye ua medid
 
 adonde <math>H(X,Y)</math> ye l'antropia cunjunta (''join antropy'') ó
 
-:<math>\ H(X,Y)=-\sun_{x,y} p(x,y)\log p(x,y)</math>
+:<math>\ H(X,Y)=-\sum_{x,y} p(x,y)\log p(x,y)</math>
 
 Anformaçon mútua stá relacionada de forma mui próssima cun testes statísticos cumo l teste de rezon logarítmica i l teste Chi-square.
 
