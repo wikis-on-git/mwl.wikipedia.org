@@ -1,0 +1,90 @@
+{{rebison-subre|Ciéncia de la cumputaçon|data=júlio de 2009}}
+{{sin notas|data=janeiro de 2011| angola=| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=Este artigo ó seçon|2=|3=|4=|5=|6=}}
+
+Formalmente, un {{PBPE|outómato|outómato}} ye defenido cumo sendo un modelo matemático dua [[Máquina de stado fenito|máquina d'estados fenitos]].
+
+Un '''outómato''' funciona cumo un [[reconhecedor]] dua detreminada lenguaige i sirbe para modelar ua máquina ó, se quejiren, un [[cumputador]] simples. Ye ousado, por eisemplo, an eiditores de testo para recoincer padrones. Un cunceito fundamental ne ls outómatos ye l cunceito de stado. Este cunceito ye aplicado la qualquiera sistema, por eisemplo, a la nuossa [[telebison]]. Las noçones de stado i sistema son tan onipresentes que fui zambolbido un campo de coincimiento chamado [[Teorie de ls sistemas]]. Ua telebison puode star ligada(on) ó çligada(ouff), tenemos anton un sistema cun dous stados.
+
+L'un nible mais detalhado, podemos zeiar defrenciar ls canhales, causo an que podemos tener cientos de stados: un para ''çligada'' i ls restantes seneficando ''ligada ne l canhal N'', eisiste siempre un númaro fenito de stados. Dada ua telebison, eilha nun stá solo nun de ls stados possibles, somos capazes de fazer mudar la telebison de stado.
+
+==Outómatos fenitos==
+San reconhecedores de [[Lenguaige regular|lenguaiges regulares]] defenidos atrabeç de quíntuplas de la forma: 
+
+: <code> <math> M=(Q,\  \Sigma,\  \delta,\ q_{0},\ F)</math>
+</code>
+* <math>Q</math> ye un cunjunto fenito nun bazio de stados de l'outómato;
+* <math>\Sigma</math> ye un cunjunto de simblos, chamado alfabeto d'antrada de l'outómato;
+* <math>\delta:Q \eiquipas \Sigma \to Q</math> ye la [[funçon (matemática)|funçon]] de trasiçon de stados de l'outómato i sou papel ye l d'andicar las trasiçones possibles an cada cunfiguraçon de l'outómato. Esta funçon fornece para cada par "stado i simblo d'antrada" un nuobo stado para adonde l'outómato deberá mober-se.
+* <math>q_{0}\in\, Q </math> ye chamado stado enicial de l'outómato fenito. Ye l'estado pa l qual l reconhecedor debe ser liebado antes d'ampeçar sues atebidades.
+* <math>F\suseteq Q</math> ye un subconjunto de l cunjunto Q de ls stados de l'outómato, i cuntén todos ls stados d'aceitaçon ó stados finales de l'outómato fenito. Estes stados son aqueilhes an que l'outómato debe treminar l reconhecimiento de las cadeias d'antrada que pertencen a la lenguaige que l'outómato define. Nanhue outra cadeia debe ser capaç de liebar l'outómato la qualquiera destes stados.
+
+Por eisemplo:<br>
+<code> 
+M = ({La, B}, {0, 1}, f, La, {B}) 
+f = (La, 0) Þ La 
+:::: (La, 1) Þ B
+:::: (B, 1) Þ B
+:::: (B, 0) Þ La
+</code>
+
+Para este outómato fenito, reconhecen-se ls seguintes eilemientos: 
+
+# stados de l'outómato: L'i B
+# simblos de l'alfabeto d'antrada: 0 i 1
+# stado final: B
+# estado enicial: La
+# lenguaige reconhecida: cadeias de dígitos binairos treminadas oubrigatoriamente por un dígito 1.
+
+==Outómatos a la pilha (ó pushdown)==
+
+San reconhecedores de Lenguaiges Libres de Cuntesto defenidos atrabeç de la sétupla de la forma: <br>
+: <code>M=(I, B, P, f, q0, z0, F)</code><br>Adonde:
+* '''I''' ye un cunjunto fenito nun bazio de stados de l'outómato a la pilha.
+* '''B''' ye un cunjunto fenito nun bazio de simblos d'antrada ó átomos, chamado alfabeto d'antrada de l'outómato a la pilha. Ls simblos d'antrada son ls eilemientos de que son formadas las cadeias d'antrada submetidas al outómato para aceitaçon.
+* '''P''' ye un cunjunto fenito nun bazio de simblos de la pilha, i forma l'alfabeto de la pilha. Ls simblos de la pilha  son ls códigos armazenados pul outómato an sue mimória auxeliar. Esta mimória, ne l causo de l'outómato a la pilha, ye ourganizada na forma dua pilha, ó seia, ls radadeiros dados armazenados son ls purmeiros la séren lidos de la pilha, i al alrobés.
+* '''f''' ye la chamada funçon de trasiçon de l'outómato a la pilha, i ye cumpuosta dun cunjunto de porduçones que definen las regras de mobimentaçon de l'outómato a la pilha. Esta funçon mapeia l perduto cartesiano I X (B Ye {l}) X P ne l perduto cartesiano I X P*. An palabras, dado un stado, un simblo d'antrada i un simblo de pilha cuntido ne l topo de a mimória auxeliar, esta funçon detremina un nuobo estado de l'outómato i l nuobo cuntenido de l topo de la pilha (de cumprimiento qualquiera).
+* '''q0''' ye chamado stado enicial de l'outómato a la pilha, i ye un eilemiento de l cunjunto I. Ye l'estado an que se debe ancontrar l'outómato a la pilha eimediatamente antes de l'ampeço de l reconhecimiento dua cadeia d'antrada (q0 Î I).
+* '''z0''' ye un eilemiento de l cunjunto P, çtinto de ls demales  pula cumbençon de que sue persença, ne l topo de la pilha qu'amplementa a mimória de l'outómato, andica l'auséncia d'outros eilemientos na mesma. Ye un marcador de pilha bazie (z0 Î P).
+* '''F''' ye un subconjunto de l cunjunto de stados I de l'outómato, que cuntén  todos ls chamados stados finales ó stados d'aceitaçon de l'outómato de pilha. Tales stados corresponden  àqueles ne ls quales l'outómato de pilha debe ancerrar l reconhecimiento de  todas las cadeias d'antrada que séian sentenças de la lenguaige defenida pul outómato a la pilha. Nanhue outra cadeia debe finalizar l'outómato an qualquiera destes stados.
+
+Por eisemplo: 
+<code>
+: M = ( { La, B, C}, {0, 1}, {x, y},
+:::::::::: { f(La, 1, y) Þ (La, yx),
+:::::::::::: f(La, 1, x) Þ (La, xx)
+:::::::::::: f(La, 0, y) Þ (B, y)
+:::::::::::: f(La, 0, x) Þ (B, x)
+:::::::::::: f(B, 0, x) Þ (B, x)
+:::::::::::: f(B, 1, xx) Þ (C, x)
+:::::::::::: f(B, 1, yx) Þ (C, y)
+:::::::::::: f(C, 1, xx) Þ (C, x)
+:::::::::::: f(C, 1, yx) Þ (C, y) },
+::::::::::: La, y, {C} )
+</code>
+
+Este outómato reconhece cadeias binárias de la forma <math>1^n0+1^m,</math> adonde <math>m</math>i <math>m</math> son anteiros nó-negatibos i <math>la^m</math> simboliza ua cadeia de <math>m</math> simblos <math>la</math> seguidos. 
+
+Ous.: La cada trasiçon, ua sequéncia fenita de simblos de P ye anserida na pilha, sustituindo l simblo de l topo. Se la sequéncia fur l, eiquibale a l'açon "zampilhar". L'anserçon ye tal que l simblo mais a la squierda queda ne l topo de la pilha.
+
+== Ber tamien ==
+
+* [[Teorie de Outómatos]]
+* [[Máquina de stado fenito]]
+* [[Planeijamiento Outomatizado]]
+{{Teorie de la cumputaçon}}
+==Softwares==
+* [http://www.simuladordeautomatos .com Simulador de Outómatos] - Software para criaçon, teste i cumberson de Modelos Formales. Cun anterface gráfica.
+* [http://www.din.uen.br/yandre/stmf/ SCTMF] - Software para Criaçon i Teste de Modelos Formales.
+* [http://www.jflap.org JFlap] - Software amaricano para testes cun anterface gráfica.
+
+== Refréncias ==
+[http://www.dca.fe.unicamp.br/cursos/EA876/apostila/HTML/node46.html Outómatos fenitos]
+
+{{Bloco de nabegaçon
+|Cumputaçon}}
+
+[[Catadorie:Teorie de ls outómatos]]
+[[Catadorie:Teorie de la cumputaçon]]
+[[Catadorie:Matemática çcreta]]
+[[Catadorie:Palabras que difíren an bersones de la léngua pertuesa]]
+[[Catadorie:Ciéncia de la cumputaçon]]
