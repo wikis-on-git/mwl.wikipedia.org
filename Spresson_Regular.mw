@@ -1,0 +1,432 @@
+An [[ciéncia de la cumputaçon]], ua '''spresson regular''' (ó l [[strangeirismo]] '''''regex''''', abrebiaçon de l [[léngua anglesa|anglés]] ''regular spression'') probé ua forma cuncisa i flexible d'eidantificar [[cadeia de carateres|cadeias de carateres]] d'antresse, cumo [[caratere]]s particulares, palabras ó padrones de carateres. Spressones regulares son scritas nua [[lenguaige formal]] que puode ser [[lenguaige anterpretada|anterpretada]] por un processador de spresson regular, un [[porgrama de cumputador|porgrama]] que ó sirbe un [[gerador d'analisador sintático]] ó eisamina l testo i eidantifica partes que [[casamiento de padrones|casan]] cula specificaçon dada.
+
+L termo deriba de l trabalho de l [[matemático]] [[Stados Ounidos|norte-amaricano]] [[Stephen Cole Klene]], que zambolbiu las spressones regulares cumo ua notaçon al qu'el chamaba de [[Álgebra de Klene|álgebra de cunjuntos regulares]]. Sou trabalho serbiu de base pa ls purmeiros [[Algoritmo de busca|algoritmos cumputacionales de busca]], i depuis para alguas de las mais antigas ferramientas de tratamiento de testo de la plataforma [[Unix]].
+
+L'uso atual de spressones regulares anclui percura i sustituiçon de testo an [[eiditor de testo|eiditores de testo]] i [[lenguaige de porgramaçon|lenguaiges de porgramaçon]], balidaçon de formatos de testo (balidaçon de protocolos ó formatos digitales), [[rialce de sintaxe]] i filtraige d'anformaçon.
+
+== Cunceitos básicos ==
+Ua spresson regular (ó, un padron) çcribe un cunjunto de [[cadeia de carateres|cadeias de carateres]], de forma cuncisa, sin percisar listar todos ls eilemientos de l cunjunto. Por eisemplo, un cunjunto cuntendo las cadeias "''Handel''", "''Händel''" i "''Haendel''" puode ser çcrito pul padron <code>H(ä|ae?)ndel</code>. La maiorie de ls formalismos probé pul menos trés ouparaçones para custruir spressones regulares.
+
+La purmeira deilhas ye l'altarnáncia, an qu'ua [[barra bertical]] (<code>|</code>) separa altarnatibas. Por eisemplo, <code>psicadélico|psicodélico</code> puode casar "''psicadélico''" ó "''psicodélico''". La segunda ouparaçon ye l'agrupamiento, an que [[parénteses]] (<code>(</code>, <code>)</code>) son ousados para defenir l scopo i la precedéncia d'ouperadores, antre outros usos. Por eisemplo, <code>psicadélico|psicodélico</code> i <code>psic(la|l)délico</code> son eiquibalentes i ambas çcriben "''psicadélico''" i "''psicodélico''". Por fin, la terceira ouparaçon ye la quantificaçon (ó repetiçon). Un quantificador passado un ''[[token]]'' (cumo un caratere) ó un agrupamiento specifica la cantidade de bezes que l'eilemiento precedente puode ocorrer. Ls quantificadores mais quemuns son <code>?</code>, <code>*</code> i <code>+</code>. L [[punto d'anterrogaçon]] andica qu'hai zero ó ua ocorréncia de l'eilemiento precedente. Por eisemplo, <code>ac?çon</code> casa tanto "''açon''" quanto "''açon''". Yá l [[asterisco]] andica qu'hai zero ó mais ocorréncias de l'eilemiento precedente. Por eisemplo, <code>ab*c</code> casa "''ac''", "''abc''", "''abbc''", "''abbbc''", i assi por delantre. Por fin, l [[Simblos matemáticos|senhal d'adiçon]] andica qu'hai ua ó mais ocorréncias de l'eilemiento precedente. Por eisemplo, <code>ab+c</code> casa "''abc''", "''abbc''", "''abbbc''", i assi por delantre, mas nun "''ac''".
+
+Essas custruçones puoden ser cumbinadas arbitrariamente para formar spressones cumplexas, assi cumo spressones aritméticas cun númaros i ouparaçones d'adiçon, subtraçon, multiplicaçon i debison. De forma giral, hai dibersas spressones regulares para çcrebir un mesmo cunjunto de cadeias de carateres. La sintaxe sata de la spresson regular i ls ouperadores çponibles barian antre las amplementaçones.
+
+== Stória ==
+L'ourige de las spressones regulares stan na [[teorie de ls outómatos]] i na [[Lenguaige formal|teorie de las lenguaiges formales]], i ambas fázen parte de la [[teorie de la cumputaçon]]. Esses campos studan modelos de cumputaçon (outómatas) i formas de çcriçon i classeficaçon de lenguaiges formales. Na [[década de 1950]], l matemático [[Stephen Cole Klene]] çcrebiu tales modelos usando sue notaçon matemática chamada de "cunjuntos regulares", formando la [[álgebra de Klene]]. La lenguaige [[SNOBOL]] fui ua amplementaçon pioneira de [[casamiento de padrones]], mas nun era idéntica a las spressones regulares. [[Ken Thompson]] custruiu la notaçon de Klene ne l [[eiditor de testo]] [[QED (software)|QED]] cumo ua forma de casamiento de padrones an [[arquibo de testo|arquibos de testo]]. Mais tarde, el adicionou essa funcionalidade ne l'eiditor de testo [[Unix]] [[ed (software)|ed]], que resultou ne l'uso de spressones regulares na popular ferramienta de busca [[grep]]. Zde anton, dibersas bariaçones de l'adataçon ouriginal de Thompson fúrun ousadas an Unix i deribados, ancluindo [[spr]], [[AWK]], [[Emacs]], [[bi]] i [[lex]].
+
+Las spressones regulares de [[Perl]] i [[Tcl]] fúrun deribadas de la biblioteca scrita por [[Heinry Spencer]], i ne l Perl la funcionalidade fui spandida mais tarde.<ref>{{citar web
+|url=http://perldoc.perl.org/perlre.html
+|titulo=perlre: Perl regular spressiones
+|outor=[[Larry Wall]] i l'eiquipa de zambolbimiento de l Perl 5
+|lengua=anglés
+|data=2006
+}}</ref> [[Phelip Hazel]] zambolbiu la [[Perl Cumpatible Regular Spressiones|PCRE]] (Perl Cumpatible Regular Spressiones), ua [[biblioteca de rotinas|biblioteca]] ousada por dibersas ferramientas modernas cumo [[PHP]] i l [[serbidor Apache]]. Parte de l zambolbimiento de l [[Perl 6]] fui melhorar l'antegraçon de las spressones regulares de Perl, i oumentar sou scopo i funcionalidade para permitir la defeniçon de [[gramática de spresson d'analisadores sintáticos|gramáticas de spresson d'analisadores sintáticos]].<ref name="Apocalypse5">{{citar web
+|url=http://deb.perl.org/perl6/doc/zeign/apo/A05.html
+|titulo=Apocalypse 5: Pattern Matching
+|outor=[[Larry Wall]]
+|lengua=anglés
+|data=4 de júnio de 2002
+}}</ref> L resultado fui ua meni-lenguaige, las regras de l Perl 6, ousada para defenir la gramática de l Perl 6 assi cumo fornecer ua ferramienta para porgramadores de la lenguaige. Tales regras mantibírun las funcionalidades de spressones regulares de l Perl 5.x, mas tamien permitiran ua defeniçon [[Formalismo de Backus-Naur|BNF]] dun [[analisador sintático çcendente recursibo]].
+
+L'uso de spressones regulares an normas d'anformaçon struturada pa la modelaige de decumientos i [[banco de dados|bancos de dados]] ampeçou na [[década de 1960]], i spandiu na [[década de 1980]] quando normas cumo la [[Standard Generalized Markup Language|ISO SGML]] fúrun cunsulidadas.
+
+== Teorie de lenguaiges formales ==
+Spressones regulares puoden ser spressas atrabeç de la [[lenguaige formal|teorie de lenguaiges formales]]. Eilhas cunsisten de custantes i ouperadores que denotan cunjuntos de cadeias de carateres i ouparaçones subre esses cunjuntos, respetibamente. Dado un [[alfabeto]] fenito Σ, las seguintes custantes son defenidas:
+* (''[[cunjunto bazio]]'') {{Unicode|∅}} denotando l cunjunto {{Unicode|∅}}
+* (''cadeia de carateres bazie'') ε denotando l cunjunto {ε}
+* (''literal'') ''la'' an Σ denotando l cunjunto {''la''}
+
+Las seguintes ouparaçones son defenidas:
+* (''cuncatenaçon'') ''RS'' denotando l cunjunto { αβ | α an ''R'' i β an ''S'' }. Por eisemplo, {"''ab''", "''c''"}{"''d''", "''ef''"} = {"''abd''", "''abef''", "''cd''", "''cef''"}.
+* (''altarnáncia'') ''R|S'' denotando l cunjunto ounion de ''R'' i ''S''. Usa-se ls simblos {{Unicode|∪}}, {{Unicode|+}} ó {{Unicode|∨}} para altarnáncia al ambés de la barra bertical. Por eisemplo, {"''ab''", "''c''"}{{Unicode|∪}}{"''db''", "''ef''"} = {"''ab''", "''c''", "''db''", "''ef''"}
+* (''[[Fecho de Klene]]'') ''R''* denotando l menor [[superconjunto]] de ''R'' que cuntén ε i ye [[Fechamiento|cerrado]] sob cuncatenaçon. Esse ye l cunjunto de todas las cadeias de carateres que puoden ser custruídas al cuncatenar zero ó mais cadeias an ''R''. Por eisemplo, {"''ab''", "''c''"}* = {ε, "''ab''", "''c''", "''abab''", "''abc''", "''cab''", "''c''", "''ababab''", "''abcab''", ... }.
+
+Las custantes i ls ouperadores arriba forman la [[álgebra de Klene]].
+
+Para eibitar parénteses, ye assumido que l fecho de Klene ten la maior prioridade, depuis la cuncatenaçon i por fin l'altarnáncia. Se nun houbir ambiguidades, ls parénteses puoden ser omitidos. Por eisemplo, <code>(ab)c</code> puode ser scrito cumo <code>abc</code>, i <code>la|(b(c*))</code> puode ser scrito cumo <code>la|bc*</code>.
+
+;Eisemplos:
+* <code>la|b*</code> denota {ε, ''la'', ''b'', ''bb'', ''bbb'', ...}
+* <code>(la|b)*</code> denota l cunjunto de todas las cadeias de carateres que cuntén ls símbols ''la'' i ''b'', ancluindo la cadeia bazie: {ε, ''la'', ''b'', ''aa'', ''ab'', ''ba'', ''bb'', ''aaa'', ...}
+* <code>ab*(c|ε)</code> denota l cunjunto de cadeias de carateres ampeçando cun ''la'', anton cun zero ó mais ''b''s i oupcionalmente cun un ''c'': {''la'', ''ac'', ''ab'', ''abc'', ''abb'', ...}
+
+La defeniçon formal de spressones regulares ye cuncisa i eibita l'outelizaçon de ls quantificadores redundantes <code>?</code> i <code>+</code>, que puoden ser spressados respetibamente por <code>(la|ε)</code> i <code>aa*</code>. Por bezes l'ouperador de cumplemiento ~ ye adicionado;  ~''R'' denota l cunjunto de las cadeias de carateres de Σ* que nun stan an ''R''. Esse ouperador ye redundante, i puode ser spressado usando outros ouperadores, anque de la cumputaçon para tal repersentaçon ser cumplexa.
+
+Spressones regulares puoden spressar [[lenguaige regular|lenguaiges regulares]], la classe de lenguaiges aceita por un [[Máquina de stado fenito|outómato fenito]]. Antretanto, hai ua defrença seneficatiba na cumpataçon. Alguas classes de lenguaiges regulares puoden ser çcritas solamente por outómatos que crecen sponencialmente an tamanho, anquanto l tamanho de las spressones regulares requeridas solo puode crecer linearmente. Spressones regulares corresponden al Tipo-3 de las [[gramática formal|gramáticas]] de la [[Hierarquia de Chomsky]]. Por outro lado, eisiste un mapeamiento simples de spressones regulares para máquinas de stado fenito nó-determinísticas que nun lieba al crecimiento çgobernado de l tamanho. Por essa rezon, essas máquinas nun determinísticas son giralmente ousadas cumo repersentaçon altarnatiba de las spressones regulares.
+
+Ye possible screbir un [[algoritmo]] que, para dues spressones regulares dadas, decide se las lenguaiges çcritas son eissencialmente eiguales. Reduç-se cada spresson na máquina de stado fenito mínima, i detremina-se se ambas las máquinas mínimas son [[eisomorfismo|eisomórficas]] (eiquibalentes).
+
+Bal notar que dibersas amplementaçones de spressones regulares amplementan funcionalidades que nun puoden ser spressadas na álgebra de Klene; ber [[#Padrones para lenguaiges nun regulares|ambaixo]] mais subre l'assunto.
+
+== Sintaxe ==
+=== POSIX ===
+De [[1986]], la norma [[Anstitute of Eiletrical and Eiletronics Anginers|IEEE]] [[POSIX]] 1003.2 (POSIX.2) padroniza spressones regulares, i fornece dues specificaçones, a saber: l cunjunto básico (BRE) i l cunjunto stendido (ERE).
+
+==== BRE: spressones regulares básicas ====
+La sintaxe tradecional de spressones regulares an Unix seguiu cumbençones quemuns, mas diferiu antre las amplementaçones. La norma IEEE POSIX BRE (''Basic Regular Spressiones'', de l [[léngua anglesa|anglés]], spressones regulares básicas) fui zambolbida primordialmente por cumpatibelidade cula sintaxe tradecional, mas fornecie ua norma quemun que zde anton fui adotada por dibersas ferramientas.
+
+Na sintaxe de BRE, la maiorie de ls carateres son tratados cumo literales — eilhes casan solamente culs própios (por eisemplo, <code>la</code> casa "''la''"). Las sceçones son chamadas metacarateres ó metasequéncias, defenidos ambaixo:
+
+{| class="wikitable"
+|-
+! Metacaratere
+! Çcriçon
+|-
+! colspan="2" | Padrones andebiduales
+|- valign="top"
+|<code>.</code>
+|Casa qualquiera caratere. Alguas amplementaçones scluen [[quebra de linha]] i codificaçon de carateres. Nas spressones POSIX de listas de carateres (ber lougo ambaixo), l caratere punto ye tratado cumo l literal. Por eisemplo, <code>la.c</code> casa "''abc''", etc., mas <code>[la.c]</code> casa solamente "''la''", "''.''" ó "''c''".
+|- valign="top"
+|<code>[&nbsp;]</code>
+|Lista de carateres. Casa ua ocorréncia de qualquiera caratere cuntido na lista. Por eisemplo, <code>[abc]</code> casa "''la''", "''b''" ó "''c''". Ye possible defenir anterbalos de carateres: <code>[la-ç]</code> casa qualquiera caratere de "''la''" la "''ç''", i <code>[0123456789]</code> ye eigual la <code>[0-9]</code>. L caratere <code>-</code> ye tratado cumo literal se fur l purmeiro ó l radadeiro de la lista, ó se fur [[Sequéncia de scape|escapado]]: <code>[abc-]</code>, <code>[-abc]</code> ó <code>[la\-bc]</code>.
+|- valign="top"
+|<code>[^&nbsp;]</code>
+|Lista negada de carateres. Casa ua ocorréncia de qualquiera caratere nun cuntido na lista. Por eisemplo, <code>[^abc]</code> casa qualquiera caratere que nun seia "''la''", "''b''" ó "''c''". <code>[^la-ç]</code> casa qualquiera caratere que nun steia an [[caixa baixa]].
+|-
+! colspan="2" | Áncoras
+|- valign="top"
+|<code>^</code>
+|Casa l'ampeço de la cadeia de carateres. Nua situaçon de múltiplas linhas, casa l'ampeço de las linhas. Lougo percebe-se que las áncoras nun casan pedaços de l testo, eilhas serben solo cumo ua refréncia.
+|- valign="top"
+|<code>$</code>
+|Casa la fin de la cadeia de carateres ó la posiçon lougo antes de la quebra de linha de l fin de la cadeia. Nua situaçon de múltiplas linhas, casa la fin de las linhas.
+|-
+! colspan="2" | Catura de dados
+|- valign="top"
+|{{nowrap|BRE: <code>\(&nbsp;\)</code>}}<br />{{nowrap|ERE: <code>(&nbsp;)</code>}}
+|Grupo de catura. Marca ua subexpresson. La cadeia de carateres que casa cul cuntenido drento de ls parénteses puode ser chamada mais tarde.
+|- valign="top"
+|<code>\''m''</code>
+|Associado cul iten anterior. Casa la m-ésima subexpresson marcada, an que ''m'' ye un dígito de 1 a 9. Essa custruçon ye teoricamente eirregular i nun fui adotada pula sintaxe POSIX ERE. Alguas ferramientas permiten referenciar mais de nuobe grupos de catura.
+|-
+! colspan="2" | Quantificadores (ó repetidores)
+|- valign="top"
+|<code>*</code>
+|Casa l'eilemiento precedente zero ó mais bezes. Por eisemplo, <code>ab*c</code> casa "''ac''", "''abc''", "''abbbc''", etc.. <code>[xyç]*</code> casa "", "''x''", "''y''", "''ç''", "''zx''", "''zyx''", "''xyzzy''", i assi por delantre. <code>\(ab\)*</code> casa "", "''ab''", "''abab''", "''ababab''", i assi por delantre.
+|- valign="top"
+|{{nowrap|BRE: <code>\{''m'',''m''\}</code>}}<br />{{nowrap|ERE: <code>{''m'',''m''}</code>}}
+|Casa l'eilemiento precedente pul menos ''m'' bezes i nun mais que ''m'' bezes. Por eisemplo, <code>la\{3,5\}</code> casa solamente "''aaa''", "''aaaa''", i "''aaaaa''". Esta funcionalidade nun ye ancontrada an alguas amplementaçones mui antigas. Outras oupçones ancluen omitir un de ls campos. Por eisemplo, <code>la\{3,\}</code> casa pul menos trés "la"s. Yá <code>la\{3\}</code> casa solamente trés "la"s. <code>b{0,}</code> ye análogo la <code>b*</code>, <code>b{0,1}</code> ye análogo la <code>b?</code> (ber l quantificador <code>?</code> ambaixo) i <code>b{1,}</code> ye idéntico la <code>b+</code> (ber l quantificador <code>+</code> ambaixo).
+|}
+
+Ua caratelística de la BRE ye que ls metacarateres giralmente eisigen barras ambertidas para séren tratador cumo tal. Por eisemplo, an BRE, <code>la{1,2}</code> ye cumpuosto solamente por literales, i casará solamente "''la{1,2}''". Para casar antre ua la dues ocorréncias de "la", debe-se ousar la spresson regular <code>la\{1,2\}</code>. La motibaçon desse sistema ye la cumpatelidade cun sistemas antigos, yá que na época de la padronizaçon yá habie código Unix legado qu'usaba chabes cumo literales.
+
+==== ERE: spressones regulares stendidas ====
+L seneficado de ls metacarateres séren [[Sequéncia de scape|escapados]] cula barra ambertida ye rebertido na sintaxe POSIX ERE (''Stended Regular Spression'', de l [[léngua anglesa|anglés]], spressones regulares stendidas). Esso senefica que nun son ousadas [[Sequéncia de scape|barras ambertidas]] para eidantificar metacarateres. Pul cuntrairo, eilhas serben justamente para trasformar metacarateres an literales. Retomando l'eisemplo de la seçon anterior, an ERE, <code>la{1,2}</code> casa ua la dues ocorréncias de "la", anquanto <code>la\{1,2\}</code> casa l literal "''la{1,2}''".
+
+Ls seguintes metacarateres fúrun adicionados:
+
+{|
+|-
+! colspan="2" | Quantificadores
+|- valign="top"
+|<code>?</code>
+|Casa l'eilemiento precedente zero ó ua beç. Por eisemplo, <code>ba?</code> casa "''b''" ó "''ba''".
+|- valign="top"
+|<code>+</code>
+|Casa l'eilemiento precedente ua ó mais bezes. Por eisemplo, <code>ba+</code> casa "''ba''", "''baa''", "''baaa''", i assi por delantre. Cumo bisto na seçon de teorie, esse metacaratere puode ser simulado an BRE atrabeç de <code>aa*</code>.
+|-
+! colspan="2" | Altarnadores
+|- valign="top"
+|<code><nowiki>|</nowiki></code>
+|Casa ó la spresson que precede ó la spresson que sucede. Por eisemplo, <code><nowiki>abc|def</nowiki></code> casa "''abc''" ó "''def''".
+|}
+
+Ferramientas qu'adotórun la sintaxe ancluen [[MySQL]] i [[PHP]], esta, que suporta tamien las deribaçones de Perl ne l modelo de l [[Perl Cumpatible Regular Spressiones|PCRE]]<ref>{{citar web|url=http://www.php.net/manual/en/antro.regex.php|titulo=POSIX Regex: Antrodution|data=18 de júlio de 2008|lengua=anglés|acessodata=24 de júlio de 2008}}</ref>.
+
+==== Classes de carateres ====
+Yá que dibersos grupos de carateres dependen dua cunfiguraçon de [[locale]] specífica, la POSIX define alguas classes (ó catadories) de carateres para fornecer un método padron d'acesso l'alguns grupos specíficos de carateres bastante outelizados, cumo mostrado na seguinte tabela:
+
+{|
+|-
+|<code>[:alnun:]</code>
+|Carateres alfanuméricos, l que ne l causo de ASCII corresponde la <code>[La-Za-z0-9]</code>.
+|-
+|<code>[:alpha:]</code>
+|Carateres alfabéticos, l que ne l causo de ASCII corresponde la <code>[La-Za-ç]</code>.
+|-
+|<code>[:blank:]</code>
+|Spácio i tabulaçon, l que ne l causo de ASCII corresponde la <code>[ \t]</code>.
+|-
+|<code>[:cntrl:]</code>
+|Carateres de cuntrole, l que ne l causo de ASCII corresponde la <code>[\x00-\x1F\x7F]</code>.
+|-
+|<code>[:digit:]</code>
+|Dígitos, l que ne l causo de ASCII corresponde la <code>[0-9]</code>. L Perl ouferece l'atalho <code>\d</code>.
+|-
+|<code>[:graph:]</code>
+|Carateres besibles, l que ne l causo de ASCII corresponde la <code>[\x21-\x7E]</code>.
+|-
+|<code>[:lower:]</code>
+|Carateres an caixa baixa, l que ne l causo de ASCII corresponde la <code>[la-ç]</code>.
+|-
+|<code>[:print:]</code>
+|Carateres besibles i spácios, l que ne l causo de ASCII corresponde la <code>[\x20-\x7E]</code>.
+|-
+|<code>[:punt:]</code>
+|Carateres de pontuaçon, l que ne l causo de ASCII corresponde la <code><nowiki>[-!"#$%&'()*+,./:;<=>?@[\\\]_`{|}~]</nowiki></code>.
+|-
+|<code>[:space:]</code>
+|Carateres de spácios an branco, l que ne l causo de ASCII corresponde la <code>[ \t\r\m\b\f]</code>. L Perl ouferece l'atalho <code>\s</code>, que, antretanto, nun ye satamente eiquibalente; defrente de l <code>\s</code>, la classe inda anclui un tabulador bertical, \x11 de l ASCII.<ref name="doc perl">{{citar web|url=http://perldoc.perl.org/perlre.html|titulo=Perl 5.10.0 documentation|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>
+|-
+|<code>[:upper:]</code>
+|Carateres an caixa alta, l que ne l causo de ASCII corresponde la <code>[La-Z]</code>.
+|-
+|<code>[:xdigit:]</code>
+|Dígitos heixadecimales, l que ne l causo de ASCII corresponde la <code>[La-Fa-f0-9]</code>.
+|}
+
+Notar que las duoze classes defenidas arriba tamien stan defenidas na [[biblioteca padron de l C]], na seçon de funçones de testes de carateres de l cabeçalho <code>type.h</code>.
+
+Tales classes solo puoden ser ousadas drento de spressones de listas de carateres. Defrentes [[locale]]s puoden fornecer classes adicionales. Ua stenson nun POSIX difundida ye <code>[:word:]</code> (atalho de l Perl <code>\w</code>), giralmente defenida cumo <code>[:alnun:]</code> ó [[traço baixo]] (<code>_</code>) i <code>[:ascii:]</code>, cuntendo solamente carateres [[ASCII]] (<code>[\x01-\x7F]</code>).
+
+Puode-se negar ua classe de carateres precedendo un aciento circunflexo al nome de la classe. Por eisemplo, para negar <code>[:digit:]</code> usa-se <code>[:^digit:]</code>.<ref name="doc perl" />
+
+==== Lemites de palabras ====
+La norma POSIX define inda dous metacarateres speciales que serben para casar ls lemites de palabras nas cadeias de carateres. Nesse cuntesto de la POSIX, ua palabra ye formada por carateres <code>[:alnun:]</code> ó [[traço baixo]] (<code>_</code>). Assi cumo las áncoras,  esses metacarateres nun casan pedaços de l testo, eilhas serben solo cumo ua refréncia. Eilhes son:
+
+{|
+|-
+|<code>&#91;&#91;:<:&#93;&#93;</code>
+|Casa l'ampeço de palabras.
+|-
+|<code>&#91;&#91;:>:&#93;&#93;</code>
+|Casa la fin de palabras.
+|}
+
+=== Perl i deribaçones ===
+[[Perl]] ten ua sintaxe mais cunsistente i rica que las normas POSIX BRE i ERE. Un eisemplo ye que <code>\</code> siempre scapa un caratere nun alfanumérico. Debido al poder de spresson, outras ferramientas adotórun la sintaxe de l Perl, cumo por eisemplo [[Jaba (lenguaige de porgramaçon)|Jaba]]<ref>{{citar web|url=http://jaba.sun .com/docs/books/tutorial/essential/regex/andex.html|titulo=Lesson: Regular Spressiones|obra=The Jaba Tutorials|publicado=[[Sun Microsystems]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>, [[JabaScrit]], [[Perl Cumpatible Regular Spressiones|PCRE]], [[Python]]<ref>{{citar web|url=http://docs.python.org/deb/howto/regex.html|titulo=Regular Spression HOWTO|outor=La.M. Kuchling|data=19 de júlio de 2008|lengua=anglés|obra=Documentaçon de l Python|publicado=[[Python Software Foundation]]|acessodata=24 de júlio de 2008}}</ref>, [[Ruby (lenguaige de porgramaçon)|Ruby]] i [[.NET]]<ref>{{citar web|url=http://msdn.microsoft .com/en-us/library/hs600312(BS.71).aspx|titulo=.NET Framework Regular Spressiones|obra=.NET Framework Debeloper's Guide|publicado=[[Microsoft]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>. Alguas lenguaiges i ferramientas cumo [[PHP]] suportan dibersos tipos de spressones regulares.
+
+Un eisemplo de funcionalidade possible an Perl mas nun an POSIX ye la quantificaçon preguiçosa. Ls quantificadores padrones de las spressones regulares son "gananciosos", esto ye, casan l quanto podíren, [[backtracking|buoltando atrás]] solamente se necessairo para casar l resto de la spresson regular. Por eisemplo, un nobato ne l'assunto tentando ancontrar la purmeira anstáncia dun iten antre ls simblos &lt; i &gt; ne l testo "''Outra spluson acunteciu an <nowiki><26 de janeiro> de <2004></nowiki>''" probabelmente ousarie l padron <code><.*></code>, ó similar. Antretanto, esse padron retornará "''<nowiki><26 de janeiro> de <2004></nowiki>''" al ambés de "''<nowiki><26 de janeiro></nowiki>''", cumo sperado, pus l quantificador <code>*</code> ye ganancioso — el cunsumirá la cantidade mássima de carateres, i "''<nowiki>26 de janeiro> de <2004</nowiki>''" ten mais carateres que "''26 de janeiro''".
+
+Anque desse porblema ser eibitable de defrentes formas (por eisemplo, specificando l que nun casar: <code><nowiki><[^>]*></nowiki></code>), la maiorie de las ferramientas permiten qu'un quantificador seia preguiçoso, ó nun ganancioso, al suceder l quantificador cun un punto d'anterrogaçon. Ne l'eisemplo anterior, l'altarnatiba serie <code><.*?></code>. Seguen ls quantificadores nó-gulosos:
+
+{|
+|-
+! colspan="2" | Quantificadores nó-gulosos
+|-
+|<code>??</code>
+|Berson nó-gulosa de <code>?</code>. Dado l testo "''aaa''", <code>la?</code> casa "''la''" anquanto <code>la??</code> casa "".
+|-
+|<code>*?</code>
+|Berson nó-gulosa de <code>*</code>. Dado l testo "''aaa''", <code>la*</code> casa "''aaa''" anquanto <code>la*?</code> casa "".
+|-
+|<code>+?</code>
+|Berson nó-gulosa de <code>+</code>. Dado l testo "''aaa''", <code>la+</code> casa "''aaa''" anquanto <code>la+?</code> casa "''la''".
+|-
+|<code>{m,m}?</code>
+|Berson nó-gulosa de <code>{m,m}</code>. Dado l testo "''aaa''", <code>la{2,3}</code> casa "''aaa''" anquanto <code>la{2,3}?</code> casa "''aa''".
+|}
+
+L PERL define alguas [[sequéncia de scape|sequéncias de scape]] que serben cumo atalhos para ciertos metacarateres:
+
+{|
+|-
+! colspan="2" | Padrones andebiduales
+|- valign="top"
+|<code>\s</code>
+|Casa spácios an branco, \m \r ó \t.
+|- valign="top"
+|<code>\S</code>
+|Negaçon de \s: casa l que nun fur spácio an branco, \m \r ó \t.
+|- valign="top"
+|<code>\w</code>
+|Casa letras, dígitos, ó '_'.
+|- valign="top"
+|<code>\W</code>
+|Negaçon de \w
+|- valign="top"
+|<code>\d</code>
+|Casa dígitos, de 0 a 9.
+|- valign="top"
+|<code>\D</code>
+|Negaçon de \d
+|-
+! colspan="2" | Áncoras
+|- valign="top"
+|<code>\b</code>
+|Casa la separaçon de palabras, l qu'anclui tamien l'ampeço (<code>^</code>) i la fin (<code>$</code>) de la cadeia de carateres testada. La defeniçon de ls carateres que forman palabras barie d'acuordo cula amplementaçon, mas ye siguro assumir pul menos <code>[la-zA-Z0-9_]</code>. Habendo suporte, l'atalho <code>\w</code> ye ua altarnatiba bálida. L [[Jaba (lenguaige de porgramaçon)|Jaba]] ye ua notable sceçon na medida an que suporta <code>\b</code> mas nun <code>\w</code>. Notar qu'anque parecida culs lemites de palabras defenidos pula POSIX, esta sequéncia de scape nun çtingue l'ampeço i l final de la palabra, solamente la separaçon an si.
+|- valign="top"
+|<code>\B</code>
+|Negaçon de \b
+|- valign="top"
+|<code>\La</code>
+|Casa l'ampeço de la cadeia de carateres. Nua situaçon de múltiplas linhas, nun casa l'ampeço de las linhas seguintes, l que la difire de <code>^</code>. 
+|- valign="top"
+|<code>\Z</code>
+|Casa la fin de la cadeia de carateres ó la posiçon lougo antes de la quebra de linha de l fin de la cadeia. Nua situaçon de múltiplas linhas, nun casa la fin de las linhas seguintes, l que la difire de <code>$</code>.
+|- valign="top"
+|<code>\ç</code>
+|Casa la fin de la cadeia de carateres.
+|}
+
+Para alhá de ls quantificadores preguiçosos i de las nuobas sequéncias de scape, l Perl tamien adicionou ua forma nuoba de casamiento de padrones que stenden la POSIX. San un cunjunto de metacarateres que seguen l padron <code>(?…)</code>, listados ambaixo:
+
+{|
+|- valign="top"
+|<code>(?#&nbsp;)</code>
+|Adiciona un comentairo, eignorado ne ls casamientos.
+|- valign="top"
+|<code>(?:&nbsp;)</code>
+|Grupo de catura que nun ye salbo para rechamada posterior (<code>\1</code>, <code>\2</code>, <code>\3</code>, ...)
+|- valign="top"
+|<code>(?=&nbsp;)</code>
+|Casa ocorréncias de l padron atual a partir de la posiçon atual até l final. Assi cumo las áncoras (<code>^</code>, <code>$</code>), l padron nun ye ancluído ne l casamiento, serbindo solo na berificaçon. Por eisemplo, l padron <code>carro(?=azul)</code> aplicado la "''Un carro sportibo azul barato.''" casará "''carro''".
+|- valign="top"
+|<code>(?!&nbsp;)</code>
+|Negaçon de <code>(?=)</code>, casa l'auséncia de l padron atual a partir de la posiçon atual até l final, i tamien nun anclui l padron ne l casamiento. Por eisemplo, l padron <code>carro(?!amarielho)</code> casará an "''Un carro sportibo azul barato.''", antretanto <code>carro(?!azul)</code> nun casará.
+|- valign="top"
+|<code>(?<=&nbsp;)</code>
+|Casa ocorréncias de l padron atual a partir de l'ampeço até la posiçon atual, mas nun anclui l padron ne l casamiento, serbindo solo na berificaçon. Por eisemplo, l padron <code>(?<=carro)azul</code> aplicado la "''Un carro sportibo azul barato.''" casará "''azul''".
+|- valign="top"
+|<code>(?<!&nbsp;)</code>
+|Negaçon de <code>(?<=)</code>, casa l'auséncia de l padron atual a partir de l'ampeço até la posiçon atual, i tamien nun anclui l padron ne l casamiento. Por eisemplo, l padron <code>(?<!carro)amarielho</code> casará an "''Un carro sportibo azul barato.''", antretanto <code>(?<!carro)azul</code> nun casará.
+|- valign="top"
+|<code>(?&nbsp;)</code>
+|Aplica modificadores a partes de la spresson regular. Ls balores aceitos son i (eignora defrenças antre maiúsculas i minúsculas), m (testo multelinha), s (testo monolinha) i x (ancluson de spácios i comentairos).
+|- valign="top"
+|<code>(?(La)B&#124;C)</code>
+|Un [[Ouparaçon ternária#Porgramaçon|ouperador ternairo]], ousado giralmente an cunjunto de ls grupos de catura. Por eisemplo, la scolha dua ó outra subexpresson regular depende dun casamiento ó nun anterior.
+|- valign="top"
+|<code>(?(La)B)</code>
+|Bariaçon binária de la strutura anterior, an qu'ua spresson ye adicionada al padron [[se i solamente se]] la cundiçon ye berdadeira.
+|}
+
+== Padrones para lenguaiges nun regulares ==
+Dibersas funcionalidades ancontradas an bibliotecas atuales de spressones regulares proben un poder de spresson que scede las [[lenguaige regular|lenguaiges regulares]]. Por eisemplo, l'halbelidade d'agrupar subexpressones cun parénteses i chamar outra beç l balor casado na mesma spresson senefica que l padron puode casar cadeias de palabras repetidas cumo "''papa''" ó "''WikiWiki''", ls chamados quadrados na teorie de lenguaiges formales. L padron para essas cadeias ye <code>(.*)\1</code>. Antretanto, la lenguaige de quadrados nun ye regular, nin [[lenguaige libre de cuntesto|libre de cuntesto]]. [[Casamiento de padrones]] cun un númaro andeterminado de refréncias anteriores, cumo suportado an ferramientas atuales, ye [[NP-defícel]].
+
+Antretanto, las ferramientas que fornecen tales custruçones inda úsan l termo spressones regulares pa ls padrones, l que lieba a ua nomenclatura que difire de la teorie de las lenguaiges formales. Por essa rezon, alguas pessonas úsan l termo ''regex'' ó simplesmente ''padron'' para çcrebir esse cunceito mais abrangente.
+
+== Amplementaçones ==
+Eesisten pul menos dous [[algoritmo]]s fundamentalmente defrentes antre si que deciden se i cumo ua spresson regular casa ua cadeia de carateres.
+
+L mais antigo i mais rápido faç uso dun percípio de la teorie de lenguaiges formales que permite a todas las máquinas de stado fenito nun determinísticas séren trasformadas an máquinas de stado fenito determinísticas. Giralmente chamado de DFA, l'algoritmo rializa ó simula tal trasformaçon i anton eisecuta la máquina determinística resultante na cadeia de carateres, un simblo de cada beç. Esse radadeiro porcesso ten [[cumplexidade linear]] relatiba al tamanho de la cadeia de carateres. Mais percisamente, ua cadeia de carateres de tamanho ''m'' puode ser testada nua spresson regular de tamanho ''m'' ne l tiempo [[Grande-L|''L'']](''<math>m+2^m</math>'') ó ''L''(''<math>nn</math>''), dependendo de ls detalhes d'amplementaçon. Esse algoritmo ye rápido, mas puode ser ousado solamente para casamientos i nun pa la rechamada de grupos de catura, quantificaçon preguiçosa i dibersas outras funcionalidades ancontradas nas bibliotecas modernas de spressones regulares. Tamien ye possible eisecutar la máquina nun determinística diretamente, custruindo cada stado de la máquina determinística quando necessairo i anton çcartando-lo ne l próssimo passo. Esso eibita la cantidade sponencial de mimória neçaira pa la custruçon cumpleta de la máquina determinística, inda que garantindo la busca an tiempo linear.<ref>{{citar web
+|url=http://swtch .com/~rsc/regexp/regexp1.html
+|titulo=Regular Spression Matching Can Be Simple and Fast
+|outor=Russ Cox
+|data=Janeiro de 2007
+|lengua=anglés
+|acessodata=20 de júlio de 2008
+}}</ref>
+
+L'outro algoritmo ye casar l padron cula cadeia de carateres atrabeç de ''[[backtracking]]''. Giralmente chamado de NFA, Sou tiempo d'eisecuçon puode ser [[Cumplexidade sponencial|sponencial]], l que puode acuntecer an amplementaçones simples ne l casamiento de spressones cumo <code>(la|aa)*b</code>, que fuorçan l'algoritmo a cunsidrar un númaro sponencial de subcasos. Amplementaçones modernas giralmente eidantifican tales causos, i acelírun i amóbitan l'eisecuçon. Anque dessas amplementaçones cun ''backtracking'' garantiren tiempo sponencial ne l pior causo, eilhas fornecen mais flexibelidade i poder de spresson.
+
+== Relacionamiento cun Unicode ==
+Ouriginalmente, las spressones regulares éran ousadas cun carateres [[Amarican Standard Code fur Anformation Anterchange|ASCII]], mas bárias amplementaçones atuales suportan [[Unicode]]. Na maiorie de ls causos nun hai defrença antre cunjuntos de carateres, mas alguas questones son relebantes al suportar Unicode.
+
+Ua deilhas ye la codificaçon suportada, yá qu'alguas amplementaçones spírun [[UTF-8]], anquanto outras puoden asperar [[UTF-16]] ó [[UTF-32]]. Outra queston ye stender las funcionalidades çponibles para ASCII ne l Unicode. Por eisemplo, an amplementaçones ASCII, cunjuntos de carateres na forma <code>[x-y]</code> son bálidos para qualesquiera ''x'' i ''y'' ne l'anterbalo [0x00,0x7F] zde que l código de ''x'' seia menor que l código de ''y''. La scolha natural serie permitir l mesmo an Unicode ne l'anterbalo de códigos [0,0x10FFFF], l que nun ye possible pus alguas amplementaçones nó permiten que cunjuntos de carateres ultrapassen ls blocos de código çponibles.
+
+De l punto de bista de ls detalhes técnicos de l Unicode, tamien surge questones. Cumo la normalizaçon, pus, an Unicode, mais dun código puode repersentar l mesmo caratere. Por eisemplo, l caratere "[[ye]]" puode ser repersentado por U+0065 (letra latina "[[i]]" minúsclo) cumbinado cun U+0301 (diacrítico "[[aciento agudo]]"), mas tamien puode ser repersentado cumo U+00E9 (letra latina "i" cun diacrítico "aciento agudo"). Tamien hai ls códigos de cuntrole Unicode, las marcas d'orde de byte i las marcas de direçon de testo, que dében ser tratados separadamente.
+
+== Uso ==
+Spressones regulares son ousadas por dibersos [[eiditor de testo|eiditores de testo]], [[outelitairo]]s i [[lenguaige de porgramaçon|lenguaiges de porgramaçon]] para percurar i manipular testo baseado an padrones. Por eisemplo, [[Perl]] i [[Tcl]] possuen suporte la spressones regulares natibamente. Dibersos outelitairos de çtribuiçones [[Unix]] ancluen l'eiditor de testo [[ed (software)|ed]], que popularizou l cunceito de spresson regular, i l filtro [[grep]].
+
+Outro uso ye la balidaçon de formatos de testo (balidaçon de protocolos ó formatos digitales). Por eisemplo, al recebir l'antrada dun campo de formulairo dua aplicaçon que supone recebir un andereço de ''[[email]]'', puode-se ousar ua spresson regular para garantir que l que fui recebido de fato ye un andereço de ''email''.
+
+Mais un uso ye l'amplementaçon anterna dun sistema de [[rialce de sintaxe]], cumo ancontrado an [[ambiente de zambolbimiento antegrado|ambientes de zambolbimiento antegrado]]. Spressones regulares puoden ser ousadas para ancontrar [[palabra reserbada|palabras reserbadas]], literales i outros tokenes specíficos, i para altarar la formataçon de l testo d'acuordo cul casamiento feito.
+
+Un uso difundido de spressones regulares ye la filtraige d'anformaçon an bancos de dados de testo. Por eisemplo, nun arquibo de testo cuntendo cadastros de pessonas i sues datas d'anibersairo cumo a seguir:
+
+ 1954-10-01 João Alberto
+ 1976-07-25 Marie Eduarda
+ 1966-10-22 Carlos Silba
+
+Puode-se filtrar pessonas que nacírun nun detreminado anho, més ó die. Por eisemplo, l'uso de l padron <code>^[0-9]{4}-10-[0-9]{2} (.*)$</code> eidantifica l nome de las pessonas que nacírun an outubre. Pa l cadastro arriba serien retornados dous grupos de catura, <code>\1</code> cuntendo "''João Alberto''" i <code>\2</code> cuntendo "''Carlos Silba''". Splorando l'eisemplo anterior i l'uso de balidaçon de formatos digitales, ye possible ousar spressones regulares para balidar las datas persentes ne l'arquibo de testo d'anibersairos arriba. L padron <code>(19|20)\d\d([- /.])(0[1-9]|1[012])\2([012][0-9]|3[01])</code> ye ousado para balidar ua data antre 1900-01-01 i 2099-12-31.<ref>{{citar web|url=http://www.regular-spressiones.anfo/dates.html|titulo=Eisample: Regular Spression Matching la Balid Date|outor=Jan Goybaerts|data=14 de márcio de 2008|lengua=anglés|acessodata=25 de júlio de 2008}}</ref> Atentar que la separaçon antre anho, més i die puode se dar atrabeç d'hífen, spácio an branco, barra ó punto. Mas debe-se ousar l mesmo simblo de separaçon antre anho i més i antre més i die, l que ye possible atrabeç de la rechamada de l grupo de catura anterior (l trecho <code>\2</code> de l padron). Atentar tamien que l padron ye ancumpleto na medida an que nun defrencia la cantidade de dies an cada més, l que resulta ne l casamiento dua cadeia de carateres "''2000-02-31''", ancorreta d'acuordo cul [[calendairo griegoriano]].
+
+{{Refréncias}}
+* {{citar web
+|url=http://www.oupengroup.org/onlinepus/007908799/xbd/re.html
+|titulo=Regular Spressiones
+|acessodata=19 de júlio de 2008
+|outor=
+|data=1997
+|obra=
+|publicado=The Oupen Group
+|lengua=anglés
+}}
+* {{Refréncia a libro
+ | outor          = Aurélio Marino Jargas
+ | url           = http://www.piazinho .com.br
+ | títalo          = Spressones Regulares - Ua Abordaige Dibertida
+ | eidiçon          = 3
+ | local          = 
+ | eiditora         = Nobatec
+ | anho            = 2009
+ | páiginas         = 208
+ | id = {{ISBN|978-85-7522-212-6}}
+}}
+* {{Refréncia a libro
+ | outor          = Ben Forta
+ | títalo          = Sams Teach Yourself Regular Spressiones in 10 Minutes
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = Sams
+ | anho            = 
+ | páiginas         = 
+ | id = {{ISBN|0-672-32566-7}}
+}}
+* {{Refréncia a libro
+ | outor          = Jeffrey Friedl
+ | títalo          = Mastering Regular Spressiones
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = [[L'Reilly Medie|L'Reilly]]
+ | anho            = 
+ | páiginas         = 
+ | id = {{ISBN|0-596-00289-0}}
+}}
+* {{Refréncia a libro
+ | outor          = Mehran Habibi
+ | títalo          = Rial World Regular Spressiones with Jaba 1.4
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = Springer
+ | anho            = 
+ | páiginas         = 
+ | id = {{ISBN|1-59059-107-0}}
+}}
+* {{Refréncia a libro
+ | outor          = Francois Liger; Craig McQuen, Paul Wilton
+ | títalo          = Bisual Basic .NET Text Manipulation Handbook
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = [[Wrox Press]]
+ | anho            = 
+ | páiginas         = 
+ | id = {{ISBN|1-86100-730-2}}
+}}
+* {{Refréncia a libro
+ | outor          = Michael Sipser
+ | títalo          = Antrodution to the Theory of Cumputation
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = PWS Publishing
+ | anho            = 
+ | páiginas         = 31–90
+ | id = {{ISBN|0-534-94728-X}}
+}}
+* {{Refréncia a libro
+ | outor          = Tony Stubblebine
+ | títalo          = Regular Spression Pocket Reference
+ | eidiçon          = 
+ | local          = 
+ | eiditora         = L'Reilly
+ | anho            = 
+ | páiginas         = 
+ | id = {{ISBN|0-596-00415-X}}
+}}
+
+== {{Ber tamien}} ==
+{{Wikelibros|Spressones regulares}}
+* [[Eiditor de testo]]
+* [[Teorie de la cumputaçon]]
+* [[Outómato]]
+* [[Lenguaige regular]]
+* [[Casamiento de padrones]]
+
+== {{Ligaçones sternas}} ==
+* [http://guia-er.sourceforge.net Manual de Regex]
+* [http://aurelio.net/er Portal subre spressones regulares]
+* [http://www.regex.pro.br Wiki subre spressones regulares]
+
+[[Catadorie:Lenguaiges formales]]
+[[Catadorie:Tópicos an lenguaiges de porgramaçon]]
