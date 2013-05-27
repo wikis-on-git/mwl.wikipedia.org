@@ -45,7 +45,7 @@ Eilhas son muitas bezes chamadas de [[Sistema de cadeia rescrito|sistemas de cad
 === La semántica de las gramáticas===
 L'ouparaçon dua gramática puode ser defenida an tenermos de relaçones an cadeias:
 * dada ua gramática <math>G = (N, \Sigma, P, S)</math>, la relaçon binária <math>\Rightarrow_G</math> (pronunciada cumo  "G deriba nun passo") nas cadeias an <math>(\Sigma \cup N)^{*}</math> ye defenida por:
-<math>x \Rightarrow_G y \mbox{ sse } \eisists u, b, p, q \in (\Sigma \cup N)^*: (x = upb) \wedge (p \rightarrow q \in P) \wedge (y = uqb)</math>
+<math>x \Rightarrow_G y \mbox{ sse } \exists u, v, p, q \in (\Sigma \cup N)^*: (x = upv) \wedge (p \rightarrow q \in P) \wedge (y = uqv)</math>
 * la relaçao <math>{\Rightarrow_G}^*</math> (pronunciada cumo ''G deriba an zero ó mais passos in zero or more steps'') ye defenida cumo l [[Fechamiento|feixo reflexibo trasitibo]] de <math>\Rightarrow_G</math>
 * ua ''formula sentencial'' ye un nembro de <math>(\Sigma \cup N)^*</math> que puode ser deribado nun númaro fenito de passos a partir de l simblo enicial <math>S</math>; ó seia, ua formula sentencial ye un nembro de <math>\{ w \in (\Sigma \cup N)^* \mid S {\Rightarrow_G}^* w \}</math>. Ua formula sentencial que nun cuntén nanhun de ls simblos nó treminales (i.i. ye un nembro de <math>\Sigma^*</math>) ye chamada de ''sentença''.<ref>[http://www.seas.upenn.edu/~cit596/notes/dabe/cfg7.html Sentential Forms], Cuntext-Fre Grammars, David Matuszek</ref>
 * la ''lenguaige'' de <math>G</math>, denotada cumo <math>\boldsymbol{L}(G)</math>, ye defenida cumo todas las sentenças que puoden ser deribadas nun númaro fenito de passos a partir de l simblo enicial <math>S</math>; esto ye, l cunjunto <math>\{ w \in \Sigma^* \mid S {\Rightarrow_G}^* w \}</math>.
