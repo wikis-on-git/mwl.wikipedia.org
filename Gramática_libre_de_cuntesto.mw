@@ -75,10 +75,10 @@ Ua lenguaige <math>L\,</math> ye dita ser ua lenguaige libre-de l-cuntesto (LLC)
 
 === GLCs Apropiadas===
 Ua gramática libre-de l-cuntesto ye dita ser ''apropiada'', se
-* eilha nun ten simblos ''inalcançábeis'': <math>\forall N \in B: \eisists \alpha,\beta \in (B\cup\Sigma)^*: S \stackrel{*}{\Rightarrow} \alpha{N}\beta</math>
-* eilha nun ten simblos ''amprodutibos'': <math>\forall N \in B: \eisists w \in \Sigma^*: N \stackrel{*}{\Rightarrow} w</math>
+* eilha nun ten simblos ''inalcançábeis'': <math>\forall N \in V: \exists \alpha,\beta \in (V\cup\Sigma)^*: S \stackrel{*}{\Rightarrow} \alpha{N}\beta</math>
+* eilha nun ten simblos ''amprodutibos'': <math>\forall N \in V: \exists w \in \Sigma^*: N \stackrel{*}{\Rightarrow} w</math>
 * eilha nun ten i-porduçones: <math>\forall N \in B, w \in \Sigma^*: (N, w) \in R \Rightarrow w \neq</math> i
-* eilha nun ten ciclos: <math>\neg\eisists N \in B: N \stackrel{*}{\Rightarrow} N</math>
+* eilha nun ten ciclos: <math>\neg\exists N \in V: N \stackrel{*}{\Rightarrow} N</math>
 
 La gramática <math>G = (\{S\} , \{la, b\}, S, P)</math>, cun porduçones
 
