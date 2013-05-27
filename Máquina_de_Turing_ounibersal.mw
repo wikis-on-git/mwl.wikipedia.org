@@ -1,0 +1,246 @@
+An [[ciéncia de la cumputaçon]], ua '''máquina de Turing ounibersal''' ('''MTU''') ye ua  [[máquina de Turing]] que cunsegue simular outra máquina de Turing arbitrária cun ua antrada arbitrária. Eissencialmente, essa máquina ounibersal rializa la simulaçon lendo tanto la çcriçon de la máquina a ser simulada quanto sue respetiba antrada repersentada pul cuntenido de sue fita. [[Alan Turing]] apersentou essa máquina an 1936–1937. Este modelo ye cunsidrado por alguns (por  eisemplo, [[Martin Dabis]] (2000)), cumo l'ourige de l '''cumputador cun porgrama armazenado''' —ousado por [[John bon Neumann]] (1946), qu'atualmente lieba sou nome: la [[Arquitetura de bon Neumann]]. Esta máquina tamien ye coincida cumo '''máquina de cumputaçon ounibersal''', '''máquina ounibersal''', '''máquina U''' ó simplesmente '''U'''.
+An tenermos de [[cumplexidade cumputacional]], ua máquina de Turing ounibersal multi-fita ye mais lenta solo por un fator [[logaritmo | logarítmico]] cumparada a las máquinas qu'eilha simula.
+==Antroduçon==
+
+To máquina de Turing cumputa ua cierta [[funçon cumputable]] [[funçon parcial | parcial]] fixa a partir dua cadeia cumo antrada formada puls simblos de sou alfabeto. Dessa maneira, eilha se cumporta cumo un cumputador cun un porgrama fixo. Antretanto, podemos codificar la tabela d'açon de qualquiera máquina de Turing nua cadeia. Assi, podemos custruir ua máquina de Turing que ten, an sue fita, ua cadeia que çcribe la tabela d'açon, seguida por ua cadeia çcribendo sue fita d'antrada, i finalmente cumputar la fita que la máquina de Turing codificada cumputarie. Turing çcrebiu essa custruçon detalhadamente ne l sou artigo an 1936:
+:"Ye possible criar ua máquina que puode ser ousada para cumputar qualquiera sequéncia cumputable. Se fornecida para ua máquina '''U''' ua fita, na qual an sou ampeço seia scrito la D.P. ["çcriçon padron" dua tabela d'açon]  d'algua máquina de cumputaçon '''M''', anton '''U''' cumputará la mesma sequéncia de '''M''', assi cumo eilha la fazerie."<ref>Traduzido de: Boldface replacing scrit. Turing 1936 in Dabis 1965:127-128. Un eisemplo de la noçon de turing subre D.P. ye dada ne l fin desse artigo.</ref>
+
+==Cumputador cun porgrama armazenado==
+Dabis apersentou un argumiento cumbincente de que la cuncepçon de Turing subre l que ye coincido cumo "cumputador cun porgrama armazenado" (que coloca la "tabela d'açon" -- anstruçones pa la máquina-na mesma "mimória" cumo dado d'antrada) anfluenciou fuortemente [[John bon Neumann]] na cuncepçon de l purmeiro cumputador baseado an simblos çcretos (al cuntrairo d'análogos), l [[EDBAC]]. Para esso, Dabis cita na rebista [[Eiquipa (rebista) | Eiquipa]] que todos que digitan nun botoneira stan trabalhando nua ancarnaçon dua máquina de Turing i que John bon Neumann trabalhou apoiado na obra de Alan Turing<ref> Dabis 2000:193 ''Eiquipa'' rebista de 29/03/1999 </ref>. 
+Dabis antroduç l'heipótese que la [[ACE (cumputador) | Máquina Outomática de Cumputaçon]] (en: ACE) "antecipou" las noçones de microprogramaçon (microcódigo) i processadores [[RISC]] (Dabis 2000:188). [[Donald Knuth | Knuth]] cita l'obra de Turing ne l cumputador ACE cun un porjeto d'hardware para facelitar la ligaçon de subrotinas (Knuth 1973:225); Dabis tamien faç refréncia a l'obra cumo l'uso "Turing" dua pilha an hardware (Dabis 2000:237 nota de rodapie 18).
+Cumo la máquina de Turing staba ancentibando la custruçon de [[cumputadores]], la MTU staba ancentibando l zambolbimiento de l'ancipiente [[ciéncia de la cumputaçon]]. Un antigo, se nun purmeiro, [[montador]] fui proposto pa l EDBAC (Dabis 2000:192). L purmeiro porgrama bien cumpuosto tenie cumo oubjeto simplesmente ourdenar dados eficientemente. (Dabis 2000:184). Knuth ouserba que la l'ancorporoaçon de l retorno dua subrotina ne l própio porgrama (an beç de registradores speciales) ye atribuible la bon Neumann i Goldstine.<ref>In particular: Burks, Goldstine, bon Neumann (1946), ''Preliminary çcussion of the logical zeign of an eiletronic cumputing anstrument'', reimpresso an Bell and Newell 1971</ref> Knuth inda afirma que la purmeira rotina anterpretatiba puode ser dita cumo la "máquina de Turing ounibersal". Rotinas anterpretatibas, ne l senso formal fui mencionado por [[John Mauchly]] nas sues [http://en.wikipedie.org/wiki/More_Schol_Letures palhestras na More Schol] an 1946. Turing tamien tomou parte de l zambolbimiento: sistemas anterpretatibos pa l piloto de l cumputador ACE fui scrito sob sue eideia. (Knuth 1973:226).
+Dabis menciona brebemente sistemas ouperacionales i cumpiladores cumo resultados de la noçon de porgrama cumo un cunjunto de dados (Dabis 2000:185).
+Alguns, antretanto, puoden liebantar questones subre essa abaluaçon. Ne ls meados de las décadas de 40 i 50, un grupo relatibamente pequeinho de pesquisadores staba antimamente ambolbido cula arquitetura de ls nuobos "cumputadores digitales". [[Hao Wang]] (1954), un moço pesquisador nessa época, fizo la seguinte ouserbaçon: la teorie de funçones cumputables de Turing antecedírun mas nun anfluenciórun an grante scala la stensiba custruçon atual de cumputadores digitales. Ls dous aspetos de teorie i prática fúrun zambolbidos, quaije qu'anteiramente, andependientemente un de l'outro. La rezon percipal andiscutible ye que ls lógicos stan antressados an questones radicalmente defrentes daquelas que matemáticos aplicados i angenheiros eilétricos stan preacupados. Anque desso, debe-se çtacar que frequentemente cunceitos similares son spressados por defrentes tenermos ne ls dous galhos de zambolbimiento. (Wang 1954, 1957:63)
+Wang speraba que sou artigo podisse "conetar dues abordaiges". De fato, Minsky cunfirma que la purmeira formulaçon de la teorie de la máquina de Turing an modelos de cumputaçon ye feita por Wang (1957) (Minsky 1967:200).
+A a respeito de la reduçon de cumputadores para modelos Turing eiquibalentes (al alrobés), l'andicaçon de Minsky subre Wang tener feito "la purmeira formulaçon" stá abierta para çcusson. Anquanto ambos artigos de Minsky i Wang (1961 / 1957) séren citados por Shepherdson and Sturgis (1963), eilhes tamien citan i resumen an alguns detalhes l trabalho de ls matemáticos ouropeus Kaphenst (1959), Ershob (1959) i Péter (1958). Ls nomes de ls matemáticos Heirmes (1954, 1955, 1961) i Kaphenst (1959) aparecen na bibliografie d'ambos Sheperdson-Sturgis (1963) i Eilgot-Robinson (1961). Outros dous nomes d'amportança son ls pesquisadores canadianos Melzak (1961) i Lambek (1961). Refréncias puoden ser ancontradas an [http://en.wikipedie.org/wiki/Register_machine | Máquina de registro].
+==Percípio matemático==
+Cula codificaçon de las tabelas d'açon cumo cadeias, se torna possible para máquinas de Turing, an percípio, respunder questones subre l cumportamiento d'outras máquinas de Turing. Antretanto, la maiorie dessas questones son [[porblema andecidible | indecidibles]], esto ye, la funçon an queston nun puode ser calculada mecanicamente. Por eisemplo, l porblema de detreminar se ua máquina de Turing arbitrária eirá parar cun ua detreminada antrada, ó an qualquiera antrada, ye coincido cumo l [[Porblema de la Parada]], que demunstrou ser andecidible ne l'artigo ouriginal de Turing.
+Ua máquina ounibersal de Turing puode calcular qualquiera [[recursebidade | funçon recursiba]], decidir qualquiera [[lenguaige recursiba]] i aceitar qualquiera [[lenguaige recursibamente enumerable]]. D'acuordo cula [[Tese de Church-Turing]], ls porblemas solúbeis por ua máquina de Turing ounibersal son satamente aqueilhes porblemas solúbeis por un ''algoritmo'' ó un ''método efetibo de cumputaçon'', para qualquiera defeniçon razoable desses tenermos. Por essas rezones, la máquina ounibersal de Turing sirbe cumo padron para cumparaçon de sistemas cumputacionales, i un sistema que simula la máquina de Turing ounibersal ye chamada de [[Turing cumpleta]].
+Ua berson abstrada de la máquina de Turing ounibersal ye la [[funçon ounibersal]], ua funçon cumputable que puode ser ousada para calcular qualquiera outra funçon cumputable. L [[teorema MTU]] proba l'eisisténcia dessa funçon.
+==Eficiéncia==
+Sin perder poder de generalizaçon, ua suposta antrada dua máquina de Turing puode tener l'alfabeto {0,1}; qualquiera outro alfabeto fenito puode ser codificado subre {0,1}. L cumportamiento dua máquina de Turing ''M'' ye detreminado pula sue funçon de trasiçon. Essa funçon tamien puode ser facilmente codificada cumo ua cadeia subre un alfabeto {0,1}. L tamanho de l'alfabeto de ''M'', l númaro de fitas qu'eilha ten i l tamanho de l spácio de stados puoden ser deduzidos pula tabela de las funçones de trasiçon. Ls çtintos stados i simblos puoden ser eidantificados por sues posiçones, por eisemplo ls dous purmeiros stados puoden ser, por cumbençon, ls stados d'ampeço i de parada, respetibamente. Por bias desso, to máquina de Turing puode ser codificada cumo ua cadeia formada subre l'alfabeto {0,1}. Para alhá desso, por cumbençon, qualquiera codificaçon ambálida para ua máquina de Turing trebial para eimediatamente, i to máquina de Turing puode tener ua anfenita cantidade de codificaçones prenchendo-la cun ua arbitrária cantidade de 1's ne l final, assi cumo funciona ls comentairos nua lenguaige de porgramaçon. Nun ye surpresa que puodamos, atrabeç dessa codificaçon, demunstrar l'eisisténcia dua [[Númaro de Gödel | numeraçon de Gödel]] i l'eiquibaléncia cumputacional antre máquinas de Turing i [[Fun%C3%A7%C3%A3o_%CE%BC-recursiba|funçones µ-recursibas]]. Similarmente, essa custruçon associa, para cada cadeia binária ''la'', ua máquina de Turing ''M<sub>la</sub>''.
+
+Se baseando pula codificaçon dada arriba, an 1966, F. C. Heinnie i [http://en.wikipedie.org/wiki/Richard_Stearnes_%28cumputer_scientist%29 R. I. Stearnes] amostrórun que dada ua máquina de Turing ''M<sub>la</sub>'' que para nua antrada ''x'' an ''N'' passos, anton eisiste ua máquina de Turing unbersal multi-fita que para nas antradas ''la'', ''x'' (an defrentes fitas) an ''CN'' log ''N'', adonde ''C'' ye ua custante specífica de la máquina que nun depende de l tamanho de l'antrada ''x'', mas si de l tamanho de l'alfabeto de ''M'', númaros de fitas i númaros de stados. Na prática, esso ye ua simulaçon ''[[Grande-L|L]]''(''N'' log ''N'').<ref>Arora and Barak, 2009, Theoren 1.9</ref>
+==Máquinas menores==
+Quando Alan Turing surgiu cula eideia dua máquina ounibersal, el tenie an minte un modelo de cumputaçon simples poderoso l bastante para calcular todas las possibles funçones que puoden ser calculadas. [[Claude Shannon]] fui l purmeiro a splicitar la queston d'ancontrar a menor máquina de Turing possible, an 1956. El mostrou que dous simblos son suficientes zde que stados suficientes séian ousados (al alrobés), i que siempre ye possible trocar stados por simblos.
+[[Marbin Minsky]] çcubriu, an 1962,  ua máquina de Turing unbersal cun 7 stados i 4 simblos usando [[tag systen | sistemas 2-tag]]. Zde anton, outras pequeinhas máquinas de Turing ounibersales ben sendo çcubiertas por Yurii Rogozhin i outros atrabeç de la spanson dessa abordaige. Se andicarmos por (''m'', ''m'') la classe de las MTUs cun ''m'' stados i ''m'' simblos, las seguintes tuplas son ancontradas: (15, 2), (9, 3), (6, 4), (5, 5), (4, 6), (3, 9), i (2, 18).<ref>Rogozhin, 1996</ref><ref>Kudlek and Rogozhin, 2002</ref><ref>Neary and Wods, 2009</ref> La máquina Rogozhin (4,6) usa solo 22 anstruçones, i nanhue MTU padron de menor cumplexidade de çcriçon ye coincida.
+Antretanto, generalizaçones de l modelo padron de la máquina de Turing admiten MTUs inda menores. Un modo de generalizar ye permitir ua anfenidade de palabras repetidas nun '''único''' ó an '''ambos''' ls lados de l'antrada dua máquina de Turing, assi stendendo la defeniçon de l'ounibersalidade, coincidas cumo "semi-fraca" ó "fraca" ounibersalidades, respetibamente. Pequeinhas máquinas de Turing ounibersales "fracas" que simulan l [[outómato telemoble]] de regra 110 fúrun dads pa ls pares simblo-stado (6,2), (3,3) i (2,4).<ref>Neary and Wods, 2009b</ref> La proba de l'ounibersalidade pa la máquina de Turing[Wolfran's 2-state 3-symbol Turing machine | Wolfran 2-stados 3-simblos] amplia inda mais la noçon de l'ounibersalidade fraca permitindo ciertas cunfiguraçones eniciales nó-periódicas. Outras bariantes de l modelo de la máquina de Turing padron que porduzen MTUs pequeinhas ancluen máquinas multi-fitas ó fitas cun múltiplas dimensones, para alhá de máquinas acopladas cun un [[outómato fenito]].
+
+==Eisemplo de codificaçon dua MTU==
+:''Para aqueilhes que zeian aceitar l zafio de porjetar ua MTU satamente cumo Turing specificou, beijan l'artigo escrito por Dabis an Copeland (2004:103dd). Dabis corrige ls erros de l'ouriginal i demunstra cumo serie ua eisecuçon dun eisemplo. El reinbidica que "rodou" cun sucesso ua simulaçon simplificada.''
+L seguinte eisemplo fui tomado de Turing (1936). Para mais anformaçones subre esse eisemplo, beija la páigina [http://en.wikipedie.org/wiki/Turing_machine_eisamples Eisemplos de Máquinas de Turing].
+Turing usou siete símbilos { La, C, D, R, L, N, ; } para codificar cada 5-tupla; cumo çcrito ne l'artigo [[Máquina de Turing]], sues 5-tuplas son de l tipo N1, N2 i N3 sclusibamente. L númaro de cada "cunfiguraçon-m" (anstruçon, stado) ye repersentado por "D", seguido por ua cadeia unária de La's, i.i. "q3" = DAAA. Dun modo semelhante, el codifica ls simblos brancos cumo "D", l simblo "0" ye "DC", l simblo "1" cumo DCC etc. Ls simblos "R", "L" i "N" permanecen cumo stan.
+Passado codificar, cada 5-tupla ye "montada" nua cadeia na orde stablecida na tabela seguinte:
+{|class="wikitable"
+|- style="font-size:9t" align="center" valign="botton"
+! width="54.6" Height="57" | Cunfiguraçon-m atual
+! width="36.6" | Simblo de la fita
+! width="47.4" | Ouparaçon-ampresson
+! width="28.8" | Mobimiento de la fita
+! width="38.4" | Cunfiguraçon-m final
+! width="7.2" |
+! width="43.8" | Cunfiguraçon-m atual (código)
+! width="31.2" | Simblo de la fita (código)
+! width="27" | Ouparaçon-ampresson (código)
+! width="38.4" | Mobimiento de la fita (código)
+! width="55.2" | Cunfiguraçon-m final (código)
+! width="87" | 5-tupla montada (código)
+|- style="font-size:9t" align="center" valign="botton"
+| Height="11.4" |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+|- style="font-size:9t" align="center" valign="botton"
+| Height="11.4" | q1
+ | branco
+ | P0
+ | R
+ | q2
+ |
+ | DA
+ | D
+ | DC
+ | R
+ | DAA
+ | DADDCRDAA
+|- style="font-size:9t" align="center" valign="botton"
+| Height="11.4" | q2
+ | branco
+ | I
+ | R
+ | q3
+ |
+ | DAA
+ | D
+ | D
+ | R
+ | DAAA
+ | DAADDRDAAA
+|- style="font-size:9t" align="center" valign="botton"
+| Height="11.4" | q3
+ | branco
+ | P1
+ | R
+ | q4
+ |
+ | DAAA
+ | D
+ | DCC
+ | R
+ | DAAAA
+ | DAAADDCCRDAAAA
+|- style="font-size:9t" align="center" valign="botton"
+| Height="11.4" | q4
+ | branco
+ | I
+ | R
+ | q1
+ |
+ | DAAAA
+ | D
+ | D
+ | R
+ | DA
+ | DAAAADDRDA
+|}
+Finalmente, juntamos ls códigos de todas las quatro 5-tuplas nua cadeia ampeçada por ";" i apartadas por ";".
+
+El colocou essa cadeia an quadrados altarnados --los "quadrados-F" -- deixando ls "quadrados-I" (aqueilhes passibles de rasura) bazios. La montaige final de la cadeia na fita pa la máquina-U cunsiste an poner dous simblos speciales ("i"), un passado l'outro, apartar l código an quadrados altarnados i, por radadeiro, dous-puntos duplos "'''::'''" (bazios seran mostrados eiqui pul simblo "." para melhor bisualizaçon).
+
+
+La tabela d'açon de la máquina-U (tabela stado-trasiçon) ye respunsable pula decodificaçon de ls simblos. La tabela d'açon de Turing mantén l cuntrole culs marcadores "u", "b", "x", "y", "ç", colocando-los ne ls "quadrados-I" a la dreita de l "simblo marcado" -- por eisemplo, para marcar l'anstruçon atual, '''ç''' ye colocado a la dreita de ";", '''x''' guarda l local cun respeito a la "cunfiguraçon-m" DAA atual. La tabela d'açon de las máquinas-U çlocaran ls simblos (apagando i recolocando-los an locales defrentes) a la medida que la cumputaçon prossegue.
+
+
+Ua porçon d'outros outores (notabelmente [[Roger Penrose]],ne l sou libro '''The Amperor's New Mind''') fornecen eisemplos d'outras maneiras para codificar anstruçones nua máquina-U. Assi cumo Penrose, la maiorie usa solamente simblos binairos, i.i. solamente ls simblos {0, 1} ó (branco, marcado |}. Penrose bai mais fondo i scribe sou própio código para máquina-U por anteiro (Penrose 1989:71-73). El afirma que ye un berdadeiro código de máquina-U, tan einorme que "alimenta" quaije 2 páiginas cun solo 1's i 0's. Para leitores antressados an códigos simples pa la [[Máquina de Post-Turing]], l'argumentaçon de Dabis an Sten (Sten 1980:251ff) debe ser útele. 
+
+==Beija tamien==
+* [[Máquina de Turing que siempre para]]
+* [[Arquitetura de bon Neumann]] 
+* [[Turing Cumpletude]]
+==Refréncias==
+{{Reflist}}
+'''Refréncias gerales'''
+* Arora, Sanjeb; Barak, Boaç, [http://www.cs.princeton.edu/theory/cumplexity/ "Cumplexity Theory: La Modern Approach"], Cambridge University Press, 2009, ISBN 978-0-521-42426-4, section 1.4, "Machines las strings and the ounibersal Turing machine" and 1.7, "Prof of theoren 1.9"
+'''Artigos de seminairo'''
+* F. C. Heinnie and [http://en.wikipedie.org/wiki/Richard_Stearnes_%28cumputer_scientist%29 R. I. Stearnes]. ''Two-tape simulation of multitape Turing machines''. [[JACM]], 13(4):533–546, 1966.
+'''Outras refréncias'''
+*{{Citation
+  | eiditor-last = Copeland | eiditor-first = Jack | eiditor-link = http://en.wikipedie.org/wiki/Jack_Copeland
+  | title = The Essential Turing: Seminal Writings in Cumputing, Logic, Philosophy, Artificial Antelligence, and Artificial Life plus The Secrets of Enigma
+  | year = 2004
+  | place = Oxford UK
+  | publisher = [[Oxford University Press]]
+  | isbn = 0-19-825079-7 }}
+*{{Citation
+  | eiditor-first = Lynn Arthur | eiditor-last = Sten | eiditor-link = Lynn Arthur Sten
+  | first = Martin | last = Dabis | outhor-link = Martin Dabis
+  | cuntribution = What is Cumputation?
+  | title = Mathematics Today: Twelbe Anformal Essays
+  | year = 1980
+  | place = New York NY
+  | publisher = Bintage Books (Randon House)
+  | isbn = 978-0-394-74503-9 }}.
+*{{Citation
+  | first = Martin | last = Dabis | outhor-link = Martin Dabis
+  | title = Angines of Logic: Mathematicianes and the ourigin of the Cumputer
+  | eidition = 1st
+  | year = 2000
+  | place = New York NY
+  | publisher = W. W. Norton & Cumpany
+  | id =  (pb.)
+  | isbn = 0-393-32229-7}}
+*Goldstine, Heirman H., and bon Neumann, John, "Planning and Coding of the Porblems fur an Eiletronic Cumputing Anstrument", Rep. 1947, [[Anstitute fur Adbanced Study]], Princeton. Reimpresso an pp.&nbsp;92–119 in Bell, C. Gordon and Newell, Allen (1971), ''Cumputer Strutures: Readings and Eisamples'', McGraw-Hill Book Cumpany, New York. ISBN 0-07-004357-4}.
+*{{Citation
+  | first = Rolf | last = Heirken | outhor-link = Rolf Heirken
+  | title = The Ounibersal Turing Machine – La Half-Century Surbey
+  | year =1995
+  | place =
+  | publisher = [http://en.wikipedie.org/wiki/Springer_Berlag Springer Berlag]
+  | isbn = 3-211-82637-8 }}
+*{{Citation|last=Knuth|first=Donald I..|outhorlink=Donald Knuth|title=The Art of Cumputer Porgramming Second Eidition, Belume 1/Fundamental Algorithms|eidition= 2nd, 1973|publisher=Addison-Wesley Publishing Cumpany|year=First Eidition 1968}} La purmeira de la série de Knuth de 3 testos.
+*{{Citation
+  | first1 = Manfred | last1 = Kudlek
+  | first2 = Yurii | last2 = Rogozhin
+  | title = A ounibersal Turing machine with 3 states and 9 symbols
+  | journal = LNCS
+  | belume = 2295
+  | springer = Springer
+  | year = 2002
+  | pages = 311–318 }}
+*{{Citation
+  | first = Marbin | last = Minsky | outhor-link = Marbin Minsky
+  | cuntribution = Size and Struture of Ounibersal Turing Machines using Tag Systems, Recursibe Funtion Theory
+  | journal = Proc. Symp. Pure Mathematics
+  | year = 1962
+  | pages = 229–238
+  | place = Probidence RI
+  | publisher = Amarican Mathematical Society
+  | belume = 5 }}
+*{{Citation
+  | first1 = Turlough | last1 = Neary
+  | first2 = Damien | last2 = Wods
+  | title = Four Small Ounibersal Turing Machines
+  | journal = Fundamenta Anformaticae
+  | belume = 91
+  | issue = 1
+  | year = 2009 }}
+*{{Citation
+  | first1 = Turlough | last1 = Neary
+  | first2 = Damien | last2 = Wods
+  | cuntribution = Small Weakly Ounibersal Turing Machines
+  | series = 17th Anternational Symposiun on Fundamentals of Cumputation Theory
+  | pages = 262–273
+  | publisher = Springer LNCS 5699
+  | year = 2009b }}
+*{{Citation
+  | first = Roger | last = Penrose | outhor-link = Roger Penrose
+  | title = [http://en.wikipedie.org/wiki/The_Amperor%27s_New_Mind The Amperor's New Mind]
+  | year = 1989
+  | place = Oxford UK
+  | publisher = [[Oxford University Press]]
+  | id = (hc.),  (pb.)
+  | isbn = 0-19-851973-7}}
+*{{Citation
+  | first = Yurii | last = Rogozhin
+  | title = Small Ounibersal Turing Machines
+  | journal = Theoretical Cumputer Science
+  | year = 1996
+  | belume = 168
+  | pages = 215–240
+  | issue = 2
+  | doi = 10.1016/S0304-3975(96)00077-1 }}
+*{{Citation
+  | first = Claude | last = Shannon | outhor-link = Claude Shannon
+  | title = Outomata Studies
+  | cuntribution = La Ounibersal Turing Machine with Two Anternal States
+  | year = 1956
+  | pages = 157–165
+  | publisher = Princeton University Press
+  | place = Princeton, NJ }}
+*{{Citation
+  | first = Alan | last = Turing | outhor-link = Alan Turing
+  | cuntribution = On Cumputable Numbers, With an Application to the Entscheidungsproblen
+  | cuntribution-url = http://www.abelard.org/turpap2/tp2-ie.asp
+  | journal = Procedings of the London Mathematical Society
+  | year = 1936
+  | belume = 42 | issue = 2 }}  (and {{Citation
+  | last = Turing | first = La.M. | publication-date = 1937
+  | title = On Cumputable Numbers, with an Application to the Entscheidungsproblen: La corretion
+  | periodical = Procedings of the London Mathematical Society | series = 2
+  | belume = 43 | pages = 544–6
+  | doi = 10.1112/plms/s2-43.6.544
+  | year = 1938
+  | issue = 6 }}).  Reprinted in Martin Dabis ed. (1965) ''The Undecidable'', Raben Press, Heiwlett NY pp.&nbsp;115–154; with corretiones to Turing's UTM by Eimil Post cf fotnote 11 in Dabis 1965:299.
+
+{{Teorie de la cumputaçon}}
+ 
+{{DEFAULTSORT:Maquina Turing Ounibersal}}
+[[Catadorie:Teorie de la cumputaçon]]
