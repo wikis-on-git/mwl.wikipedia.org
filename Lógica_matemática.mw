@@ -59,30 +59,30 @@ An seguida eilebamos 2 al númaro de bariables, ó seia, 2². Nuossa base de l s
 
 {| class="wikitable"
 |-
-!  <dib style="text-align: center;">p</dib>    !!   <dib style="text-align: center;">q</dib>  !!  <dib style="text-align: center;">p Λ q</dib>
+!  <div style="text-align: center;">p</div>    !!   <div style="text-align: center;">q</div>  !!  <div style="text-align: center;">p Λ q</div>
 |-
-|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|   - ||   - ||    <div style="text-align: center;">-</div>
 |-
-|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|   - ||   - ||    <div style="text-align: center;">-</div>
 |-
-|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|   - ||   - ||    <div style="text-align: center;">-</div>
 |-
-|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|   - ||   - ||    <div style="text-align: center;">-</div>
 |}
 
 Esta ye la strutura de la tabela, agora pa a prencher culs debidos balores lógicos outeliza-se la seguinte técnica: até la metade de la purmeira coluna coloca-se Berdadeiro, na outra metade Falso. Yá na segunda coluna, antercala-se B i F. Desta forma adquira-se la seguinte tabela:
 
 {| class="wikitable"
 |-
-! p !! q !! <dib style="text-align: center;">p Λ q</dib>
+! p !! q !! <div style="text-align: center;">p Λ q</div>
 |-
-| B || B || <dib style="text-align: center;">Resultado</dib>
+| B || B || <div style="text-align: center;">Resultado</div>
 |-
-| B || F || <dib style="text-align: center;">Resultado</dib>
+| B || F || <div style="text-align: center;">Resultado</div>
 |-
-| F || B || <dib style="text-align: center;">Resultado</dib>
+| F || B || <div style="text-align: center;">Resultado</div>
 |-
-| F || F || <dib style="text-align: center;">Resultado</dib>
+| F || F || <div style="text-align: center;">Resultado</div>
 |}
 
 Esta ye ua de las melhores stratégias pa la montaige dua tabela berdade.
@@ -112,9 +112,9 @@ L conetibo de negaçon (~), nega l balor lógico dua proposiçon. Cunsidra-se p 
 |-
 ! p !! ~p
 |-
-| B || <dib style="text-align: center;">F</dib>
+| B || <div style="text-align: center;">F</div>
 |-
-| F || <dib style="text-align: center;">B</dib>
+| F || <div style="text-align: center;">B</div>
 |}
 
 Eisemplo:
@@ -132,13 +132,13 @@ Cunsidre las proposiçones '''p''' i '''q''' (Cunjunçon).
 |-
 ! p !! q !! p Λ q
 |-
-| B || B || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib>
+| B || F || <div style="text-align: center;">F</div>
 |-
-| F || B || <dib style="text-align: center;">F</dib>
+| F || B || <div style="text-align: center;">F</div>
 |-
-| F || F || <dib style="text-align: center;">F</dib>
+| F || F || <div style="text-align: center;">F</div>
 |}
 
 Ouserbaçon: Beija que nesta tabela cunsidramos todos ls balores lógicos possibles para p i q, an outras palabras: tenemos 2 proposiçones i stamos nua base binária (0 ó 1, berdadeiro ó falso) anton para se saber l númaro de las possibelidades para essas proposiçones rializa-se l seguinte cálclo 2<sup>m</sup>, adonde m ye l númaro de proposiçones.
@@ -154,13 +154,13 @@ Cunsidre las proposiçones '''p''' i '''q''' (Çjunçon).
 |-
 ! p !! q !! p B q
 |-
-| B || B || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">F</dib>
+| F || F || <div style="text-align: center;">F</div>
 |}
 
 ==== Conetor cundicional (→) ====
@@ -175,13 +175,13 @@ Cunsidre las proposiçones '''p''' i '''q''' (Cundiçon).
 |-
 ! p !! q !! p → q
 |-
-| B || B || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div>
 |-
 | <span style="color:red;">B</span> || <span style="color:red;">F</span> || <center><span style="color:red;">F</span></center>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div>
 |}
 
 ==== Conetor bi-cundicional (↔) ====
@@ -196,13 +196,13 @@ Cunsidre las proposiçones '''p''' i '''q''' (Bi-cundicional).
 |-
 ! p !! q !! p ↔ q
 |-
-| B || B || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib>
+| B || F || <div style="text-align: center;">F</div>
 |-
-| F || B || <dib style="text-align: center;">F</dib>
+| F || B || <div style="text-align: center;">F</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div>
 |}
 
 ==== Ó sclusibo (<u>B</u>) ====
@@ -212,13 +212,13 @@ L '''conetibo ó sclusibo''', chamado tamien de çjunçon sclusiba, ye repersent
 |-
 ! p !! q !! p <u>B</u> q
 |-
-| B || B || <dib style="text-align: center;">F</dib>
+| B || B || <div style="text-align: center;">F</div>
 |-
-| B || F || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">F</dib>
+| F || F || <div style="text-align: center;">F</div>
 |}
 
 ==== Negaçon Cunjunta i Negaçon Çjunta ====
@@ -236,13 +236,13 @@ Ambaixo stan repersentadas las tabelas berdades de las dues negaçones.
 |-
 ! p !! q !! p ↑ q
 |-
-| B || B || <dib style="text-align: center;">F</dib>
+| B || B || <div style="text-align: center;">F</div>
 |-
-| B || F || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div>
 |}
 
 *Tabela Berdade eiquibalente al circuito [[NOR]]
@@ -250,13 +250,13 @@ Ambaixo stan repersentadas las tabelas berdades de las dues negaçones.
 |-
 ! p !! q !! p ↓ q
 |-
-| B || B || <dib style="text-align: center;">F</dib>
+| B || B || <div style="text-align: center;">F</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib>
+| B || F || <div style="text-align: center;">F</div>
 |-
-| F || B || <dib style="text-align: center;">F</dib>
+| F || B || <div style="text-align: center;">F</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div>
 |}
 
 ==== Tautologie, Cuntradiçon i Cuntingéncia ====
@@ -272,9 +272,9 @@ p b ~p ('''p''' OU '''nun p''')
 |-
 ! p !! ~p !! p B ~p
 |-
-| B || F || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |}
 
 Beija qu'andependiente de l balor de p la spresson siempre resulta an Berdadeiro, pus pa l conetor OU tenr un berdadeiro yá ye suficiente para resultar an Berdadeiro, para alhá desso siempre teremos B an todas las cumbinaçones de la spresson. Por esso a classeficamos cumo ua tautogie.
@@ -287,9 +287,9 @@ F → p ('''F''' anton '''p''')
 |-
 ! Balor lógico custante !! p !! F → p
 |-
-| <dib style="text-align: center;">'''F'''</dib> || F || <dib style="text-align: center;">B</dib>
+| <div style="text-align: center;">'''F'''</div> || F || <div style="text-align: center;">B</div>
 |-
-| <dib style="text-align: center;">'''F'''</dib> || B || <dib style="text-align: center;">B</dib>
+| <div style="text-align: center;">'''F'''</div> || B || <div style="text-align: center;">B</div>
 |}
 
 Nestre outro causo tamien se oubtebe ua tautologie, debido al fato de la radadeira coluna de la tabela (resultado de la spresson) tener solamente Berdadeiro.
@@ -304,9 +304,9 @@ p ^ ~p
 |-
 ! p !! ~p !! p ^ ~p
 |-
-| B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+| B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div>
 |-
-| F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+| F || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div>
 |}
 
 * Cuntingéncia: detreminamos ua proposiçon de cuntingente quando eilha nun ye tautológica nin cuntraditória, ó seia, eilha ye andeterminada.
@@ -319,13 +319,13 @@ p B q ('''p''' OU '''q''')
 |-
 ! p !! q !! p B q
 |-
-| B || B || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">F</dib>
+| F || F || <div style="text-align: center;">F</div>
 |}
 
 Percebe-se que la radadeira coluna nun ten solo un balor lógico, por esso a detreminamos ua proposiçon cuntingente, ó andeterminada.
@@ -342,11 +342,11 @@ P Λ Q amplica P B Q?
 |-
 | B || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
 |-
-| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+| F || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div>
 |}
 
 Neste eisemplo podemos dezir que P Λ Q => P B Q, pus adonde P Λ Q ye berdadeiro P B Q tamien ye.
@@ -364,7 +364,7 @@ P B Q amplica P → Q?
 |-
 | F || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
 |-
-| F || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |}
 
 Neste eisemplo nun podemos dezir que P B Q => P → Q, pus tenemos na segunda linha qu'adonde P B Q ye berdadeiro P → Q ye falso.
@@ -379,13 +379,13 @@ Eisemplo:
 |-
 ! P !! Q !! ¬P !! ¬Q !! P Λ Q !! ¬(P Λ Q) !! ¬P B ¬Q
 |-
-| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <center><span style="color:yellow;">F</span></center> || <center><span style="color:yellow;">F</span></center>
+| B || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <center><span style="color:yellow;">F</span></center> || <center><span style="color:yellow;">F</span></center>
 |-
-| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
 |-
-| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
 |-
-| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
 |}
 
 Neste eisemplo podemos dezirmos que ¬(P Λ Q) ⇔ (¬P B ¬Q), pus l resultado de la tabela berdade de las dues spressones ye l mesmo.
@@ -397,13 +397,13 @@ P → Q ye eiquibalente la Q → P?
 |-
 ! P !! Q !! P → Q !! Q → P
 |-
-| B || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
 | B || F || <center><span style="color:red;">F</span></center> || <center><span style="color:red;">B</span></center>
 |-
 | F || B || <center><span style="color:red;">B</span></center> || <center><span style="color:red;">F</span></center>
 |-
-| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |}
 
 Neste eisemplo nun podemos dezir que P → Q ⇔ Q → P, pus l resultado de las tabelas berdades de las spressones son defrentes, nas linhas 2 i 3.
@@ -430,13 +430,13 @@ Pegamos ua cundicional qualquiera cumo p → q, eisisten trés tipos de proposi�
 |-
 ! p !! q !! p → q !! q → p
 |-
-| B || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |}
 
 Eisemplo:
@@ -451,13 +451,13 @@ La recíproca serie:
 |-
 ! p !! q !! ~p !! ~q !! p → q !! ~p → ~q
 |-
-| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |}
 
 Eisemplo:
@@ -472,13 +472,13 @@ La cuntrária serie:
 |-
 ! p !! q !! ~p !! ~q !! p → q !! ~q → ~p
 |-
-| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| B || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
-| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div>
 |-
-| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
-| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |}
 
 Eisemplo:
