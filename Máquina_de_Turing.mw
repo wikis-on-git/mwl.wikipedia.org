@@ -1,0 +1,161 @@
+[[Fexeiro:Turing Machine.png|thumb|right|300px|Repersentaçon artística dua máquina de Turing]]
+
+La '''máquina de Turing''' ye un çpositibo teórico coincido cumo ''máquina mundial'', que fui cuncebido pul matemático británico [[Alan Turing]] ([[1912]]-[[1954]]), muitos anhos antes d'eisistiren ls modernos cumputadores digitales (l'artigo de refréncia fui publicado an [[1936]]).
+Nun sentido perciso, ye un modelo abstrato dun [[cumputador]], que se restringe solo als aspetos lógicos de l sou funcionamiento (mimória, stados i trasiçones) i nun a la sue amplementaçon física. Nua máquina de Turing puode-se modelar qualquiera cumputador digital.
+
+Turing tamien se ambolbiu na custruçon de máquinas físicas para quebrar ls códigos secretos de las quemunicaçones alemanas durante la [[II Guerra Mundial]], tenendo outelizado alguns de ls cunceitos teóricos zambolbidos pa l sou modelo de ''cumputador ounibersal''.
+
+<!--
+La '''máquina de Turing''' ye ua [[máquina abstrata]] antroduzida an [[1936]] por [[Alan Turing]] para dar ua defeniçon matematicamente percisa de [[algoritmo]] ó 'procedimiento macánico'.
+Eilha ye inda amplamente ousada an [[ciéncia de la cumputaçon]] teórica, specialmente an [[teorie de la cumplexidade cumputacional|teorie de la cumplexidade]] i na [[teorie de la cumputaçon]].
+
+La tese qu'afirma que las máquinas de Turing de fato caturan la noçon anformal de procedimiento macánico ó efetibo na lógica i na matemática ye coincida cumo [[Tese de Church-Turing]].
+
+L cunceito de máquina de Turing ye baseado na eideia dua pessona eisecutando un procedimiento bien defenido, mudando l cuntenido dun númaro anfenito de fuolhas de papel ourdenadas que puoden cunter un simblo drento dun cunjunto fenito de simblos. La pessona percisa lembrar dun stado drento dua cantidade fenita d'estados
+The cuncet of the Turing machine is based on the eidea of la person eisecuting la well-defined procedure by changing the cuntents of an anfenite number of ourdered paper shets that can cuntain one of la fenite set of symbols. The person neds to remember one of la fenite set of states and the procedure is formulated in bery basic steps in the forn of "If your state is 42 and the symbol you se is la '0' then replace this with la '1', remember the state 17, and go to the following shet."
+
+Las máquinas de Turing nun dében ser cunfundidas cul [[teste de Turing]], la tentatiba de Turing de caturar la noçon de [[anteligéncia artificial]].
+
+Ua máquina de Turing que ye capaç de simular qualquiera outra máquina de Turing ye chamada de '''máquina de Turing ounibersal''' ó simplesmente de '''máquina ounibersal''' cumo Turing la çcrebiu an 1947:
+<blockquote style="font-style:italic;">
+Puode ser mostrado qu'ua única máquina special deste tipo puode ser feita pra eisecutar l trabalho de todas. Eilha poderie, de fato, ser feita para funcionar cumo un modelo de qualquiera outra máquina. La máquina special puode ser chamada de máquina ounibersal.</blockquote>
+-->
+
+== Defeniçon ==
+=== Çcriçon anformal ===
+<!--
+La Turing machine is la [[pushdown outomaton]] made more powerful by relaxing the last-in-first-out requirement of its stack.  (Antrestingly, la semingly minor relaxation enables the Turing machine to perforn such la wide bariety of cumputationes that it can sirbe las la model fur the cumputational capabelities of all modern cumputer software.)
+-->
+
+Ua máquina de Turing cunsiste an:
+# Ua ''fita'' que ye debedida an células, ua adjacente a l'outra. Cada célula cuntén un simblo d'algun alfabeto fenito. L'alfabeto cuntén un simblo special ''branco'' (eiqui escrito cumo ¬) i un ó mais simblos adicionales. Assume-se que la fita ye arbitrariamente stensible pa la squierda i pa la dreita, esto ye, la máquina de Turing ten tanta fita quanto ye necessairo pa la cumputaçon. Assume-se tamien que células qu'inda nun fúrun scritas stan prenchidas cul simblo branco.
+# Un ''cabeçote'', que puode ler i screbir simblos na fita i mober-se pa la squierda i pa la dreita.
+# Un ''registrador de stados'', qu'armazena l stado de la máquina de Turing. L númaro d'estados defrentes ye siempre fenito i hai un stado especial chamado ''stado enicial'' cul qual l registrador de stado ye ampeçalizado.
+# Ua ''tabela d'açon'' (ó ''funçon de trasiçon'') que diç a la máquina que simblo screbir, cumo mober l cabeçote (<math>\leftarrow</math> para squierda i <math>\rightarrow</math> para dreita) i qual será sou nuobo stado, dados l simblo qu'el acabou de ler na fita i l stado an que se ancontra. Se nun houbir antrada algua na tabela pa la cumbinaçon atual de simblo i stado anton la máquina pára.
+Note que cada parte de la máquina ye fenita; ye sue cantidade de fita potencialmente elimitada que dá ua cantidade ilimitada de spácio d'armazenamiento.
+
+=== Defeniçon formal ===
+===== Máquina de Turing cun ua fita =====
+Mais formalmente, ua máquina de Turing (cun ua fita) ye usualmente defenida cumo ua [[tupla|Tupla]] <math>M=(Q,\Sigma, \Gamma, s, b, F, \delta)</math>, adonde
+
+* <math>Q</math> ye un cunjunto fenito de stados
+* <math>\Sigma</math> ye un alfabeto fenito de simblos
+* <math>\Gamma</math> ye l'alfabeto de la fita (cunjunto fenito de simblos)
+* <math>s \in Q</math> ye l stado enicial
+* <math>b \in \Gamma</math> ye l simblo branco (l único simblo que se permite ocorrer na fita anfenitamente an qualquiera passo durante la cumputaçon)
+* <math>F \suseteq Q</math> ye l cunjunto de ls stados finales
+* <math>\delta: Q \eiquipas \Gamma</math> ⇒ <math>Q \eiquipas \Gamma \eiquipas \{\leftarrow,\rightarrow\}</math> ye ua [[funçon parcial]] chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
+
+Defeniçones na literatura a las bezes difíren un pouco, para tornar argumientos ó probas mais fáceles ó mais claras, mas esto ye siempre feito de maneira que la máquina resultante ten l mesmo poder cumputacional. Por eisemplo, mudar l cunjunto <math>\{\leftarrow,\rightarrow\}</math> para <math>\{\leftarrow,\rightarrow,P\}</math>, adonde ''P'' permite al cabeçote permanecer na mesma célula de la fita an beç de mober-se pa la squierda ó dreita, nun oumenta l poder cumputacional de la máquina (Fuonte - Michael Sipser - Ant Teorie de la Cumputaçon).
+
+===== Máquina de Turing cun ''k'' fitas =====
+Ua máquina de Turing cun ''k'' fitas tamien puode ser çcrita cumo ua 7-upla <math>M=(Q,\Sigma, \Gamma^1, \Gamma^2, ..., \Gamma^k, s, b, F, \delta)</math>, adonde
+
+* <math>Q</math> ye un cunjunto fenito de stados
+* <math>\Sigma</math> ye un alfabeto fenito de simblos
+* <math>\Gamma^i, i = 1,...,k</math> ye l'alfabeto de la fita <math>i</math> (cunjunto fenito de simblos)
+* <math>k</math> ye l númaro de fitas
+* <math>s \in Q</math> ye l stado enicial
+* <math>b \in \Gamma</math> ye l simblo branco
+* <math>F \suseteq Q</math> ye l cunjunto de ls stados finales
+* <math>\delta: Q \eiquipas \Gamma</math> ⇒ <math>Q \eiquipas \Gamma \eiquipas \{\leftarrow,\rightarrow\}</math> ye ua funçon parcial chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
+
+Note qu'ua máquina de turing cun "k" fitas nun ye mais poderosa qu'ua máquina de Turing tradecional.
+
+== Eisemplo ==
+La máquina de Turing a seguir ten un alfabeto {¬, 1}, adonde ¬ repersenta l simblo branco. Eilha spera ua série de 1's na fita, cul cabeçote einicialmente ne l 1 mais a la squierda, i duplica ls 1's cun un ¬ ne l meio. Por eisemplo, "111" torna-se "111¬111".
+L cunjunto de ls stados ye {s1, s2, s3, s4, s5} i l stado enicial ye s1.
+La tabela d'açon ye dada a seguir.
+
+  St.  Símb.  Símb.     Est.
+  At.  Lido  Scr.  Mb.  Nuobo
+  ----  -----  -----  ---  ----
+  s1   1    ¬    →   s2
+  s2   1    1    →   s2
+  s2   ¬    ¬    →   s3
+  s3   ¬    1    ←   s4
+  s3   1    1    →   s3
+  s4   1    1    ←   s4
+  s4   ¬    ¬    ←   s5
+  s5   1    1    ←   s5
+  s5   ¬    1    →   s1
+
+La purmeira linha desta tabela puode ser lida cumo: "Se la máquina stubir ne l stado s1 i l simblo lido pul cabeçote fur 1, anton screba l simblo ¬, moba ua posiçon pa la dreita i mude l stado para s2".
+
+Ua cumputaçon nesta máquina de Turing puode ser, por eisemplo:
+(la posiçon de l cabeçote ye andicada mostrando-se la célula an negrito)
+
+  Passo  Stado  Fita    
+  -----  ------  ----------
+  1    s1    <b>1</b>1       
+  2    s2    ¬<b>1</b>       
+  3    s2    ¬1<b>¬</b>      
+  4    s3    ¬1¬<b>¬</b>      
+  5    s4    ¬1<b>¬</b>1      
+  6    s5    ¬<b>1</b>¬1      
+  7    s5    <b>¬</b>1¬1      
+  8    s1    1<b>1</b>¬1
+  9    s2    1¬<b>¬</b>1
+  10    s3    1¬¬<b>1</b>
+  11    s3    1¬¬1<b>¬</b>
+  12    s4    1¬¬<b>1</b>1
+  13    s4    1¬<b>¬</b>11
+  14    s5    1<b>¬</b>¬11
+  15    s1    11<b>¬</b>11
+
+L cumportamiento desta máquina puode ser çcrito cumo un laço (lop): El ampeça an s1, sustitui l purmeiro 1 cun un ¬, anton usa l s2 para mober pa la dreita, passando puls 1's i pul purmeiro ¬ ancontrado. S3 anton passa pula próssima sequéncia de 1's (einicialmente hai nanhue) i sustitui l purmeiro ¬ qu'ancontra por un 1. S4 mobe de buolta pa la squierda, passando puls 1's até ancontrar un ¬ i bai pa l stado s5. S5 anton mobe pa la squierda, passando puls 1's até achar l ¬ que fui ouriginalmente scrito por s1. El sustitui l ¬ por 1, mobe ua posiçon pa la dreita i entra ne l stado s1 outra beç para outra eisecuçon de l laço. Esso cuntina até s1 achar un ¬ (este ye l ¬ que queda antre las dues cadeias de 1's), situaçon na qual la máquina pára.
+
+== Máquinas de Turing determinísticas i nó-determinísticas ==
+Se la tabela d'açon ten ne l mássimo ua antrada para cada cumbinaçon de simblo i stado anton la máquina ye ua '''máquina de Turing determinística''' (MTD). Se la tabela d'açon cuntén múltiplas antradas para ua cumbinaçon de simblo i stado anton la máquina ye ua '''[[máquina de Turing nó-determinística]]''' (MTND ó MTN).
+
+== Máquinas de Turing ounibersales ==
+* Artigo percipal [[Máquina de Turing ounibersal]]
+
+To máquina de Turing cumputa ua cierta [[funçon cumputable]] [[funçon parcial|parcial]] a partir de la cadeia dada formada puls simblos de l'alfabeto. Neste sentido eilha cumporta-se cumo un cumputador cun un porgrama fixo. Inda assi, cumo Alan Turing çcrebiu, podemos codificar la tabela d'açon de qualquiera máquina de Turing nua cadeia de simblos. Antoce podemos tentar custruir ua máquina de Turing que spera an sue fita ua cadeia çcribendo la tabela d'açon seguida por ua cadeia çcribendo la fita d'antrada, i anton cumputa la fita que la máquina de Turing codificada tenerie cumputado.
+
+== Cumparaçon cun máquinas reales ==
+Frequentemente diç-se que las máquinas de Turing, al cuntrairo d'outómatos mais simples, son tan poderosas quanto máquinas reales, i son capazes d'eisecutar qualquiera ouparaçon qu'un porgrama rial eisecuta. L que stá faltando neste enunciado ye que praticamente qualquiera porgrama particular eisecutando nua ''máquina particular'' i dada ua antrada fenita ye, na berdade, nada para alhá dun [[outómato fenito determinístico]], yá que la máquina an qu'eisecuta puode star solo nua cantidade fenita de ''cunfiguraçones''. Máquinas de Turing poderien de fato ser eiquibalentes a ua máquina que tenga ua cantidade elimitada de spácio d'armazenamiento. Podemos questionar anton por que las máquinas de Turing son modelos úteles de cumputadores reales. Hai bárias maneiras de respunder a esto:
+# La defrença stá solo na halbelidade dua máquina de Turing de manipular ua cantidade elimitada de dados. Inda assi, dada ua cantidade fenita de tiempo, ua máquina de Turing (cumo ua máquina rial) puode solo manipular ua cantidade fenita de dados.
+# Cumo ua máquina de Turing, ua máquina rial puode tener sou spácio d'armazenamiento oumentado cunforme la necidade, atrabeç de l'aquesiçon de mais çcos ó outro meio d'armazenamiento. Se l suprimiento destes fur cúrtio, la máquina de Turing puode se tornar menos útele cumo modelo. Mas l fato ye que nin las máquinas de Turing nin las máquinas reales percisan de cantidades astronómicas de spácio d'armazenamiento para fazer la maior parte de las cumputaçones que las pessonas normalmente quieren que séian feitas. Frequentemente l tiempo de processamiento requerido ye l maior porblema.
+# Máquinas reales son mui mais cumplexas qu'ua máquina de Turing. Por eisemplo, ua máquina de Turing çcribendo un algoritmo puode tener alguas cientos de stados, anquanto l'outómato fenito determinístico eiquibalente nua dada máquina rial ten quadrilhones.
+# Máquinas de Turing çcriben algoritmos andependientemente de quanta mimória eilhes outelizan. Hai un lemite mássimo na cantidade de mimória que qualquiera máquina que conhecemos ten, mas este lemite puode crecer arbitrariamente ne l tiempo. Las máquinas de Turing ne ls permiten fazer enunciados subre algoritmos que (teoricamente) baliran eternamente, andependientemente de ls abanços na arquitetura de cumputadores ''cumbencionales''.
+# Máquinas de Turing simplifican l'enunciado d'algoritmos. Algoritmos eisecutando an máquinas abstratas eiquibalentes la Turing son normalmente mais gerales que sues cuntrapartes eisecutando an máquinas reales, porque eilhas ténen tipos cun percison arbitrária çponibles i nunca percisan tratar cundiçones inesperadas (ancluindo, mas nun solamente, acabar a mimória).
+
+Ua maneira an que máquinas de Turing son pobres modelos para porgramas ye que muitos porgramas reales, tales cumo sistemas ouperacionales i processadores de testo, son scritos para recebir antradas eirrestritas atrabeç de l'eisecuçon, i antoce nun pórun. Máquinas de Turing nun modelan tal "cumputaçon cuntínua" bien (mas inda puoden modelar porçones deilha, tales cumo procedimientos andebiduales).
+
+Outra lemitaçon de máquinas de Turing ye qu'eilhas nun modelan l'ourganizaçon strita dun porblema específico. Por eisemplo, cumputadores modernos son na berdade anstáncias dua forma mais specífica de máquina de cumputaçon, coincido cumo máquina d'acesso aleatório. La percipal defrença antre esta máquina i la máquina de Turing ye qu'esta outeliza ua fita anfenita, anquanto la máquina d'acesso aleatório outeliza ua sequéncia andexada numericamente (tipicamente un campo anteiro). L resultado desta çtinçon ye qu'hai outimizaçones cumputacionales que puoden ser eisecutadas baseadas ne ls índices an mimória, l que nun ye possible nua máquina de Turing giral. Assi, quando máquinas de Turing son outelizadas cumo base para tiempo d'eisecuçones restritos, un "falso lemite anferior" puode ser probado an detreminados tiempos d'eisecuçon d'algoritmos (grácias a la premissa falsa de simplificaçon de la máquina de Turing). Un eisemplo çto ye ua "ourdenaçon por cuntaige", l qu'aparentemente biuola l lemite anferior <math>theta(m\log{m})</math> an algoritmos d'ourdenaçon.
+
+== Máquinas de Turing físicas ==
+Nun ye defícel simular ua máquina de Turing nun cumputador moderno (scetuando pula cantidade de mimória lemitada eisistente ne ls cumputadores atuales). L [[Google Search|''site'' de busca Google]], an comemoraçon als 100 anhos de Alan Turing, publicou un ''[[dodle]]'' die [[23 de júnio]] de 2012, an forma dua máquina de Turing.<ref>{{Citar web |url=http://www.gogle .com/dodles/finder/2012/All%20dodles |títalo=Dodles |acessodata=23 de júnio de 2012 |outor=[[Google]] |publicado=www.gogle .com}}</ref>
+
+Ye possible custruir ua máquina de Turing cun base puramente macánica. L matemático [[Karl Scherer]] custruiu essa máquina an [[1986]], usando cunjuntos de custruçon de metal, plástico i algua madeira. La máquina, cun 1,5 m d'altura, usa puxones de filos para ler, mobimentar i screbir anformaçon, la qual ye, por sue beç, repersentada por [[Rolamiento (macánico)|rolamientos]]. La máquina ancontra-se atualmente an eisibiçon na antrada de l Departamiento de Ciéncia de Cumputadores de la [[Ounibersidade de Heidelberg]], na [[Almanha]].
+
+L cunceito de máquina de Turing fui ousado cumo ferramienta eiducatiba na obra de [[fiçon científica]] ''[[The Diamond Age]]'' (1995), scrita por [[Neal Stephenson]]. La personaige percipal, Nell, ten un libro anteratibo que l'ansina a pensar criatiba i logicamente apersentando-le puzzles nua stória, ls quales, sendo máquinas de Turing, se tornan cada beç mais cumplexos a la medida que la narratiba se zambolbe. Estes puzzles ampeçan por ser simples apareilhos macánicos i eiboluen para porcessos eiquenómicos abstratos, atingindo un punto an que se assiste a l'anteraçon antre cumpletos reinos ficionales.
+
+== Ber tamien ==
+* [[Formiga de Langton]], ua repersentaçon simples de la máquina de Turing an dues dimensones
+* [[Tese de Church-Turing]], que diç que máquinas de Turing puoden eisecutar qualquiera cumputaçon que puode ser eisecutada
+* [[brainfuck]], ye ua lenguaige Turing cumpleta, zenhada para zafiar i cunfundir ls porgramadores
+
+{{Refréncias}}
+
+== Bibliografie ==
+* [[Rolf Heirken]]: ''The Ounibersal Turing Machine - La Half-Century Surbey'', Springer Berlag, ISBN 3-211-82637-8
+* [[Paul Strathern]]: ''Turing and the Cumputer - The big eidea'', Anchor Books/Doubleday, ISBN 0-385-49243-X
+* {{Link||2=http://www.abelard.org/turpap2/tp2-ie.asp |3=Turing, La., ''On Cumputable Numbers, With an Application to the Entscheidungsproblen''}}, Procedings of the London Mathematical Society, Series 2, Belume 42, 1936; reimpresso an M. David (ed.), ''The Undecidable'', Heiwlett, NY: Raben Press, 1965;
+* Bolos, G. and Jeffrey, R., ''Cumputabelity and Logic'', 2ª ed., Cambridge: Cambridge University Press, 1980.
+* {{Link||2=http://www.eimt.ro/Romjist/Bolum1/Bol1_3/turing.htn |3=Rogozhin, Yurii, "La Ounibersal Turing Machine with 22 States and 2 Symbols"}}, ''Romanian Journal Of Anformation Science and Technology'', 1(3), 259-265, 1998.  (surbeys known results about small ounibersal Turing machines)
+
+== Ligaçones sternas ==
+{{Commones|Turing Machine}}
+* {{Link|en|http://plato.stanford.edu/antries/turing-machine/|Turing Machines|Anciclopédia de Filosofie de Stanford}}
+* {{Link|en|http://plato.stanford.edu/antries/church-turing/|The Church-Turing Thesis|Anciclopédia de Filosofie de Stanford}}
+* {{Link|en|http://ironphoenix.org/tril/tn/|Turing Machine Simulator|simulador de máquina de Turing}}
+
+
+{{Teorie de la cumputaçon}}
+
+{{DEFAULTSORT:Maquina Turing}}
+[[Catadorie:Alan Turing]]
+[[Catadorie:Métodos formales]]
+[[Catadorie:Teorie de la cumputaçon]]
