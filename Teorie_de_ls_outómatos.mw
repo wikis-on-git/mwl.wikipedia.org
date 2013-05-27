@@ -1,0 +1,168 @@
+[[Fexeiro:DFAexample.sbg|thumb|250px|Un eisemplo d'outómato. L studo de propiadades matemáticas destes outómatos ye la teorie de ls outómatos]]
+Na Ciéncia de la cumputaçon teórica, '''teorie de ls outómatos''' ye l studo de ls oubjetos matemáticos chamados [[Outómato|máquinas abstratas]] ó outómatos i ls porblemas cumputacionales que puoden ser resolbidos usando esses oubjetos. ''Outómato'' ben de la palabra griega αὐτόματα que senefica “açon sin anfluéncia sterna; outomático”.
+
+La figura al lado eilustra ua [[Máquina de stados fenitos|máquina de stados fenitos]], que pertence a ua bariadade bien coincida d'outómato. Este outómato cunsiste an stados (repersentados na figura por círclos), i trasiçones (repersentado por setas). Quando l'outómato recibe un simblo d'antrada, el faç ua trasiçon (ó salto) para outro stado, d'acuordo cun sue funçon de trasiçon (que ten cumo antradas l stado atual i l simblo recente).
+
+Teorie de ls outómatos tamien stá perfundamente relacionada a la [[Lenguaige formal|teorie de las lenguaiges formales]]. Un outómato ye ua repersentaçon fenita dua [[Lenguaige formal|lenguaige formal]] que puode ser un cunjunto anfenito. Outómatos son frequentemente classeficados pula classe de las lenguaiges formales que son capazes de recoincer.
+
+Outómatos zampenhan un papel amportante an teorie de la cumputaçon, eilaboraçon de cumpiladores, parsing i berificaçon formal.
+
+==Outómatos==
+Segue ua defeniçon antrodutória dun tipo d'outómatos, qu'ajuda al abordar ls cunceitos eissenciales ambolbidos na teorie de ls outómatos.
+
+===Çcriçon Anformal===
+
+Un outómato ye suposto para ''rodar'' subre ua dada sequéncia de ''antradas'' an passos de tiempo çcretos. Para cada passo, un outómato recibe ua antrada que ye oubtida a partir dun cunjunto de simblos ó ''letras'', que ye chamado de [[Alfabeto (ciéncia de la cumputaçon)|alfabeto]]. An qualquiera momiento, ls simblos que serben d'antrada pa l'outómato forman ua sequéncia fenita de simblos, que ye chamada de ''palabra''. Un outómato cuntén un cunjunto fenito de ''stados''. Para cada anstante de tiempo durante l'eisecuçon, l'outómato stá ''an'' un de sous stados. Para cada medida de tiempo an que l'outómato lé un simblo, el ''pula'' ó faç la ''trasiçon'' para un próssimo stado que ye decidido por ua funçon que ten l'estado atual i l simblo mais recentemente lido cumo parámetros. Esta funçon ye chamada de ''funçon de trasiçon''. L'outómato ''lé'' ls simblos de la palabra d'antrada, un simblo por beç, i faç la trasiçon de stado para estado, d'acuordo cula funçon de trasiçon, até la palabra ser totalmente lida. Ua beç que la palabra d'antrada tubir sido lida, l'outómato debe ''parar'' i l stado ne l qual l'outómato parou ye chamado de ''estado final''. Dependendo de l stado final, l'outómato puode ''aceitar'' ó ''rejeitar'' ua palabra d'antrada. Eesiste un subconjunto de stados de l'outómato, que ye defenido cumo l cunjunto de ''stados d'aceitaçon''. Se l stado final ye un estado d'aceitaçon, anton l'outómato ''aceita'' la palabra. Causo cuntrairo, la palabra ye ''rejeitada''. L cunjunto de todas las palabras aceitas por un outómato ye chamado de ''[[Lenguaige formal|lenguaige]] reconhecida pul outómato''.
+
+Resumindo, un outómato ye un oubjeto matemático que ten ua palabra d'antrada i decide se aceita ó rejeita esta palabra. Cumo todos ls porblemas cumputacionales son redutibles pa l porblema d'aceitaçon de palabras (todas las anstáncias de l porblema puoden ser repersentadas por un tamanho fenito de simblos), la teorie de ls outómatos zampenha un amportante papel na [[Teorie de la cumputaçon|teorie cumputacional]].
+
+==Defeniçon formal==
+;Outómatos
+:Un '''outómato''' ye repersentado formalmente por ua [[Enupla|5-tupla]] '''(Q,Σ,δ,q0,F)''', adonde:
+:*Q ye un cunjunto fenito de '''stados'''.
+:*Σ ye un cunjunto fenito de [[Simblo|simblos]], chamado de [[Alfabeto (ciéncia de la cumputaçon)|alfabeto]] de l'outómato.
+:*δ ye la '''funçon de trasiçon''', esto ye, δ: Q x Σ → Q.
+:*q<sub>0</sub> ye l stado enicial, esto ye, l stado de l'outómato antes de qualquiera antrada ser processada, adonde q<sub>0</sub> ∈ Q.
+:*F ye un cunjunto de stados de Q (esto ye, F ⊆ Q) chamado d'estados d'aceitaçon.
+
+;Palabra d'antrada
+:Un outómato lé ua ''[[Cadeia de carateres|string]]'' fenita de simblos la<sub>1</sub>,la<sub>2</sub>,...., la<sub>m</sub>, adonde la<sub>i</sub> ∈ Σ, que ye chamada de ''palabra d'antrada''. L cunjunto de todas las palabras ye denotado por Σ*.
+
+;Eisecuçon
+:La ''eisecuçon'' dun outómato subre ua palabra d'antrada w = la<sub>1</sub>,la<sub>2</sub>,...., la<sub>m</sub> ∈ Σ*, ye ua sequéncia de stados q<sub>1</sub>,q<sub>2</sub>,...., q<sub>m</sub>, adonde q<sub>i</sub> ∈ Q tal que q<sub>0</sub> ye l stado enicial i q<sub>i</sub> = δ(q<sub>i</sub>-1,la<sub>i</sub>) para 0 < i ≤ m. An outras palabras, ne l'ampeço l'outómato stá ne l stado enicial q<sub>0</sub>, i anton l'outómato lé simblos de la palabra d'antrada sequencialmente. Quando l'outómato lé l simblo ai el pula pa l stado q<sub>i</sub> = δ(q<sub>i</sub>-1,la<sub>i</sub>). Diç-se que qn ye l ''stado final'' de l'eisecuçon.
+
+;Palabra d'aceitaçon
+:Ua palabra w ∈ Σ* ye aceita pul outómato se q<sub>m</sub> ∈ F.
+
+;Lenguaige reconhecida
+:Un outómato puode recoincer ua [[Lenguaige formal|lenguaige]]. La lenguaige L ⊆ Σ* reconhecida por un outómato ye l cunjunto de todas las palabras que son aceitas pul outómato.
+
+;Lenguaiges reconhecibles
+:Las [[Lenguaige recursibamente enumerable|lenguaiges reconhecibles]] son l cunjunto de lenguaiges que son reconhecidas por algun outómato. Pa la defeniçon arriba d'outómatos, las lenguaiges reconhecibles son [[Lenguaige regular|lenguaiges regulares]]. Para defrentes defeniçones d'outómatos, la defeniçon de lenguaiges reconhecibles ye  defrente.
+
+==Defeniçones bariantes d'outómatos==
+
+Outómatos son defenidos para studar máquinas úteles subre formalismo matemático. Anton, la defeniçon dun outómato ye abierta la bariaçones d'acuordo cula “máquina de l mundo rial”, que nós queremos modelar usando l'outómato. Hai studos de las muitas bariaçones d'outómatos. La percipal bariante, çcrita arriba, ye chamada de [[Outómatos fenitos determinísticos|outómato fenito determinístico]]. Seguen bariaçones populares de la defeniçon de ls defrentes cumponentes d'outómatos.
+
+;Antrada
+*''Antrada fenita'': Un outómato qu'aceita solo sequéncias fenitas de simblos. La defeniçon antrodutória arriba angloba solo palabras fenitas.
+*''Antrada anfenita'': Un outómato qu'aceita palabras anfenitas ([[Lenguaige Omega|ω-palabras]]). Estes outómatos son chamados de ''[[Outómato ω|ω-outómatos]]''.
+*''Antrada palabra arble'': L'antrada puode ser ua arble de simblos al ambés dua sequéncia de simblos. Neste causo, passado ler cada simblo, l'outómato lé todos ls simblos sucessores na arble d'antrada. Diç-se que l'outómato faç ua cópia del mesmo para cada sucessor, i cada cópia eisecuta un simblo sucessor de l stado d'acuordo cula relaçon de trasiçon de l'outómato. Este outómato ye chamado de [[Outómato d'arble|outómato arble]].
+*''Antrada arble anfenita'': Las dues stensones arriba puoden ser cumbinadas, anton l'outómato lé ua strutura d'arble cun (in)fenitos zbios. Este outómato ye chamado d'outómato arble anfenita.
+
+;Estados
+*''Stados fenitos'': Un outómato que cuntén solo un númaro fenito de stados. La defeniçon antrodutória solo çcribe outómatos cun númaros fenitos de stados.
+*''Stados anfenitos'': Un outómato que puode nun tener un númaro fenito de stados, ó até mesmo un númaro [[Cunjunto cuntable|cuntable]] de stados. Por eisemplo, l [[Outómato quántico|outómato fenito quantun]] ó [[Outómato quántico|outómato topológico]] ten un [[Cunjunto nun enumerable|númaro anfenito ancontable de stados]].
+*''Pilha de mimória'': Un outómato puode tamien cunter ua mimória stra ne l formato de [[Pilha (anformática)|pilha]], an que simblos puoden ser colocados i retirados.  Este tipo d'outómato ye chamado de [[Outómato cun pilha|outómato pushdown]].
+
+;Funçon de trasiçon
+*''Determinística'': Para un dado stado atual i un simblo d'antrada, se un outómato puode pular para un stado solo anton el ye un ''[[Máquina de stados fenitos determinística|outómato determinístico]]''.
+*''Nó-Determenismo'': Un outómato que, passado ler un simblo d'antrada, puode pular para qualquiera stado, decidido por sue relaçon de trasiçon. Note que l termo funçon de trasiçon ye sustituído por relaçon de trasiçon: L'outómato ''nó-determinísticamente'' decide pular para ua de las oupçones permitidas. Este outómato ye chamado de ''outómato nó-determinístico''.
+*''Altarnamiento'': Esta eideia ye mui semelhante al outómato arble, mas ortogonal. L'outómato puode eisecutar sues ''cópias múltiplas'' subre l mesmo simblo a ser lido. Este outómato ye chamado de [[Outómato fenito altarnado|outómato fenito altarnado]]. La cundiçon d'aceitaçon debe sastifazer todas las eisecuçones de tales cópias para aceitar l'antrada.
+
+;Cundiçon d'aceitaçon
+*''Aceitaçon de palabras fenitas'': Cumo çcrito na defeniçon anformal arriba.
+*''Aceitaçon de palabras anfenitas'': Un ''ω-outómato'' nun puode tener stados finales, yá que palabras anfenitas nunca treminan. Preferencialmente, aceitaçon de la palabra ye decidida analisando las sequéncias anfenitas de ls stados bejitados durante l'eisecuçon.
+*''Aceitaçon porbabilística'': Un outómato nun percisa stritamente aceitar ó rejeitar ua antrada. El puode aceitar l'antrada cun ua [[Porbabelidade|porbabelidade]] antre zero i un. Por eisemplo, [[Outómato quántico|outómato fenito quantun]], outómato geométrico i ''outómato métrico'' ténen aceitaçon porbabilística.
+
+Defrentes cumbinaçones de las bariaçones arriba porduzen mais classe d'outómato.
+
+==Teorie de Outómatos==
+
+Teorie d'outómatos ye un assunto que studa las propiadades de bários tipos d'outómatos. Por eisemplo, las questones a seguir son relacionadas a un dado tipo d'outómatos.
+
+*Qual classe de lenguaiges formales ye reconhecible por algun tipo d'outómato? (lenguaiges reconhecibles)
+*Ciertos outómatos son ''cerrados'' subre l'ounion, anterseçon ó cumplemiento de lenguaiges formales? (propiadades de fechamiento)
+*Quon spressibo ye un tipo d'outómato an tenermos de recoincer classe de lenguaiges formales? I, quanto al poder relatibo de spressebidade? (hierarquia de lenguaige)
+
+Teorie de ls outómatos tamien studa se eisiste algun algoritmo efetibo ó nun para resulber porblemas semelhantes a la seguinte lista:
+
+*Un outómato aceita algua palabra d'antrada? (berificaçon de bazio – bacuidade)
+*Ye possible trasformar un dado outómato nó-determinístico nun outómato determinístico sin mudar la lenguaige reconhecible? (determenizaçon)
+*Para ua dada lenguaige formal, qual ye l menor outómato que la reconhece? (menimizaçon).
+
+==Classe de Outómatos==
+
+Segue ua lista ancumpleta de tipos d'outómatos.
+
+{| class="wikitable"
+|-
+! Outómatos
+! Lenguaige reconhecible
+|-
+| [[Outómatos fenitos determinísticos]](AFD)
+| [[Lenguaige regular|Lenguaiges regulares]]
+|-
+| [[Máquina de stados fenitos nun determinística|Outómatos Finitos Nó-determinísticos]](AFN)
+| regular languages
+|-
+| Outómatos Finitos Nó-determinísticos cun ε-trasiçones (FND-ε or ε-AFN)
+| Lenguaiges regulares
+|-
+| [[Outómato cun pilha|Outómato cun Pilha (AP)]]
+| [[Lenguaige libre de cuntesto|Lenguaiges libre de cuntesto]]
+|-
+| [[Outómato linearmente lemitado|Outómato linearmente lemitado (ALL)]]
+| [[Lenguaige sensible al cuntesto]]
+|-
+| [[Máquina de Turing|Máquinas de Turing]]
+| [[Lenguaiges recursibamente enumerables|Lenguaige recursibamente enumerable]]
+|-
+| Outómatos temporizado
+|
+|-
+| Outómato de Buchi
+| [[Lenguaige Omega|Lenguaiges ω-lemite]]
+|-
+| Outómatos Nó-determinístico de Buchi
+| [[Lenguaige Omega-regular|Lenguaiges ω-regular]]
+|-
+| [[Outómato ω|Outómatos Nó-determinístico/Determinístico de Rabin]]
+| Lenguaiges ω-regular
+|-
+| [[Outómato ω|Outómatos Nó-determinístico/Determinístico de Stret]]
+| Lenguaiges ω-regular
+|-
+| [[Outómato ω|Outómatos Nó-determinístico/Determinístico de Paridade]]
+| Lenguaiges ω-regular
+|-
+| Outómatos Nó-determinístico/Determinístico de Muller
+| Lenguaiges ω-regular
+|}
+
+===Outómatos çcretos, cuntinos i híbridos===
+
+Giralmente teorie de ls outómatos çcribe ls stados de máquinas abstratas, mas eisisten outómatos analógicos, cuntinos ó [[Outómato híbrido|híbridos (çcreto-cuntino)]], que úsan dados analógicos, tiempo cuntino, ó ambos.
+
+==Aplicaçones==
+Cada modelo an teorie de ls outómatos zampenha papéis amportantes an muitas árias aplicadas. [[Máquina de stados fenitos|Outómatos fenitos]] son ousados an processamiento de testo, cumpiladores i porjeto d'hardware. [[Gramática libre de cuntesto|Gramáticas libres de cuntesto]] (GLCs) son ousadas an lenguaiges de porgramaçon i anteligéncia artificial. Ouriginalment, GLCs éran ousadas ne l studo de lenguaiges houmanas. [[Outómato telemoble|Outómatos telemobles]] son ousados ne l campo de la biologie, l'eisemplo mais quemun ye l de [[Jogo de la Bida]] de [[John Cunway]]. Outros eisemplos que podien ser splicados usando teorie de ls outómatos an biologie ancluen crecimiento de pinhas i molusco i padrones de pigmentaçon. Ando mais loinge, ua teorie que sugere que to l'ouniberso ye cumputado por algun tipo d'outómato çcreto ye defendida por cientistas. L'eideia ben de l trabalho de [[Konrad Zuse]], i fui popularizada na América por [[Edward Fredkin]].
+
+==Simuladores d'outómatos==
+Simuladores d'outómatos son ferramientas pedagógicas ousadas para ansinar, daprender i pesquisar teorie de ls outómatos. Un simulador d'outómato ten cumo antrada la çcriçon dun outómato i anton simula sou funcionamiento para ua string arbitrária cumo antrada. La çcriçon de l'outómato puode ser anserida de bárias formas. Un outómato puode ser defenido por ua lenguaige simbólica ó sue specificaçon puode ser anserida nua forma predefenida ó sou diagrama de trasiçon puode ser porjetado ne l clicar i arrastrar de l mouse. Simuladores d'outómatos bien coincidos ancluen Turing’s World, JFLAP, BAS, TAGS i SimStudio.<ref>Chakraborty, P., Saxena, P. C., Katti, C. P. 2011. Fifty Years of Outomata Simulation: La Rebiew. ''ACM Anroads'', '''2'''(4):59–70. http://dl.acn.org/citation.cfn?id=2038893&dl=ACM&coll=DL&CFID=65021406&CFTOKEN=86634854</ref>
+
+==Conexon cula teorie de las catadories==
+Puode-se defenir muitas [[Catadorie (teorie de las catadories)|catadories]] defrentes d'outómatos<ref>Jirí Adámek and Bera Trnkobá. 1990. ''Outomata and Algebras in Categories''. Kluwer Academic Publishers:Dordrecht and Prague</ref> seguindo la classeficaçon d'outómatos an defrentes tipos, çcrita na seçon anterior. La catadorie matemática de ls outómatos determinísticos, máquinas sequenciales ó outómatos sequenciales, i máquinas de Turing cun homomorfismos d'outómatos, que define las setas antre outómatos ye ua catadorie cerrada cartesiana,<ref>S. Mac Lane, Categories fur the Working Mathematician, Springer, New York (1971)</ref><ref>http://planetmath.org/ancyclopedie/CartesianClosedCategory.html Cartesian closed category</ref> que ten ambos, co-lemites i lemites categóricos. Un homomorfismo d'outómato mapeia ua 5-tupla dun outómato La<sub>i</sub> nua 5-tupla d'outro outómato La<sub>j</sub>.<ref>http://planetmath.org/ancyclopedie/SequentialMachine3.html The Category of Outomata</ref> Homomorfismo d'outómatos tamien puode ser cunsidrado cumo ''trasformaçones d'outómatos'' ó homomorfismos semigrupo, quando l spácio de l stado, '''S''', de l'outómato ye defenido cumo un semigrupo '''S<sub>g</sub>'''. [[Monoide|Monoides]] son tamien cunsidrados cumo un ambiente propício para outómatos an catadories monoides.<ref>http://www.cse.wbu.edu/~jworthing/asl2010.pdf James Worthington.2010.Determenizing, Forgetting, and Outomata in Monoidal Categories. ASL North Amarican Annual Meting,March 17, 2010</ref><ref>Aguiar, M. and Mahajan, S.2010. ''"Monoidal Funtors, Species, and Hopf Algebras"''.</ref><ref>Meseguer, J., Montanari, U.: 1990 Petri nets are monoids. ''Anformation and Cumputation'' '''88''':105–155</ref>
+
+;Catadories d'outómatos bariables
+Puode-se tamien defenir un ''outómato bariable'', ne l sentido de Norbert Wiener an sou libro “''Houman Use of Houman Beings''” puls andomorfismos La<sub>i</sub>-->La<sub>i</sub>. Anton, puode-se amostrar qu'estes homomorfismos d'outómatos bariables forman un grupo matemático. Ne l causo de l nó-determinístico, ó outros tipos cumplexos d'outómatos, l radadeiro cunjunto d'andomorfismo puode tornar-se, assi i todo, un [[Grupoide (teorie de las catadories)|grupóide]] de ''outómato bariable''. Antoce, ne l causo mais giral, catadories d'outómatos bariables de qualquiera tipo son catadories de grupóides<ref>http://en.wikipedie.org/wiki/Groupoid#Category_of_groupoids Category of groupoids</ref> ó catadories grupóides. Para alhá desso, la catadorie d'outómatos rebersibles ye anton ua 2-catadorie, i tamien ua subcategoria de a 2-catadorie de grupóides, ó la catadorie grupóide.
+
+== Refréncias ==
+John I. Hopcroft, Rajeb Motwani, Jeffrey D. Ullman – ''Antroduçon a la Teorie de Outómatos, Lenguaiges i Cumputaçon (2ª Eidiçon).''
+{{reflist}}
+* {{cite book|outhor = [[John I. Hopcroft]], [[Rajeb Motwani]], [[Jeffrey Ullman|Jeffrey D. Ullman]] | year = 2000 | title = [[Antrodution to Outomata Theory, Languages, and Cumputation]] (2nd Eidition) | publisher = Pearson Eiducation | isbn = 0-201-44124-1 }}
+* {{cite book|outhor = [[Michael Sipser]] | year = 1997 | title = [[Antrodution to the Theory of Cumputation]] | publisher = PWS Publishing | isbn = 0-534-94728-X}} Part One: Outomata and Languages, chaters 1–2, pp.&nbsp;29–122. Setion 4.1: Decidable Languages, pp.&nbsp;152–159. Setion 5.1: Undecidable Porblems fron Language Theory, pp.&nbsp;172–183.
+* {{cite book|outhor = [[James P. Schmeiser]], [[David T. Barnard]] | year = 1995 | title = Porducing a top-down parse ourder with botton-up parsing | publisher = Eilsebier North-Holland}}
+
+{{Teorie de la cumputaçon}}
+
+== Softwares ==
+* {{Link||2=http://www.din.uen.br/yandre/stmf/ |3=SCTMF |4=- Software para Criaçon i Teste de Modelos Formales.}}
+* {{Link||2=http://www.jflap.org |3=JFlap |4=- Software amaricano para testes cun anterface gráfica.}}
+* {{Link||2=http://www.eiboluma .com/auger/ |3=Auger |4=- Ambiente para custruçon i simulaçon d'outómatos fenitos.}}
+* {{Link||2=http://www.simuladordeautomatos .com |3=Simulador de Outomatos |4=- L Simulador de Outómatos ye ua ferramienta pa la criaçon, simulaçon i cumberson de modelos formales, zambolbida cul oubjetibo d'auxeliar l daprendizado de Lenguaiges Formales i Outómatos.}}
+
+<!-- meanes: "abstrat machine", the rial cumplement article does not eisist yet) --->
+<!-- should be: [[it:Anformatica teorica]] (but it does not eisist yet, Outoma (anformatica) refers to abstrat machine --->
+
+{{DEFAULTSORT:Teorie Outomatos}}
+[[Catadorie:Teorie de la cumputaçon]]
