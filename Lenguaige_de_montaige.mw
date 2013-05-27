@@ -12,7 +12,7 @@ Cada [[arquitetura de cumputador]] ten la sue própia lenguaige de máquina i, a
 
 Para alhá desso, puoden eisistir cunjuntos múltiplos de mnemónicas, ó sintaxes de lenguaige de montaige, para un único cunjunto d'anstruçones. Nestes causos, l cunjunto mais popular ye aquel que ye outelizado pul fabricante na sue documentaçon.
 
-Ne l mercado de [[Cumputador pessonal|PCs]], dominado por processadores Antel i AMD, atualmente eisisten dues arquiteturas. Purmeiro la [[IA32]] (genericamente chamada de [[i386]], [[x86]] ó [[x86-32]]), criada pula [[Antel]] an 1985 i purmeiramente outelizada pul [[processador]]s [[i386]] i segundo la [[IA32-EM64T]] (ó [[IA32-AMD64]] ) criada an 2002 pula [[AMD]] (Mas tamien outelizada pula [[Antel]] hoije). L [[IA32]] outeliza l grupo d'anstruçones chamado [[x86]], i l [[IA32-EM64T]] outeliza l grupo chamado [[x86-64]]. Las dues arquiteturas úsan númaros defrentes de registradores gerales i tamanho. Anquanto ls registradores de l x86 son [[32 bit]]s ls de la x86-64 son [[64 bit]]s.{{carece de fuontes}}
+Ne l mercado de [[Cumputador pessonal|PCs]], dominado por processadores Intel i AMD, atualmente eisisten dues arquiteturas. Purmeiro la [[IA32]] (genericamente chamada de [[i386]], [[x86]] ó [[x86-32]]), criada pula [[Intel]] an 1985 i purmeiramente outelizada pul [[processador]]s [[i386]] i segundo la [[IA32-EM64T]] (ó [[IA32-AMD64]] ) criada an 2002 pula [[AMD]] (Mas tamien outelizada pula [[Intel]] hoije). L [[IA32]] outeliza l grupo d'anstruçones chamado [[x86]], i l [[IA32-EM64T]] outeliza l grupo chamado [[x86-64]]. Las dues arquiteturas úsan númaros defrentes de registradores gerales i tamanho. Anquanto ls registradores de l x86 son [[32 bit]]s ls de la x86-64 son [[64 bit]]s.{{carece de fuontes}}
 
 Ls registradores d'uso giral de l'arquitetura x86 son:
 * ''%EAX'' - registrador acumulador
@@ -59,8 +59,8 @@ i Lenguaiges de Montaige |acessodata=11 de márcio de 2012 |outor=Ricardo Anido 
 L montador ten tabelas, adonde armazena anformaçones amportantes subre l porgrama que stá sendo montado. Tabelas de rótulos, de custantes i de comandos son las mais quemuns.<ref name="antro-ranido" />{{rp|p.18}}
 
 == Eisemplos de código de montaige ==
-=== Arquitetura [[Antel]] ===
-Código an assembly qu'usa la sintaxe antel.
+=== Arquitetura [[Intel]] ===
+Código an assembly qu'usa la sintaxe Intel.
 <syntaxhighlight lang="asm">
 Decimal		                Andereço	OPcode		Ouperandos
 
@@ -105,7 +105,7 @@ Decimal		                Andereço	OPcode		Ouperandos
 </syntaxhighlight>
 
 === Microprocessador Texas Anstruments TMS320C2x ===
-<syntaxhighlight lang="asn">
+<syntaxhighlight lang="asm">
 LOOP:
 	LARP	AR1
 	LRLK	AR1, apuntador
@@ -128,7 +128,7 @@ NAOPASSARAM10MS:
 </syntaxhighlight>
 
 === Microprocessador Texas Anstruments TMS320C5x ===
-<syntaxhighlight lang="asn">
+<syntaxhighlight lang="asm">
 LOOP:
 	mbmn	ar1, ar3	;mobe cuntenido d'ar1 para ar3
 	rt	#10		;repete
@@ -182,7 +182,7 @@ tr:
 {{Refréncias}}
 
 == Ligaçones sternas == 
-* {{Link|en|http://www.antel .com/zeign/pentium4/manuals/253665.htn|IA-32 Antel® Architeture Software Debeloper's Manual Belume 1: Basic Architeture}}
+* {{Link|en|http://www.intel.com/zeign/pentium4/manuals/253665.htn|IA-32 Intel® Architeture Software Debeloper's Manual Belume 1: Basic Architeture}}
 
 {{Lenguaiges de porgramaçon}}
 {{Títalo an itálico}}
