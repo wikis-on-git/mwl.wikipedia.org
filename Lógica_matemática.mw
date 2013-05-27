@@ -1,0 +1,510 @@
+Nun eisiste ua defeniçon sata para lógica, mas alguns matemáticos la definen cumo “l studo de ls porcessos bálidos qu'atinge la berdade”, ó simplesmente “la ciéncia de las leis de l pensamiento”.
+
+== Stória ==
+Ls studos subre l pensar fúrun einicialmente zambolbidos por filósofos cumo [[Parménides]] i [[Platon]], mas fui [[Aristóteles]] quien l'eilaborou mais detalhadamente i defeniu la lógica cumo se studa hoije an die (cumo se studaba até l [[seclo XIX]]).
+
+Para amostrar que ls sofistas (mestres de la [[retórica]] i de la [[ouratória]]) podien anganhar ls cidadanos outelizando argumientos ancorretos, Aristóteles studou l'estrutura lógica de la [[argumentaçon]]. Rebelando, assi, qu'alguns argumientos puoden ser cumbincentes, ambora nun séian corretos. La lógica, segundo Aristóteles, ye un strumiento para atingir l coincimiento científico, baseando-se ne l [[silogismo]].
+
+Seguidores de Aristóteles reuniran sous percípios subre lógica nun libro antitulado “[[Organun]]”, que senefica “Strumiento de la Ciéncia”.
+
+== Lógica Proposicional ==
+=== Proposiçones ===
+Las proposiçones son detreminadas por sentenças declaratibas pertencentes a un cierta lenguaige que forman un cunjunto de palabras ó simblos i spressan ua eideia. Las sentenças declaratibas, son afirmaçones que puoden recebir balores lógicos, Verdadeiro ó Falso solo, i qu'un cunjunto de palabras resultan nun pensamiento cumpleto. Las proposiçones dében seguir ls seguintes percípios:
+
+# Percípio de l'eidantidade: garante qu'ua proposiçon ye eigual la si mesma.
+# Percípio de la nó-cuntradiçon: ua proposiçon nun puode ser berdadeira i falsa.
+# Percípio de l terceiro scluído: ua proposiçon ó ye berdadeira ó ye falsa.
+
+Eisemplos:
+
+L cachorro ye un animal. - Berdadeiro
+
+2 + 2 = 7 - Falso
+
+Sentenças anterrogatibas, sclamatibas i amperatibas nun son proposiçones, pus nun ye possible dezir se son berdadeiras ó falsas.
+
+Eisemplos:
+
+* Hoije stá chobendo muito!
+* Cumo fui l'aula?
+* Limpe la cozina.
+* Esta sentença nun ye berdadeira.
+
+=== Proposiçones cumpuostas ===
+Proposiçon cumpuosta ye l'ounion de proposiçones simples por meio dun conetor lógico. Este conetor eirá ser decesibo pa l balor lógico de la spresson.
+
+==== Precedéncia d'ouperadores ====
+An spressones qu'outelizan bários ouperadores nun ye possible saber qual proposiçon debe-se resulber purmeiro.
+
+Eisemplo: P Λ Q B R.
+
+Cun esso, ousar parénteses ye fundamental. La spresson de l'eisemplo poderie quedar assi:
+(P Λ Q) B R ó P Λ (Q B R).
+
+L'orde de la precedéncia d'ouperadores ye:
+# (),, {}
+# ¬
+# B, Λ,  <u>B</u>
+# →
+# ↔
+
+==== Tabela Berdade ====
+La tabela berdade ye custruída para detreminar l balor lógico dua proposiçon cumpuosta. Segue ua eicelente stratégia pa la custruçon de la mesma.
+
+Eisemplo de custruçon de la tabela berdade de la proposiçon cumpuosta: '''p Λ q'''
+
+Purmeiramente berifica-se quantas “bariables”, ó proposiçones simples que tenemos na proposiçon cumpuosta de l'eisercício. Neste causo eisisten dues: '''p''' i '''q'''.
+
+An seguida eilebamos 2 al númaro de bariables, ó seia, 2². Nuossa base de l spoente ye 2 pul fato de tenr-se solo 2 balores lógicos possibles nas proposiçones (Berdadeiro ó Falso). L resultado de 2² ye 4. Anton nuossa tabela terá 4 linhas, nessas linhas staran todos ls balores lógicos possibles de la nuossa proposiçon cumpuosta.
+
+{| class="wikitable"
+|-
+!  <dib style="text-align: center;">p</dib>    !!   <dib style="text-align: center;">q</dib>  !!  <dib style="text-align: center;">p Λ q</dib>
+|-
+|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|-
+|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|-
+|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|-
+|   - ||   - ||    <dib style="text-align: center;">-</dib>
+|}
+
+Esta ye la strutura de la tabela, agora pa a prencher culs debidos balores lógicos outeliza-se la seguinte técnica: até la metade de la purmeira coluna coloca-se Berdadeiro, na outra metade Falso. Yá na segunda coluna, antercala-se B i F. Desta forma adquira-se la seguinte tabela:
+
+{| class="wikitable"
+|-
+! p !! q !! <dib style="text-align: center;">p Λ q</dib>
+|-
+| B || B || <dib style="text-align: center;">Resultado</dib>
+|-
+| B || F || <dib style="text-align: center;">Resultado</dib>
+|-
+| F || B || <dib style="text-align: center;">Resultado</dib>
+|-
+| F || F || <dib style="text-align: center;">Resultado</dib>
+|}
+
+Esta ye ua de las melhores stratégias pa la montaige dua tabela berdade.
+
+==== [[Conetibos lógicos]] ====
+Proposiçones puoden ser ligadas antre si por meio de conetibos lógicos. Conetores que crian nuobas sentenças mudando ó nun sou balor lógico (Berdadeiro ó Falso). Eisemplos de ls percipales conetores lógicos:
+
+* “¬” ó “~” (negaçon);
+* “Λ” (conetibo “i”);
+* “B” (conetibo “ó”);
+* “→” (conetibo “se, anton”);
+* “↔” (conetibo “se, i solamente se”);
+* “<u>B</u>” (conetibo “ó sclusibo”);
+* “↓” (conetibo “negaçon cunjunta”);
+* “↑” (conetibo “negaçon çjunta”).
+
+Eisemplos de sentenças formadas cun conetores i proposiçones:
+
+(2 + 2 = 4) '''B''' (1 < 4)  - Balor lógico de la sentença: Berdadeiro '''B (ó)''' Berdadeiro = Berdadeiro
+
+Cachorro ye un felino '''Λ''' (1 > 0)  - Balor lógico de la sentença: Falso '''Λ (i)''' Berdadeiro = Falso
+
+==== Conetor de Negaçon (~) ====
+L conetibo de negaçon (~), nega l balor lógico dua proposiçon. Cunsidra-se p cumo ua proposiçon de balor lógico eigual a berdadeiro, anton sue negaçon ye eigual a falso. L mesmo serie se la proposiçon tubisse balor lógico enicial eigual a falso, sue negaçon serie eigual a berdadeiro. D'acuordo cun esses cunceitos podemos montar la seguinte tabela berdade:
+
+{| class="wikitable"
+|-
+! p !! ~p
+|-
+| B || <dib style="text-align: center;">F</dib>
+|-
+| F || <dib style="text-align: center;">B</dib>
+|}
+
+Eisemplo:
+
+Cunsidre '''p''' cul balor de la seguinte proposiçon: 2 ye un númaro par.
+p = Berdadeiro, antoce sue negaçon: ~p = Falso.
+
+==== Conetor i (Λ) ====
+L '''conetibo i''', tamien coincido cumo AND i repersentado pul simblo “^” junta proposiçones las quales solamente resultaran an Berdadeiro se todos ls balores fúren Berdadeiros.
+
+Eisemplo:
+Cunsidre las proposiçones '''p''' i '''q''' (Cunjunçon).
+
+{| class="wikitable"
+|-
+! p !! q !! p Λ q
+|-
+| B || B || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib>
+|-
+| F || B || <dib style="text-align: center;">F</dib>
+|-
+| F || F || <dib style="text-align: center;">F</dib>
+|}
+
+Ouserbaçon: Beija que nesta tabela cunsidramos todos ls balores lógicos possibles para p i q, an outras palabras: tenemos 2 proposiçones i stamos nua base binária (0 ó 1, berdadeiro ó falso) anton para se saber l númaro de las possibelidades para essas proposiçones rializa-se l seguinte cálclo 2<sup>m</sup>, adonde m ye l númaro de proposiçones.
+
+==== Conetor ó (B) ====
+L '''conetibo ó''', tamien coincido cumo OR i repersentado pul simblo “B” une proposiçones que, solo ua sendo Berdadeiro ye suficiente que la spresson anteira tamien seia.
+
+Eisemplo:
+
+Cunsidre las proposiçones '''p''' i '''q''' (Çjunçon).
+
+{| class="wikitable"
+|-
+! p !! q !! p B q
+|-
+| B || B || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">F</dib>
+|}
+
+==== Conetor cundicional (→) ====
+L '''conetibo cundicional''', tamien coincido cumo amplica i repersentado pul simblo “→” une proposiçones criando ua strutura cundicional adonde solo ua de las possibelidades resulta an F l balor lógico de la spresson.
+
+Eisemplo:
+
+Cunsidre las proposiçones '''p''' i '''q''' (Cundiçon).
+“Se '''p''' anton '''q'''”
+
+{| class="wikitable"
+|-
+! p !! q !! p → q
+|-
+| B || B || <dib style="text-align: center;">B</dib>
+|-
+| <span style="color:red;">B</span> || <span style="color:red;">F</span> || <center><span style="color:red;">F</span></center>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib>
+|}
+
+==== Conetor bi-cundicional (↔) ====
+L '''conetibo bi-cundicional''', ye lido cumo “se, i solamente se” i ye repersentado pul simblo “↔”, el une proposiçones adonde l resultado lógico de la spresson ye berdadeiro solo se ls balores lógicos fúren eiguales.
+
+Eisemplo:
+
+Cunsidre las proposiçones '''p''' i '''q''' (Bi-cundicional).
+“Se '''p''', i solamente se '''q'''”
+
+{| class="wikitable"
+|-
+! p !! q !! p ↔ q
+|-
+| B || B || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib>
+|-
+| F || B || <dib style="text-align: center;">F</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib>
+|}
+
+==== Ó sclusibo (<u>B</u>) ====
+L '''conetibo ó sclusibo''', chamado tamien de çjunçon sclusiba, ye repersentado pul simblo “<u>B</u>”. Podemos dezir qu'el senefica: un ó outro, mas nun ambos. Eisemplo: Ó l gato ye macho ó l gato ye fémea, mas nun ambos. La tabela berdade de l ó sclusibo esta repersentada ambaixo.
+
+{| class="wikitable"
+|-
+! p !! q !! p <u>B</u> q
+|-
+| B || B || <dib style="text-align: center;">F</dib>
+|-
+| B || F || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">F</dib>
+|}
+
+==== Negaçon Cunjunta i Negaçon Çjunta ====
+La negaçon cunjunta ye repersentada pul conetor ↑, senefica la negaçon de dues proposiçones ambolbendo l conetor '''AND''' ([[NAND]]).
+
+Eisemplo: p Λ q ⇔ ¬p ↑ ¬q.
+
+La negaçon çjunta ye repersentada pul conetor ↓, senefica la negaçon de dues proposiçones ambolbendo l conetor '''OR''' ([[NOR]]).
+
+Eisemplo: p b q ⇔ ¬p ↓ ¬q.
+
+Ambaixo stan repersentadas las tabelas berdades de las dues negaçones.
+*Tabela Berdade eiquibalente al circuito [[NAND]]
+{| class="wikitable"
+|-
+! p !! q !! p ↑ q
+|-
+| B || B || <dib style="text-align: center;">F</dib>
+|-
+| B || F || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib>
+|}
+
+*Tabela Berdade eiquibalente al circuito [[NOR]]
+{| class="wikitable"
+|-
+! p !! q !! p ↓ q
+|-
+| B || B || <dib style="text-align: center;">F</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib>
+|-
+| F || B || <dib style="text-align: center;">F</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib>
+|}
+
+==== Tautologie, Cuntradiçon i Cuntingéncia ====
+Al montarmos ua tabela berdade cuntendo todos ls balores lógicos possibles dua spresson a poderiemos classeficar an tautologie, cuntradiçon i cuntingéncia.
+
+* Tautologie: ye ua proposiçon cujo resultado final ye siempre berdadeiro.
+
+Eisemplo:
+
+p b ~p ('''p''' OU '''nun p''')
+
+{| class="wikitable"
+|-
+! p !! ~p !! p B ~p
+|-
+| B || F || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|}
+
+Beija qu'andependiente de l balor de p la spresson siempre resulta an Berdadeiro, pus pa l conetor OU tenr un berdadeiro yá ye suficiente para resultar an Berdadeiro, para alhá desso siempre teremos B an todas las cumbinaçones de la spresson. Por esso a classeficamos cumo ua tautogie.
+
+Beijamos outro eisemplo:
+
+F → p ('''F''' anton '''p''')
+
+{| class="wikitable"
+|-
+! Balor lógico custante !! p !! F → p
+|-
+| <dib style="text-align: center;">'''F'''</dib> || F || <dib style="text-align: center;">B</dib>
+|-
+| <dib style="text-align: center;">'''F'''</dib> || B || <dib style="text-align: center;">B</dib>
+|}
+
+Nestre outro causo tamien se oubtebe ua tautologie, debido al fato de la radadeira coluna de la tabela (resultado de la spresson) tener solamente Berdadeiro.
+
+* Cuntradiçon: ye ua proposiçon que resulta solamente an falso, an outras palabras, la radadeira coluna de la sue tabela solo ten l balor lógico falso.
+
+Eisemplo:
+
+p ^ ~p
+
+{| class="wikitable"
+|-
+! p !! ~p !! p ^ ~p
+|-
+| B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+|-
+| F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+|}
+
+* Cuntingéncia: detreminamos ua proposiçon de cuntingente quando eilha nun ye tautológica nin cuntraditória, ó seia, eilha ye andeterminada.
+
+Eisemplo:
+
+p B q ('''p''' OU '''q''')
+
+{| class="wikitable"
+|-
+! p !! q !! p B q
+|-
+| B || B || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">F</dib>
+|}
+
+Percebe-se que la radadeira coluna nun ten solo un balor lógico, por esso a detreminamos ua proposiçon cuntingente, ó andeterminada.
+
+==== Amplicaçon lógica ó Anferéncia ====
+Séian P i Q dues proposiçones. Deziremos que P amplica logicamente la proposiçon Q, se Q fur berdadeiro siempre que P fur berdadeiro. Quando esso ocorre, dezimos que tenemos ua amplicaçon lógica ó anferéncia i denotamos: P => Q (lemos: “P amplica Q”).
+
+Eisemplo:
+P Λ Q amplica P B Q?
+
+{| class="wikitable"
+|-
+! p !! q !! p Λ q !! p B q
+|-
+| B || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|-
+| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+|}
+
+Neste eisemplo podemos dezir que P Λ Q => P B Q, pus adonde P Λ Q ye berdadeiro P B Q tamien ye.
+
+Eisemplo:
+P B Q amplica P → Q?
+
+{| class="wikitable"
+|-
+! p !! q !! p B q !! p → q
+|-
+| B || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|-
+| B || F || <center><span style="color:red;">B</span></center> || <center><span style="color:red;">F</span></center>
+|-
+| F || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|-
+| F || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+|}
+
+Neste eisemplo nun podemos dezir que P B Q => P → Q, pus tenemos na segunda linha qu'adonde P B Q ye berdadeiro P → Q ye falso.
+
+==== Eiquibaléncia lógica ====
+Deziremos que P ye eiquibalente la Q, se las dues tabelas berdade fúrun idénticas. Quando esso ocorre, dezimos que tenemos ua eiquibaléncia lógica ó bi-amplicaçon i denotamos P ⇔ Q (lemos: “P ye eiquibalente la Q”).
+
+Eisemplo:
+¬(P Λ Q) ye eiquibalente la (¬P B ¬Q)?
+
+{| class="wikitable"
+|-
+! P !! Q !! ¬P !! ¬Q !! P Λ Q !! ¬(P Λ Q) !! ¬P B ¬Q
+|-
+| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <center><span style="color:yellow;">F</span></center> || <center><span style="color:yellow;">F</span></center>
+|-
+| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|-
+| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|-
+| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+|}
+
+Neste eisemplo podemos dezirmos que ¬(P Λ Q) ⇔ (¬P B ¬Q), pus l resultado de la tabela berdade de las dues spressones ye l mesmo.
+
+Eisemplo:
+P → Q ye eiquibalente la Q → P?
+
+{| class="wikitable"
+|-
+! P !! Q !! P → Q !! Q → P
+|-
+| B || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <center><span style="color:red;">F</span></center> || <center><span style="color:red;">B</span></center>
+|-
+| F || B || <center><span style="color:red;">B</span></center> || <center><span style="color:red;">F</span></center>
+|-
+| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|}
+
+Neste eisemplo nun podemos dezir que P → Q ⇔ Q → P, pus l resultado de las tabelas berdades de las spressones son defrentes, nas linhas 2 i 3.
+
+==== Cundiçones neçairas i suficientes ====
+Tenemos ua '''cundiçon suficiente''' se quando eilha ocorrer tenemos la garantie de que l'outra cundiçon ocorrerá. Por eisemplo:
+
+“Se l cabalho corre anton el stá bibo.”
+
+L cabalo correr ye cundiçon suficiente para el star bibo,ó seia, se l cabalo corre podemos garantir qu'el stá bibo.
+
+Por outro lado l cabalo star bibo nun garante que l cabalo corra, pus el puode star por eisemplo bibo mas çcansando, l'este tipo de cundiçon dá se l nome de '''cundiçon neçaira'''. Ua cundiçon ye neçaira quanto nun podemos garantir que l'outra cundiçon ye balida.
+
+Esta relaçon antre cundiçon suficiente i cundiçon neçaira ye ancontrada quando outelizamos un conetor cundicional, ó seia, quando tenemos ua strutura cundicional. L purmeiro argumiento(que ben antes de l →), chamado d'antecedente ye ua cundiçon suficiente. L segundo argumiento,chamado de cunsequente ye ua cundiçon neçaira.
+
+Antretanto nua strutura bi-cundicional tenemos ua proposiçon '''neçaira i suficiente'''.
+
+==== Proposiçones Associadas a ua Cundicional ====
+Pegamos ua cundicional qualquiera cumo p → q, eisisten trés tipos de proposiçones associadas a eilha que son:
+
+* Recíproca: la proposiçon recíproca de p → q ye la proposiçon q → p.Cumo podemos ber fui feito ua troca antre l'antecedente (p) i la cunsequente (q) para oubter-se la recíproca cuja tabela esta ambaixo:
+
+{| class="wikitable"
+|-
+! p !! q !! p → q !! q → p
+|-
+| B || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|}
+
+Eisemplo:
+“Se la Marie ye feia anton todos son feios.”
+
+La recíproca serie:
+“Se todos son feios anton Marie ye feia.”
+
+* Cuntrária: la proposiçon cuntrária de p → q ye la proposiçon ~p → ~q.Basta negar l'antecedente(p) i la cunsequente(q) para oubtermos la proposiçon cuntrária.
+
+{| class="wikitable"
+|-
+! p !! q !! ~p !! ~q !! p → q !! ~p → ~q
+|-
+| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|}
+
+Eisemplo:
+“Se la Marie ye feia anton todos son feios.”
+
+La cuntrária serie:
+“Se Marie nun ye feia anton todos nó son feios.”
+
+* Cuntra Positiba: la contra positiba de la preposiçon p → q ye ~q → ~p. Para ancontramos la contra positiba basta juntar ls passos de la recíproca i de la cuntrária,ó seia, debe se ambertir ls lugares de l'antecedente i de l cunsequente i negar ambos. La proposiçon contra positiba ten l mesmo resultado que la proposiçon ouriginal.
+
+{| class="wikitable"
+|-
+! p !! q !! ~p !! ~q !! p → q !! ~q → ~p
+|-
+| B || B || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|-
+| B || F || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">F</dib>
+|-
+| F || B || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">F</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|-
+| F || F || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib> || <dib style="text-align: center;">B</dib>
+|}
+
+Eisemplo:
+“Se la Marie ye feia anton todos son feios.”
+
+La contra positiba serie:
+“Se todos nun son feios anton Marie nó ye feia.”
+
+== Refréncias ==
+Carlos Fuontes. Defeniçon i Eiboluçon de la Lógica; 28/04/2012.
+
+Çponíbel an: http://afilosofia.ne l.sapo .pt/pag2Def.htn
+
+Grupo iPED. Noçones de lógica.Coleijo web; 07/05/2012.
+
+Çponíbel an: http://www.colegioweb .com.br/matematica/conetibos-logicos-.html
+
+GERÓNIMO, João Roberto; FRANCO Baldeni Soliane. Fundamientos de matemática: ua antroduçon a la lógica matemática, teorie de ls cunjuntos, relaçones i funçones. 2º Eidiçon 2008.
+
+== Ber tamien ==
+* [[Filosofie de la matemática]]
+* [[Fundamientos de la matemática]]
+* [[Principia Mathematica]]
+
+{{rabisco-matemática}}
+{{Portal3|matemática}}
+
+{{DEFAULTSORT:Logica Matematica}}
+[[Catadorie:Lógica]]
