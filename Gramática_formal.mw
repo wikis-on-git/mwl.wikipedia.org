@@ -1,0 +1,104 @@
+Ua '''gramática formal''' (alguas bezes simplesmente chamada de '''gramática''') ye un oubjeto [[matemática|matemático]] que permite specificar ua lenguaige ó léngua, ó seia, ye un cunjunto de [[regra de formaçon|regras de formaçon]] de [[Cadeia de carateres|cadeias]] nua [[lenguaige formal]]. Las regras çcriben cumo formar las cadeias de l [[Alfabeto (ciéncia de la cumputaçon)|alfabeto]] de la lenguaige que son bálidos d'acuordo cula [[Análeze sintática (cumputaçon)|sintaxe]] de la lenguaige. Ua gramática nun çcribe ls [[semántica|seneficados de las cadeias]] ó l que puode ser feito culhas an qualquiera cuntesto.
+
+La spresson "gramática formal" por tener ls sentidos:
+* gramática dun [[lenguaige formal]];
+* çcriçon formal de parte de la gramática dua [[lenguaige natural]].
+
+[[Lenguaige formal|Teorie de la lenguaige formal]], la deciplina que studa gramáticas i lenguaiges formales, ye un galho de matemática aplicada. Sues aplicaçones puoden ser ancontradas na [[Teorie de la cumputaçon|ciéncia de la cumputaçon teórica]], [[lenguísticas teóricas]], [[semánticas formales]], [[matemática lógica]], antre outras árias.
+
+[[Análeze sintática (cumputaçon)|Análeze sintática]] ye l porcesso de recoincer ua eilocuçon (cadeia an [[lenguaige natural]]) quebrando-la nun cunjunto de simblos i analisando cada un cula gramática de la lenguaige. La maiorie de las lenguaiges ténen ls seneficados de sues eilocuçones struturados d'acuordo cula sintaxe &mdash; ua prática coincida cumo [[semántica cumposicional]]. Cumo resultado, l purmeiro passo para çcrebir l seneficado dua eilocuçon an ema lenguaige ye quebrá-la parte por parte, i mirar la sue forma analisada (coincida cumo [[Arble d'análeze sintática|arble d'análeze]] an ciéncia de la cumputaçon, i cumo [[strutura perfunda]] an [[gramática geratiba]]).
+
+== Eisemplo antrodutório==
+Ua gramática cunsiste percipalmente dun cunjunto de regras para cadeias de trasformaçon. (Se el ''solo'' cunsiste dessas regras, el serie un [[Sistemas de Thue-Semi|sistema semi-Thue]]). Para gerar ua cadeia na lenguaige, ampeça-se cun ua cadeia que cunsiste an solo un simblo ''simblo enicial''. Las ''regras de porduçon'' son, anton, aplicadas an qualquiera orde, até qu'ua cadeia que nun cuntenie nin l ''simblo enicial'', nin ls zeignados ''simblos nó-treminales'', seia porduzida. La lenguaige formada pula gramática cunsiste de todas las cadeias çtintas que puoden ser geradas dessa forma. Qualquiera sequéncia particular de regras de porduçon subre l simblo enicial porduç ua cadeia çtinta na léngua. Se eisisten bárias maneiras de gerar la mesma sequéncia única, la gramática ye chamada de [[gramática ambígua|ambígua.]]
+Por eisemplo, assumimos que l'alfabeto cunsiste dun ''la'' i un ''b'', l simblo enicial ye ''S'', i tenemos las seguintes regras de porduçon:
+: 1. <math>S \rightarrow aSb</math>
+: 2. <math>S \rightarrow ba</math>
+anton ampeçamos cun ''S'', i podemos scolher ua regra pra aplicar a el. Se nós scolhéssemos la regra 1, oubteríamos la cadeia ''aSb''. Se nós scolhermos la regra 1 outra beç, nuolo sustituímos ''S'' por ''aSb'', i oubtemos la cadeia ''aaSbb''. Se agora nós scolhermos la regra 2, nós sustituímos ''S'' por ''ba'' i oubtemos la cadeia ''aababb'', i treminamos. Nós podemos screbir essa série de scolhas mais sucintamente, usando simblos: <math>S \Rightarrow aSb \Rightarrow aaSbb \Rightarrow aababb</math>. La lenguaige de la gramática ye anton l cunjunto anfenito <math>\left \{la^nbab^m | m \ge 0 \right \} = \left \{ba, abab, aababb, aaababbb, ...\right \}</math>, an que ''la''<sup>''k''</sup> ye ''la'' repetido ''k'' bezes (i ''m'', an particular, repersenta l númaro de bezes que la regra de porduçon 1 fui aplicada).
+
+== Defeniçon formal==
+=== La sintaxe de las gramáticas===
+Na formalizaçon clássica de las gramáticas geratriç fui purmeiro proposto por [[Noan Chomsky]] por buolta de 1956,<ref name="Chomsky1956">{{Cite journal 
+ | outhor = Chomsky, Noan
+ | title = Thre Models fur the Çcrition of Language
+ | journal = [[IRE Trasationes on Anformation Theory]]
+ | belume = 2 
+ | issue = 2
+ | pages = 113&ndash;123
+ | year = 1956
+ | doi = 10.1109/TIT.1956.1056813
+}}</ref><ref name="Chomsky1957">{{Cite book
+ | outhor = Chomsky, Noan
+ | title = Syntatic Strutures
+ | publisher = [[Mouton]]
+ | location = The Hague
+ | year = 1957
+}}</ref> ua gramática ''G'' cunsiste de ls seguintes cumponentes:
+* un cunjunto fenito ''N'' de ''[[simblo nun treminal|simblos nun treminales]]'', an que nanhun aparece an cadeias formadas a partir de ''G'';
+* un cunjunto fenito <math>\Sigma</math> de ''[[simblo treminal|simblos treminales]]'' que ye [[Cunjuntos çjuntos|çjunto]] de ''N'';
+* un cunjunto fenito ''P'' de ''regras de porduçon'', cun cada regra de la forma
+:: <math>(\Sigma \cup N)^{*} N (\Sigma \cup N)^{*} \rightarrow (\Sigma \cup N)^{*} </math> 
+:an que <math>{*}</math> ye l'ouperador [[Fecho de Klene|streilha de Klene]] i <math>\cup</math> denota [[ounion|ounion de cunjuntos]]. Ó seia, cada regra de porduçon mapeia dua cadeia de simblos para outro, an que la purmeira cadeia (la "cabeça" ó "heiad") cuntén un númaro arbitrairo de simblos fornecidos, an que pul menos un deilhes ye un nó-treminal. Ne l causo de la segunda cadeia (l "cuorpo" ó "body") cunsistir solo de la [[cadeia bazie]] &ndash; i.i., qu'eilha nun cuntenha simblos &ndash; eilha puode ser denotada por ua notaçon special (frequentemente <math>\Lambda</math>, ''i'' ó <math>\eipsilon</math>) cul antuito d'eibitar cunfuson;
+* un simblo çtinto <math>S \in N</math> que ye l ''simblo enicial''.
+
+Eilhas son muitas bezes chamadas de [[Sistema de cadeia rescrito|sistemas de cadeias reescritos]] ó de [[gramática de strutura de frases]] na literatura.<ref>{{cite book|first=Seymour|last=Ginsburg|outhorlink=Seymour Ginsburg|title=Algebraic and outomata theoretic properties of formal languages|publisher=North-Holland|pages=8–9|year=1975|isbn=0720425069}}</ref><ref>{{cite book|last=Harrison|first=Michael La.|outhorlink=Michael La. Harrison|title=Antrodution to Formal Language Theory|year=1978|pages=13|isbn=0201029553|location=Reading, Mass.|publisher=Addison-Wesley Publishing Cumpany}}</ref>
+
+=== La semántica de las gramáticas===
+L'ouparaçon dua gramática puode ser defenida an tenermos de relaçones an cadeias:
+* dada ua gramática <math>G = (N, \Sigma, P, S)</math>, la relaçon binária <math>\Rightarrow_G</math> (pronunciada cumo  "G deriba nun passo") nas cadeias an <math>(\Sigma \cup N)^{*}</math> ye defenida por:
+<math>x \Rightarrow_G y \mbox{ sse } \eisists u, b, p, q \in (\Sigma \cup N)^*: (x = upb) \wedge (p \rightarrow q \in P) \wedge (y = uqb)</math>
+* la relaçao <math>{\Rightarrow_G}^*</math> (pronunciada cumo ''G deriba an zero ó mais passos in zero or more steps'') ye defenida cumo l [[Fechamiento|feixo reflexibo trasitibo]] de <math>\Rightarrow_G</math>
+* ua ''formula sentencial'' ye un nembro de <math>(\Sigma \cup N)^*</math> que puode ser deribado nun númaro fenito de passos a partir de l simblo enicial <math>S</math>; ó seia, ua formula sentencial ye un nembro de <math>\{ w \in (\Sigma \cup N)^* \mid S {\Rightarrow_G}^* w \}</math>. Ua formula sentencial que nun cuntén nanhun de ls simblos nó treminales (i.i. ye un nembro de <math>\Sigma^*</math>) ye chamada de ''sentença''.<ref>[http://www.seas.upenn.edu/~cit596/notes/dabe/cfg7.html Sentential Forms], Cuntext-Fre Grammars, David Matuszek</ref>
+* la ''lenguaige'' de <math>G</math>, denotada cumo <math>\boldsymbol{L}(G)</math>, ye defenida cumo todas las sentenças que puoden ser deribadas nun númaro fenito de passos a partir de l simblo enicial <math>S</math>; esto ye, l cunjunto <math>\{ w \in \Sigma^* \mid S {\Rightarrow_G}^* w \}</math>.
+
+Note que la gramática <math>G = (N, \Sigma, P, S)</math> ye efetibamente un [[Sistemas de Thue-Semi|sistema semi-Thue]] <math>(N \cup \Sigma, P)</math>, rescrebendo cadeias satamente de l mesmo modo; la única defrença ye que çtinguimos ''simblos nó-treminales'' specíficos que percisan ser rescritos an regras, i son ls únicos qu'antressan an rescritas a partir de l simblo enicial <math>S</math> para cadeias sin simblos nó-treminales.
+
+=== Eisemplo ===
+''Para esses eisemplos, lenguaiges formales son specificadas usando [[notaçon de custruçon de cunjuntos]].''
+
+Cunsidre la gramática <math>G</math> an que <math>N = \left \{S, B\right \}</math>, <math>\Sigma = \left \{la, b, c\right \}</math>, <math>S</math> ye l simblo enicial, i <math>P</math> cunsiste de las seguintes regras porduçon:
+
+: 1. <math>S \rightarrow aBSc</math>
+: 2. <math>S \rightarrow abc</math>
+: 3. <math>Ba \rightarrow aB</math>
+: 4. <math>Bb \rightarrow bb </math>
+
+Essa gramática define la lenguaige <math>L(G) = \left \{ la^{m}b^{m}c^{m} | m \ge 1 \right \}</math> an que <math>la^{m}</math> denota la cadeia de ''m'' cunsecutibos <math>la</math>'s. Inda assi, la lenguaige ye l cunjunto de cadeias que cunsisten de 1 ó mais <math>la</math>'s, seguidos pul mesmo númaro de <math>b</math>'s, seguidos pul mesmo númaro de <math>c</math>'s.
+
+Alguns eisemplos de deribaçon de cadeias an <math>L(G)</math> son: 
+
+* <math>\boldsymbol{S} \Rightarrow_2 \boldsymbol{abc}</math>
+* <math>\boldsymbol{S} \Rightarrow_1 \boldsymbol{aBSc} \Rightarrow_2 aB\boldsymbol{abc}c \Rightarrow_3 la\boldsymbol{aB}bc \Rightarrow_4 aa\boldsymbol{bb}c</math>
+* <math>\boldsymbol{S} \Rightarrow_1 \boldsymbol{aBSc} \Rightarrow_1 aB\boldsymbol{aBSc}c \Rightarrow_2 aBaB\boldsymbol{abc}c \Rightarrow_3 la\boldsymbol{aB}Babcc \Rightarrow_3 aaB\boldsymbol{aB}bcc </math><math> \Rightarrow_3 aa\boldsymbol{aB}Bbcc \Rightarrow_4 aaaB\boldsymbol{bb}cc \Rightarrow_4 aaa\boldsymbol{bb}bcc</math>
+
+:(Note la notaçon: <math>P \Rightarrow_i Q</math> lé-se "cadeia ''P'' gera cadeia ''Q'' por meio de la porduçon ''i''", i la parte gerada ye cada beç andicada an negrito)
+
+==Gramáticas analíticas==
+Bisto qu'eisisten ua basto belume de [[algoritmos]] de [[Análeze sintática (cumputaçon)|análeze sintática]], la maiorie desses algoritmos assumen que la lenguaige a ser analisada ye einicialmente ''çcrita'' an meios dua [[gramática geratiba|gramática formal ''geratiba'']], i l'oubjetibo ye trasformar essa gramática geratiba nun berificador que funcione. Falando mais stritamente, ua gramática geratiba, de modo algun, corresponde al algoritmo ousado para analisar la lenguaige, i bários algoritmos ténen defrentes restriçones na forma an que las regras de porduçon son cunsidradas bien formadas.
+
+Ua abordaige altarnatiba ye formalizar la lenguaige an tenermos dua gramática analítica an purmeiro lugar, que corresponde mais specificamente a l'estrutura i semántica dun berificador para ua lenguaige. Eisemplos de formalismos de gramáticas analíticas ancluen ls seguintes:
+* [http://languagemachine.sourceforge.net/ la Lenguaige de Máquina] amplementa diretamente gramáticas analíticas eirrestritas; sustituiçones de regras son ousadas para trasformar ua antrada para porduzir salidas i cumportamientos; l sistema puode porduzir tamien   [http://languagemachine.sourceforge.net/piturebook.html l diagrama de Ein] que mostra l qu'acuntece quando las regras dua gramática analítica eirrestrita stan sendo aplicadas;
+* [[Lenguaige d'análeze Top-Down]] (LATD): un formalismo de gramática analítica altamente menimalista zambolbido recentemente ne ls anhos 70 para studar l cumportamiento de ls [[Análeze sintática Top-Down|berificadores top-down]];<ref name="Birman1970">Birman, Alexander, ''The TMG Recognition Schema'', Dotoral thesis, Princeton University, Det. of Eiletrical Anginering, February 1970.</ref>
+* [[Gramática Eilo]]: ua forma de gramática analítica zambolbida pa las [[lenguística]]s, que deriban la strutura sintática eisaminando ls relacionamientos posicionales antre dous pares de palabras;<ref name="Sleater&Temperly1991">Sleator, Daniel D. & Temperly, Daby, "Parsing Anglish with la Link Grammar," Technical Report CMU-CS-91-196, Carnegie Mellon University Cumputer Science, 1991.</ref><ref name="Sleater&Temperly1993">Sleator, Daniel D. & Temperly, Daby, "Parsing Anglish with la Link Grammar," ''Third Anternational Workshop on Parsing Technologies'', 1993.</ref>
+* [[Gramática d'análeze de spresson|Gramáticas d'análeze de spressones]] (GAEs): son ua generalizaçon mais recente de las LATD zambolbidas an buolta de la prática de la [[Poder spressibo|spressebidade]] percisando de las [[Lenguaige de porgramaçon|lenguaiges de porgramaçon]] i scritores de [[cumpilador]]s.<ref>Ford, Bryan, ''Packrat Parsing: la Pratical Linear-Eiquipa Algorithn with Backtracking'', Master’s thesis, Massachusetts Anstitute of Technology, Set. 2002.</ref>
+
+== Ber tamien ==
+<dib style="-moç-column-count:3; column-count:3;">
+* [[Arble sintática abstrata]]
+* [[Gramática ambígua]]
+* [[Formalismo de Backus-Naur]]
+* [[Arble d'análeze sintática|Arble sintática cuncreta]]
+* [[Sintaxe|Framework de gramática]]
+* [[Lojban]]
+* [[Fórmula bien-formada]]
+* [[Hierarquia de Chomsky]]
+</dib>
+
+{{refréncias}}
+
+== Ligaçones sternas ==
+* [http://cs.haifa.ac.eil/~shuly/fg/ Yearly Formal Grammar cunference]
+
+
+{{Teorie de la cumputaçon}}
+
+[[Catadorie:Teorie de la cumputaçon]]
