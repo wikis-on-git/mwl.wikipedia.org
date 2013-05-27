@@ -43,8 +43,8 @@ Mais formalmente, ua máquina de Turing (cun ua fita) ye usualmente defenida cum
 * <math>\Gamma</math> ye l'alfabeto de la fita (cunjunto fenito de simblos)
 * <math>s \in Q</math> ye l stado enicial
 * <math>b \in \Gamma</math> ye l simblo branco (l único simblo que se permite ocorrer na fita anfenitamente an qualquiera passo durante la cumputaçon)
-* <math>F \suseteq Q</math> ye l cunjunto de ls stados finales
-* <math>\delta: Q \eiquipas \Gamma</math> ⇒ <math>Q \eiquipas \Gamma \eiquipas \{\leftarrow,\rightarrow\}</math> ye ua [[funçon parcial]] chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
+* <math>F \subseteq Q</math> ye l cunjunto de ls stados finales
+* <math>\delta: Q \times \Gamma</math> ⇒ <math>Q \times \Gamma \times \{\leftarrow,\rightarrow\}</math> ye ua [[funçon parcial]] chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
 
 Defeniçones na literatura a las bezes difíren un pouco, para tornar argumientos ó probas mais fáceles ó mais claras, mas esto ye siempre feito de maneira que la máquina resultante ten l mesmo poder cumputacional. Por eisemplo, mudar l cunjunto <math>\{\leftarrow,\rightarrow\}</math> para <math>\{\leftarrow,\rightarrow,P\}</math>, adonde ''P'' permite al cabeçote permanecer na mesma célula de la fita an beç de mober-se pa la squierda ó dreita, nun oumenta l poder cumputacional de la máquina (Fuonte - Michael Sipser - Ant Teorie de la Cumputaçon).
 
@@ -57,8 +57,8 @@ Ua máquina de Turing cun ''k'' fitas tamien puode ser çcrita cumo ua 7-upla <m
 * <math>k</math> ye l númaro de fitas
 * <math>s \in Q</math> ye l stado enicial
 * <math>b \in \Gamma</math> ye l simblo branco
-* <math>F \suseteq Q</math> ye l cunjunto de ls stados finales
-* <math>\delta: Q \eiquipas \Gamma</math> ⇒ <math>Q \eiquipas \Gamma \eiquipas \{\leftarrow,\rightarrow\}</math> ye ua funçon parcial chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
+* <math>F \subseteq Q</math> ye l cunjunto de ls stados finales
+* <math>\delta: Q \times \Gamma</math> ⇒ <math>Q \times \Gamma \times \{\leftarrow,\rightarrow\}</math> ye ua funçon parcial chamada funçon de trasiçon, adonde <math>\leftarrow</math> ye l mobimiento pa la squierda i <math>\rightarrow</math> ye l mobimiento pa la dreita.
 
 Note qu'ua máquina de turing cun "k" fitas nun ye mais poderosa qu'ua máquina de Turing tradecional.
 
