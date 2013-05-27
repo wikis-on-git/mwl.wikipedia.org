@@ -1,0 +1,21 @@
+{{minúscula}}
+L comando '''rm''' de l [[sistema ouperacional]] [[Unix]] ye ousado para apagar arquibos. Ye ua forma cúrtie de se referir la '''r'''i'''m'''obe (remober). Normalmente ye ousado desta maneira:
+
+ rm nome_de l_arquibo
+
+Adonde ''nome_de l_arquibo'' ye l nome de l'arquibo a ser remobido. Eesisten bários argumientos que permiten l'uso d'outras funcionalidades cumo l'argumiento '''-i''' que rializa ua pregunta pa l'usuairo antes d'apagar cada arquibo. Muitas bezes ye feito un [[alias (Unix)|alias]] de l comando rn para '''rn -i''' de modo a eibitar remoçon acidental d'arquibos.
+
+Quando l'oupçon anterior se torna anconbeniente dada la cantidade d'arquibos a ser remobida, eilha puode ser cancelada specificando l'argumiento '''-f'''. Giralmente esta oupçon ye ousada an cunjunto cul argumiento '''-r''' que remobe diretórios i l cuntenido deilhes de forma recursiba çcendo pula arble de diretórios partindo de l diretório specificado.
+
+L comando '''rm -rf''' ó tamien '''rm -rf /*''' era ousado cumo piada antre ls usuairos de l sistema Unix. Causo este comando seia eisecutado por un usuairo admenistrador na raiç de l sistema d'arquibos liebará la remoçon de todos ls arquibos que puoden ser scritos, trazie l'eideia de zastre total.
+Nas bersones mais recentes de l rm, '''rm -rf''' ye un [[alias (Unix)|alias]] para '''rm -rf --preserve-root''', l qu'ampede la remoçon de '''/'''.
+
+== {{Beija tamien}} ==
+
+* [[Guia de comandos para Linux/Unix]]
+
+{{Comandos Unix}}
+
+[[Catadorie:Porgramas Unix]]
+
+{{rabisco-anformática}}
