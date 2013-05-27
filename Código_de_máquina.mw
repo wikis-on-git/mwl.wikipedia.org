@@ -1,0 +1,59 @@
+To [[cumputador]] ten un cunjunto d'anstruçones que sou processador ye capaç d'eisecutar. Essas anstruçones, chamadas de '''código de máquina''', son repersentadas por sequéncias de [[bit]]s, normalmente lemitadas pul númaro de bits de l registrador percipal de la [[CPU]]. Esse código ye chamado de código binairo. San formados por 0 i 1.<ref>[http://www.portalsaofrancisco .com.br/alfa/storia-de l-cumputador/codigo-de-maquina.php Código de máquina defeniçon - Coleijo San Francisco]</ref>
+
+Las anstruçones corresponden la sequéncias mui simples d'ouparaçones, cumo trasferir un dado an mimória pa la CPU ó somar dous balores i son normalmente anterpretadas por [[microcódigo]].
+
+Un porgrama an '''código de máquina''' cunsiste dua sequéncia de númaros que senefican ua sequéncia d'anstruçones la séren eisecutadas.
+Ye normal la repersentaçon de la lenguaige de máquina por meio de númaros ([[oupcodes]]) custantes i bariables an [[Sistema binairo (matemática)|sistema binairo]] ó [[sistema heixadecimal]]. Alguns cumputadores tamien ténen sou oupcodes repersentados ne l [[sistema otal]].
+
+Microprocessadores ten normalmente sous códigos d'ouparaçon cumo múltiplos de 2, 8 i 16, pus úsan arquiteturas cun [[registradores]] de [[8 bit|8]], [[16 bit|16]], [[32 bit|32]], [[64 bit|64]] ó [[128 bit]]s an [[2006]]. Mas, eisisten máquinas cun registradores de tamanho defrente.
+
+Ls [[porgramas de cumputador]] raramente son criados an lenguaige de máquina, mas dében ser traduzidos (por [[cumpiladores]]) para séren eisecutados diretamente pul cumputador. Eesiste l'oupçon, an boga atualmente, de nun eisecutá-los diretamente, mas si por meio dun [[anterpretador]], esse si rodando diretamente an código de máquina i prebiamente cumpilado.
+
+== Bisualizaçon de porgramas an lenguaige de máquina ==
+Estes númaros nun puoden ser bistos nun eiditor de testo, ó, causo se tente ber parécen solo un testo sin seneficado debido a l'eisisténcia de [[caráter de cuntrole|carateres de cuntrole]]. Ambaixo puode-se ber l que ye mostrado al se abrir un código de máquina dun PC cun un eiditor de testo:
+
+<pre>
+MZÀ�$Pÿb�èŠÿ]Ë3ÀP¸�F�
+ë�ƒF��¸�< uè2Àëä�Àt�Bª
+Àu�C†à2Àùana�¬I,"t��"<\u�€<"u�¬I�öÃye�îY�É.Ž�t�‰�”�C�Û�Û‹ó‹ì+ërá‹å‰.–�Œ�˜�ana�‰b¸�buÿb�
+ÿb��èÅ�ƒÄ�ÿbþÿbu�èuéYY‹B�‹F�ë�Rÿbþÿbu�èWíƒÄ�‹å]ËU‹ìƒìHBW‹~�‹F�‰Fþ�Àu
+´�Í!´3Àé•Š�˜‹ØŠ‡Ïn
+</pre>
+
+Puode-se eiditar l código de máquina usando [[Eiditor heixadecimal|eiditores heixadecimales]], cumo por eisemplo l "debug" que ruoda subre l [[MS-DOS|DOS]] de l [[Windows]]. Cun estes porgramas puode-se ber l código nun an binairo, mas an heixadecimal, cumo mostrado ambaixo nesta catura de la tela de l DOS cul debug abierto eiditando l porgrama "b.se": (boton-se ? para comandos i d para dump)
+
+<pre>
+C:\Outelity>debug b.se
+-d 0 100
+0E3D:0000  CD 20 FF 9F 00 9A F0 FE-1D F0 4F 03 F0 07 8A 03  . ........L.....
+0E3D:0010  F0 07 17 03 F0 07 DF 07-01 01 01 00 02 FF FF FF  ................
+0E3D:0020  FF FF FF FF FF FF FF FF-FF FF FF FF BD 0D 4C 01  ..............L.
+0E3D:0030  D0 0C 14 00 18 00 3D 0E-FF FF FF FF 00 00 00 00  ......=.........
+0E3D:0040  05 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
+0E3D:0050  CD 21 CB 00 00 00 00 00-00 00 00 00 00 20 20 20  .!...........
+0E3D:0060  20 20 20 20 20 20 20 20-00 00 00 00 00 20 20 20        .....
+0E3D:0070  20 20 20 20 20 20 20 20-00 00 00 00 00 00 00 00        ........
+0E3D:0080  00 0D 76 2E 65 78 65 0D-44 4F 57 53 5C 73 79 73  ..b.se.DOWS\sys
+0E3D:0090  74 65 6D 33 32 5C 64 6F-73 78 0D 0D 64 61 20 72  tem32\dosx..de a r
+0E3D:00A0  65 64 65 20 28 63 61 72-72 65 67 61 72 20 61 6E  ede (carregar an
+0E3D:00B0  74 65 73 20 64 6F 20 64-6F 73 78 2E 65 78 65 29  tes de l dosx.se)
+</pre>
+
+Ne l'eisemplo arriba ye mostrado a la squierda l'andereço de a mimória (segmiento:ouffset), al centro l código an heixadecimal i a la dreita cumo serie l testo an [[ASCII]]. Mais eficiente de l que todo esso serie cunseguir un porgrama dedicado para manipulaçon de código de máquina.
+
+== Porgramaçon an código de máquina ==
+Para se porgramar an código de máquina, debe-se oubter ls códigos d'anstruçones de l processador outelizado, cuntendo oupcodes, ouperandos i formatos de cada anstruçon.
+
+Por esse motibo, fui criada ua lenguaige de porgramaçon chamada [[lenguaige de montaige]] (Assembly Language), cumpuosta de códigos mnemónicos que, de l punto de bista técnico, ye tan próssima de l processador quanto l código de máquina, mas ye houmanamente mais fácele de se cumprender ua beç que sous códigos son giralmente acrónimos de l'anglés. Por eisemplo ´mob´ de mober, ´rep´ de repetiçon i assi por delantre.
+
+{{refréncias}}
+
+== {{Ber tamien}} ==
+* [[Lenguaige d'alto nible]]
+
+{{Rabisco-anformática}}
+{{Portal3|Tecnologies d'anformaçon}}
+
+{{DEFAULTSORT:Codigo Maquina}}
+[[Catadorie:Arquitetura de cumputadores]]
+[[Catadorie:Lenguaiges de porgramaçon| ]]
