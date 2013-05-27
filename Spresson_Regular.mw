@@ -16,13 +16,13 @@ L'ourige de las spressones regulares stan na [[teorie de ls outómatos]] i na [[
 
 Las spressones regulares de [[Perl]] i [[Tcl]] fúrun deribadas de la biblioteca scrita por [[Heinry Spencer]], i ne l Perl la funcionalidade fui spandida mais tarde.<ref>{{citar web
 |url=http://perldoc.perl.org/perlre.html
-|titulo=perlre: Perl regular spressiones
+|títalo=perlre: Perl regular spressiones
 |outor=[[Larry Wall]] i l'eiquipa de zambolbimiento de l Perl 5
 |lengua=anglés
 |data=2006
 }}</ref> [[Phelip Hazel]] zambolbiu la [[Perl Cumpatible Regular Spressiones|PCRE]] (Perl Cumpatible Regular Spressiones), ua [[biblioteca de rotinas|biblioteca]] ousada por dibersas ferramientas modernas cumo [[PHP]] i l [[serbidor Apache]]. Parte de l zambolbimiento de l [[Perl 6]] fui melhorar l'antegraçon de las spressones regulares de Perl, i oumentar sou scopo i funcionalidade para permitir la defeniçon de [[gramática de spresson d'analisadores sintáticos|gramáticas de spresson d'analisadores sintáticos]].<ref name="Apocalypse5">{{citar web
 |url=http://deb.perl.org/perl6/doc/zeign/apo/A05.html
-|titulo=Apocalypse 5: Pattern Matching
+|títalo=Apocalypse 5: Pattern Matching
 |outor=[[Larry Wall]]
 |lengua=anglés
 |data=4 de júnio de 2002
@@ -131,7 +131,7 @@ Ls seguintes metacarateres fúrun adicionados:
 |Casa ó la spresson que precede ó la spresson que sucede. Por eisemplo, <code><nowiki>abc|def</nowiki></code> casa "''abc''" ó "''def''".
 |}
 
-Ferramientas qu'adotórun la sintaxe ancluen [[MySQL]] i [[PHP]], esta, que suporta tamien las deribaçones de Perl ne l modelo de l [[Perl Cumpatible Regular Spressiones|PCRE]]<ref>{{citar web|url=http://www.php.net/manual/en/antro.regex.php|titulo=POSIX Regex: Antrodution|data=18 de júlio de 2008|lengua=anglés|acessodata=24 de júlio de 2008}}</ref>.
+Ferramientas qu'adotórun la sintaxe ancluen [[MySQL]] i [[PHP]], esta, que suporta tamien las deribaçones de Perl ne l modelo de l [[Perl Cumpatible Regular Spressiones|PCRE]]<ref>{{citar web|url=http://www.php.net/manual/en/antro.regex.php|títalo=POSIX Regex: Antrodution|data=18 de júlio de 2008|lengua=anglés|acessodata=24 de júlio de 2008}}</ref>.
 
 ==== Classes de carateres ====
 Yá que dibersos grupos de carateres dependen dua cunfiguraçon de [[locale]] specífica, la POSIX define alguas classes (ó catadories) de carateres para fornecer un método padron d'acesso l'alguns grupos specíficos de carateres bastante outelizados, cumo mostrado na seguinte tabela:
@@ -166,7 +166,7 @@ Yá que dibersos grupos de carateres dependen dua cunfiguraçon de [[locale]] sp
 |Carateres de pontuaçon, l que ne l causo de ASCII corresponde la <code><nowiki>[-!"#$%&'()*+,./:;<=>?@[\\\]_`{|}~]</nowiki></code>.
 |-
 |<code>[:space:]</code>
-|Carateres de spácios an branco, l que ne l causo de ASCII corresponde la <code>[ \t\r\m\b\f]</code>. L Perl ouferece l'atalho <code>\s</code>, que, antretanto, nun ye satamente eiquibalente; defrente de l <code>\s</code>, la classe inda anclui un tabulador bertical, \x11 de l ASCII.<ref name="doc perl">{{citar web|url=http://perldoc.perl.org/perlre.html|titulo=Perl 5.10.0 documentation|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>
+|Carateres de spácios an branco, l que ne l causo de ASCII corresponde la <code>[ \t\r\m\b\f]</code>. L Perl ouferece l'atalho <code>\s</code>, que, antretanto, nun ye satamente eiquibalente; defrente de l <code>\s</code>, la classe inda anclui un tabulador bertical, \x11 de l ASCII.<ref name="doc perl">{{citar web|url=http://perldoc.perl.org/perlre.html|títalo=Perl 5.10.0 documentation|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>
 |-
 |<code>[:upper:]</code>
 |Carateres an caixa alta, l que ne l causo de ASCII corresponde la <code>[La-Z]</code>.
@@ -194,7 +194,7 @@ La norma POSIX define inda dous metacarateres speciales que serben para casar ls
 |}
 
 === Perl i deribaçones ===
-[[Perl]] ten ua sintaxe mais cunsistente i rica que las normas POSIX BRE i ERE. Un eisemplo ye que <code>\</code> siempre scapa un caratere nun alfanumérico. Debido al poder de spresson, outras ferramientas adotórun la sintaxe de l Perl, cumo por eisemplo [[Jaba (lenguaige de porgramaçon)|Jaba]]<ref>{{citar web|url=http://jaba.sun .com/docs/books/tutorial/essential/regex/andex.html|titulo=Lesson: Regular Spressiones|obra=The Jaba Tutorials|publicado=[[Sun Microsystems]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>, [[JabaScrit]], [[Perl Cumpatible Regular Spressiones|PCRE]], [[Python]]<ref>{{citar web|url=http://docs.python.org/deb/howto/regex.html|titulo=Regular Spression HOWTO|outor=La.M. Kuchling|data=19 de júlio de 2008|lengua=anglés|obra=Documentaçon de l Python|publicado=[[Python Software Foundation]]|acessodata=24 de júlio de 2008}}</ref>, [[Ruby (lenguaige de porgramaçon)|Ruby]] i [[.NET]]<ref>{{citar web|url=http://msdn.microsoft .com/en-us/library/hs600312(BS.71).aspx|titulo=.NET Framework Regular Spressiones|obra=.NET Framework Debeloper's Guide|publicado=[[Microsoft]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>. Alguas lenguaiges i ferramientas cumo [[PHP]] suportan dibersos tipos de spressones regulares.
+[[Perl]] ten ua sintaxe mais cunsistente i rica que las normas POSIX BRE i ERE. Un eisemplo ye que <code>\</code> siempre scapa un caratere nun alfanumérico. Debido al poder de spresson, outras ferramientas adotórun la sintaxe de l Perl, cumo por eisemplo [[Jaba (lenguaige de porgramaçon)|Jaba]]<ref>{{citar web|url=http://jaba.sun .com/docs/books/tutorial/essential/regex/andex.html|títalo=Lesson: Regular Spressiones|obra=The Jaba Tutorials|publicado=[[Sun Microsystems]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>, [[JabaScrit]], [[Perl Cumpatible Regular Spressiones|PCRE]], [[Python]]<ref>{{citar web|url=http://docs.python.org/deb/howto/regex.html|títalo=Regular Spression HOWTO|outor=La.M. Kuchling|data=19 de júlio de 2008|lengua=anglés|obra=Documentaçon de l Python|publicado=[[Python Software Foundation]]|acessodata=24 de júlio de 2008}}</ref>, [[Ruby (lenguaige de porgramaçon)|Ruby]] i [[.NET]]<ref>{{citar web|url=http://msdn.microsoft .com/en-us/library/hs600312(BS.71).aspx|títalo=.NET Framework Regular Spressiones|obra=.NET Framework Debeloper's Guide|publicado=[[Microsoft]]|lengua=anglés|acessodata=25 de júlio de 2008}}</ref>. Alguas lenguaiges i ferramientas cumo [[PHP]] suportan dibersos tipos de spressones regulares.
 
 Un eisemplo de funcionalidade possible an Perl mas nun an POSIX ye la quantificaçon preguiçosa. Ls quantificadores padrones de las spressones regulares son "gananciosos", esto ye, casan l quanto podíren, [[backtracking|buoltando atrás]] solamente se necessairo para casar l resto de la spresson regular. Por eisemplo, un nobato ne l'assunto tentando ancontrar la purmeira anstáncia dun iten antre ls simblos &lt; i &gt; ne l testo "''Outra spluson acunteciu an <nowiki><26 de janeiro> de <2004></nowiki>''" probabelmente ousarie l padron <code><.*></code>, ó similar. Antretanto, esse padron retornará "''<nowiki><26 de janeiro> de <2004></nowiki>''" al ambés de "''<nowiki><26 de janeiro></nowiki>''", cumo sperado, pus l quantificador <code>*</code> ye ganancioso — el cunsumirá la cantidade mássima de carateres, i "''<nowiki>26 de janeiro> de <2004</nowiki>''" ten mais carateres que "''26 de janeiro''".
 
@@ -301,7 +301,7 @@ Eesisten pul menos dous [[algoritmo]]s fundamentalmente defrentes antre si que d
 
 L mais antigo i mais rápido faç uso dun percípio de la teorie de lenguaiges formales que permite a todas las máquinas de stado fenito nun determinísticas séren trasformadas an máquinas de stado fenito determinísticas. Giralmente chamado de DFA, l'algoritmo rializa ó simula tal trasformaçon i anton eisecuta la máquina determinística resultante na cadeia de carateres, un simblo de cada beç. Esse radadeiro porcesso ten [[cumplexidade linear]] relatiba al tamanho de la cadeia de carateres. Mais percisamente, ua cadeia de carateres de tamanho ''m'' puode ser testada nua spresson regular de tamanho ''m'' ne l tiempo [[Grande-L|''L'']](''<math>m+2^m</math>'') ó ''L''(''<math>nn</math>''), dependendo de ls detalhes d'amplementaçon. Esse algoritmo ye rápido, mas puode ser ousado solamente para casamientos i nun pa la rechamada de grupos de catura, quantificaçon preguiçosa i dibersas outras funcionalidades ancontradas nas bibliotecas modernas de spressones regulares. Tamien ye possible eisecutar la máquina nun determinística diretamente, custruindo cada stado de la máquina determinística quando necessairo i anton çcartando-lo ne l próssimo passo. Esso eibita la cantidade sponencial de mimória neçaira pa la custruçon cumpleta de la máquina determinística, inda que garantindo la busca an tiempo linear.<ref>{{citar web
 |url=http://swtch .com/~rsc/regexp/regexp1.html
-|titulo=Regular Spression Matching Can Be Simple and Fast
+|títalo=Regular Spression Matching Can Be Simple and Fast
 |outor=Russ Cox
 |data=Janeiro de 2007
 |lengua=anglés
@@ -330,12 +330,12 @@ Un uso difundido de spressones regulares ye la filtraige d'anformaçon an bancos
  1976-07-25 Marie Eduarda
  1966-10-22 Carlos Silba
 
-Puode-se filtrar pessonas que nacírun nun detreminado anho, més ó die. Por eisemplo, l'uso de l padron <code>^[0-9]{4}-10-[0-9]{2} (.*)$</code> eidantifica l nome de las pessonas que nacírun an outubre. Pa l cadastro arriba serien retornados dous grupos de catura, <code>\1</code> cuntendo "''João Alberto''" i <code>\2</code> cuntendo "''Carlos Silba''". Splorando l'eisemplo anterior i l'uso de balidaçon de formatos digitales, ye possible ousar spressones regulares para balidar las datas persentes ne l'arquibo de testo d'anibersairos arriba. L padron <code>(19|20)\d\d([- /.])(0[1-9]|1[012])\2([012][0-9]|3[01])</code> ye ousado para balidar ua data antre 1900-01-01 i 2099-12-31.<ref>{{citar web|url=http://www.regular-spressiones.anfo/dates.html|titulo=Eisample: Regular Spression Matching la Balid Date|outor=Jan Goybaerts|data=14 de márcio de 2008|lengua=anglés|acessodata=25 de júlio de 2008}}</ref> Atentar que la separaçon antre anho, més i die puode se dar atrabeç d'hífen, spácio an branco, barra ó punto. Mas debe-se ousar l mesmo simblo de separaçon antre anho i més i antre més i die, l que ye possible atrabeç de la rechamada de l grupo de catura anterior (l trecho <code>\2</code> de l padron). Atentar tamien que l padron ye ancumpleto na medida an que nun defrencia la cantidade de dies an cada més, l que resulta ne l casamiento dua cadeia de carateres "''2000-02-31''", ancorreta d'acuordo cul [[calendairo griegoriano]].
+Puode-se filtrar pessonas que nacírun nun detreminado anho, més ó die. Por eisemplo, l'uso de l padron <code>^[0-9]{4}-10-[0-9]{2} (.*)$</code> eidantifica l nome de las pessonas que nacírun an outubre. Pa l cadastro arriba serien retornados dous grupos de catura, <code>\1</code> cuntendo "''João Alberto''" i <code>\2</code> cuntendo "''Carlos Silba''". Splorando l'eisemplo anterior i l'uso de balidaçon de formatos digitales, ye possible ousar spressones regulares para balidar las datas persentes ne l'arquibo de testo d'anibersairos arriba. L padron <code>(19|20)\d\d([- /.])(0[1-9]|1[012])\2([012][0-9]|3[01])</code> ye ousado para balidar ua data antre 1900-01-01 i 2099-12-31.<ref>{{citar web|url=http://www.regular-spressiones.anfo/dates.html|títalo=Eisample: Regular Spression Matching la Balid Date|outor=Jan Goybaerts|data=14 de márcio de 2008|lengua=anglés|acessodata=25 de júlio de 2008}}</ref> Atentar que la separaçon antre anho, més i die puode se dar atrabeç d'hífen, spácio an branco, barra ó punto. Mas debe-se ousar l mesmo simblo de separaçon antre anho i més i antre més i die, l que ye possible atrabeç de la rechamada de l grupo de catura anterior (l trecho <code>\2</code> de l padron). Atentar tamien que l padron ye ancumpleto na medida an que nun defrencia la cantidade de dies an cada més, l que resulta ne l casamiento dua cadeia de carateres "''2000-02-31''", ancorreta d'acuordo cul [[calendairo griegoriano]].
 
 {{Refréncias}}
 * {{citar web
 |url=http://www.oupengroup.org/onlinepus/007908799/xbd/re.html
-|titulo=Regular Spressiones
+|títalo=Regular Spressiones
 |acessodata=19 de júlio de 2008
 |outor=
 |data=1997
