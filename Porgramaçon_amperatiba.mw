@@ -1,0 +1,191 @@
+{{Sin-fuontes|data=janeiro de 2011| angola=| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+
+{{Anfo/Cientista
+|nome             =John bon Neumann
+|eimaige            =JohnbonNeumann-LosAlamos.jpg
+|tamanho           =200px
+|legenda           =Neumann, a la época de [[Laboratório Nacional de Los Alamos|Los Alamos]] (c. [[1943]]-[[1945]]), purmeiro laboratório de [[armas nucleares]] de ls [[Stados Ounidos]]
+|nome_natibo        =
+|data_nacimiento      ={{dni|28|12|1903|sin eidade|lang=br}}
+|local_nacimiento     =[[Budapiste]]
+|data_muorte         ={{falecimiento i eidade|8|2|1957|28|12|1903|lang=br}}
+|local_muorte        =[[Washington, D.C.]]
+|causa_muorte        =
+|pais_de_residencia    =
+|nacionalidade       ={{HUNb}} [[Hungrie|Húngaro]]<br /> {{USAb}} [[Stadunidenses|Stadunidense]]
+|etnicidade         =
+|campo            =[[Matemática]]
+|anstituicao_trabalho  =
+|alma_mater         =
+|tese             =1926
+|ourientador         =[[Lipót Fejér]]
+|ourientado          ={{nowrap|[[Eisrael Halperin]]}}, {{nowrap|[[Donald Bruce Gillies]]}}, {{nowrap|[[John Patterson Mayberry]]}}
+|coincido_por       ={{nowrap|[[Álgebra abeliana de bon Neumann]]}}, {{nowrap|[[Álgebra de bon Neumann]]}}, {{nowrap|[[Arquitetura de bon Neumann]]}}, {{nowrap|[[Ouniberso de bon Neumann]]}}
+|anfluenciado        =
+|premio            ={{nowrap|[[Prémio Bócher|Prémio Bócher (1938)]]}}, {{nowrap|[[Prémio Anrico Fermi|Prémio Anrico Fermi (1956)]]}}
+|cunjuge           =
+|religiao          =
+|assinatura         =
+|notas            =
+}}
+
+Na [[Ciéncia de la Cumputaçon]], '''porgramaçon amperatiba''' ye un [[paradigma de porgramaçon]] que çcribe la [[cumputaçon]] cumo açones, enunciados ó comandos que mudan l stado (bariables) dun porgrama. Mui parecido cul cumportamiento amperatibo de las lenguaiges naturales que spressan ordes, porgramas amperatibos son ua sequéncia de comandos pa l cumputador eisecutar. L nome de l [[paradigma]], Amperatibo, stá ligado al tiempo berbal amperatibo, adonde l porgramador diç al cumputador: faga esso, depuis esso, depuis aqueilho... Este paradigma de porgramaçon se çtaca pula simplicidade, ua beç que to ser houmano, al se porgramar, l faç amperatibamente, baseado na eideia d'açones i stados, quaije cumo un porgrama de cumputador.
+
+[[Fexeiro:Máquina de Turing.png |thumb|Máquina de Turing|squierda|x1000px]]
+
+L fundamiento de la porgramaçon amperatiba ye l cunceito de [[Máquina de Turing]], que nada mais ye qu'ua abstraçon matemática que corresponde al cunjunto de funçones cumputables.
+La Máquina de Turing fui aprossimada por [[John Bon Neumann]] a ua arquitetura de cumputadores que fundamenta ls cumputadores custruídos até hoije. Esso splica, an parte, l sucesso de las lenguaiges que seguen esse [[paradigma]] an relaçon a las demales. Nesta arquitetura( ousada hoije ne ls microcumputadores comercializados), tanto ls dados cumo ls porgramas son armazenados na mesma mimória, i la CPU que porcessoa las anstruçones, ye apartada de a mimória. Dessa forma, ls dados i anstruçones dében ser trasportados de a mimória pa la CPU i ls resultados de las ouparaçones rializadas na CPU dében ser debolbidos pa a mimória.
+
+Las lenguaiges amperatibas struturadas sofren inda assi dua falta de flexibelidade dadas l caráter sequencial de las anstruçones. Cuntrariamente la porgramaçon declaratiba, la porgramaçon amperatiba antroduç un paradigma de porgramaçon que çcribe la [[cumputaçon]] an tenermos dun stado dun porgrama i açones que modifican esse stado, tal cumo l modo amperatibo nas lenguaiges naturales (faladas i scritas) spressa comandos para perfazer açones, las lenguaiges amperatibas spressan ua sequencia de comandos para un cumputador efetuar.
+
+[[Fexeiro:arquiteturabn.png|thumb|left|Bison simplificada de l'arquitetura de Bon Neumann.]]
+
+Las lenguaiges de porgramaçon amperatiba cuntrastan cun outros tipos de lenguaige, tales cumo lenguaiges de porgramaçon [[porgramaçon declaratiba|declaratiba]], [[porgramaçon funcional|funcional]] i [[porgramaçon lógica|lógica]]. Lenguaiges de porgramaçon funcional, cumo por eisemplo [[Haskell]], nun son ua sequéncia d'afirmaçones i nó possuen, por cunsequéncia, un stado global cumo las lenguaiges amperatibas. Lenguaiges de porgramaçon lógica, cumo eisemplo [[Prolog]], frequentemente definen "l que" ye para ser cumputado, mais de l que "cumo" cumputar, cumo serie normal nua lenguaige amperatiba. 
+
+An lenguaiges puramente amperatibas, cumo [[Assembly]], ye mui fácele l porgramador criar códigos de defícel leitura, pus esse tipo de lenguaige ten l que se chama de saltos (jumps) an sue strutura. Estes saltos funcionan de la seguinte forma: l porgramador define ua marcaçon (label) ne l código i depuis, a partir de qualquiera parte de l porgrama, el puode eisecutar un zbio de fluxo d'eisecuçon (salto) para aqueilha marcaçon. Puode ser que a la purmeira bista esso nun tenga porblema, assi i todo, na depuraçon de l código, l porgramador queda an apuros cun tantas marcaçones i saltos, pus esso deficulta l'antendimiento de l fluxo d'eisecuçon de l porgrama.
+
+Neste cuntesto, surge la [[porgramaçon struturada]], cumo ua forma de possibelitar que l porgramador tenga maior cuntrole subre l fluxo d'eisecuçon de l porgrama. Para esso, qualquiera porgrama puode ser reduzido a 3 struturas:
+
+* Struturas de sequéncia: Adonde ua tarefa ye eisecutada passado l'outra, linearmente.
+* Struturas de decison: Adonde, a partir dun teste lógico, detreminado trecho de código ye eisecutado, ó nó.
+* Struturas d'iteraçon: Adonde, a partir dun teste lógico, detreminado trecho de código ye repetido por un númaro fenito de bezes.
+
+[[Porgramaçon struturada]] ye ua forma de [[porgramaçon de cumputadores]] que preconiza que todos ls porgramas possibles puoden ser reduzidos a solo trés struturas: sequéncia, decison i anteraçon, zambolbida por Michael La. Jackson ne l sou libro "Principles of Porgran Zeign" de 1975.
+
+Tenendo, na prática, sido trasformada na [[porgramaçon modular]], la Porgramaçon struturada ourienta ls porgramadores pa la criaçon de struturas simples an sous porgramas, usando las subrotinas i las funçones. Fui la forma dominante na criaçon de [[software]] anterior a la porgramaçon ourientada por oubjetos.
+
+Anque tener sido sucedida pula porgramaçon ourientada por oubjetos, puode-se dezir que la porgramaçon struturada inda ye mui anfluente, ua beç que grande parte de las pessonas inda daprenden porgramaçon atrabeç deilha. Pa la resoluçon de porblemas relatibamente mais simples i diretos la porgramaçon struturada ye mui eficiente. Para alhá desso, por eisigir formas de pensar relatibamente cumplexas, la porgramaçon ourientada a oubjetos até hoije inda nun ye bien cumprendida ó ousada pula maiorie.
+
+Hai de se acrecentar tamien qu'einúmaras lenguaiges inda stremamente relebantes ne ls dies d'hoije, cumo [[Cobol]], [[PHP]] i [[Perl]] inda outelizan l paradigma struturado (mui ambora possuan suporte pa l'ourientaçon a a oubjetos).
+
+== Ouriges ==
+
+Lenguaiges amperatibas ténen ua stória rica i bariada. Las purmeiras [[lenguaiges de porgramaçon]] amperatibas éran lenguaiges de máquina, cun anstruçones simples mas de custruçon cumplexa. Anstruçones de máquina fúrun lougo sustituídos cun lenguaiges de montaige que son eissencialmente trasliteraçones de código de máquina.
+
+[[Fortran]] (FORmula TRANslation) fui la purmeira lenguaige d'alto nible para ganhar ampla aceitaçon. El fui porjetado para aplicaçones científicas i cuntou cun ua notaçon algébrica, tipos, subprogramas, i antrada/salida formatada. Fui amplementado an 1956 por [[John Backus]] na [[IBM]] specificamente pa la máquina [[IBM 704]]. Eisecuçon eficiente fui ua grande preocupaçon, por bias desso, sue strutura i comandos ténen mui an quemun cun lenguaiges de montaige. [[FORTRAN]] ganhou ampla aceitaçon i cuntina a ser largamente outelizado na quemunidade de cumputaçon científica.
+
+[[COBOL]] (COmmon Business Ouriented Language) fui porjetada (por un comité de repersentantes de fabricantes de cumputadores i de l Departamiento de Defesa), por eniciatiba de l Departamiento de Defesa de ls EUA an 1959 i amplementado an 1960. COBOL carateriza registros, arquibos i dados fixos decimales. El tamien forneciu ua lenguaige natural cumo sintaxe para que ls porgramas séian capazes de ser lido i antendido por nun porgramadores. COBOL ganhou ampla aceitaçon na quemunidade de [[processamiento de dados]] i cuntina a ser largamente outelizado.
+
+[[Fexeiro:Ken m dennis.jpg|300px|thumb|[[Ken Thompson]] i [[Dennis Ritchie]] (de la squierda para dreita), ls criadores de las lenguaiges [[B (lenguaige de porgramaçon)|B]] i '''C''', respetibamente.]]
+
+[[ALGOL 60]] (ALGorithmic Ouriented Language) fui cuncebido an 1960 por un comité anternacional para uso an resoluçon de porblemas científicos. Al cuntrairo FORTRAN fui cuncebido de forma andependiente dua aplicaçon, ua scolha que cunduzen a ua lenguaige eilegante. La çcriçon de l ALGOL 60 antroduziu la notaçon [[BNF]] pa la defeniçon de [[sintaxe]] i ye un modelo de clareza i cumpletude. Ambora ALGOL 60 nun cunseguiu ganhar grande aceitaçon, antroduziu strutura de bloco, anstruçones de cuntrole struturados i procedimientos recursibos ne l paradigma de porgramaçon amperatiba.
+
+* [[FORTRAN]] (1956) -> bariables cun nome, subprogramas, spressones cumplexas
+* [[ALGOL]] (1960) -> maior facelidade de spressar algoritmos matemáticos
+* [[COBOL]] (1960)
+* [[BASIC]] (1964) -> sintaxe mais próssima de l'anglés
+* [[PASCAL]] (1970)
+* [[C (lenguaige de porgramaçon)|C]] (1970)
+* [[ADA]] (1974-1983)
+
+== Stórico ==
+
+* Cumputador Heipotético
+* Antroduçon a la Porgramaçon
+* Custruçon de Algoritmos
+* Cumponentes de Algoritmos
+* Cuntrole de Fluxo de Eisecuçon
+* Strutura de Decison SE
+* Strutura de Decison CASO
+
+== Caratelísticas Percipales de la Lenguaige Amperatiba ==
+
+Las lenguaiges amperatibas tamien son chamadas de procedurales i se trata de l modelo mais antigo de todos, l'eisecuçon ye baseada an comandos i armazenamiento de dados. L paradigma amperatibo fui predominante nas LP, pus son mais fáceles de traduzir para ua forma adequada para eisecuçon de la máquina. Un porgrama amperatibo ye mantido an bariables que son associadas cun localizaçones de mimória que corresponden a un andereço i un balor d'armazenamiento. L balor de la bariable puode ser besitado direta ó andiretamente, i puode ser altarado atrabeç dun comando d'atribuiçon. L comando d'atribuiçon antroduç ua dependéncia d'orde ne l porgrama, ó seia, l balor de la bariable puode se modificar antes i depuis de l comando i esso garante la sequencia d'anstruçones.
+Las funçones de lenguaige de porgramaçon amperatiba son çcritas cumo algoritmos que specifican cumo processar un anterbalo de balores, a partir dun balor de domínio, cun ua série de passos çcritos. La repetiçon ye ousada para processar ls balores i laços para barrer ua sequencia de localizaçones de mimória (betores, por eisemplo), ó para acumular balor nas bariables. 
+
+* Bariábeis: modelan las células de mimória
+* Comandos d'atribuiçon: son baseados nas ouparaçones de trasferéncias de dados i anstruçones.
+* Eisecuçon sequencial d'anstruçones
+* Forma anteratiba de repetiçon
+
+== Cumo Funciona la Porgramaçon Amperatiba ==
+
+L'eissencia de la porgramaçon amperatiba i tamien de la Máquina de Turing se resume la trés cunceitos:
+
+* La çcriçon de stados dua máquina abstrata por balores dun cunjunto de bariables
+* Reconhecedores desses stados - spressones cumpuostas por relaçones antre esses balores ó ls resultados d'ouparaçones outelizando balores
+* Comandos d'atribuiçon i cuntrole
+
+L código fuonte de ls porgramas i cumputador, seguindo l paradigma amperatibo ten marcaçones speciales (amplíticas ó splícitas) que direcionan la sue eisecuçon pul sistema ouperacional i, an radadeira análeze, pul hardware. Ambora las lenguaiges de porgramaçon modernas pertencentes a outros paradigmas tendan a facelitar cada beç mais la scrita de l código, camuflando ouparaçones mais próssimas a las lenguaiges de baixo nible, podemos ancontrar inda la persença de struturas de cuntrole de la mesma forma qu'ocorria an lenguaiges de porgramaçon de binte ó trinta anhos atrás.
+
+Las marcaçones outelizadas para cuntrolar l'eisecuçon de ls porgramas son chamadas de struturas de cuntrole. Las struturas de cuntrole son debedidas an trés grupos: sequéncia, seleçon i repetiçon. La strutura de sequéncia ye amplícita ne ls porgramas i andica que las anstruçones son eisecutadas ua passado l'outra, seguindo ua sequéncia.
+
+== Modelo Cumputacional de l Paradigma Amperatibo ==
+
+Porgramas centrados ne l cunceito dun stado (modelado por bariables) i açones (comandos) que manipulan l stado, son porgramas porjetados nun paradigma amperatibo, paradigma esse que tamien ye chamado de procedural, por ancluir subrotinas ó procedimientos cumo macanismo de struturaçon. Fui l purmeiro paradigma a aparecer i inda ye l dominante.
+
+L paradigma amperatibo stá baseado na eideia dun stado que sofre modificaçones durante la [[cumputaçon]]. L stado ye repersentado por un cunjunto d'associaçones d'eidantificadores (bariables globales i locales atibas de l porgrama) an balores. La defrença fundamental cun relaçon al paradigma funcional ye qu'esta associaçon ye dinámica, sendo custantemente modificada durante l'eisecuçon dun porgrama. Las lenguaiges amperatibas ouferecen ua bariadade de comandos cuja eisecuçon ambolbe aspetos de cuntrole, mas eissencialmente modificaçon de l stado de l porgrama.
+
+L'eilemiento central dun porgrama amperatibo ye l comando, que puode ser primitibo (cumo atribuiçon, leitura i scrita) ó cumpuosto, cumo sequéncia, cundicional i iteraçon. Un amportante macanismo de struturaçon de las lenguaiges amperatibas ye l procedimiento, que, cumo ua funçon, puode ser parametrizado, mas ten cumo cuorpo un comando, al ambés dua spresson. An giral, un porgrama nua lenguaige amperatiba deixa de ser ua spresson i passa a ser un comando. La figura ambaixo, eilustra l modelo cumputacional de l paradigma amperatibo.
+
+== Eilemientos de la Porgramaçon Amperatiba ==
+
+Ls percipales eilemientos de la porgramaçon amperatiba son:
+
+* Defeniçon de tipos de dados
+* Spressones i atribuiçones
+* Struturas de cuntrole de fluxo (porgramaçon struturada)
+* Defeniçon de sub-rotinas (porgramaçon procedimental)
+
+== Técnicas an Porgramaçon Amperatiba ==
+
+* Modularidade de ls Algoritmos (Porgramaçon struturada)
+* Modularidade de las Struturas de dados (Tipos abstratos de dados)
+* Recorréncia
+
+== Bantaiges ==
+
+* Eficiéncia (ambute l modelo [[Bon Neumann]])
+* Paradigma dominante i bien stablecido
+* Modelaige natural d'aplicaçones de l mundo rial
+* Ten tipaige fraca i tamien mui flexible (alguns specialistas cunsidran esso ua zbantaige)
+* Ye fácele de se antender, sendo amplamente ousada an cursos antrodutórios de porgramaçon.
+
+== Zbantaiges ==
+
+* Ten defícel legibelidade i facelita antroduçon d'erros an sue manutençon 
+* Çcriçones demasiadamente profissional focaliza l "cumo" i nun l "qué" 
+* Relacionamiento andireto cula I/S (anduçon a erros/stados)
+* Inda se foca an cumo la tarefa debe ser feita i nó an l que debe ser feito.
+* Tende a gerar códigos cunfusos, adonde tratamiento de ls dados son misturados cul cumportamiento de l porgrama
+
+== Lenguaiges de porgramaçon ==
+
+Alguns eisemplos de lenguaiges de porgramaçon que baseian-se ne l modelo amperatibo:
+
+* [[Ada (lenguaige de porgramaçon)|Ada]]
+* [[ALGOL]]
+* [[Basic]]
+* [[Lenguaige de porgramaçon C|C]]
+* [[PHP]]
+* [[Jaba]]
+* [[Cobol]]
+* [[Fortran]]
+* [[Pascal]]
+* [[Python]]
+* [[Luna (lenguaige de porgramaçon)|Luna]]
+* [[Mathematica]]
+
+== Leitura Recomendada ==
+
+Pratt, Terrence W. i Marbin B. Zelkowitç. Lénguas De Porgramaçon: Porjeto i eisecuçon. ó ed. Penhascos De Anglewod, N.J.: Prentice Salon, 1996.
+
+Sebesta, Robert W. Cunceitos de lénguas de porgramaçon. ó ed. Leitura, Massa.: Addison-Wesley Publishing Cumpanha, 1996.
+
+== Ber Tamien ==
+
+* [[Paradigma de porgramaçon]]
+* [[Lenguaige de porgramaçon]]
+* [[Porgramaçon funcional]]
+* [[Porgramaçon procedural]] 
+* [[Porgramaçon ourientada a oubjetos]]
+* [[Porgramaçon struturada]]
+
+== Refréncias Sternas ==
+
+ 1. TimeLine http://ambed.berite.co/timeline/?source=0AjCODbGJQpJSdDdBRTJpTlZWUEpzelE1bnc2cEJLYUE&font=Beban-PotanoSanes&matype=toner&lang=en&height=650
+
+
+{{rabisco-software}}
+
+[[Catadorie:Paradigmas de porgramaçon]]
