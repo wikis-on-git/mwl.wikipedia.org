@@ -62,7 +62,7 @@ adonde
 L'asterisco repersenta l'ouparaçon [[Fecho de Klene]] ó streilha.
 
 === Aplicaçon de regra ===
-Para qualquiera cadeia <math>u, b\in (B\cup\Sigma)^{*}</math>, dezimos que <math>u\,</math> porduç <math>b\,</math>, scrito cumo <math>u\Rightarrow b\,</math>, se <math>\eisists (\alpha, \beta)\in R</math> cun <math>\alpha \in B</math> i <math>u_{1}, u_{2}\in (B\cup\Sigma)^{*}</math> tal que <math>u\,=u_{1}\alpha u_{2}</math> i <math>b\,=u_{1}\beta u_{2}</math>. Por cunseguinte, <math>\! b</math> ye l resultado de l'aplicaçon de la regra <math>\! (\alpha, \beta)</math> para <math>\! u</math>.
+Para qualquiera cadeia <math>u, b\in (B\cup\Sigma)^{*}</math>, dezimos que <math>u\,</math> porduç <math>b\,</math>, scrito cumo <math>u\Rightarrow v\,</math>, se <math>\exists (\alpha, \beta)\in R</math> cun <math>\alpha \in B</math> i <math>u_{1}, u_{2}\in (B\cup\Sigma)^{*}</math> tal que <math>u\,=u_{1}\alpha u_{2}</math> i <math>b\,=u_{1}\beta u_{2}</math>. Por cunseguinte, <math>\! b</math> ye l resultado de l'aplicaçon de la regra <math>\! (\alpha, \beta)</math> para <math>\! u</math>.
 
 === Aplicaçon de regra repetitiba ===
 Para to <math>u, b\in (B\cup\Sigma)^{*}, u\stackrel{*}{\Rightarrow} b</math> (ó <math>u\Rightarrow\Rightarrow b\,</math> an algums libros-testo), se <math>\ u_{1}, u_{2}, \cdots u_{k}\in (B\cup\Sigma)^{*}, k\geq 0</math> tal que <math>u\Rightarrow u_{1}\Rightarrow u_{2}\cdots\Rightarrow u_{k}\Rightarrow b</math>
