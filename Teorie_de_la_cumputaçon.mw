@@ -1,0 +1,213 @@
+{{Sin-fuontes|data=abril de 2013}}
+{{Wikificaçon|data=abril de 2013}}
+Cumputaçon puode ser defenida cumo la soluçon dun porblema ó, formalmente, l cálclo dua funçon, atrabeç dun [[algoritmo]]. La '''teorie de la cumputaçon''', un subcampo de la [[ciéncia de la cumputaçon]] i [[matemática]], busca detreminar quales porblemas puoden ser cumputados nun dado modelo de cumputaçon. Por miles d'anhos, la cumputaçon fui feita cun lápeç i papel, ó giç i quadro, ó mentalmente, a las bezes cula ajuda de tabelas.
+
+La '''''teorie de la cumputaçon''''' tubo ampeço ne ls purmeiros anhos de l seclo XX, antes de l'ambençon de ls modernos cumputadores eiletrónicos. Naqueilha época, ls [[matemáticos]] stában tentando çcubrir quales porblemas matemáticos poderien ser resolbidos por un método simples, i quales nun poderien. L purmeiro passo staba an defenir l seneficado dun "método simples" para resulber l porblema. An outras palabras, eilhes percisában dun modelo formal de la cumputaçon.
+
+Dibersos modelos defrentes de la cumputaçon fúrun propostos puls purmeiros pesquisadores. Un modelo, coincido cumo [[Máquina de Turing]], propunha la custruçon dua máquina ounibersal, capaç d'ouperar cun ua sequéncia d'anstruçones i dados antremeados nua fita de cumprimiento anfenito; la máquina poderie ouperar nun punto de la fita de cada beç outelizando un cabeçote de leitura i scrita, eisecutando assi la porgramaçon que le fur passada. Outro modelo, se baseia an [[recursebidade|funçones recursibas]] cumpuostas para ouperar diretamente subre ls númaros. Ua abordaige similar ye l [[Cálclo Lambda|cálclo lambda]]. Outra classe d'abordaiges trabalha cun regras gramaticales ouperando subre cadeias de carateres, cumo ye l causo de ls [[cadeias de Markob]] i de ls [[sistemas de Post]].
+
+Todos ls formalismos propostos arriba son eiquibalentes an tenermos de poder cumputacional—ó seia, qualquiera cumputaçon que puoda ser rializada cun un modelo puode ser rializada cun qualquiera un de ls outros modelos. Inda an tenermos teóricos, ls modelos propostos son eiquibalentes als cumputadores eiletrónicos, zde que nun haba restriçones de mimória ambolbidas. Na berdade, acradita-se que todas las formalizaçones teoricamente possibles pa l cunceito d'algoritmo son eiquibalentes an poder a ua máquina de Turing; esta ye la [[tese de Church-Turing]]. Las questones relatibas a la possibelidade de rializar ciertos tipos de cumputaçon an detreminados tipos de máquina (ó formalismo teórico) son ambestigadas pula teorie de la cumputabelidade.
+
+La teorie de la cumputaçon studa ls modelos de cumputaçon genéricos, assi cumo ls lemites de la cumputaçon:
+
+* Quales porblemas jamales poderán ser resolbidos por un cumputador, andependiente de la sue belocidade ó mimória? (Ver: [[Porblema de la parada]], [[Porblema de la Correspondéncia de Post]].) 
+* Quales porblemas puoden ser resolbidos por un cumputador, mas requíren un período tan stenso de tiempo para cumpletar a punto de tornar la solucon ampraticable? (Ber: [[Aritmética de Presburger]].) 
+* An que situaçones puode ser mais defícel resulber un porblema de l que berificar cada ua de las soluçones manualmente? (Ber [[Classes P i NP]]).
+
+An giral, las questones relatibas als requerimientos de tiempo ó spácio (mimória, an particular) de porblemas specíficos son ambestigadas pula [[Cumplexidade cumputacional|teorie de la cumplexidade cumputacional]].
+
+Para alhá de ls modelos genéricos de cumputaçon, alguns modelos cumputacionales mais simples son úteles para aplicaçones mais restritas. [[Spresson Regular|Spressones regulares]], son por eisemplo outelizadas para specificar padrones de cadeias de carateres, sendo populares an aplicaçones [[UNIX]] i an alguas lenguaiges de porgramaçon, cumo [[Perl]] i [[Python]]. Outro formalismo matematicamente eiquibalente a las spressones regulares son ls [[Máquina de stado fenito|outómatos fenitos]], que son outelizados an zeinho de circuitos i an alguns sistemas de resoluçon de porblemas. Las [[Gramática libre de cuntesto|gramáticas libres de cuntesto]] son outelizadas para specificar la sintaxe de las lenguaiges de porgramaçon; un formalismo eiquibalente, son ls [[Outómato#Outómatos a la pilha (ó pushdown)|outómatos cun pilha]], ó ''pushdown outomata''. Las [[funçones recursibas primitibas]] forman ua subclasse de las funçones recursibas.
+
+Modelos de cumputaçon defrentes puoden rializar tarefas çtintas. Ua forma de studar l poder dun modelo cumputacional ye estudar la classe de las [[Lenguaige formal|lenguaiges formales]] que l modelo puode gerar; l resultado ye la [[hierarquia de Chomsky]] de las lenguaiges.
+
+Las tabelas ambaixo mostran alguas de las classes de porblemas (ó lenguaiges, ó gramáticas) que son cunsidradas an teorie de la cumputabelidade (azul) i an teorie de la cumplexidade (burmeilho).  Se la classe '''X''' ye un subconjunto propiamente cuntido an '''Y''', anton '''X''' ye mostrado ambaixo de '''Y''', conetados por un linha scura.  Se '''X''' ye un subconjunto, mas nun ye sabido se ls cunjuntos son eiguales ó nó, anton la linha que ls coneta será mais clara i pontilhada.
+
+{| cellpadding="0" cellspacing="0" border="0" align="center"
+|----- align="center"
+| colspan=2 | || colspan=4 | 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[decesion porblen|Porblema de decison]]
+|}
+|----- align="center"
+| colspan=2 | || [[Fexeiro:solidLine.png]]
+| colspan=2 | || [[Fexeiro:solidLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Lenguaige recursibamente enumerable|Tipo 0 (Recursibamente enumerable)]]
+|}
+|
+| colspan=4 | 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Andecidíbel]]
+|}
+|----- align="center"
+| colspan=3 | [[Fexeiro:solidLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Decidable language|Decidíbel]]
+|}
+|----- align="center"
+| colspan=3 | [[Fexeiro:solidLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[EXPSPACE]]
+|}
+|----- align="center"
+| colspan=3 | [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[EXPTIME]]
+|}
+|----- align="center"
+| colspan=3 | [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| colspan=8 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[PSPACE]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || width=40 | [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]] || [[Fexeiro:dottedLine.png]] ||
+| [[Fexeiro:dottedLine.png]] ||
+ || [[Fexeiro:dottedLine.png]]
+|----- align="center"
+|
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Gramática sensible al cuntesto|Tipo 1 (Sensíbel al cuntesto)]]
+|}
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:dottedLine.png]]
+| border="1" | [[Fexeiro:dottedLine.png]]
+|
+ || [[Fexeiro:dottedLine.png]] || || colspan=1 | 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[PSPACE-Cumpleto]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]] || [[Fexeiro:dottedLine.png]] ||
+| [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+|
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[Co-NP]]
+|}
+| [[Fexeiro:dottedLine.png]] || || colspan=3 | 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[NP (cumplexidade)|NP]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]] || [[Fexeiro:dottedLine.png]] ||
+| [[Fexeiro:dottedLine.png]] ||
+ || [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]] ||
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[BPP]]
+|}
+| width=10 | || 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[BQP]]
+|}
+| width=10 | || 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[NP-Cumpleto]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]] || [[Fexeiro:dottedLine.png]] ||
+| [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| colspan=6 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[P (cumplexidade)|P]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || [[Fexeiro:solidLine.png]]
+| [[Fexeiro:dottedLine.png]]
+| colspan=4 | || [[Fexeiro:dottedLine.png]]
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || colspan=2 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[Classe NC|NC]]
+|}
+| colspan=4 | || 
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightGren" width="100%" height="100%"
+|-----
+| align="center" | [[P-Cumpleto]]
+|}
+|----- align="center"
+| [[Fexeiro:solidLine.png]] || colspan=2 | [[Fexeiro:solidLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Gramática libre de cuntesto|Tipo 2 (Libre de cuntesto)]]
+|}
+|----- align="center"
+| colspan=3 | [[Fexeiro:solidLine.png]]
+|----- align="center"
+| colspan=3 |
+{| cellpadding="0" cellspacing="0" border="1" bgcolor="lightBlue" width="100%" height="100%"
+|-----
+| align="center" | [[Gramática Regular|Tipo 3 (Regular)]]
+|}
+|}
+
+*[[Teorie de ls porblemas]]
+*[[Teorie de ls grafos]]
+*[[Lenguaige de Cumputadores]]
+**[[Lenguaige formal]]
+**[[Hierarquia de Chomsky]]
+*[[Reconhecedores]]
+**[[Outómatos]]
+***[[Modelo cumputacional]]
+****[[Máquina de Turing]]
+****[[Cálclo Lambda]]
+****[[Lenguaige While]]
+*[[Cumpilador]]
+**[[Análeze léxica]]
+**[[Análeze sintática]]
+**[[Análeze semántica]]
+*[[Anterpretador]]
+
+=={{Ber tamien}}==
+
+* [[Porblemas an abierto de la Ciéncia de la cumputaçon]]
+{{Teorie de la cumputaçon}}
+==Softwares==
+* [http://www.din.uen.br/yandre/stmf/ SCTMF] - Software para Criaçon i Teste de Modelos Formales.
+* [http://www.jflap.org JFlap] - Software amaricano para testes cun anterface gráfica.
+
+{{rabisco-anformática}}
+
+{{Bloco de nabegaçon
+|ciéncias-rodapie
+|Cumputaçon}}
+
+[[Catadorie:Teorie de la cumputaçon|*]]
+
+[[aire:معلوماتية نظرية#نظرية التحسيب]]
