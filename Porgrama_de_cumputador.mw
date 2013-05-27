@@ -1,0 +1,52 @@
+Un '''porgrama de cumputador''' ó '''porgrama anformático''' ye ua coleçon de [[Anstruçon (anformática)|anstruçones]] que çcriben ua tarefa a ser rializada por un [[cumputador]]. L termo puode ser ua refréncia al [[código fuonte]], scrito an algua [[lenguaige de porgramaçon]], ó al [[fexeiro|arquibo]] que cuntén la forma [[eisecutable]] deste código fuonte.
+{{Scute
+ |arquibo  = Papo_BJPnet_27.ogg
+ |títalo   = Podcast Papo BJPnet, númaro 27
+ |çcriçon = Eipisódio de podcast cun splicaçon básica subre cumo funciona un porgrama de cumputador, un software, cun 7min3s.
+ |posiçon  = dreita
+}}
+
+==Stória==
+L porgrama de cumputador surgiu antes de l zambolbimiento de l [[cumputador eiletrónico]]. Un trabalho publicado an 1843 por [[Ada Lobelace]], sugerindo ua forma para calcular ls [[númaros de Bernoulli]] atrabeç de la [[máquina analítica]] de [[Charles Babbage]], ye tenido cumo l purmeiro porgrama de cumputador.<ref>{{citar web|url=http://www.cs.yale.edu/homes/tap/Files/ada-bio.html|outor=Dr. Betty Tole|titulo=Ada Byron, Lady Lobelace (1815-1852)|acessodata=10/04/2007}}</ref><ref>{{citar web|url=http://www.fourmilab.ch/babbage/sketch.html|titulo=Sketch of The Analytical Angine Ambented by Charles Babbage|outor=Augusta Ada King, Countess of Lobelace||acessodata=10/04/2007}}</ref>
+
+La purmeira aplicaçon prática de la porgramaçon surgiu culs çpositibos baseados an cartones perfurados, que éran outelizados zde l [[seclo XVIII]] na andústria de la cunfeçon.<ref>{{citar web|url=http://www.sscnet.ucla.edu/geog/gessler/topics/jacquard.htn|titulo=Jacquard Mechanisn and Cards||acessodata=10/04/2007}}</ref> L'ampresairo stadunidense [[Heirmann Hollerith]] outelizou l cunceito ne l processamiento de ls dados de l censo de ls [[Stados Ounidos]] an 1890.<ref>{{citar web|url=http://anfolab.stanford.edu/pub/boy/museun/pitures/çplay/2-2-EilecKeyPunch.htn|titulo=IBM Cards and keypunch||acessodata=10/04/2007}}</ref>
+
+Ls purmeiros cumputadores eiletrónicos éran porgramados solamente atrabeç de [[lenguaige de porgramaçon de baixo nible|lenguaiges de baixo nible]]. Essas lenguaiges nun çponibelizában un nible d'abstraçon subre l ''[[hardware]]'' i ls comandos éran anterpretados diretamente puls [[circuito eiletrónico|circuitos eiletrónicos]]. Ne l [[ENIAC]], un de ls eiquipamientos mais amblemáticos na stória de la cumputaçon, la porgramaçon era rializada atrabeç de ligaçones manuales, qu'ounien las ounidades de processamiento de l cumputador, formando ua sequéncia d'eisecuçon.<ref>{{citar web|url=http://www.library.upenn.edu/shibits/rbn/mauchly/jwm8b.html|titulo=Technical Çcrition of the ENIAC||acessodata=10/04/2007}}</ref>
+
+Las [[lenguaige de porgramaçon d'alto nible|lenguaiges d'alto nible]] surgiran por buolta de la [[década de 1940]], cumo la [[Plankalkul]] i la [[Short Code]], i tubírun grande ampulso cul zambolbimiento de ls [[cumpilador]]s, que tornórun la porgramaçon ua atebidade possible para un grande númaro de pessonas. Na [[década de 1950]] surgiu la purmeira lenguaige de grande aceitaçon, l [[Fortran]].<ref>{{citar web|url=http://www.msnbc.msn .com/id/17704662/|titulo=Porgramming annobator made cumputer coding easier, more antuitibe||acessodata=10/04/2007}}</ref>
+
+== Treminologie ==
+Un porgrama de cumputador ye la formalizaçon dun [[algoritmo]] an qualquiera lenguaige capaç de ser trasformada an anstruçones que seran eisecutadas por un cumputador gerando ls resultados sperados .
+
+L termo "software" puode ser outelizado quando se quier chamar un cunjunto de porgramas ó, mais frequentemente, quando ye feita ua refréncia a la parte nun física de l [[sistema cumputacional]], an cuntraposiçon al termo "[[hardware]]", que zeigna l cunjunto de [[cumponente eiletrónico|cumponentes eiletrónicos]] que custituen un cumputador.
+
+Ls porgramas de cumputador outelizados diretamente por pessonas quemuns, cumo ls [[eiditor de testo|eiditores de testo]], son chamados de software aplicatibo, ó d'aplicaçon. Ls porgramas buoltados para dar suporte funcional als cumputadores, cumo ls [[sistema ouperatibo|sistemas ouperacionales]], son chamados de software de sistema. Esses softwares, assi cumo aqueilhes ambutidos an outros sistemas (''[[firmware]]''), puoden ser genericamente chamados de "porgramas".
+
+== Eisecuçon de l porgrama ==
+{{Artigo percipal|[[Tiempo d'eisecuçon]]}}
+Un porgrama de cumputador ye purmeiramente carregado na [[mimória (cumputador)|mimória de l cumputador]] (usualmente pul [[sistema ouperacional]]). L sistema ouperacional ourganiza trés blocos de mimória, tamien chamados segmientos. L purmeiro ye l [[segmiento de código]], que ye stático an tamanho i an cuntenido. El recibe to l código de máquina que define las [[subrotina]]s de l porgrama, i l'andereço de cada subrotina ye defenido cumo l menor de ls andereços de las células de mimória que la definen.
+
+L segundo bloco de mimória ye l [[segmiento de dados]], i recibe las [[bariable global|bariables globales]]. Assi cumo ne l segmiento de código, l'andereço de cada bariable ye defenido cumo l menor de ls andereços de las células de mimória que l definen. El ye stático an tamanho mas dinámico an cuntenido, l que senefica qu'este segmiento nun puode criar bariables an tiempo d'eisecuçon, mas l cuntenido ye bariable, puode ser modificado.
+
+L terceiro bloco de mimória ye l [[segmiento de pilha]], ua ária de mimória na qual armazena-se anformaçon an forma dua [[LIFO|pilha]]. el sirbe para armazenar anformaçones cumo bariables locales, parámetros de subrotinas i andereços de retorno (para adonde l fluxo de l porgrama debe ir passado l'eisecuçon dua funçon, esto ye, l punto lougo passado eilha fui ambocada.) Antes de l'eisecuçon de l porgrama propiamente dita, la pilha ye sbaziada.
+
+A partir d'anton l porgrama ye eisecutado, anstruçon por anstruçon, até l sou término. L'eisecuçon dun porgrama de cumputador puode ser abrebiada an causo d'erro de ''software'' ó de ''[[hardware]]''.
+
+== Porgrama bersus dados ==
+La forma eisecutable dun porgrama, normalmente un [[código oubjeto]], ye frequentemente tratada cumo algo apartado de ls dados outelizados por este porgrama. An alguas lenguaiges, cumo l [[LISP]], esta çtinçon nun ye tan clara pus ls porgramas puoden criar ó modificar ls dados, qu'an seguida son eisecutados cumo parte de l mesmo porgrama.
+
+== Porgramaçon ==
+{{Artigo percipal|[[Porgramaçon de cumputadores]]}}
+L'ato de porgramar un cumputador ye un porcesso iteratibo que cunsiste na criaçon ó altaraçon de código fuonte, seguido de testes, análeze i posterior refinamiento de l resultado. Ua pessona que rializa este trabalho ye coincida cumo porgramador de cumputador ó zambolbedor de ''software''. La criaçon de porgramas de cumputador, quando baseada an metodologies ó porcessos formalizados, ye coincida cumo [[angenharie de software]].
+
+== {{Ber tamien}} ==
+* [[Porgramaçon]]
+
+{{ref-section}}
+
+{{DEFAULTSORT:Porgrama Cumputador}}
+[[Catadorie:Porgramas de cumputador| ]]
+[[Catadorie:Porgramaçon]]
+[[Catadorie:Treminologie anformática]]
+
+{{rabisco-anformática}}
