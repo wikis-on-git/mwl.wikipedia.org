@@ -1,4 +1,4 @@
-[[Fexeiro:DFAexample.sbg|thumb|250px|Un eisemplo d'outómato. L studo de propiadades matemáticas destes outómatos ye la teorie de ls outómatos]]
+[[Fexeiro:DFAexample.svg|thumb|250px|Un eisemplo d'outómato. L studo de propiadades matemáticas destes outómatos ye la teorie de ls outómatos]]
 Na Ciéncia de la cumputaçon teórica, '''teorie de ls outómatos''' ye l studo de ls oubjetos matemáticos chamados [[Outómato|máquinas abstratas]] ó outómatos i ls porblemas cumputacionales que puoden ser resolbidos usando esses oubjetos. ''Outómato'' ben de la palabra griega αὐτόματα que senefica “açon sin anfluéncia sterna; outomático”.
 
 La figura al lado eilustra ua [[Máquina de stados fenitos|máquina de stados fenitos]], que pertence a ua bariadade bien coincida d'outómato. Este outómato cunsiste an stados (repersentados na figura por círclos), i trasiçones (repersentado por setas). Quando l'outómato recibe un simblo d'antrada, el faç ua trasiçon (ó salto) para outro stado, d'acuordo cun sue funçon de trasiçon (que ten cumo antradas l stado atual i l simblo recente).
