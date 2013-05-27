@@ -1,0 +1,339 @@
+La '''teorie de la cumplexidade cumputacional''' ye un galho de la [[teorie de la cumputaçon]] an [[ciéncia de la cumputaçon teórica]] i [[matemática]] que se cuncentra an classeficar porblemas cumputacionales d'acuordo cun sue deficuldade inerente, i relacionar essas classes antre si. Neste cuntesto, un porblema cumputacional ye antendido cumo ua tarefa que ye, an percípio, passible de ser resolbida por un cumputador (l que basicamente senefica que l porblema puode ser çcrito por un cunjunto d'anstruçones matemáticas). Anformalmente, un porblema cumputacional cunsiste d'anstáncias de l porblema i soluçones para essas anstáncias de l porblema. Por eisemplo, l [[teste de primalidade]] ye l porblema de detreminar se un dado númaro ye [[Númaro primo|primo]] ó nó. Las anstáncias deste porblema son númaros naturales, i la soluçon para ua anstáncia ye ''si'' ó ''nó'', dependendo se l númaro ye primo ó nó.
+
+Un porblema ye cunsidrado cumo inerentemente defícel se la sue soluçon requer recursos seneficatibos, qualquiera que seia l'algoritmo ousado. La teorie formaliza esta antuiçon atrabeç de l'antroduçon de [[Modelo de cumputaçon|modelos matemáticos de cumputaçon]] para studar estes porblemas i quantificar ls recursos necessairos para resolbé-los, tales cumo tiempo i armazenamiento. Outras medidas de cumplexidade tamien son outelizadas, tales cumo la cantidade de quemunicaçon (ousada an [[cumplexidade de quemunicaçon]]), l númaro de [[Puortas lógicas|puortas]] nun circuito (ousado na [[cumplexidade de circuito]]) i l númaro de processadores (ousados an [[cumputaçon paralela]]). Un de ls papéis de la teorie de la cumplexidade cumputacional ye detreminar ls lemites práticos de l que ls cumputadores puoden i nun puoden fazer.
+
+Campos antimamente relacionados cula ciéncia de la cumputaçon teórica son la [[análeze d'algoritmos]] i la [[Wikipédia:Traduçon/Cumputabelity theory|teorie de la cumputabelidade]]. Ua çtinçon chabe antre l'análeze d'algoritmos i teorie de la cumplexidade cumputacional ye que la purmeira ye dedicada a analisar la cantidade de recursos necessairos para un detreminado algoritmo resulber un porblema, anquanto l segundo faç ua pregunta mais giral subre todos ls possibles algoritmos que puoden ser ousados para resulber l mesmo porblema. Mais percisamente, el tenta classeficar ls porblemas que puoden ó nun puoden ser resolbidos culs recursos debidamente restritos. Por sue beç, ampondo restriçones subre ls recursos çponibles ye l que çtingue la cumplexidade cumputacional de la teorie de la cumputabelidade: la segunda pregunta que tipos de porblemas puoden, an percípio, ser resolbidos atrabeç d'algoritmos.
+
+==Porblemas Cumputacionales==
+[[Fexeiro:TSP Deutschland 3.png|thumb|200px|Un camino ótimo pa l cacheiro biajante passando pulas 15 maiores cidades de la Almanha. Ye l menor camino antre las 43.589.145.600<ref group="nb">Scolha ua cidade, i pegue todas las ourdenaçones possibles de las outras 14 cidades. Depuis debeda por dous, porque nun amporta an qual direçon pul tiempo eilhas bénen ua passado l'outra: 14 / 2 = 43.589.145.600.</ref> possibelidades de se bejitar cada cidade satamente ua única beç.]]
+
+===Anstáncias de Porblema===
+Un [[porblema cumputacional]] puode ser bisto cumo ua coleçon anfenita de ''anstáncias'' an cunjunto cun ua ''soluçon'' para cada anstáncia. La sequéncia d'antrada para un porblema cumputacional ye referido cumo ua anstáncia de l porblema, i nun debe ser cunfundido cul porblema an si. Na teorie de la cumplexidade cumputacional, un porblema se refire a la queston abstrata para ser resolbido. An cuntreste, ua anstáncia deste porblema ye ua spresson cuncreta, que puode serbir cumo antrada para un porblema de decison. Por eisemplo, cunsidre l porblema de teste de primalidade. L'anstáncia ye un númaro (por eisemplo, 15) i la soluçon ye "si" se l númaro ye primo i "nó" se fur l cuntrairo (neste causo "nó"). Altarnatibamente, l'anstáncia ye ua antrada special pa l porblema, i la soluçon ye la salida correspondente a l'antrada.
+
+Para rialçar inda mais la defrença antre un porblema i ua anstáncia, cunsidre la seguinte anstáncia de la berson de decison de l [[porblema de l caixeiro biajante]]: Eesiste un percurso de, ne l mássimo, 2000&nbsp;Km de cumprimiento passando por todas las 15 maiores cidades de la Almanha? La repuosta l'esta detreminada anstáncia de l porblema ye de pouca outelidade pa la resoluçon d'outras anstáncias de l porblema, cumo pedir ua ida i buolta atrabeç de todos ls lugares de Milon cujo cumprimiento total ye ne l mássimo 10&nbsp;Km. Por esta rezon, la teorie de la cumplexidade aborda porblemas cumputacionales i nun anstáncias particulares de l porblema.
+
+===Repersentando anstáncias de porblema===
+Al cunsidrar porblemas cumputacionales, ua anstáncia de porblema ye ua cadeia subre un alfabeto. Normalmente, l'alfabeto ye cunsidrado cumo sendo l'alfabeto binairo (ó seia, l cunjunto {0,1}), i, assi, las cadeias son bitstrings. Cumo nun cumputador de l mundo rial, oubjetos matemáticos que nun son bitstrings dében ser debidamente codificados. Por eisemplo, [[Númaro anteiro|númaros anteiros]] puoden ser repersentados an [[Sistema binairo (matemática)|notaçon binária]], i [[grafo]]s puoden ser codificados diretamente bie sues [[Matriç d'adjacéncia|matrizes d'adjacéncia]], ó por codificaçon de sues [[Lista d'adjacéncia|listas d'adjacéncia]] an binairo.
+
+Anque alguas probas de cumplexidade-teórica de teoremas regularmente assumir algua scolha cuncreta de codificaçon d'antrada, tenta-se manter la çcusson abstrata l suficiente para ser andependiente de la scolha de la codificaçon. Esto puode ser cunseguido assegurando que defrentes repersentaçones puodan ser trasformadas an outra de forma eficiente.
+
+[[Fexeiro:Decisao.png|thumb|200px|Un porblema de decison ten solo dues salidas possibles, ''si'' ó ''nó'' (ó altarnatibamente 1 ó 0) para qualquiera antrada.]]
+
+===Porblemas de decison cumo lenguaiges formales===
+[[Porblema de decison|Porblemas de decison]] son un de ls oubjetos de studo centrales na teorie de la cumplexidade cumputacional. Un porblema de decison ye un tipo special de porblema cumputacional cuja repuosta ye si ó nó, ó altarnatibamente 1 ó 0. Un porblema de decison puode ser bisto cumo ua [[lenguaige formal]], adonde ls nembros de la lenguaige son anstáncias cuja repuosta ye ''si'', i ls nun nembros de la lenguaige son aqueilhas anstáncias cuja salida ye ''nó''. L'oubjetibo ye decidir, cula ajuda dun [[algoritmo]], se ua dada sequéncia d'antrada ye un nembro de la lenguaige formal an cunsidraçon. Se l'algoritmo decidir este porblema, el retorna la repuosta ''si'', diç-se que l'algoritmo aceita la sequéncia d'antrada, causo cuntrairo, diç-se que rejeita l'antrada.
+
+Un eisemplo dun porblema de decison ye l seguinte. L'antrada ye un grafo arbitrairo. L porblema cunsiste an decidir se l dado grafo ye conexo ó nó. La lenguaige formal associada l'este porblema de decison ye anton l cunjunto de todos ls grafos conexos—oubbiamente, para oubter ua defeniçon percisa dessa lenguaige, ye perciso decidir cumo grafos son codificados cumo cadeias binárias.
+
+===Porblemas de funçon===
+Un [[porblema de funçon]] ye un porblema cumputacional, adonde ua única salida (dua [[Funçon parcial|funçon total]]) ye sperada para cada antrada, mas la salida ye mais cumplexa de l que la dun porblema de decison, esto ye, nun ye solo si ó nó. Eisemplos notables ancluen l porblema de l caixeiro biajante i l [[Fatoraçon d'anteiros|porblema de fatoraçon d'anteiros]].
+
+Ye tentador pensar que la noçon de porblemas de funçon ye mui mais rica de l que la noçon de porblemas de decison. Inda assi, l causo rialmente nun ye esse, yá que porblemas de funçon puoden ser reformulados cumo porblemas de decison. Por eisemplo, la multiplicaçon de dous númaros anteiros puode ser spressa cumo l cunjunto (''la'',&nbsp;''b'',&nbsp;''c'') tal qual la relaçon ''la''&nbsp;×&nbsp;''b''&nbsp;=&nbsp;''c'' çcribe. Decidir se ua dada tripla ye nembro deste cunjunto corresponde a resulber l porblema de la multiplicaçon de dous númaros.
+
+===Mediçon de l tamanho dua anstáncia===
+Para medir la deficuldade de resulber un porblema cumputacional, puode-se zeiar ber quanto tiempo l melhor algoritmo necessita para resulber l porblema. Inda assi, l tiempo d'eisecuçon puode, an giral, depender de l'anstáncia. An particular, anstáncias maiores eisigiron mais tiempo para resulber. Assi, l tiempo necessairo para resulber un porblema (ó l spácio necessairo, ó qualquiera outra medida de cumplexidade) ye calculado an funçon de l tamanho de l'anstáncia. Esso giralmente lieba an cunsidraçon l tamanho de l'antrada an bits. La Teorie de la Cumplexidade stá antressada an cumo ls d'algoritmos crecen cun un oumiento ne l tamanho de l'antrada. Por eisemplo, ne l porblema de çcubrir se un grafo ye conetado, quanto tiempo la mais lieba para resulber un porblema para un grafo cun 2''m'' bértices cumparado al tiempo liebado para un grafo cun ''m'' bértices?
+
+Se l tamanho de l'antrada ye ''m'', l tiempo gasto puode ser spresso cumo ua funçon de ''m''. Yá que l tiempo gasto an defrentes antradas de mesmo tamanho puode ser defrente, l pior causo an cumplexidade de tiempo T(''m'') ye defenido cumo sendo l tiempo mássimo dentre todas las antradas de tamanho ''m''. Se T(''m'') ye un polinómio an ''m'', anton l'algoritmo ye dezido ser un algoritmo de [[tiempo polinomial]]. La [[tese de Cobhan]] diç qu'un porblema puode ser resolbido cun ua cantidade fatible de recursos se el admite un algoritmo de tiempo polinomial.
+
+==Modelos de máquinas i medidas de cumplexidade==
+===Máquina de Turing===
+[[Fexeiro:Maquina.png|thumb|Ua repersentaçon artística dua máquina de Turing]]
+{{Artigo percipal|Máquina de Turing}}
+Ua máquina de Turing ye un modelo matemático dua máquina de cumputaçon an giral. Ye un çpositibo teórico que manipula simblos cuntidos nua tira de fita. Máquinas de Turing nun pretenden ser ua tecnologie de cumputaçon na prática, mas si ua spriéncia de pensamiento que repersenta ua máquina de cumputaçon. Acradita-se que se un porblema puode ser resolbido por un algoritmo, anton eisiste ua máquina de Turing que resolbe l porblema. Na berdade, esta ye l'afirmaçon de la [[tese de Church-Turing]]. Para alhá desso, sabe-se que todo l que puode ser cumputado an outros modelos de cumputaçon coincido por nós hoije, cumo ua máquina RAM, [[Jogo de la bida|Jogo de la Bida de Cunway]], [[Outómato telemoble|outómato telemoble]] ó qualquiera lenguaige de porgramaçon puode ser cumputado nua máquina de Turing. Cumo las máquinas de Turing son fáceles d'analisar matematicamente, i acradita-se que séian tan poderosas quanto qualquiera outro modelo de cumputaçon, la máquina de Turing ye l modelo mais quemumente ousado an teorie de la cumplexidade.
+
+Muitos tipos de máquinas de Turing son ousados para defenir las classes de cumplexidade, tales cumo [[Máquina de Turing|máquinas de Turing determinísticas]], [[Máquina de Turing porbabilística|máquinas de Turing porbabilísticas]], [[Máquina de Turing nun determinística|máquinas de Turing nó-determinísticas]], [[Máquina de Turing quántica|máquinas de Turing quánticas]], [[Máquina de Turing simétrica|máquinas de Turing simétricas]] i [[Máquina de Turing altarnada|máquinas de Turing altarnadas]]. Todas eilhas son eigualmente poderosas, an percípio, mas quando ls recursos (tales cumo tiempo i spácio) son lemitados, alguas destas puoden ser mais poderosas de l qu'outras.
+
+Ua máquina de Turing determinística ye la máquina de Turing de l tipo mais básico, qu'outeliza un cunjunto fixo de regras para detreminar sues açones feturas. Ua máquina de Turing porbabilística ye ua máquina de Turing determinística cun un suprimiento stra de bits aleatórios. La capacidade de tomar decisones porbabilísticas muitas bezes ajuda algoritmos la resolbíren porblemas de forma mais eficiente. Algoritmos que úsan bits aleatórios son chamados [[Algoritmo porbabilístico|algoritmos porbabilísticos]]. La máquina de Turing nó-determinística ye ua máquina de Turing determinística cun ua caratelística adicional de nó-determenismo, que permite qu'ua máquina de Turing tenga bárias possibles açones feturas a partir dun detreminado stado. Ua maneira d'antender l nó-determenismo ye bisualizar ls galhos de la máquina de Turing cumo ls bários caminos cumputacionales possibles la cada passo, i se eilha resolbe l porblema an qualquiera un desses galhos, diç-se tener resolbido l porblema. Eibidentemente, este modelo nun pretende ser un modelo fesicamente rializable, ye solo ua máquina abstrata teoricamente antressante que dá ourige a classes de cumplexidade particularmente antressantes. Por eisemplo, beija algoritmo nó-determinístico.
+
+===Outros modelos de máquinas===
+Muitos modelos de máquinas defrentes de l padron de [[Máquina de Turing multifita|máquinas de Turing multi-fitas]] ténen sido propostos na literatura, por eisemplo, máquinas d'acesso aleatório. Talbeç surprendentemente, cada un desses modelos puode ser cumbertido para outro, sin fornecer qualquiera poder cumputacional stra. L cunsumo de tiempo i mimória desses modelos altarnatibos puode bariar.<ref>Beija {{harbnb|Arora|Barak|2009|loc=Chater 1: The cumputational model and why it doesn't matter}}</ref> L que todos estes modelos ténen an quemun ye que las máquinas funcionan de forma determinística.
+
+Inda assi, alguns porblemas cumputacionales son mais fáceles d'analisar an tenermos de recursos mais ancomuns. Por eisemplo, ua máquina de Turing nó-determinística ye un modelo cumputacional an que ye permitido ramificar-se para berificar muitas possibelidades defrentes dua solo beç. La máquina de Turing nó-determinística ten mui pouco a ber cula forma cumo nós queremos fesicamente cumputar algoritmos, mas la sue ramificaçon cata satamente muitos de ls modelos matemáticos que queremos analisar, de modo que l tiempo nó-determinístico ye un recurso mui amportante na análeze de porblemas cumputacionales.
+
+===Medidas de cumplexidade===
+Para ua defeniçon percisa de l que senefica resulber un porblema outelizando ua detreminada cantidade de tiempo i spácio, un modelo cumputacional tal cumo la máquina de Turing determinística ye outelizado. L ''tiempo eisigido'' por ua máquina de Turing determinística ''M'' na antrada ''x'' ye l númaro total de trasiçones de stado, ó etapas, que la máquina faç antes de parar i respunder cula salida ("si" ó "nó"). Diç-se que la máquina de Turing ''M'' oupera drento de l tiempo ''f''(''m''), se l tiempo eisigido por ''M'' an cada antrada de cumprimiento ''m'' ye ne l mássimo ''f''(''m''). Un porblema de decison ''La'' puode ser resolbido an tiempo ''f''(''m'') se eisiste ua ouparaçon de la máquina de Turing an tiempo ''f''(''m'') que resolbe l porblema. Cumo la teorie de la cumplexidade stá antressada an classeficar porblemas cun base na sue deficuldade, definen-se cunjuntos de porblemas cun base an alguns critérios. Por eisemplo, l cunjunto de porblemas solucionables ne l tiempo ''f''(''m'') nua máquina de Turing determinística ye anton andicado por [[DTIME]](''f''(''m'')).
+
+Defeniçones análogas puoden ser feitas pa ls requesitos de spácio. Ambora l tiempo i l spácio séian ls mais coincidos recursos de cumplexidade, qualquiera medida de cumplexidade puode ser bista cumo un recurso cumputacional. [[Medidas de cumplexidade]] son giralmente defenidas puls [[Axiomas de Blun|axiomas de cumplexidade de Blun]]. Outras medidas de cumplexidade outelizadas na teorie de la cumplexidade ancluen la [[cumplexidade de quemunicaçon]], la [[cumplexidade de l circuito]] i la [[Modelo d'arble de decison|cumplexidade de l'arble de decison]].
+
+===Melhor, pior i causo médio de cumplexidade===
+[[Fexeiro:Sorting quicksort anin.gif|thumb|250px|Bisualizaçon de l'algoritmo quicksort que ten ne l causo médio zampenho <math>\Theta(m\log m)</math>.]]
+L melhor, l pior i l causo médio de cumplexidade refíren- se la trés maneiras defrentes de medir la cumplexidade de tiempo (ó qualquiera outra medida de cumplexidade) d'antradas defrentes de l mesmo tamanho. Ua beç qu'alguas antradas de tamanho ''m'' puoden ser mais rápidas para resulber de l qu'outras, defenimos las seguintes cumplexidades:
+*Cumplexidade ne l melhor causo: Esta ye la cumplexidade de resulber l porblema pa a melhor antrada de tamanho ''m''.
+*Cumplexidade ne l pior causo: Esta ye la cumplexidade de resulber l porblema pa a pior antrada de tamanho ''m''.
+*Cumplexidade ne l causo médio: Esta ye la cumplexidade de resulber l porblema na média. Essa cumplexidade solo ye defenida cun relaçon a ua [[çtribuiçon de porbabelidade]] subre las antradas. Por eisemplo, se todas las antradas de l mesmo tamanho son cunsidradas tenéren la mesma porbabelidade d'aparecer, la cumplexidade de l causo médio puode ser defenida cun relaçon a la çtribuiçon uniforme subre todas las antradas de tamanho ''m''.
+
+Por eisemplo, cunsidre l'algoritmo d'ourdenaçon [[quicksort]]. Esso resolbe l porblema d'ourdenar ua lista d'anteiros que ye dada cumo antrada. L pior causo ye quando l'antrada yá stá ourdenada ó stá an orde ambersa, i l'algoritmo lieba tiempo L(''m''<sup>2</sup>) para este causo. Se assumirmos que todas las permutaçones possibles de la lista d'antrada son eigualmente probables, l tiempo médio necessairo pa l'ourdenaçon ye L(''m'' log ''m''). L melhor causo ocorre quando cada pibó debede la lista pula metade, tamien percisando tiempo L(''m'' log ''m'').
+
+===Lemites superior i anferior de la cumplexidade de ls porblemas===
+Para classeficar l tiempo de cumputaçon (ó recursos semelhantes, cumo l cunsumo de spácio), ye necessairo probar ls lemites superiores i anferiores subre la cantidade mínima de tiempo eisigida pul algoritmo mais eficiente para resulber un detreminado porblema. La cumplexidade dun algoritmo ye giralmente antendida cumo la sue cumplexidade de pior causo, a menos que seia specificado l cuntrairo. L'análeze dun detreminado algoritmo cai sob l campo d'análeze d'algoritmos. Para amostrar un lemite superior ''T''(''m'') subre la cumplexidade de tiempo dun porblema, ye necessairo amostrar solo qu'hai un detreminado algoritmo cun tiempo de funcionamiento, ne l mássimo, ''T''(''m''). Inda assi, probar lemites anferiores ye mui mais defícel, ua beç que lemites anferiores fázen ua declaraçon subre todos ls possibles algoritmos que resolben un detreminado porblema. La frase "todos ls algoritmos possibles" anclui nun solo ls algoritmos coincidos hoije, mas qualquiera algoritmo que puoda ser çcubierto ne l feturo. Para amostrar un lemite anferior de ''T''(''m'') para un porblema requer amostrar que nanhun algoritmo puode tener cumplexidade de tiempo menor de l que ''T''(''m'').
+
+Lemites superiores i anferiores son giralmente andicados usando la [[Grande-L|notaçon L-grande]], que çcunsidera fatores custantes i tenermos menores. Esso faç cun que ls lemites andependan de ls detalhes specíficos de l modelo cumputacional outelizado. Por eisemplo, ''T''(''m'')&nbsp;=&nbsp;7''m''<sup>2</sup>&nbsp;+&nbsp;15''m''&nbsp;+&nbsp;40, an notaçon L-grande serie scrito de la seguinte forma ''T''(''m'')&nbsp;=&nbsp;L(''m''<sup>2</sup>).
+
+==Classes de cumplexidade==
+===Defeniçon de classes de cumplexidade===
+Ua '''classe de cumplexidade''' ye un cunjunto de porblemas de cumplexidade relacionados. Las classes mais simples de cumplexidade son defenidas puls seguintes fatores:
+* L tipo de porblema cumputacional: Ls porblemas mais quemumente outelizados son porblemas de decison. Inda assi, classes de cumplexidade puoden ser defenidas cun base an porblemas de funçon, porblemas de cuntaige, porblemas d'outimizaçon, porblemas de promessa, etc.
+* L modelo de cumputaçon: L modelo mais quemun de cumputaçon ye la máquina de Turing determinística, mas muitas classes de cumplexidade son baseadas an máquinas de Turing nó-determinísticas, circuitos Boleanos, máquinas de Turing quánticas, circuitos monótonos, etc.
+* L recurso (ó recursos) que stá sendo lemitado i ls lemites: Essas dues propiadades son giralmente declaradas an cunjunto, tales cumo "tiempo polinomial", "spácio logarítmico", "perfundidade custante", etc.
+
+Ye claro, alguas classes de cumplexidade ténen defeniçones cumplexas que nun se ancaixan nesse quadro. Assi, ua classe de cumplexidade típica ten ua defeniçon cumo la seguinte:
+
+:L cunjunto de porblemas de decison solúbeis por ua máquina de Turing determinística drento de l tiempo ''f''(''m''). (Esta classe de cumplexidade ye coincida cumo DTIME(''f''(''m''))).
+
+Mas lemitar l tiempo de cumputaçon arriba por algua funçon cuncreta ''f''(''m'') muitas bezes porduç classes de cumplexidade que dependen de l modelo de la máquina scolhida. Por eisemplo, la lenguaige {''xx'' | ''x'' ye ua sequéncia binária qualquiera} puode ser resolbida an tiempo linear nua máquina de Turing multi-fitas, mas necessariamente eisige tiempo quadrático ne l modelo de máquinas de Turing single-fita. Se permitirmos bariaçones ne l tiempo polinomial an eisecuçon, la [[tese de Cobhan-Edmonds]] afirma que "las cumplexidades de l tiempo an qualesquiera dous modelos razoables i gerales de cumputaçon son polinomialmente relacionados" {{Harb|Goldreich|2008|loc=Chater 1.2}}. Esto forma la base pa la classe de cumplexidade P, que ye l cunjunto de porblemas de decison solúbeis por ua máquina de Turing determinística drento de l tiempo polinomial. L cunjunto correspondente de porblemas de funçon ye FP.
+
+===Amportantes classes de cumplexidade===
+[[Fexeiro:Cumplexity susets pspace.sbg|300px|thumb|right|Ua repersentaçon de la relaçon antre las classes de cumplexidade]]
+Muitas classes de cumplexidade amportantes puoden ser defenidas por lemitando l tiempo ó spácio ousado pul algoritmo. Alguas amportantes classes de cumplexidade de porblemas de decison defenidas desta maneira son las seguintes:
+
+{| class="wikitable"
+|-
+
+! Classe de cumplexidade
+
+! Modelo de cumputaçon
+
+! Lemitaçon de recursos
+|-
+| [[DTIME]](''f''(''m''))
+| Máquina de Turing Determinística
+| Tiempo ''f''(''m'')
+|-
+| [[P (cumplexity)|P]]
+| Máquina de Turing Determinística
+| Tiempo poly(''m'')
+|-
+| [[EXPTIME]]
+| Máquina de Turing Determinística
+| Tiempo 2<sup>poly(''m'')</sup>
+|-
+| [[NTIME]](''f''(''m''))
+| Máquina de Turing Nó-Determinística
+| Tiempo ''f''(''m'')
+|-
+| [[NP (cumplexity)|NP]]
+| Máquina de Turing Nó-Determinística
+| Eiquipa poly(''m'')
+|-
+| [[NEXPTIME]]
+| Máquina de Turing Nó-Determinística
+| Tiempo 2<sup>poly(''m'')</sup>
+|-
+| [[DSPACE]](''f''(''m''))
+| Máquina de Turing Determinística
+| Spácio ''f''(''m'')
+|-
+| [[L (cumplexity)|L]]
+| Máquina de Turing Determinística
+| Spácio L(log ''m'')
+|-
+| [[PSPACE]]
+| Máquina de Turing Determinística
+| Spácio poly(''m'')
+|-
+| [[EXPSPACE]]
+| Máquina de Turing Determinística
+| Spácio 2<sup>poly(''m'')</sup>
+|-
+| [[NSPACE]](''f''(''m''))
+| Máquina de Turing Nó-Determinística
+| Spácio ''f''(''m'')
+|-
+| [[NL (cumplexity)|NL]]
+| Máquina de Turing Nó-Determinística
+| Spácio L(log ''m'')
+|-
+| [[NPSPACE]]
+| Máquina de Turing Nó-Determinística
+| Spácio poly(''m'')
+|-
+| [[NEXPSPACE]]
+| Máquina de Turing Nó-Determinística
+| Spácio 2<sup>poly(''m'')</sup>
+|}
+
+Acuntece que PSPACE = NPSPACE i EXPSPACE = NEXPSPACE pul [[teorema de Sabitch]].
+
+Outras classes de cumplexidade amportantes ancluen [[BPP]], [[ZPP]] i [[RP]], que son defenidas usando máquinas de Turing porbabilística; [[AC]] i [[NC]], que son defenidas usando circuitos boleanos i [[BQP]] i [[QMA]], que son defenidas usando máquinas de Turing quánticas. [[Sharp-P|#P]] ye ua amportante classe cumplexidade de porblemas de cuntaige (que nun son porblemas de decison). Classes cumo [[IP-Cumplexidade|IP]] i [[Arthur–Merlin protocol|AM]] son defenidas usando sistemas de proba anteratiba. ALL ye la classe de todos ls porblemas de decison.
+
+===Teoremas d'hierarquia===
+Pa las classes de cumplexidade defenidas desta forma, ye zeiable probar que relaxar ls requesitos an funçon (dígamos) de l tiempo de cumputaçon rialmente define un cunjunto maior de porblemas. An particular, ambora DTIME(''m'') steia cuntido an DTIME(''m''<sup>2</sup>), serie antressante saber se l'ancluson ye strita. Para requesitos de tiempo i de spácio, la repuosta la tales preguntas ye dada pul teorema d'hierarquia pa la cumplexidade de tiempo i pul teorema d'hierarquia pa la cumplexidade de spácio, respetibamente. Eilhes son chamados teoremas d'hierarquia porque anduzen ua hierarquia adequada subre las classes defenidas, restringindo ls respetibos recursos. Assi, eisisten pares de classes de cumplexidade tal qu'ua stá propiamente cuntida na outra. Depuis de tener deduzido assi las relaçones de pertinéncia strita de cunjuntos, podemos cuntinar a fazer declaraçones quantitatibas subre quanto mais tiempo adicional ó spácio ye necessairo para oumentar l númaro de porblemas que puoden ser resolbidos.
+
+Mais percisamente, l teorema d'hierarquia de tiempo afirma que:
+:<math>\ouperatorname{DTIME}\big(f(m) \big) \susetneq \ouperatorname{DTIME} \big(f(m) \sdot \log^{2}(f(m)) \big)</math>.
+
+L teorema d'hierarquia de spácio afirma que:
+:<math>\ouperatorname{DSPACE}\big(f(m)\big) \susetneq \ouperatorname{DSPACE} \big(f(m) \sdot \log(f(m)) \big)</math>.
+
+Ls teoremas d'hierarquia de tiempo i de spácio forman la base pa la maiorie de ls resultados de separaçon de classes de cumplexidade. Por eisemplo, l teorema de l'hierarquia de tiempo ne ls diç que P stá stritamente cuntida an EXPTIME, i l teorema hierarquia de l spácio ne ls diç que L stá stritamente cuntida an PSPACE.
+
+===Reduçon===
+{{Artigo percipal|Reduçon (cumplexidade)}}
+Muitas classes de cumplexidade son defenidas usando l cunceito de reduçon. Ua reduçon ye ua trasformaçon dun porblema an outro porblema. Eilha catura la noçon anformal dun porblema que seia pul menos tan defícel quanto outro porblema. Por eisemplo, se un porblema ''X'' puode ser resolbido usando un algoritmo para ''Y'', ''X'' nun ye mais defícel de l que ''Y'', i dezimos que ''X'' ''se reduç'' la ''Y''. Eesisten muitos tipos defrentes de reduçon, cun base ne l método de reduçon, cumo reduçones de Cok, reduçones de Karp i reduçones Lebin, i ne l lemite de la cumplexidade de las reduçones, cumo reduçones de tiempo polinomial ó reduçones log-space.
+
+La reduçon mais quemumente ousada ye ua reduçon an tiempo polinomial. Esso senefica que l porcesso de reduçon lieba tiempo polinomial. Por eisemplo, l porblema de l quadrado dun anteiro puode ser reduzido pa l porblema de la multiplicaçon de dous númaros anteiros. Esso senefica qu'un algoritmo para multiplicar dous anteiros puode ser ousado pa l quadrado dun anteiro. De fato, esso puode ser feito dando la mesma antrada para ambas las antradas de l'algoritmo de multiplicaçon. Assi, bemos que l porblema de l quadrado dun anteiro nun ye mais defícel de l que l porblema de la multiplicaçon, yá que l porblema de l quadrado dun anteiro puode ser reduzido al porblema de la multiplicaçon.
+
+Esso motiba l cunceito dun porblema que ser defícel para ua classe de cumplexidade. Un porblema ''X'' ye defícel para ua classe de porblemas ''C'' se to porblema an ''C'' puode ser reduzido la ''X''. Assi, nanhun porblema an ''C'' ye mais defícel de l que ''X'', ua beç qu'un algoritmo para ''X'' ne ls permite resulber qualquiera porblema an ''C''. Ye claro que la noçon de porblemas defíceles depende de l tipo de reduçon a ser outelizado. Pa las classes de cumplexidade maiores de l que P, reduçones an tiempo polinomial son quemumente ousados. An particular, l cunjunto de porblemas que son defíceles para NP ye l cunjunto de porblemas [[NP-defícel]].
+
+Se un porblema ''X'' stá an ''C'' i ye ''defícel'' para ''C'', anton diç-se que ''X'' ye cumpleto para ''C''. Esto senefica que ''X'' ye l porblema mais defícel an ''C''. (Ua beç que muitos porblemas poderien ser eigualmente defíceles, puode-se dezir que ''X'' ye un de ls ls porblemas mais defíceles an ''C''.) Assi, la classe de [[NP-cumpleto|porblemas NP-cumpleto]] cuntén ls porblemas mais defíceles an NP, nesse sentido eilhes son ls mais propensos la nun stáren an P. Cumo l porblema P&nbsp;=&nbsp;NP nun fui resolbido, ser capaç de reduzir un coincido porblema NP-cumpleto, Π<sub>2</sub>, para outro porblema, Π<sub>1</sub>, andicarie que nun hai nanhue soluçon coincida an tiempo polinomial para Π<sub>1</sub>. Esso ocorre porque ua soluçon an tiempo polinomial para Π<sub>1</sub> renderie ua soluçon an tiempo polinomial para Π<sub>2</sub>. De la mesma forma que todos ls porblemas NP puoden ser reduzidos al cunjunto, ancontrar un porblema NP-cumpleto que podisse ser resolbido an tiempo polinomial seneficarie que P&nbsp;=&nbsp;NP.<ref name="Sipser2006"/>
+
+==Amportantes porblemas an abierto==
+[[Fexeiro:Cumplexity classes.sbg|thumb|250px|Diagrama de classes de cumplexidade assumindo que P&nbsp;≠&nbsp;NP. L'eisisténcia de porblemas an NP fura tanto de P quanto de NP-cumpleto, neste causo, fui stablecida por Ladner.<ref name="Ladner75">{{Citation|last=Ladner|first=Richard I.|title=On the struture of polynomial eiquipa reducibelity|journal=[[Journal of the ACM]] (JACM)|belume=22|year=1975|pages=151&ndash;171|url=http://delibery.acn.org/10.1145/330000/321877/p155-ladner.pdf?key1=321877&key2=7146531911&coll=&dl=ACM&CFID=15151515&CFTOKEN=6184618|format=PDF|doi=10.1145/321864.321877|issue=1|postscrit=.}}</ref>]]
+
+===L porblema P bersus NP===
+{{Artigo percipal|P bersus NP}}
+La classe de cumplexidade P ye muitas bezes bista cumo ua abstraçon matemática de modelaige dessas tarefas cumputacionales qu'admiten un algoritmo eficiente. Esta heipótese ye chamada de tese de Cobhan-Edmonds. La classe de cumplexidade NP, por outro lado, cuntén muitos porblemas que las pessonas gustarian de resulber de forma eficiente, mas pa ls quales nanhun algoritmo eficiente ye coincido, cumo l [[Porblema de sastifatibelidade boleana|porblema de la sastifatibelidade boleana]], l [[porblema de l camino hamiltoniano]] i l [[Cobertura de bértices (teorie de ls grafos)|porblema de la cobertura de bértices]]. Cumo las máquinas de Turing determinística son máquinas de Turing nó-determinísticas speciales, ye fácele ouserbar que cada porblema an P tamien ye nembro de la classe NP.
+
+La queston de saber se P ye eigual la NP ye ua de las questones mais amportantes an abierto na ciéncia de la cumputaçon teórica por causa de la gama d'amplicaçones dua soluçon.<ref name="Sipser2006">Beija {{harbnb|Sipser|2006|loc= Chater 7: Eiquipa cumplexity}}</ref> Se la repuosta fur si, para muitos porblemas amportantes puode ser mostrado qu'hai soluçones mais eficientes para eilhes. Estes ancluen bários tipos de porblemas de [[porgramaçon anteira]] an [[ambestigaçon ouperacional]], muitos porblemas na ária de [[logística]], [[prebison de la strutura de proteínas]] na biologie,<ref>{{Citation|title=Protein folding in the hydrophobic-hydrophelic (HP) model is NP-cumplete|last=Berger|first=Bonnie La.|journal=Journal of Cumputational Biology|year=1998|belume=5|number=1|pages=p27–40|pmid=9541869|doi=10.1089/cmb.1998.5.27|last2=Leighton|first2=T|issue=1|postscrit=. }}</ref> i capacidade d'ancontrar probas formales de teoremas de la [[matemática pura]].<ref>{{Citation|last=Cok|first=Stephen|outhorlink=Stephen Cok|title=The P bersus NP Porblen|publisher=[[Clay Mathematics Anstitute]]|year=2000|month=April|url=http://www.claymath.org/millenniun/P_bs_NP/Oufficial_Porblen_Çcrition.pdf|acessdate=2006-10-18|postscrit=.}}</ref> L porblema P bersus NP ye un de ls [[Porblemas de l Prémio Milleniun|Porblemas de l Prémio Milleniun]] (Milleniun Prize Porblems) proposto pul [[Clay Mathematics Anstitute|Anstituto Clay de Matemática]] (Clay Mathematics Anstitute). Eesiste un prémio dun milhon de dólares para resulber l porblema.<ref>{{Citation|title=The Millenniun Grand Challenge in Mathematics|last=Jaffe|first=Arthur M.|outhorlink=Arthur Jaffe|year=2006|journal=Notices of the AMS|belume=53|issue=6|url=http://www.ams.org/notices/200606/fea-jaffe.pdf|acessdate=2006-10-18|postscrit=.}}</ref>
+
+===Porblemas an NP que nun se sabe se pertencen la P ó la NP-cumpleto===
+Fui mostrado por Ladner que, se '''P ≠ NP''', anton eisisten porblemas an '''NP''' que nun stan nin an '''P''' nin an '''NP-cumpleto'''.<ref name="Ladner75" /> Tales porblemas son chamados de porblemas [[NP-antermediairo]]. L porblema de l [[Eisomorfismo grafos|eisomorfismo de grafos]], l [[Logaritmo çcreto|porblema de l logaritmo çcreto]] i l porblema de [[fatoraçon d'anteiros]] son eisemplos de porblemas qu'acradita-se que séian NP-antermediairo. Eilhes son alguns de ls mui poucos porblemas NP que nun se sabe se stan an '''P''' ó an '''NP-cumpleto'''.
+
+L porblema de l'eisomorfismo de grafos ye l porblema cumputacional para detreminar se dous grafos fenitos son eisomorfos. Un amportante porblema nun resolbido na teorie de la cumplexidade ye se l porblema de l'eisomorfismo de grafos stá an '''P''', '''NP-cumpleto''', ó NP-antermediairo. La repuosta nun ye coincida, mas acradita-se que l porblema nun seia, pul menos, NP-cumpleto.<ref name="AK06">{{Citation
+ | first1 = Bikraman
+ | last1 = Arbind
+ | first2 = Piyush P.
+ | last2 = Kurur
+ | title = Graph eisomorphisn is in SPP
+ | journal = Anformation and Cumputation
+ | belume = 204
+ | issue = 5
+ | year = 2006
+ | pages = 835–852
+ | doi = 10.1016/j.ic.2006.02.002
+ | postscrit = .}}</ref> Se l'eisomorfismo de grafos fur NP-cumpleto, l'hierarquia de tiempo polinomial colapsa para sou segundo nible.<ref>[[Uwe Schöning]], "Graph eisomorphisn is in the low hierarchy", Procedings of the 4th Annual [[Symposiun on Theoretical Aspets of Cumputer Science]], 1987, 114&ndash;124; also: ''Journal of Cumputer and Systen Sciences'', bol. 37 (1988), 312&ndash;323</ref> Ua beç qu'acradita-se bemente que l'hierarquia polinomial nun colapse para nanhun nible fenito, acradita-se que l'eisomorfismo de grafos nun seia NP-cumpleto. L melhor algoritmo para este porblema, d'acuordo cun [[László Babai|Laszlo Babai]] i [[Eugene Luks]] ten tiempo d'eisecuçon 2<sup>L(√(''m'' log(''m'')))</sup> para grafos cun ''m'' bértices.
+
+L porblema de la fatoraçon d'anteiros ye l porblema cumputacional para detreminar la fatoraçon prima dun dado anteiro. Formulado cumo un porblema de decison, ye l porblema para decidir se l'antrada ten un fator menor que ''k''. Nanhun algoritmo de fatoraçon d'anteiro eficiente ye coincido, i este fato ye la base de bários sistemas critográficos modernos, cumo l'algoritmo [[RSA]]. L porblema de la fatoraçon d'anteiros stá an '''NP''' i an '''co-NP''' (i até mesmo an UP i co-UP <ref>[[Lance Fortnow]]. Cumputational Cumplexity Blog: Cumplexity Class of the Wek: Fatoring. Setember 13, 2002. http://weblog.fortnow .com/2002/09/cumplexity-class-of-wek-fatoring.html</ref>). Se l porblema ye '''NP-cumpleto''', l'hierarquia de tiempo polinomial colapsará para sou purmeiro nible (ó seia, '''NP''' será eigual la '''co-NP'''). L melhor algoritmo coincido para fatoraçon d'anteiros ye l [[GNFS]] (general number field siebe), que lieba tiempo L(i<sup>(64/9)<sup>1/3</sup>(''m''.log 2)<sup>1/3</sup>(log (''m''.log 2))<sup>2/3</sup></sup>) para fatorar un anteiro de ''m''-bit. Inda assi, l melhor algoritmo quántico coincido para este porblema, l [[algoritmo de Shor]], ye eisecutado an tiempo polinomial. Anfelizmente, este fato nun diç mui subre adonde stá l porblema cun relaçon a classes de cumplexidade nó-quántica.
+
+===Separaçones antre outras classes de cumplexidade===
+Muitas classes de cumplexidade coincidas son suspeitas de nun séren eiguales, mas esso nun fui probado. Por eisemplo, '''P''' ⊆ '''NP''' ⊆ '''PP''' ⊆ '''PSPACE''', mas ye possible que '''P''' = '''PSPACE'''. Se '''P''' nun fur eigual la '''NP''', anton '''P''' nun será eigual a la '''PSPACE''' tamien. Ua beç qu'eisisten muitas classes de cumplexidade coincidas antre '''P''' i '''PSPACE''', tales cumo '''RP''', '''BPP''', '''PP''', '''BQP''', '''MA''', '''PH''', etc, ye possible que todas estas classes de cumplexidade colapsen para ua única classe. Probar que qualquiera ua destas classes nun son eiguales serie un grande abanço na teorie de la cumplexidade.
+
+Na mesma linha, '''co-NP''' ye la classe que cuntén ls porblemas de l cumplemiento (ó seia, porblemas culas repuostas si / nun ambertidsa) de ls porblemas '''NP'''. Acradita-se <ref>[http://www.cs.princeton.edu/courses/archibe/spr06/cos522/ Boaç Barak's course on Cumputational Cumplexity] [http://www.cs.princeton.edu/courses/archibe/spr06/cos522/lec2.pdf Leture 2]</ref> que '''NP''' nun seia eigual la '''co-NP''', inda assi, inda nun fui cumprobado. Ten sido mostrado que, se essas dues classes de cumplexidade nun son eiguales, anton '''P''' nun ye eigual la '''NP'''.
+
+De la mesma forma, nun se sabe se '''L''' (l cunjunto de todos ls porblemas que puoden ser resolbidos ne l spácio logarítmico) stá cuntido stritamente an '''P''' ó ye eigual la '''P'''. Outra beç, eisisten muitas classes de cumplexidade antre eilhas, tales cumo '''NL''' i '''NC''', i nun se sabe se eilhas son classes eiguales ó çtintas.
+
+Suspeita-se que '''P''' i '''BPP''' séian eiguales. Inda assi, ye un porblema an abierto, ne l momiento, se '''BPP''' = '''NEXP'''.
+
+==Antratabelidade==
+Porblemas que puoden ser resolbidos na teorie (por eisemplo, dado un tiempo anfenito), mas que na prática lieban mui tiempo pa las sues soluçones séian úteles, son coincidos cumo porblemas ''antratables''.<ref>Hopcroft, J.I., Motwani, R. and Ullman, J.D. (2007) [[Antrodution to Outomata Theory, Languages, and Cumputation]], Addison Wesley, Boston/San Francisco/New York (page 368)</ref> Na teorie de la cumplexidade, ls porblemas que nun apersentan soluçones an tiempo polinomial son cunsidrados antratables por mais pequeinhas que séian sues antradas. Na berdade, la tese de Cobhan-Edmonds afirma que solo ls porblemas que puoden ser resolbidos an tiempo polinomial puoden ser cumputados de maneira fatible por algun çpositibo cumputacional. Porblemas que son coincidos por séren antratables neste sentido ancluen aqueilhes que son EXPTIME-defícel. Se NP nun ye l mesmo que P, anton ls porblemas NP-cumpleto son tamien antratables neste sentido. Para ber porque algoritmos de tiempo sponencial puoden ser ampraticables, cunsidre un porgrama que faç 2<sup>''m''</sup> ouparaçones antes de parar. Para ''m'' pequeinho, dígamos 100, i assumindo, por eisemplo, que l cumputador faç 10<sup>12</sup> ouparaçones por segundo, l porgrama serie eisecutado por cerca de 4&nbsp;×&nbsp;10<sup>10</sup> anhos, que ye aprossimadamente l'eidade de l'ouniberso. Mesmo cun un cumputador mui mais rápido, l porgrama solo serie útele para causos mui pequeinhos i, nesse sentido, l'antratabelidade dun porblema ye un tanto andependiente de l progresso tecnológico. Inda assi, un algoritmo de tiempo polinomial nun ye siempre prático. Se sou tiempo d'eisecuçon ye, dígamos ''m''<sup>15</sup>, nun ye razoable cunsidrá-lo eficiente i inda ye inútil, salbo an causos de pequeinho porte.
+
+L qu'antratabelidade senefica na prática stá abierto an debate. Dezir qu'un porblema nun stá an P nó amplica que todos ls grandes causos de porblemas son defíceles ó até mesmo que la maiorie deilhes son. Por eisemplo, l porblema de la decison na [[Aritmética de Presburger]] ten demunstrado nun star an P, inda fúrun escritos algoritmos que resolben l porblema an tiempos razoables na maiorie de ls causos. De la mesma forma, ls algoritmos puoden resulber l [[porblema de la mochila]] NP-cumpleto nua ampla faixa de tamanhos an menos que l tiempo quadrático i [[Porblema de sastifatibelidade boleana|resolbedores de SAT]] rotineiramente lidan cun grandes anstáncias de l porblema de sastifatibelidade boleana NP-cumpleto.
+
+==Teorie de la cumplexidade cuntínua==
+La teorie de la cumplexidade cuntínua puode se referir a la teorie de la cumplexidade de ls porblemas qu'ambolben funçones cuntínuas que son aprossimadas por çcretizaçones, cumo studado an [[análeze numérica]]. Ua abordaige pa la teorie de la cumplexidade de l'análeze numérica <ref>[http://citeserx.ist.psu.edu/biewdoc/download?doi=10.1.1.33.4678&rep=rep1&type=pdf Cumplexity Theory and Numerical Analysis], Stebe Smale, Ata Numerica, 1997 - Cambridge Ounib Press</ref> ye la cumplexidade baseada an anformaçon (IBC).
+
+La teorie de la cumplexidade cuntínua tamien puode se referir a la teorie de la cumplexidade de l'uso de la cumputaçon analógica, qu'outeliza [[sistemas dinámicos]] cuntinos i [[Eiquaçon defrencial|eiquaçones defrenciales]].<ref>[http://arxib.org/abs/arxib:0907.3117 La Surbey on Cuntinous Eiquipa Cumputationes], Oulebier Bourneç, Manuel Campagnolo, New Cumputational Paradigms. Changing Cuncetiones of What is Cumputable. (Coper, S.B. and L{\"l}we, B. and Sorbi, La., Eds.). New York, Springer-Berlag, pages 383-423. 2008</ref> [[Regulaçon|La teorie de cuntrole]] puode ser cunsidrada ua forma de cumputaçon i eiquaçones defrenciales son ousadas na modelaige de sistemas de tiempo cuntino i híbridos de tiempo çcreto-cuntino.<ref>[http://citeserx.ist.psu.edu/biewdoc/download?doi=10.1.1.70.4296&rep=rep1&type=pdf Cumputational Techniques fur the Berification of Hybrid Systems], Claire J. Tomlin, Ian Mitchell, Alexandre M. Bayen, Meko Oishi, Procedings of the IEEE, Bol. 91, Ne l. 7, July 2003.</ref>
+
+==Stória==
+Antes de la pesquisa propiamente dita splicitamente dedicada a la cumplexidade de ls porblemas algorítmicos ampeçar, ls numerosos fundamientos fúrun stablecidos por bários pesquisadores. L mais anfluente antre estes fui la defeniçon de las máquinas de Turing por Alan Turing an 1936, qu'acabou por ser ua noçon mui robusta i flexible de cumputador.
+
+{{Harbtxt|Fortnow|Homer|2003}} datan l'ampeço de ls studos sistemáticos an cumplexidade cumputacional cul amportante artigo "On the Cumputational Cumplexity of Algorithms" de Juris Hartmanis i Richard Stearnes (1965), que stableciu las defeniçones de cumplexidade de tiempo i de spácio i probou ls teoremas d'hierarquia.
+
+D'acuordo cun {{Harbtxt|Fortnow|Homer|2003}}, trabalhos anteriores que studórun porblemas solucionables por máquinas de Turing cun recursos specíficos lemitados anclui la defeniçon de John Myhill de [[Outómato linearmente lemitado|outómatos linearmente lemitados]] (Myhill 1960), l studo de [[Raymond Smullyan]] subre cunjuntos rudimentares (1961), assi cumo l'artigo de Sao Yamada <ref>{{cite doi|10.1109/TEC.1962.5219459}}</ref> subre cumputaçon an tiempo rial (1962). Un pouco mais cedo, [[Boris Trakhtenbrot]] (1956), un pioneiro ne l campo de la URSS, studou outra medida específica de cumplexidade.<ref>Trakhtenbrot, B.La.: Signalizing funtiones and tabular ouperators. Uchionnye Zapiski
+Penzenskogo Pedinstituta (Trasationes of the Penza Pedagogoical Anstitute) 4, 75–87 (1956) (in Russian)</ref> Cumo lembra el:
+{{quote|Assi i to, [miu] antresse enicial [na teorie de ls outómatos] era cada beç mais puosto de lado an detrimiento a la cumplexidade cumputacional, ua scitante fuson de métodos cumbinatoriales, heirdada de la teorie de la quemutaçon, cul arsenal cunceitual de la teorie d'algoritmos. Essas eideias me ocorrírun antes, an 1955, quando you conhei l termo "funçon de sinalizaçon", qu'hoije ye quemumente coincido cumo "medida de cumplexidade".
+|Boris Trakhtenbrot|Fron Logic to Theoretical Cumputer Science – An Update. In: ''Pillars of Cumputer Science'', LNCS 4800, Springer 2008.
+}}
+
+An 1967, [[Manuel Blun]] zambolbiu ua teorie de la cumplexidade axiomática cun base an sous axiomas i probou un resultado amportante, l'anton chamado, [[teorema de l'aceleraçon de Blun]] (sped-up theoren). L campo rialmente ampeçou a florescer quando l pesquisador norte-amaricano [[Stephen Cok]] i, trabalhando andependientemente, [[Leonid Lebin]] na URSS, probórun qu'eisisten amportantes porblemas praticables que son NP-cumpletos. An 1972, [[Richard Karp]] partiu desta eideia i dou un salto delantre cun sou artigo stórico, "Reducibelity Among Cumbinatorial Porblems", ne l qual el mostrou que 21 defrentes porblemas de [[cumbinatória]] i porblemas teóricos de grafos, famosos por sue antratabelidade cumputacional, son NP-cumpletos.<ref>{{Citation | outhor = Richard M. Karp | chater = Reducibelity Among Cumbinatorial Porblems | chater-url = http://www.cs.berkeley.edu/~luca/cs172/karp.pdf | title = Cumplexity of Cumputer Cumputationes | eiditor = R. I. Miller and J. W. Thatcher (eiditors) | publisher = New York: Plenun | pages = 85&ndash;103 | year = 1972}}</ref>
+
+==Beija tamien==
+[[Fexeiro:Theoretical cumputer science.png|Theoretical cumputer science|700px|Relaçon antre teorie de la cumputabelidade, teorie de la cumplexidade i teorie de la lenguaige formal.]]
+*[[Porblemas an abierto de la ciéncia de la cumputaçon]]
+*[[:Catadorie:Teorie de la cumputaçon]]
+*[[Aneixo:Lista de tenermos relacionados als algoritmos i struturas de dados]]
+
+==Notas==
+<references group="nb"/>
+
+==Refréncias==
+{{refbegin|2}}
+<references />
+
+===Bibliografie===
+*{{Citation
+| last1=Arora | first1=Sanjeb | outhorlink1=Sanjeb Arora
+| last2=Barak | first2=Boaç
+| title=Cumputational Cumplexity: La Modern Approach
+| url = http://www.cs.princeton.edu/theory/cumplexity/
+| publisher=[[Cambridge University Press|Cambridge]]
+| year=2009
+| isbn=978-0-521-42426-4
+| outhor=Sanjeb Arora, Boaç Barak
+}}
+* {{Citation
+| last1=Downey
+| first1=Rod
+| last2=Fellows
+| first2=Michael
+| outhorlink2=Michael Fellows
+| title=Parameterized cumplexity
+| url=http://www.springer .com/sgw/cda/fruntpage/0,11855,5-0-22-1519914-0,00.html?referer=www.springer.de%2Fcgi-bin%2Fsearch_book.pl%3Fisbn%3D0-387-94883-X
+| publisher=[[Springer-Berlag]]
+| location=Berlin, New York
+| year=1999
+}}
+* {{citation
+| last=Du
+| first=Ding-Zhu
+| coauthors=Ko, Ker-I
+| title=Theory of Cumputational Cumplexity
+| publisher=[[John Wiley & Sonidos]]
+| year=2000
+| country=US
+| isbn=978-0-471-34506-0
+}}
+* {{Citation
+| last=Goldreich
+| first=Oded
+| outhorlink=Oded Goldreich
+| url = http://www.wisdon.weizmann.ac.eil/~oded/c-book.html
+| title = Cumputational Cumplexity: La Cuncetual Perspetibe
+| publisher = Cambridge University Press
+| year = 2008
+}}
+* {{Citation
+| eiditor1-last=ban Leuwen
+| eiditor1-first=Jan
+| eiditor1-link = Jan ban Leuwen
+| title=Handbook of theoretical cumputer science (bol. La): algorithms and cumplexity
+| publisher=[[MIT Press]]
+| isbn=978-0-444-88071-0
+| year=1990
+}}
+* {{citation
+ | last = Papadimitriou
+ | first = Christos
+ | outhorlink = Christos Papadimitriou
+ | title = Cumputational Cumplexity
+ | eidition = 1st
+ | year = 1994
+ | publisher = Addison Wesley
+ | isbn = 0201530821
+}}
+* {{Citation
+|last=Sipser
+|first=Michael
+|outhorlink=Michael Sipser
+|title=[[Antrodution to the Theory of Cumputation]]
+|eidition=2nd
+|year=2006
+|publisher=[[Thomson Learning|Thomson Course Technology]]
+|location=USA
+|isbn=0534950973
+}}
+* {{Garey-Johnson}}
+
+===Surbeys===
+* {{Citation | last1=Khalil | first1=Haten | last2=Ulery | first2=Dana | outhor2-link=Dana Ulery | title=La Rebiew of Current Studies on Cumplexity of Algorithms fur Partial Differential Eiquationes | publisher=ACM '76 Procedings of the 1976 Annual Cunference | year=1976 | pages=197 | url = http://portal.acn.org/citation.cfn?id=800191.805573 | doi=10.1145/800191.805573}}
+* {{Citation | last1=Cok | first1=Stephen | outhor1-link=Stephen Cok | title=An oberbiew of cumputational cumplexity | publisher=ACM | year=1983 | journal=Commun. ACM | issn=0001-0782 | belume=26 | issue=6 | pages=400–408 | doi=10.1145/358141.358144}}
+* {{Citation | last1=Fortnow | first1=Lance | last2=Homer | first2=Steben | title=La Short Story of Cumputational Cumplexity | year=2003 | journal=Bulletin of the EATCS | belume=80 | pages=95–133 | url = http://people.cs.uchicago.edu/~fortnow/papers/story.pdf}}
+* {{Citation | last1=Mertenes | first1=Stephan | title=Cumputational Cumplexity fur Physicists | publisher=IEEE Eiducational Atebities Department | location=Piscataway, NJ, USA | year=2002 | journal=Cumputing in Science and Angg. | issn=1521-9615 | belume=4 | issue=3 | pages=31–47 | doi=10.1109/5992.998639 | arxib=cund-mat/0012185 | unused_data=arXib}}
+
+{{refend}}
+
+==Ligaçones sternas==
+* [http://qwiki.stanford.edu/wiki/Cumplexity_Zo The Cumplexity Zo]
+
+[[Catadorie:Cumplexidade]]
+
+{{Link FA|de}}
