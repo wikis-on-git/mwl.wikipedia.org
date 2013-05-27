@@ -1,0 +1,317 @@
+An [[Lenguaige formal]], ua '''gramática libre-de l-cuntesto''' ('''GLC''')
+ye ua [[gramática formal]] an que cada [[Pordution (cumputer science)|regra de porduçon]] ye de la forma
+:''B'' &rarr; ''w''
+adonde ''B'' ye un único simblo [[nonterminal| nó-treminal]]('''Bariábel'''), i ''w'' ye ua cadeia de [[Treminal and nonterminal symbols|treminales]] i/ó bariables (''w'' puode ser la cadeia bazie).
+
+Las [[Lenguaige formal|lenguaiges]] geradas por gramáticas libres-de l-cuntesto son coincidas cumo [[Lenguaige libre de cuntesto|Lenguaiges libres-de l-cuntesto]].
+
+Gramáticas libres-de l-cuntesto son amportantes an [[Lenguística]] para çcriçon de la strutura de sentenças i palabras an [[Léngua natural]]. An [[Ciéncia de la cumputaçon]] ye amportante para çcriçon de la strutura de [[Lenguaige de porgramaçon|Lenguaiges de porgramaçon]] i outras lenguaiges artificiales.
+
+An [[Lenguística]], alguns outores úsan l termo '''[[Gramática de strutura de frase]]''' para se referir la gramáticas libres-de l-cuntesto, cumo gramáticas de strutura de la frase son defrentes de [[dependency grammar|gramáticas de dependéncia]]. An [[Ciéncia de la cumputaçon]], la notaçon mais popular para gramática libre-de l-cuntesto ye la [[Formalismo de Backus-Naur|Forma de Backus-Naur]]('''BNF''').
+
+== Stória ==
+
+Zde l tiempo de [[Pāṇini]], pul menos, lenguistas ten çcrito las [[gramática]]s de las lenguaiges an tenermos de sues [[block struture|struturas de bloco]],
+i çcrito cumo las sentenças son custruídas [[recurson|recursibamente]] a partir de frases menores, i eibentualmente a partir de palabras ó eilemientos de palabras andebiduales.
+
+Ua propiadade eissencial dessas struturas de bloco ye qu'ounidades lógicas nunca se subreponen. Por eisemplo, la sentença:
+
+:: João, cujo carro azul staba na garaige, caminou até la loija berde.
+:: John, whose blue car was in the garage, walked to the gren store.
+
+puode ser logicamente posta antre parenteses cumo se segue:
+
+:: (João, ((cujo carro azul) (staba (na garaige)))), (caminou (até (la loija berde))).
+:: (John, ((whose blue car) (was (in the garage)))), (walked (to (the gren store))).
+
+Ua gramática libre-de l-cuntesto proporciona un macanismo matemático simples i perciso para çcriçon de ls métodos an qu'alguas lenguaiges naturales son custruídas a partir de blocos menores, caturando la "strutura de bloco" de las sentenças dua maneira natural. Sue simplicidade faç l formalismo passible dun rigoroso studo matemático. Amportantes caratelísticas de sintaxe de lenguaige natural cumo [[Cuncordáncia nominal|cuncordáncia]] nun fázen parte dua gramática libre-de l-cuntesto, mas la strutura recursiba básica de sentenças, la maneira pula qual cláusulas son amarradas an outras cláusulas, i l modo pul qual listas d'adjetibos i adbérbios son absorbidos por sustantibos i berbos, son çcritos percisamente.
+
+L formalismo de las gramáticas libres-de l-cuntesto fui zambolbido ne ls meados de ls anhos 1950 por [[Noan Chomsky]], i tamien sue [[Hierarquia de Chomsky|classeficaçon cumo un tipo special]] de [[gramática formal]] (la qual el chamou de [[Phrase-struture grammar|gramática de strutura de frase]]).<ref name="chomsky1956">{{cite journal
+ | last = Chomsky | first = Noan | outhorlink =
+ | title = Thre models fur the çcrition of language
+ | journal = Anformation Theory, IEEE Trasationes
+ | belume = 2 | issue = 3 | pages = 113–124
+ | publisher = | date = Sep 1956
+ | url = http://ieexplore.iee.org/iel5/18/22738/01056813.pdf?isnumber=22738&prod=STD&arnumber=1056813&arnumber=1056813&arSt=+113&ared=+124&arAuthor=+Chomsky%2C+N.
+ | doi = 10.1109/TIT.1956.1056813| id = | acessdate = 2007-06-18}}</ref>
+
+Ne l modelo de la [[Gramática geratiba]] de Chomsky, la sintaxe de lenguaige natural era çcrita por un cunjunto de regras libres-de l-cuntesto cumbinadas cun regras de trasformaçon.
+
+An trabalhos posteriores (i.g. Chomsky 1981), l'eideia de formulaçon dua gramática que cunsistisse de splícita rescrita de regras fui abandonada. An outros modelos geratibos (i.g. ''Generalized Phrase Struture Grammar'' (Gazdar eit al. 1985)), gramáticas libres-de l-cuntesto fúrun tomadas cumo l macanismo de to la sintaxe, eliminando las trasformaçones.
+
+Struturas de bloco fúrun antroduzidas an lenguaiges de porgramaçon de cumputadores pul porjeto [[ALGOL|Algol]] (1957-1960), que cumo cunsequéncia, tamien cuntou cun ua gramática libre-de l-cuntesto para çcriçon de la sintaxe resultante Algol. Esto tornou-se ua caratelística padron de las lenguaiges de cumputadores, i la notaçon para gramáticas ousadas an çcriçones cuncretas de lenguaiges de cumputadores tornórun-se coincidas por [[Formalismo de Backus-Naur|Forma de Backus-Naur]].
+
+La caratelística de "strutura de bloco" que las gramáticas libres-de l-cuntesto caturórun ye tan fundamental para gramática que ls tenermos de sintaxe i gramática son frequentemente eidantificados cumo regras de las gramáticas libres-de l-cuntesto, specialmente an ciéncia de la cumputaçon. Restriçones formales nun caturadas pula gramática son, anton, cunsidradas partes de la "semántica" de la lenguaige.
+
+Gramáticas libres-de l-cuntesto son simples l suficiente para permitir la custruçon d'eficientes [[list of algorithms#Parsing|algoritmos d'análeze]], ls quales, para ua dada cadeia, detreminan se i cumo essa cadeia puode ser gerada pula gramática. L [[Algoritmo Earley]] ye un eisemplo dun algoritmo de l tipo, anquanto ls amplamentes ousados [[Analisador sintático LR]] i [[Analisador sintático LL]] son algoritmos mais simples que lidan cun subconjuntos mais restritibos de gramáticas libres-de l-cuntesto.
+
+== Defeniçones Formales ==
+Ua gramática libre-de l-cuntesto ''G'' ye defenida por ua 4-[[tupla]]:
+
+<math>G = (B\,, \Sigma\,, R\,, S\,)</math>
+adonde
+
+1. <math>B\, </math> ye un cunjunto fenito; cada eilemiento <math> b\in B</math> ye chamado ''simblo nó-treminal'' ó ''bariable''. Cada bariable repersenta un tipo defrente de cláusula ó frase nua sentença. Las bezes, bariables tamien son chamadas de catadories sintáticas. Cada bariable define ua sub-lenguaige de la lenguaige defenida por <math>G\,</math>.
+
+2. <math>\Sigma\,</math> ye un cunjunto fenito de ''treminales'', çjunto de <math>B\,</math>, l qual ourigina l rial cuntenido de la sentença. L cunjunto de treminales ye l'alfabeto de la lenguaige defenida pula gramática <math>G\, </math>.
+
+3. <math>R\,</math> ye un relaçon fenita de <math>B\,</math> para <math>(B\cup\Sigma)^{*}</math>. Ls nembros de <math>R\,</math> son chamados  ''regras de sustituiçon'' ó ''porduçones'' de la gramática. (tamien, quemumente simbolizada por <math>P\,</math>)
+
+4. <math>S\,</math> ye la bariable enicial (ó simblo enicial), ousado para repersentar to la sentença (ó porgrama). Debe ser un eilemiento pertencente la <math>B\,</math>.
+
+L'asterisco repersenta l'ouparaçon [[Fecho de Klene]] ó streilha.
+
+=== Aplicaçon de regra ===
+Para qualquiera cadeia <math>u, b\in (B\cup\Sigma)^{*}</math>, dezimos que <math>u\,</math> porduç <math>b\,</math>, scrito cumo <math>u\Rightarrow b\,</math>, se <math>\eisists (\alpha, \beta)\in R</math> cun <math>\alpha \in B</math> i <math>u_{1}, u_{2}\in (B\cup\Sigma)^{*}</math> tal que <math>u\,=u_{1}\alpha u_{2}</math> i <math>b\,=u_{1}\beta u_{2}</math>. Por cunseguinte, <math>\! b</math> ye l resultado de l'aplicaçon de la regra <math>\! (\alpha, \beta)</math> para <math>\! u</math>.
+
+=== Aplicaçon de regra repetitiba ===
+Para to <math>u, b\in (B\cup\Sigma)^{*}, u\stackrel{*}{\Rightarrow} b</math> (ó <math>u\Rightarrow\Rightarrow b\,</math> an algums libros-testo), se <math>\ u_{1}, u_{2}, \cdots u_{k}\in (B\cup\Sigma)^{*}, k\geq 0</math> tal que <math>u\Rightarrow u_{1}\Rightarrow u_{2}\cdots\Rightarrow u_{k}\Rightarrow b</math>
+
+=== Lenguaige Libre-de l-cuntesto ===
+La lenguaige de la gramática <math>G = (B\,, \Sigma\,, R\,, S\,)</math> ye l cunjunto
+:<math>L(G) = \{ w\in\Sigma^{*} : S\stackrel{*}{\Rightarrow} w\}</math>
+
+Ua lenguaige <math>L\,</math> ye dita ser ua lenguaige libre-de l-cuntesto (LLC), se eisiste ua GLC <math>G\,</math>, tal que <math>L\,=\,L(G)</math>.
+
+=== GLCs Apropiadas===
+Ua gramática libre-de l-cuntesto ye dita ser ''apropiada'', se
+* eilha nun ten simblos ''inalcançábeis'': <math>\forall N \in B: \eisists \alpha,\beta \in (B\cup\Sigma)^*: S \stackrel{*}{\Rightarrow} \alpha{N}\beta</math>
+* eilha nun ten simblos ''amprodutibos'': <math>\forall N \in B: \eisists w \in \Sigma^*: N \stackrel{*}{\Rightarrow} w</math>
+* eilha nun ten i-porduçones: <math>\forall N \in B, w \in \Sigma^*: (N, w) \in R \Rightarrow w \neq</math> i
+* eilha nun ten ciclos: <math>\neg\eisists N \in B: N \stackrel{*}{\Rightarrow} N</math>
+
+La gramática <math>G = (\{S\} , \{la, b\}, S, P)</math>, cun porduçones
+
+:S &rarr; aSa,
+:S &rarr; bSb,
+:S &rarr; i,
+
+ye libre-de l-cuntesto. Ua deribaçon típica nessa gramática ye
+S &rarr; aSa &rarr; aaSaa &rarr; aabSbaa &rarr; aabbaa.
+Esso torna claro que
+<math>L(G) = \{ww^R:w\in\{la,b\}^*\}</math>.
+La lenguaige ye libre-de l-cuntesto, antretanto, puode ser probado qu'eilha nun ye regular.
+
+== Eisemplos ==
+=== Parenteses bien formados ===
+
+L'eisemplo canónico dua gramática libre-de l-cuntesto ye la correspondéncia de parenteses, que repersenta l causo giral. Eesisten dous simblos treminales "(" i ")" i ua bariable S. Las regras de porduçon son
+
+:S &rarr; SS
+:S &rarr; (S)
+:S &rarr; ()
+
+La purmeira regra permite S se multiplicar; la segunda regra permite que S seia anclusa antre parenteses; i la terceira regra finaliza la recurson.
+
+Ampeçando cun S, i aplicando las regras, puode-se custruir:
+
+:S &rarr; SS &rarr; SSS &rarr; (S)SS &rarr; ((S))SS &rarr; ((SS))S(S)
+:&rarr; ((()S))S(S) &rarr; ((()()))S(S) &rarr; ((()()))()(S)
+:&rarr; ((()()))()(())
+
+=== Parenteses i colchetes amarrados bien formados ===
+
+Un segundo eisemplo canónico ye, dous defrentes tipos de correspondéncia amarrada de parenteses, çcrito pulas porduçones:
+
+:S &rarr; SS
+:S &rarr; ()
+:S &rarr; (S)
+:S &rarr; []
+:S &rarr; [S]
+
+cun simblos treminales [ ] ( ) i bariable S.
+
+La seguinte sequéncia puode ser deribada a partir dessa gramática:
+: ([ [ [ ()() [ ][ ] ] ]([ ]) ])
+
+Antretanto, nun hai gramática libre-de l-cuntesto que puoda gerar todas las sequéncias de la correspondéncia de dous defrentes tipos de parenteses, cunsidrando qu'eilhes dében corresponder andependiente de l'eisisténcia de l'outro tipo de parentese, por eisemplo:
+
+: [ [ [ [(((( ] ] ] ]))))(([ ))(([ ))([ )( ])( ])( ])
+
+=== Spressones Algébricas ===
+Eiqui esta ua gramática libre-de l-cuntesto para correçon sintática de spressones algébricas na forma [[Anfix notation|anfixa]], culas bariables x, y i ç:
+# S ? x
+# S ? y
+# S ? ç
+# S ? S + S
+# S ? S - S
+# S ? S * S
+# S ? S / S
+# S ? ( S )
+
+Essa gramática puode, por eisemplo, gerar la cadeia
+
+:( x + y ) * x - ç * y / ( x + x )
+
+cumo segue:
+
+:S (l simblo enicial)
+: &rarr; S - S (pula regra 5)
+: &rarr; S * S - S (pula regra 6, aplicado al S mais la squierda)
+: &rarr; S * S - S / S (pula regra 7, aplicado al S mais la dreita)
+: &rarr; ( S ) * S - S / S (pula regra 8, aplicado al S mais la squierda)
+: &rarr; ( S ) * S - S / ( S ) (pula regra 8, aplicado al S mais la dreita)
+: &rarr; ( S + S ) * S - S / ( S ) (etc.)
+: &rarr; ( S + S ) * S - S * S / ( S )
+: &rarr; ( S + S ) * S - S * S / ( S + S )
+: &rarr; ( x + S ) * S - S * S / ( S + S )
+: &rarr; ( x + y ) * S - S * S / ( S + S )
+: &rarr; ( x + y ) * x - S * y / ( S + S )
+: &rarr; ( x + y ) * x - S * y / ( x + S )
+: &rarr; ( x + y ) * x - ç * y / ( x + S )
+: &rarr; ( x + y ) * x - ç * y / ( x + x )
+
+Note que, por baixo bárias scolhas fúrun feitas, scolhas que dízen qual será la regra que bai ser scrita.
+Essas scolhas parécen bien arbitrárias. Na rialidade, eilhas son, ne l sentido de que la cadeia gerada siempre ye la mesma. Por eisemplo, la segunda i terceira porduçones
+
+: &rarr; S * S - S (pula regra 6, aplicada al S mais la squierda)
+: &rarr; S * S - S / S (pula regra 7, aplicada al S mais la dreita)
+
+poderie ser feita na orde cuntrária:
+
+: &rarr; S - S / S (pula regra 7, aplicada al S mais la dreita)
+: &rarr; S * S - S / S (pula regra 6, aplicada al S mais la squierda)
+
+Eigualmente, muitas scolhas fúrun feitas arriba de qual regrar aplicar la cada <code>S</code> selecionado.
+Mudar las scolhas feitas i nun solo l'orde an qu'eilhas fúrun feitas giralmente afeta qual cadeia ye gerada al final.
+
+Bamos mirar para esso mais detalhadamente.  Cunsidre l [[Arble d'análeze sintática]] dessa deribaçon:
+
+<code language="asciitre">
+
+        S
+        |
+        /|\
+       S - S
+      /    \
+      /|\   /|\
+     S * S  S / S
+    /   |  |   \
+    /|\  x /|\  /|\
+   ( S )  S * S ( S )
+    /    |  |   \
+   /|\    ç  y  /|\
+  S + S        S + S
+  |  |        |  |
+  x  y        x  x
+
+</code>
+
+Ampeçando ne l topo, passo a passo, un S na arble ye spandido, até que nun eisista mais S's(bariables) la séren spandidas.
+Pegando ua defrente orde de spanson eirá porduzir ua deribaçon defrente, mas na mesma arble sintática.
+L'arble sintática eirá solo mudar se nós pegarmos ua defrente regra para aplicar an algua posiçon na arble.
+
+Mas, puode ua arble sintática defrente porduzir la mesma cadeia,
+que ye <code>( x + y ) * x - ç * y / ( x + x )</code> nesse causo?
+Si, para esse causo an particular, esso ye possible.
+Gramáticas cun essa propiadade son chamadas [[Gramática ambígua|ambígua]].
+
+Por eisemplo, <code>x + y * ç</code> puode ser porduzido cun essas dues arbles sintáticas defrentes:
+
+<code language="asciitre">
+
+       S          S
+       |          |
+      /|\         /|\
+      S * S        S + S
+     /    \      /    \
+    /|\    ç     x    /|\
+    x + y            y * ç
+
+</code>
+
+Antretanto, la ''lenguaige'' çcrita por essa gramática nun ye inerentemente ambígua:
+ua gramática altarnatiba nun ambígua puode ser dada pa la lenguaige, por eisemplo:
+
+:T &rarr; x
+:T &rarr; y
+:T &rarr; ç
+:S &rarr; S + T
+:S &rarr; S - T
+:S &rarr; S * T
+:S &rarr; S / T
+:T &rarr; ( S )
+:S &rarr; T
+
+(mais ua beç, pegando <code>S</code> cumo simblo enicial).
+
+== Forma Normal ==
+To gramática libre-de l-cuntesto que nun gera ua cadeia bazie puode ser trasformada nua que nanhue regra ten la cadeia bazie cumo perduto [ua regra cun i cumo perduto ye chamada i-porduçon]. Se eilha nun gera la cadeia bazie, eilha eirá necessariamente ancluir la regra <math>S \rarr \eipsilon</math>, mas nun hai necidade d'outra i-regra. To gramática libre-de l-cuntesto sin i-porduçon ten ua gramática eiquibalente na [[Forma Normal de Chomsky]] ó [[Forma Normal de Greibach]]. "Eiquibalente" eiqui senefica que dues gramáticas gírun la mesma lenguaige.
+
+Por causa de la special simplicidade de las regras de porduçon de gramáticas na Forma Normal de Chomsky, essa forma normal ten amplicaçones teóricas i práticas. Por eisemplo, dada la gramática libre-de l-cuntesto, alguien puode ousar la Forma Normal de Chomky para custruir un algoritmo de tiempo [[polynomial-eiquipa|polinomial]] que decida se la cadeia dada stá na lenguaige repersentada pula gramática (l [[Algoritmo CYK]]).
+
+== Porblemas Andecidíbeis ==
+Alguas questones que nun son decidibles por classes de gramáticas mais amplas se tornan decidibles cun gramáticas libres-de l-cuntesto; i.g. l teste de bacuidade dua gramática (saber se la gramática gera algua cadeia, qualquiera que seia eilha), ye andecidible para classe de [[Gramática sensible al cuntesto|Gramática sensibles al cuntesto]], mas ye decidible para gramáticas libre-de l-cuntesto.
+
+Inda assi, muitos porblemas permanecen andecidibles. Eisemplos:
+
+=== Ounibersalidade ===
+Dado ua GLC, eilha gera la lenguaige que cuntén todas las possibles cadeias la séren geradas pul cunjunto de simblos treminales que son ousados an sues regras?
+
+=== Eigualdade de lenguaige ===
+Dadas dues GLCs, eilhas gírun la mesma lenguaige?
+
+=== Lenguaige anclusa ===
+Dadas dues GLCs, la purmeira gramática puode gerar todas las cadeias que la segunda gera?
+
+=== Star nun nible mais baixo de l'hierarquia de Chomsky ===
+Dada ua [[Gramática sensible al cuntesto]], eilha çcribe ua lenguaige libre-de l-cuntesto?
+Dada ua GLC, eilha çcribe ua [[lenguaige regular]]?
+
+Cada un desses porblemas ye andecidible.
+
+== Stensones ==
+Ua maneira óbbia para stender l formalismo de gramática libre-de l-cuntesto ye permitir que bariables téngan argumientos, ls balores que son passados culas regras. Esso permite caratelísticas dua lenguaige natural, tales cumo [[Agrement (lenguistics)|cuncordáncia]] i [[reference|refréncia]], analogamente al correto uso d'eidantificadores an lenguaige de porgramaçon, que dében ser spressos de maneira natural. I.g. agora, nós podemos facilmente spressar qu'an sentenças an anglés, l sujeito i berbo dében cuncordar an númaro.
+
+An Ciéncia de la cumputaçon, eisemplos dessa abordaige ancluen [[Gramática de Afixo]]s, [[Gramática d'atributos]], [[Gramática andexada]], i Ban Wijngaarden [[Gramática de dous lebles].
+
+Stensones similares eisisten an lenguística.
+
+Outra stenson ye permitir que treminales adicionales apareçan ne l lado squerdo de las regras, restringindo sue aplicaçon. Esso porduç l formalismo de [[Gramática sensible al cuntesto]].
+
+==Aplicaçones Lenguísticas==
+
+[[Noan Chomsky|Chomsky]] einicialmente speraba superar las lemitaçones de gramáticas libres-de l-cuntesto al adicionar [[Gramática trasformacional|regras de trasformaçon]].<ref name="chomsky1956"/>
+
+Tales regras son outro çpositibo padron an lenguística tradecional; i.g. [[Boç berbal|passibaçon]] de la boç, an pertués.
+Grande parte de la [[Gramática geratiba]] ten se dedicado a ancontrar maneiras d'aprimorar ls macanismos çcritibos de regras de strutura de frase gramatical i trasformaçon de tal forma puodan ser spressas satamente ls tipos de cousas  que puoden ser spressos an lenguaige natural. Permitir trasformaçones arbitrárias nun faç cun qu'esse oubjetibo seia atingido. Eilhes son mui mais poderosos, sendo [[Turing cumplete|Turing cumpletos]] la nun ser que restriçones seneficantes séian adicionadas (i.g. nun permitir trasformaçones qu'antroduzan i anton rescreban simblos nua maneira libre-de l-cuntesto.
+Posiçon giral de Chomsky subre la nó-gratuidade cuntesto de la lenguaige natural ten se mantido zde anton
+Posiçon giral de Chomsky subre la nó-libardade de cuntesto de la lenguaige natural ten se mantido zde anton,<ref name="shieber1985">{{cite journal | title=Eibidence against the cuntext-freness of natural language | year=1985 | last=Shieber | first=Stuart | journal=Lenguistics and Philosophy | belume=8 | pages=333–343 | url=http://www.ecs.harbard.edu/~shieber/Biblio/Papers/shieber85.pdf | doi=10.1007/BF00630917 | issue=3}}</ref> antretanto sous eisemplos specificos a respeito de la nun adequaçon de GLCs an tenermos dua fraca capacidade geratiba fúrun mais tarde zaprobadas.<ref name="pullun-gazdar1982">{{cite journal | title=Natural languages and cuntext-fre languages | year=1982 | last=Pullun | first=Geoffrey K. | coauthors=Girald Gazdar | journal=Lenguistics and Philosophy | belume=4 | pages=471–504 | doi=10.1007/BF00360802 | issue=4}}</ref>
+[[Girald Gazdar]] i [[Geoffrey Pullun]] ten çcutido qu'anque alguas custruçones nó-libres-de-cuntesto an lenguaige natural (cumo [[cross-serial dependencies]] na [[Suíço-alman|Suíça Germánica]]<ref name="shieber1985"/> i [[reduplication]] an [[Léngua bambara|Bambara]]<ref name="culy1985">{{cite journal | title=The Cumplexity of the Bocabulary of Bambara | year=1985 | last=Culy | first=Christopher | journal=Lenguistics and Philosophy | belume=8 | pages=345–351 | doi=10.1007/BF00630918 | issue=3}}</ref>), la grande maiorie de las formas an lenguaige natural son, de fato libres de cuntesto.<ref name="pullun-gazdar1982"/>
+
+== Beija tamien ==
+* [[Gramática sensible al cuntesto]]
+* [[Gramática formal]]
+* [[Análeze sintática (cumputaçon)]]
+* [[Parsing spression grammar]], na wikipedie an anglés.
+* [[Gramática libre de cuntesto stocástica]], na wikipedie an anglés.
+* [[Cuntext-fre grammar generation algorithms|Algorithms fur cuntext-fre grammar generation]], na wikipedie an anglés.
+
+=== Algoritmos ===
+* [[Algoritmo CYK]]
+* [[Analisador sintático GLR]]
+* [[Algoritmo Earley]]
+
+==Notas==
+{{Reflist}}
+
+==Referencias==
+* Chomsky, Noan (Set. 1956). "Thre models fur the çcrition of language". Anformation Theory, IEEE Trasationes 2 (3).
+* Chomsky, Noan (1957), ''Syntatic Strutures'', Den Haag: Mouton.
+* Chomsky, Noan (1965), ''Aspets of the Theory of Syntax'', Cambridge (Mass.): MIT Press.
+* Chomsky, Noan (1981), ''Letures on Gobernment and Binding'', Dordrecht: Foris.
+* Gazdar, Girald; Klein, Ewan; Pullun, Geoffrey & Sag, Iban (1985), ''Generalized Phrase Struture Grammar'', Cambridge (Mass.): Harbard University Press.
+
+==Ler mais==
+* {{cite book|outhor = [[Michael Sipser]] | year = 1997 | title = Antrodution to the Theory of Cumputation | publisher = PWS Publishing | isbn = 0-534-94728-X}} Setion 2.1: Cuntext-Fre Grammars, pp.&nbsp;91–101. Setion 4.1.2: Decidable porblems cuncerning cuntext-fre languages, pp.&nbsp;156–159. Setion 5.1.1: Redutiones bie cumputation stories: pp.&nbsp;176–183.
+
+{{Teorie de la cumputaçon}}
+
+{{DEFAULTSORT:Gramatica Libre De Cuntesto}}
+[[Catadorie:1956 in cumputer science]]
+[[Catadorie:Cumpiler custrution]]
+[[Catadorie:Formal languages]]
+[[Catadorie:Porgramming language topics]]
+[[Catadorie:Wikipedie articles with ASCII art]]
+[[Catadorie:Teorie de la cumputaçon]]
+[[Catadorie:Tópicos an lenguaiges de porgramaçon]]
