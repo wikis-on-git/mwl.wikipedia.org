@@ -19,7 +19,7 @@ La máquina stá an solo un stado por beç, este stado ye chamado d'estado atual
 
 == Repersentaçon ==
 [[Fexeiro:SdlStateMachine.png|thumb|250px|right|Fig. 1 Eisemplo de máquina de stados SDL]]
-[[Fexeiro:Finite state machine eisample with comments.sbg|thumb|250px|right|Fig. 2 Eisemplo dua máquina de stados fenitos simples]]
+[[Fexeiro:Finite state machine example with comments.svg|thumb|250px|right|Fig. 2 Eisemplo dua máquina de stados fenitos simples]]
 
 === Diagrama de stados ===
 Máquinas de stados fenitos puoden ser repersentadas por meio dun diagrama de stados (ó [[diagrama de trasiçon de stados]]). Dibersas tabelas de trasiçon de stados son ousadas, la mais famosa ye la mostrada ambaixo. La cumbinaçon de l stado atual (s: B) cun ua cundiçon (s: Y) detremina l próssimo stado (s: C).
@@ -74,7 +74,7 @@ Para alhá de sou uso na modelaige de sistemas reatibos eiqui apersentados, out�
 Eesisten dous grupos: Aceitadores/Reconhecedores i Trasdutores.
 
 === Aceitadores i reconhecedores ===
-[[Fexeiro:Fsn parsing word nice.sbg|thumb|400px|right|Fig. 3 FSM aceitador: analisando la palabra "nice"]]
+[[Fexeiro:Fsm parsing word nice.svg|thumb|400px|right|Fig. 3 FSM aceitador: analisando la palabra "nice"]]
 
 Aceitadores i reconhecedores porduzen ua salida binária, dezindo si ó nun para respunder se l'antrada ye aceita pula máquina ó nó. Todos ls stados de l FSM stan a dezir se quier aceitar ó nun quier aceitar. Ne l momiento an que todas las antradas son processadas, se l stado atual ye un estado d'aceitaçon, l'antrada ye aceita, causo cuntrairo ye rejeitada. Cumo regra l'antrada son simblos (carateres); açones nun son ousadas. L'eisemplo de la figura 3 mostra ua máquina de stados fenitos qu'aceita la palabra "nice". Neste FSM l único stado d'aceitaçon ye l númaro 7.
 
@@ -85,7 +85,7 @@ La máquina tamien puode ser çcrita cumo la defeniçon dua lenguaige, que cunte
 L stado enicial ye giralmente mostrado zenhando ua seta "apuntando para el a partir de qualquiera lugar" (Sipser (2006) p. 34).
 
 ==== Stados d'aceitaçon (ó Stados Finales) ====
-[[Fexeiro:DFAexample.sbg|220px|right|thumb|Fig. 4: Repersentaçon dua FSM. Este eisemplo mostra ua FSM que detremina se un númaro binairo ten un númaro par ó ímpar de 0's, adonde S<sub>1</sub> ye un '''stado d'aceitaçon'''.]]
+[[Fexeiro:DFAexample.svg|220px|right|thumb|Fig. 4: Repersentaçon dua FSM. Este eisemplo mostra ua FSM que detremina se un númaro binairo ten un númaro par ó ímpar de 0's, adonde S<sub>1</sub> ye un '''stado d'aceitaçon'''.]]
 
 Stados d'aceitaçon son aqueilhes an que la máquina relata que la sequéncia d'antrada, cumo processadas ​​até agora, ye nembro de la lenguaige qu'eilha aceita. Ye giralmente repersentado por un círclo duplo.
 Un eisemplo dun stado d'aceitaçon aparece na figura 4: un [[outómato fenito determinístico]] (AFD) que deteta se la sequéncia d'antrada [[Codificaçon binária decimal|binária]] cuntén un númaro par de 0's.
@@ -102,7 +102,7 @@ Las salidas dun circuito de tipo More seran cumpletamente síncronas an relaçon
 
 ;[[Máquina de More]]: La FSM outeliza solo açones d'antrada, i.i. la salida depende solamente de l stado. La bantaige de l modelo de More ye la simplificaçon de l cumportamiento. Cunsidremos por eisemplo ua FSM de More dua puorta d'eilebador cun 4 stados "Abierta", "Cerrada", "Abrindo", "Fechando". La máquina de stados reconhece dous comandos: "comando_abrir" i "comando_ancerrar" que çpórun l'altaraçon de stado. L'açon d'antrada (I:) ne l'estado "Abrindo" liga l motor qu'abre la puorta, l'açon d'antrada ne l stado "Fechando" liga l motor na outra direçon, fechando la puorta. Ls stados "Abierta" i "Cerrada" nun zampenhan nanhue açon. Eilhes sinalizan pa l mundo sterno (i.g. para outras máquinas de stado) la situaçon: "puorta stá abierta" ó "puorta stá cerrada".
 
-[[Fexeiro:Fsn mealy model dor cuntrol.jpg|thumb|350px|right|Fig. 5 FSM trasdutor: eisemplo de l modelo de Mealy]]
+[[Fexeiro:Fsm mealy model door control.jpg|thumb|350px|right|Fig. 5 FSM trasdutor: eisemplo de l modelo de Mealy]]
 
 ;[[Máquina de Mealy]]: La FSM outeliza solo anput ationes, i.i. la salida depende de l'antrada i de l stado. L'uso dua FSM de Mealy normalmente lieba a ua reduçon ne l númaro de stados. Por eisemplo ua FSM de Mealy amplementando l mesmo cumportamiento bisto ne l'eisemplo de More (l cumportamiento depende ne l modelo d'eisecuçon amplementado na FSM i eirá funcionar i.g. para ua FSM birtual mas nun para ua FSM d'eibentos dirigidos). Eesisten dues anput ationes(I:): “ampeçe l motor para ancerrar la puorta se l comando_ancerrar (''sensor_closed'' na figura 5) chegar” i “ampeçe l motor na direçon ouposta para abrir la puorta se l comando_abrir (''sensor_oupened'' na figura 5) chegar”.
 
@@ -121,7 +121,7 @@ La FSM cun solo un stado ye chamada de FSM cumbinatória i outeliza solo anput a
 Hai outros cunjuntos de semántica çponible para repersentar máquinas de stado. Por eisemplo, eisisten ferramientas para modelaige i lógica para porjetar cuntroladores ancorporados.<ref>[http://www.csl.sri .com/users/tiwari/papers/stateflow.pdf Tiwari, La. (2002). Formal Semantics and Analysis Methods fur Simulink Stateflow Models.]</ref> Eilhes cumbinan máquinas de stado hierárquico, gráficos de fluxo i tabelas de berdade para ua lenguaige, resultando nun defrente formalismo i cunjunto de semántica.<ref>[http://citeserx.ist.psu.edu/biewdoc/download?doi=10.1.1.89.8817&rep=rep1&type=pdf Hamon, G. (2005). La Denotational Semantics fur Stateflow. Anternational Cunference on Ambedded Software (pp. 164–172). Jersey City, NJ: ACM.]</ref> La Figura 6 eilustra esta mistura de máquinas de stado i gráficos de fluxo cun un cunjunto de stados para repersentar l stado dun cronómetro i un gráfico de fluxo para cuntrolar ls tiques de l reloijo. Estes gráficos, cumo máquinas de stado ouriginales de Harel,<ref>[http://www.fceia.unr.edu.aire/asist/harel01.pdf Harel, D. (1987). La Bisual Formalisn fur Cumplex Systems. Science of Cumputer Porgramming , 231–274.]</ref> apoian ls stados hierarquicamente amarrados, regiones ortogonales, açones de l stado, i las açones de trasiçon.<ref>[http://drona.csa.iisc.ernet.in/~kanade/publicationes/symbolic_analysis_fur_amprobing_simulation_coberage_of_simulink_stateflow_models.pdf Alur, R., Kanade, La., Ramesh, S., & Shashidhar, K. C. (2008). Symbolic analysis fur amprobing simulation coberage of Simulink/Stateflow models. Anternation Cunference on Ambedded Software (pp. 89–98). Atlanta, GA: ACM.]</ref>
 
 == Lógica de la FSM ==
-[[Fexeiro:Finite State Machine Logic.sbg|thumb|200px|right|Fig. 6 Lógica de la FSM (Mealy)]]
+[[Fexeiro:Finite State Machine Logic.svg|thumb|200px|right|Fig. 6 Lógica de la FSM (Mealy)]]
 
 L próssimo stado i la salida dua FSM son ua funçon de l'antrada i de l'atual stado. La lógica de la FSM ye mostrada na figura 6.
 
@@ -155,7 +155,7 @@ Se çcunsiderarmos l simblo purmeira salida dua máquina de More, ''ω(s<sub>0</
 
 == Amplementaçon ==
 === Aplicaçones de Hardware ===
-[[Fexeiro:4 bit counter.sbg|right|thumbnail|250px|Fig. 7 L [[diagrama de circuito]] para un 
+[[Fexeiro:4 bit counter.svg|right|thumbnail|250px|Fig. 7 L [[diagrama de circuito]] para un 
 cuntador TTL de 4bits, un tipo de máquina de stados]]Nun [[circuito digital]], ua FSM puode ser custruída outelizando un [[çpositibo lógico porgramable]]. Un [[cuntrolador lógico porgramable]], [[puorta lógica|puortas lógicas]] i [[flip-flop]]s ó [[relay]]s. Mais specificamente, l'amplementaçon d'hardware requer un [[registrador]] para armazenar l stado de las bariables, un bloco de lógica cumbinacional que detremina l stado de trasiçon i un segundo bloco de lógica cumbinacional que detremina la salida de la FSM.
 L mais famoso ye l cuntrolador de Richards
 
