@@ -1,16 +1,16 @@
-{{sem-fontes|data=junho de 2010}}
-Entende-se por '''Teoria das Linguagens Formais e dos [[Autômatos]]''' (LFA) o estudo de modelos matemáticos que possibilitam a especificação e o reconhecimento de linguagens (no sentido amplo da palavra), suas classificações, estruturas, propriedades, características e inter-relacionamentos.
+{{sin-fuontes|data=júnio de 2010}}
+Antende-se por '''Teorie de las Lenguaiges Formales i de ls [[Outómatos]]''' (LFA) l studo de modelos matemáticos que possibelitan la specificaçon i l reconhecimiento de lenguaiges (ne l sentido amplo de la palabra), sues classeficaçones, struturas, propiadades, caratelísticas i anter-relacionamientos.
 
-A importância dessa teoria na [[Ciência da Computação]] é dupla: ela tanto apóia outros aspectos teóricos da Ciência da Computação ([[decidibilidade]], [[computabilidade]], [[complexidade computacional]], por exemplo), como fundamenta diversas aplicações computacionais tais como processamento de linguagens, reconhecimento de padrões, modelagem de sistemas.
+L'amportança dessa teorie na [[Ciéncia de la Cumputaçon]] ye dupla: eilha tanto apóia outros aspetos teóricos de la Ciéncia de la Cumputaçon ([[decidibelidade]], [[cumputabelidade]], [[cumplexidade cumputacional]], por eisemplo), cumo fundamenta dibersas aplicaçones cumputacionales tales cumo processamiento de lenguaiges, reconhecimiento de padrones, modelaige de sistemas.
 
-Para definir o que é a Teoria das Linguagens Formais é necessário definir o que é [[linguagem]] e o que é linguagem formal. Inicialmente, de maneira bastante informal, podemos definir uma linguagem como sendo uma forma de comunicação. Elaborando um pouco mais esta definição, podemos definir uma linguagem como sendo "um conjunto de elementos (símbolos) e um conjunto de métodos (regras) para combinar estes elementos, usado e entendido por uma determinada comunidade". São exemplos as "[[linguagens naturais]]" (ou idiomas), "[[linguagens de programação]]" e os "[[Protocolo|protocolos de comunicação]]".
+Para defenir l que ye la Teorie de las Lenguaiges Formales ye necessairo defenir l que ye [[lenguaige]] i l que ye lenguaige formal. Einicialmente, de maneira bastante anformal, podemos defenir ua lenguaige cumo sendo ua forma de quemunicaçon. Eilaborando un pouco mais esta defeniçon, podemos defenir ua lenguaige cumo sendo "un cunjunto d'eilemientos (simblos) i un cunjunto de métodos (regras) para cumbinar estes eilemientos, ousado i antendido por ua detreminada quemunidade". San eisemplos las "[[lenguaiges naturales]]" (ó lénguas), "[[lenguaiges de porgramaçon]]" i ls "[[Protocolo|protocolos de quemunicaçon]]".
 
-Assim, podemos dizer que "Linguagens formais" são mecanismos formais para representação e especificação de linguagens, baseados na chamada "[[Teoria da Computação]]". As representações podem ser feitas por reconhecedores e geradores. 
-Os reconhecedores são dispositivos formais que servem para verificar se uma sentença pertence ou não à determinada linguagem. São os [[autômato]]s: autômatos finitos, autômatos de pilha e [[Máquina de Turing]]. Os sistemas geradores são dispositivos formais que permitem a geração sistemática de todas as sentenças de uma linguagem. Os principais sistemas geradores disponíveis são as gramáticas, onde se destacam as [[Hierarquia de Chomsky|gramáticas de Chomsky]]. Então, linguagens formais podem ser representadas de maneira finita e precisa através de sistemas com sustentação matemática.
+Assi, podemos dezir que "Lenguaiges formales" son macanismos formales para repersentaçon i specificaçon de lenguaiges, baseados na chamada "[[Teorie de la Cumputaçon]]". Las repersentaçones puoden ser feitas por reconhecedores i geradores. 
+Ls reconhecedores son çpositibos formales que serben para berificar se ua sentença pertence ó nun a la detreminada lenguaige. San ls [[outómato]]s: outómatos fenitos, outómatos de pilha i [[Máquina de Turing]]. Ls sistemas geradores son çpositibos formales que permiten la geraçon sistemática de todas las sentenças dua lenguaige. Ls percipales sistemas geradores çponibles son las gramáticas, adonde se çtacan las [[Hierarquia de Chomsky|gramáticas de Chomsky]]. Anton, lenguaiges formales puoden ser repersentadas de maneira fenita i percisa atrabeç de sistemas cun sustentaçon matemática.
 
-=={{Ligações externas}}==
-* [http://minerva.ufpel.edu.br/~campani/lingformal.pdf lâminas para curso de um semestre de duração de linguagens formais a nível de graduação]
+=={{Ligaçones sternas}}==
+* [http://minerba.ufpel.edu.br/~campani/lingformal.pdf láminas para curso dun semestre de duraçon de lenguaiges formales la nible de graduaçon]
 
-{{Teoria da computação}}
+{{Teorie de la cumputaçon}}
 
-[[Categoria:Linguagens formais| ]]
+[[Catadorie:Lenguaiges formales| ]]
