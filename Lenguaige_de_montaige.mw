@@ -61,7 +61,7 @@ L montador ten tabelas, adonde armazena anformaçones amportantes subre l porgra
 == Eisemplos de código de montaige ==
 === Arquitetura [[Antel]] ===
 Código an assembly qu'usa la sintaxe antel.
-<syntaxhighlight lang="asn">
+<syntaxhighlight lang="asm">
 Decimal		                Andereço	OPcode		Ouperandos
 
 2089872304                    7C90EBB0	sub		sp, 2D0h
