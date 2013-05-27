@@ -14,9 +14,9 @@ San reconhecedores de [[Lenguaige regular|lenguaiges regulares]] defenidos atrab
 </code>
 * <math>Q</math> ye un cunjunto fenito nun bazio de stados de l'outómato;
 * <math>\Sigma</math> ye un cunjunto de simblos, chamado alfabeto d'antrada de l'outómato;
-* <math>\delta:Q \eiquipas \Sigma \to Q</math> ye la [[funçon (matemática)|funçon]] de trasiçon de stados de l'outómato i sou papel ye l d'andicar las trasiçones possibles an cada cunfiguraçon de l'outómato. Esta funçon fornece para cada par "stado i simblo d'antrada" un nuobo stado para adonde l'outómato deberá mober-se.
+* <math>\delta:Q \times \Sigma \to Q</math> ye la [[funçon (matemática)|funçon]] de trasiçon de stados de l'outómato i sou papel ye l d'andicar las trasiçones possibles an cada cunfiguraçon de l'outómato. Esta funçon fornece para cada par "stado i simblo d'antrada" un nuobo stado para adonde l'outómato deberá mober-se.
 * <math>q_{0}\in\, Q </math> ye chamado stado enicial de l'outómato fenito. Ye l'estado pa l qual l reconhecedor debe ser liebado antes d'ampeçar sues atebidades.
-* <math>F\suseteq Q</math> ye un subconjunto de l cunjunto Q de ls stados de l'outómato, i cuntén todos ls stados d'aceitaçon ó stados finales de l'outómato fenito. Estes stados son aqueilhes an que l'outómato debe treminar l reconhecimiento de las cadeias d'antrada que pertencen a la lenguaige que l'outómato define. Nanhue outra cadeia debe ser capaç de liebar l'outómato la qualquiera destes stados.
+* <math>F\subseteq Q</math> ye un subconjunto de l cunjunto Q de ls stados de l'outómato, i cuntén todos ls stados d'aceitaçon ó stados finales de l'outómato fenito. Estes stados son aqueilhes an que l'outómato debe treminar l reconhecimiento de las cadeias d'antrada que pertencen a la lenguaige que l'outómato define. Nanhue outra cadeia debe ser capaç de liebar l'outómato la qualquiera destes stados.
 
 Por eisemplo:<br>
 <code> 
