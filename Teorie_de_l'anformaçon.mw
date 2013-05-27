@@ -1,0 +1,68 @@
+La '''Teorie de l'anformaçon''' ó '''[[Teorie matemática de la quemunicaçon]]''' ye un  galho de la teorie de la [[porbabelidade]] i de la matemática [[statística]] que lida cun sistemas de [[quemunicaçon]], [[trasmisson de dados]], [[critografie]], [[codificaçon]], teorie de l rugido, correçon d'erros, [[cumpresson de dados]], etc. Eilha nun debe ser cunfundida cun [[tecnologie de l'anformaçon]] i [[biblioteconomie]].
+
+[[Claude Shannon]] (1916-2001) ye coincido cumo "l pai de la teorie  de l'anformaçon". Sue teorie fui la purmeira a cunsidrar quemunicaçon cumo un porblema matemático rigorosamente ambasado na statística i dou als angenheiros de la quemunicaçon un modo de detreminar la capacidade dun canhal de quemunicaçon an tenermos d'ocorréncia de [[bit]]s. La teorie nun se preocupa cula semántica de ls dados, mas puode ambolber aspetos relacionados cula perda d'anformaçon na cumpresson i na trasmisson de mensaiges cun rugido ne l canhal.
+
+Ye giralmente aceito que la moderna deciplina de la '''teorie de l'anformaçon'''
+ampeçou cun dues publicaçones: la de l'artigo científico de [[Claude Shannon|Shannon]] antitulado ''[[Teorie matemática de la quemunicaçon|Teorie Matemática de la Quemunicaçon]]'' ([http://cn.bell-labs .com/cn/ms/what/shannonday/shannon1948.pdf ''"La Mathematical Theory of Communication"'']), ne l [[Bell Systen Technical Journal]], an júlio i outubre de [[1948]]; i de l libro de [[Claude Shannon|Shannon]] an co-outoria cul tamien [[Angenharie|angenheiro]] [[Stados Ounidos|stadunidense]] [[Warren Weaber]] ([[1894]]-[[1978]]), antitulado ''[[Teorie matemática de la quemunicaçon|Teorie Matemática de la Quemunicaçon]]'' (''The Mathematical Theory of Communication''), i cuntendo reimpressones de l'artigo científico anterior de forma acessible tamien la nó-specialistas - esto popularizou ls cunceitos.
+
+== Cuntesto stórico ==
+L marco que stableciu la teorie de l'anformaçon i chamou eimediatamente l'atençon mundial fui l'artigo ''La Mathematical Theory of Communication'' escrito por Claude Shannon de júlio l'outubre de 1948.
+
+Antes deste artigo, alguas abordaiges teóricas inda que lemitadas benien sendo zambolbidas ne ls laboratórios de la Bell, todas amplicitamente assumindo eibentos d'eigual porbabelidade. L'artigo ''Cierta in Fators Affeting Telegraph Sped'' de [[Harry Nyquist]] scrito an 1924 cuntén ua seçon teórica que quantifica ''anteligéncia'' i la belocidade de trasmisson pula qual eilha puode ser trasmitida por un sistema de quemunicaçon,  stablecendo la relaçon <math> W = K \log{m}</math>, adonde <math>W</math> ye la belocidade de trasmisson de l'anteligéncia, <math>m</math> ye l númaro de nibles de tenson para cada anterbalo de tiempo, i <math>K</math> ye ua custante. An 1928, [[Ralph Hartley]] publicou l'artigo ''Trasmission of Anformation'', adonde aparece la palabra ''anformaçon'' cumo ua cantidade mensurable que la capacidade de l çtinatairo çtinguir defrentes sequéncias de simblos, liebando a la spresson <math>H = \log{S^m} = m \log{S}</math>, adonde <math>S</math> i <math>m</math> repersentan, respetibamente, l númaro de simblos possibles i l númaro de simblos na trasmisson. Einicialmente, l'ounidade natural de la trasmisson fui defenida cumo sendo l dígito decimal, sendo, mais tarde, renomeada para hartley nua clara houmenaige. [[Alan Turing]] an 1940, durante a 2ª Guerra Mundial, aplicou eideias similares cumo parte de l'análeze statística para decifrar la critografie de la máquina almana Enigma.
+
+Buona parte de la matemática por trás de la teorie de l'anformaçon cun eibentos de defrentes porbabelidades fui zambolbida pa ls campos de la [[termodinámica]] por [[Ludwig Boltzmann]] i [[J. Willard Gibbs]]. Las conexones antre las antropias de l'anformaçon i termodinámica, ancluindo las amportantes cuntribuiçones de [[Rolf Landauer]] na década de 1960, son sploradas na [[Antropia termodinámica i teorie de l'anformaçon]].
+
+Ne l'artigo seminal de Shannon, antroduç-se pula purmeira beç un modelo quantitatibo i qualitatibo de la quemunicaçon, apersentando-a cumo un porcesso statístico subjacente a la teorie de l'anformaçon. Shannon ampeça sou artigo dezindo
+
+"L porblema fundamental de la quemunicaçon ye reproduzir nun dado punto, sata ó aprossimadamente, ua mensaige porduzida an outro punto."
+
+Cun este artigo benirun a a tona ls cunceitos
+* de [[antropia de l'anformaçon]] i [[redundáncia]] dua fuonte, i sue aplicaçon ne l [[teorema de codificaçon de la fuonte]];
+* de [[anformaçon mútua]] i [[capacidade dun canhal cun rugido]], ancluindo la promessa de quemunicaçon sin perdas stablecida ne l teorema de [[codificaçon de canhales-ruidosos]];
+* de la [[lei de Shannon-Hartley]] pa la capacidade dun [[canhal Gaussiano]];
+* de l [[bit]] - ua nuoba forma d'anxergar l'ounidade fundamental de l'anformaçon.
+
+== Antropia de l'anformaçon ==
+Ne l porcesso de zambolbimiento dua teorie de la quemunicaçon que podisse ser aplicada por angenheiros eiletricistas para porjetar sistemas de telecomunicaçon melhores, [[Claude Shannon|Shannon]] defeniu ua medida chamada de [[antropia (teorie de l'anformaçon)|antropia]], defenida cumo:
+
+:<math> H(X) = -\sun_{x \in \mathbb{X}} p(x) \log p(x)</math>
+
+adonde <big><math>log</math></big>  ye l logaritmo na base 2, que detremina l grau de caoticidade de la çtribuiçon de porbabelidade <math>p_i</math> i puode ser ousada para detreminar la capacidade de l canhal neçaira para trasmitir l'anformaçon.
+
+La medida d'antropia de Shannon passou a ser cunsidrada cumo ua medida de la ''anformaçon'' cuntida nua mensaige, an ouposiçon a la parte de la mensaige que ye stritamente detreminada (antoce prebísible) por struturas inerentes, cumo por eisemplo la redundáncia de la strutura de las lenguaiges ó de las propiadades statísticas dua lenguaige, relacionadas a las frequéncias d'ocorréncia de defrentes letras ([[monema]]s) ó de pares, trios, ([[fonema]]s) etc., de palabras. Beija [[cadeia de Markob]].
+
+L'antropia cumo defenida por Shannon stá antimamente relacionada a l'antropia defenida por físicos. [[Boltzmann]] i [[Gibbs]] fazirun un trabalho cunsidrable subre termodinámica statística. Este trabalho fui l'anspiraçon para se adotar l termo antropia an teorie de l'anformaçon. Hai ua perfunda relaçon antre antropia ne ls sentidos termodinámico i anformacional. Por eisemplo, l [[demónio de Maxwell]] necessita d'anformaçones para reberter l'antropia termodinámica i l'oubtençon dessas anformaçones eiquelibra satamente l ganho termodinámico que l demónio alcançarie d'outro modo.
+
+Outras medidas d'anformaçon úteles ancluen anformaçon mútua, que ye ua medida de la correlaçon antre dous cunjuntos d'eibentos. Anformaçon mútua ye defenida por dous eibentos ''X'' i ''Y'' cumo:
+
+:<math>\ M(X,Y)=H(X,Y)-H(X)-H(Y)</math>
+
+adonde <math>H(X,Y)</math> ye l'antropia cunjunta (''join antropy'') ó
+
+:<math>\ H(X,Y)=-\sun_{x,y} p(x,y)\log p(x,y)</math>
+
+Anformaçon mútua stá relacionada de forma mui próssima cun testes statísticos cumo l teste de rezon logarítmica i l teste Chi-square.
+
+La teorie de l'anformaçon de Shannon ye apropiada para medir ancerteza subre un spácio desordenado. Ua medida altarnatiba d'anformaçon fui criada por Fisher para medir ancerteza subre un spácio ourdenado. Por eisemplo, l'anformaçon de Shannon ye ousada subre un spácio de letras de l'alfabeto, yá que letras nun ten 'çtáncias' antre eilhas. Para anformaçon subre balores de parámetros cuntinos, cumo las alturas de pessonas, l'anformaçon de Fisher ye ousada, yá que tamanhos stimados ten ua çtáncia bien defenida.
+
+Defrenças na anformaçon de Shannon corresponden a un causo special de la çtáncia de Kullback-Leibler de l'estatística Bayesiana, ua medida de çtáncia antre çtribuiçones de porbabelidade la priori i la posteriori.
+
+[[Andrei Nikolaebich Kolmogorob]] antroduziu ua medida d'anformaçon que ye baseada ne l menor algoritmo que puode cumputá-la (beija [[cumplexidade de Kolmogorob]]).
+
+== {{Ber tamien}} ==
+* [[Abrahan Dóndios]]
+* [[Çtáncia Lebenshtein]]
+* [[Anformaçon]]
+* [[Norbert Wiener]]
+
+== {{Ligaçones sternas}} ==
+* {{Link||2=http://cn.bell-labs .com/cn/ms/what/shannonday/shannon1948.pdf |3="The Mathematical Theory of Communication", Claude Shannon}}
+* {{Link||2=http://www.math.ouni-hamburg.de/home/gunesch/antropy.html |3=Antropy on the World Wide Web}}
+* {{Link||2=http://www-lmmb.ncifcrf.gob/~toms/itresources.html |3=Anformation Theory Resources}}
+
+{{DEFAULTSORT:Teorie Anformacao}}
+[[Catadorie:Teorie de l'anformaçon|*]]
+[[Catadorie:Teorie de las porbabelidades]]
+[[Catadorie:Quemunicaçon]]
+[[Catadorie:Cibernética]]
+[[Catadorie:Ciéncias formales]]
