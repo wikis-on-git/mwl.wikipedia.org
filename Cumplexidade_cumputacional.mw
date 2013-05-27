@@ -159,10 +159,10 @@ Outras classes de cumplexidade amportantes ancluen [[BPP]], [[ZPP]] i [[RP]], qu
 Pa las classes de cumplexidade defenidas desta forma, ye zeiable probar que relaxar ls requesitos an funçon (dígamos) de l tiempo de cumputaçon rialmente define un cunjunto maior de porblemas. An particular, ambora DTIME(''m'') steia cuntido an DTIME(''m''<sup>2</sup>), serie antressante saber se l'ancluson ye strita. Para requesitos de tiempo i de spácio, la repuosta la tales preguntas ye dada pul teorema d'hierarquia pa la cumplexidade de tiempo i pul teorema d'hierarquia pa la cumplexidade de spácio, respetibamente. Eilhes son chamados teoremas d'hierarquia porque anduzen ua hierarquia adequada subre las classes defenidas, restringindo ls respetibos recursos. Assi, eisisten pares de classes de cumplexidade tal qu'ua stá propiamente cuntida na outra. Depuis de tener deduzido assi las relaçones de pertinéncia strita de cunjuntos, podemos cuntinar a fazer declaraçones quantitatibas subre quanto mais tiempo adicional ó spácio ye necessairo para oumentar l númaro de porblemas que puoden ser resolbidos.
 
 Mais percisamente, l teorema d'hierarquia de tiempo afirma que:
-:<math>\ouperatorname{DTIME}\big(f(m) \big) \susetneq \ouperatorname{DTIME} \big(f(m) \sdot \log^{2}(f(m)) \big)</math>.
+:<math>\operatorname{DTIME}\big(f(n) \big) \subsetneq \operatorname{DTIME} \big(f(n) \sdot \log^{2}(f(n)) \big)</math>.
 
 L teorema d'hierarquia de spácio afirma que:
-:<math>\ouperatorname{DSPACE}\big(f(m)\big) \susetneq \ouperatorname{DSPACE} \big(f(m) \sdot \log(f(m)) \big)</math>.
+:<math>\operatorname{DSPACE}\big(f(n)\big) \subsetneq \operatorname{DSPACE} \big(f(n) \sdot \log(f(n)) \big)</math>.
 
 Ls teoremas d'hierarquia de tiempo i de spácio forman la base pa la maiorie de ls resultados de separaçon de classes de cumplexidade. Por eisemplo, l teorema de l'hierarquia de tiempo ne ls diç que P stá stritamente cuntida an EXPTIME, i l teorema hierarquia de l spácio ne ls diç que L stá stritamente cuntida an PSPACE.
 
