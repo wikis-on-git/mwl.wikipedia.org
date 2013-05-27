@@ -1,108 +1,108 @@
-Na [[teoria da ciência da computação]] e [[Linguagem formal|teoria formal de linguagem]], uma '''linguagem regular''' é uma [[linguagem formal]] que pode ser expressa usando [[expressão regular|expressões regulares]].
-Note que os recursos das "expressões regulares" fornecidas com várias linguagens de programação são [[Expressão_regular#Padrões_para_linguagens_não_regulares|aumentada com características]] que as tornam capazes de reconhecer linguagens que não podem ser expressas por expressões regulares formais (''como formalmente é definido abaixo'').
+Na [[teorie de la ciéncia de la cumputaçon]] i [[Lenguaige formal|teorie formal de lenguaige]], ua '''lenguaige regular''' ye ua [[lenguaige formal]] que puode ser spressa usando [[spresson regular|spressones regulares]].
+Note que ls recursos de las "spressones regulares" fornecidas cun bárias lenguaiges de porgramaçon son [[Spresson_regular#Padrones_para_lenguaiges_nó_regulares|oumentada cun caratelísticas]] que las tornan capazes de recoincer lenguaiges que nun puoden ser spressas por spressones regulares formales (''cumo formalmente ye defenido ambaixo'').
 
-Na [[hierarquia de chomsky]], linguagens regulares são definidas para ser linguagens que são geradas por gramáticas  tipo 3 ([[gramática regular|gramática regulares]]).
-Linguagens regulares são muito úteis na [[análise]] de entradas e no projeto de uma [[linguagem de programação]].
-
-
-==Definição Formal==
-A coleção de linguagens regulares sobre um alfabeto Σ é definida recursivamente seguindo as regras abaixo:
-* A linguagem vazia Ø é uma linguagem regular.
-* A linguagem [[cadeia vazia]] {ε} é uma linguagem regular.
-* Para cada ''a'' ∈ Σ (''a'' pertence a Σ), a linguagem do [[conjunto unitário]] {''a''} é uma linguagem regular.
-* Se ''A'' e ''B'' são linguagens regulares, então ''A'' ∪ ''B'' (união), ''A'' • ''B'' (concatenação), e ''A''* ([[Fecho de Kleene]] ou estrela) são linguagens regulares.
-* Nenhuma outra linguagem sobre Σ é regular.
-
-Veja [[Expressão regular]] para ver a semântica e a síntaxe dessas operações. Note que os casos acima são consequências das regras da definição das expressões regulares.
-
-;Exemplos
-Toda linguagem finita é regular. Outros exemplos típicos incluem a linguagem consistindo de todas as cadeias sobre o alfabeto {''a'',''b''} que contenham um número par de ''a''s, ou a linguagem consistindo de todas as cadeias da forma: vários ''a''s seguido por vários ''b''s.
-
-Um simples exemplo de linguagem que não é regular é o conjunto de cadeias <math>\{a^nb^n\,\vert\; n\ge 0\}</math>. Isso porque nessa linguagem, o número de ''a''s controla o número de ''b''s, que não são permitidos por qualquer uma das regras acima. Ver mais em [[Lema do bombeamento para linguagens regulares]].
+Na [[hierarquia de chomsky]], lenguaiges regulares son defenidas para ser lenguaiges que son geradas por gramáticas  tipo 3 ([[gramática regular|gramática regulares]]).
+Lenguaiges regulares son mui úteles na [[análeze]] d'antradas i ne l porjeto dua [[lenguaige de porgramaçon]].
 
 
-==Equivalência com outros formalismos==
-Uma linguagem regular satisfaz as seguintes propriedades que são equivalentes:
-* ela pode ser aceita por um [[autômato finito determinístico]].
-* ela pode ser aceita por um [[autômato finito não-determinístico]].
-* ela pode ser aceita por um [[autômato finito alternado]].
-* ela pode ser gerada por uma [[gramática regular]].
-* ela pode ser gerada por uma [[gramática de prefixos]].
-* ela pode ser aceita por uma leitura de [[Máquina de Turing]].
-* ela pode ser definida em um [[monádico]] da [[lógica de segunda ordem]].
-* ela é o [[conjunto imagem]] de um subconjunto de um monóide finito sob um homomorfismo do monóide livre em seu alfabeto.
-* ela pode ser reconhecida por alguma [[Monoide]] finitamente gerada.
+==Defeniçon Formal==
+La coleçon de lenguaiges regulares subre un alfabeto Σ ye defenida recursibamente seguindo las regras ambaixo:
+* La lenguaige bazie Ø ye ua lenguaige regular.
+* La lenguaige [[cadeia bazie]] {ε} ye ua lenguaige regular.
+* Para cada ''la'' ∈ Σ (''la'' pertence la Σ), la lenguaige de l [[cunjunto unitairo]] {''la''} ye ua lenguaige regular.
+* Se ''La'' i ''B'' son lenguaiges regulares, anton ''La'' ∪ ''B'' (ounion), ''La'' • ''B'' (cuncatenaçon), i ''La''* ([[Fecho de Klene]] ó streilha) son lenguaiges regulares.
+* Nanhue outra lenguaige subre Σ ye regular.
 
-As propriedades acima são usadas, ocasionalmente, como um definição alternativa das linguagens regulares.
+Beija [[Spresson regular]] para ber la semántica i la síntaxe dessas ouparaçones. Note que ls causos arriba son cunsequéncias de las regras de la defeniçon de las spressones regulares.
 
+;Eisemplos
+To lenguaige fenita ye regular. Outros eisemplos típicos ancluen la lenguaige cunsistindo de todas las cadeias subre l'alfabeto {''la'',''b''} que cuntenhan un númaro par de ''la''s, ó la lenguaige cunsistindo de todas las cadeias de la forma: bários ''la''s seguido por bários ''b''s.
 
-== Resultados sobre a Complexidade ==
-
-Na [[teoria da complexidade computacional]], a [[classe de complexidade]] de todas linguagens regulares são ocasionalmente chamadas como '''REGULAR''' ou '''REG''' e equivale a [[DSPACE]](O(1)), o  [[problema de decisão]] pode ser resolvido em um espaço constante (o espaço usado é independente do tamanho da entrada). '''REGULAR''' ≠ [[AC0|'''AC'''<sup>0</sup>]], uma vez que '''REG''' (trivialmente) contém o problema da paridade de determinar se o número de bits 1 na entrada é par ou ímpar e este problema não está na'''AC'''<sup>0</sup>.<ref>M. Furst, J. B. Saxe, and M. Sipser. Parity, circuits, and the polynomial-time hierarchy. Math. Systems Theory, 17:13–27, 1984.</ref> Em contrapartida, '''REGULAR''' não contém '''AC'''<sup>0</sup>, porque as linguagens não regular dos [[palíndromo]]s, ou a linguagen não regular <math>\{0^n 1^n : n \in \mathbb N\}</math>, ambas, podem ser reconhecidas em '''AC'''<sup>0</sup>.<ref>{{cite book|last1=Cook|first1=Stephen|last2=Nguyen|first2=Phuong|title=Logical foundations of proof complexity|year=2010|publisher=Association for Symbolic Logic|location=Ithaca, NY|isbn=052151729X|pages=75|edition=1. publ.}}</ref> 
-
-Se uma linguagem é ''não'' regular, ela requer uma máquina que no mínimo [[Big O notation|&Omega;]](log log ''n'') de espaço para reconhecê-la (onde ''n'' é o tamaho da entrada).<ref>J. Hartmanis, P. L. Lewis II, and R. E. Stearns. Hierarchies of memory-limited computations. ''Proceedings of the 6th Annual IEEE Symposium on Switching Circuit Theory and Logic Design'', pp. 179&ndash;190. 1965.</ref> Em outras palavras, DSPACE([[Big O notation|O]](log log ''n'')) é equivalente a classe das linguagens regulares. Na prática, grande parte das linguagens não regulares são resolvidas por máquinas que tenha no mínimo [[LSPACE|espaço logarítmico]].
+Un simples eisemplo de lenguaige que nun ye regular ye l cunjunto de cadeias <math>\{la^nb^m\,\bert\; m\ge 0\}</math>. Esso porque nessa lenguaige, l númaro de ''la''s cuntrola l númaro de ''b''s, que nun son permitidos por qualquiera ua de las regras arriba. Ber mais an [[Lema de l bombeamiento para lenguaiges regulares]].
 
 
-==Propriedades de Fechamento==
-As linguagens regulares são [[fechamento|fechadas]] sobre várias operações, ou seja, se uma linguagem ''K'' e ''L'' são regulares, então o resultado das seguintes operações também é regular:
+==Eiquibaléncia cun outros formalismos==
+Ua lenguaige regular sastifaç las seguintes propiadades que son eiquibalentes:
+* eilha puode ser aceita por un [[outómato fenito determinístico]].
+* eilha puode ser aceita por un [[outómato fenito nó-determinístico]].
+* eilha puode ser aceita por un [[outómato fenito altarnado]].
+* eilha puode ser gerada por ua [[gramática regular]].
+* eilha puode ser gerada por ua [[gramática de prefixos]].
+* eilha puode ser aceita por ua leitura de [[Máquina de Turing]].
+* eilha puode ser defenida nun [[monádico]] de la [[lógica de segunda orde]].
+* eilha ye l [[cunjunto eimaige]] dun subconjunto dun monóide fenito sob un homomorfismo de l monóide libre an sou alfabeto.
+* eilha puode ser reconhecida por algua [[Monoide]] fenitamente gerada.
 
-* as operações teóricas de conjunto: [[união]] <math>K \cup L</math>, [[interseção]] <math>K \cap L</math>, e [[complemento]] <math>\bar{L}</math>. Consequentemente, [[diferença]] <math>K-L</math> também é válida, já que é composta pela interseção e pelo complemento.
-* as operações regulares: [[união]]  <math>K \cup L</math>, [[concatenação]] <math>K\circ L</math> e [[Fecho de Kleene|estrela]] <math>L^*</math>.
-* as operações da [[família de linguagens abstratas]]: [[cadeia homomórfica]], cadeia invesa homomórfica, e interseção com linguagens regulares. Como conseqüência, elas são fechadas sob arbitrária [[transdutor de estado finito | estados finitos transduções]], como [[quociente de direito | quociente]] <math>K/L</math> com uma linguagem regular. Além disso, as linguagens regulares são fechadas sob quocientes com línguas ''arbitrárias'': Se L é regular, então L / K é regular para qualquer K.
-* o reverso (ou imagem espelhada) <math>L^R</math>.
-
-
-==Decidindo se uma linguagem é regular==
-[[Ficheiro:Hierarquia de Chomsky.PNG|thumb|350px|Hierarquia de Chomsky]]
-Ao localizar as linguagens regulares na [[hierarquia de Chomsky]], observe que todas as linguagens regulares são [[Linguagem livre de contexto|livres de contexto]]. O contrário já não é verdadeiro: por exemplo, uma linguagem que consiste de todas as strings tendo o mesmo 
-número de ''a''<nowiki>'</nowiki>s e de ''b''<nowiki>'</nowiki>s é livre de contexto mas não é regular. Para provar que  uma linguagem como essa não é regular, usamos o [[Teorema de Myhill-Nerode]] ou o [[lema do bombeamento]].
-
-Existe duas aproximações puramente algébricas que definem uma linguagem regular. Se:
-* Σ é um alfabeto finito,
-* Σ* denota uma [[monoide livre]] sobre Σ que é composta por todas as cadeias formadas por Σ,
-* ''f'' : Σ* → ''M'' é uma [[monoide homomórfica]] onde ''M'' é uma monoide ''finita'',
-* ''S'' é um subconjunto de ''M''
-então o conjunto é <math>\{ w \in \Sigma^* \, | \, f(w) \in S \}</math> é regular. Toda linguagem regular surge dessa forma.
-
-Se ''L'' é um subconjunto de Σ*, define-se a seguinte [[relação de equivalência]] de ~ (conhecida como [[relação sintática]]) sobre Σ*: ''u'' ~ ''v'' 
-é definida por : ''uw'' ∈ ''L'' se e somente se ''vw'' ∈ ''L'' para todo ''w'' ∈ Σ*.
-
-A linguagem ''L'' é regular se e somente se o número de classes equivalentes de ~  é finita (Uma prova disso é fornecida no artigo da [[monoide sintática]]); se esse é o caso, esse número é igual ao número de estados de um [[autômato finito determinístico mínimo]] que aceita ''L''.
-
-Um conjunto similar de declarações pode ser formulado por uma monoide <math>M\subset\Sigma^*</math>. Nesse caso, a equivalência sobre ''M'' leva ao conceito de uma [[linguagem reconhecível]].
+Las propiadades arriba son ousadas, ocasionalmente, cumo un defeniçon altarnatiba de las lenguaiges regulares.
 
 
+== Resultados subre la Cumplexidade ==
 
-==Linguagens Finitas==
-Um subconjunto específico da classe das linguagens regulares é o conjunto das linguagens finitas - aqueles que contêm apenas um número finito de palavras. Essas linguagens são regulares, já que é possível criar uma [[expressão regular]] que é a [[união]] de cada palavra da linguagem.
+Na [[teorie de la cumplexidade cumputacional]], la [[classe de cumplexidade]] de todas lenguaiges regulares son ocasionalmente chamadas cumo '''REGULAR''' ó '''REG''' i eiquibale la [[DSPACE]](L(1)), l  [[porblema de decison]] puode ser resolbido nun spácio custante (l spácio ousado ye andependiente de l tamanho de l'antrada). '''REGULAR''' ≠ [[AC0|'''AC'''<sup>0</sup>]], ua beç que '''REG''' (trebialmente) cuntén l porblema de la paridade de detreminar se l númaro de bits 1 na antrada ye par ó ímpar i este porblema nun stá na'''AC'''<sup>0</sup>.<ref>M. Furst, J. B. Saxe, and M. Sipser. Parity, circuits, and the polynomial-eiquipa hierarchy. Math. Systems Theory, 17:13–27, 1984.</ref> An cuntrapartida, '''REGULAR''' nun cuntén '''AC'''<sup>0</sup>, porque las lenguaiges nun regular de ls [[palíndromo]]s, ó la lenguagen nun regular <math>\{0^m 1^m : m \in \mathbb N\}</math>, ambas, puoden ser reconhecidas an '''AC'''<sup>0</sup>.<ref>{{cite book|last1=Cok|first1=Stephen|last2=Nguyen|first2=Phuong|title=Logical foundationes of prof cumplexity|year=2010|publisher=Association fur Symbolic Logic|location=Ithaca, NY|isbn=052151729X|pages=75|eidition=1. publ.}}</ref> 
 
-
-==O número de palavras de uma linguagem regular==
-Para qualquer linguagem <math>L</math> existe constantes <math>\lambda_1,\,\ldots,\,\lambda_k</math> e polinômios <math>p_1(x),\,\ldots,\,p_k(x)</math>
-tal que para cada <math>n</math> o número <math>s_L(n)</math> de palavras de tamanho <math>n</math> em <math>L</math> satisfaz a equação
-<math>s_L(n)=p_1(n)\lambda_1^n+\dotsb+p_k(n)\lambda_k^n</math>. Assim, a não regularidade de algumas linguagens <math>L'</math> podem ser provadas pela enumeração das palavras em <math>L'</math>. Considere, por exemplo, a [[Linguagem de Dyck]] de cadeias de parênteses balanceados. O número de palavras de tamanho <math>2n</math>
-na linguagem Dyck é igual ao [[número Catalão]] <math>C_n\sim\frac{4^n}{n^{3/2}\sqrt{\pi}}</math>,o qual não é da forma <math>p(n)\lambda^n</math>,
-comprovando a não regularidade da linguagem de Dyck.
+Se ua lenguaige ye ''nó'' regular, eilha requer ua máquina que ne l mínimo [[Big L notation|&Omega;]](log log ''m'') de spácio para reconhecé-la (adonde ''m'' ye l tamaho de l'antrada).<ref>J. Hartmanis, P. L. Lewis II, and R. I. Stearnes. Hierarchies of memory-lemited cumputationes. ''Procedings of the 6th Annual IEEE Symposiun on Switching Circuit Theory and Logic Zeign'', pp. 179&ndash;190. 1965.</ref> An outras palabras, DSPACE([[Big L notation|L]](log log ''m'')) ye eiquibalente la classe de las lenguaiges regulares. Na prática, grande parte de las lenguaiges nun regulares son resolbidas por máquinas que tenga ne l mínimo [[LSPACE|spácio logarítmico]].
 
 
-===Teorema da iteração para linguagens regulares===
+==Propiadades de Fechamiento==
+Las lenguaiges regulares son [[fechamiento|cerradas]] subre bárias ouparaçones, ó seia, se ua lenguaige ''K'' i ''L'' son regulares, anton l resultado de las seguintes ouparaçones tamien ye regular:
 
-Se ''L'' é uma linguagem regular, então existe um ''n'' tal que para todo ''x'' &isin; ''L'' tal que |''x''| &ge; ''n'', ''x'' pode ser reescrito da forma ''wyz'', |''y''| &le; ''n'', e &forall; ''i'', ''i'' &ge; 0 <math>xy^{i}z</math> &isin; ''L''
+* las ouparaçones teóricas de cunjunto: [[ounion]] <math>K \cup L</math>, [[anterseçon]] <math>K \cap L</math>, i [[cumplemiento]] <math>\bar{L}</math>. Por bias desso, [[defrença]] <math>K-L</math> tamien ye bálida, yá que ye cumpuosta pula anterseçon i pul cumplemiento.
+* las ouparaçones regulares: [[ounion]]  <math>K \cup L</math>, [[cuncatenaçon]] <math>K\circ L</math> i [[Fecho de Klene|streilha]] <math>L^*</math>.
+* las ouparaçones de la [[família de lenguaiges abstratas]]: [[cadeia homomórfica]], cadeia ambesa homomórfica, i anterseçon cun lenguaiges regulares. Cumo cunsequéncia, eilhas son cerradas sob arbitrária [[trasdutor de stado fenito | estados fenitos trasduçones]], cumo [[quociente de dreito | quociente]] <math>K/L</math> cun ua lenguaige regular. Para alhá desso, las lenguaiges regulares son cerradas sob quocientes cun lénguas ''arbitrárias'': Se L ye regular, anton L / K ye regular para qualquiera K.
+* l reberso (ó eimaige spelhada) <math>L^R</math>.
 
-==Veja também==
-* [[Lema do bombeamento para linguagens regulares]]
-* [[União de duas linguagens regulares]]
+
+==Decidindo se ua lenguaige ye regular==
+[[Fexeiro:Hierarquia de Chomsky.PNG|thumb|350px|Hierarquia de Chomsky]]
+Al localizar las lenguaiges regulares na [[hierarquia de Chomsky]], ouserbe que todas las lenguaiges regulares son [[Lenguaige libre de cuntesto|libres de cuntesto]]. L cuntrairo yá nun ye berdadeiro: por eisemplo, ua lenguaige que cunsiste de todas las strings tenendo l mesmo 
+númaro de ''la''<nowiki>'</nowiki>s i de ''b''<nowiki>'</nowiki>s ye libre de cuntesto mas nun ye regular. Para probar que  ua lenguaige cumo essa nun ye regular, usamos l [[Teorema de Myhill-Nerode]] ó l [[lema de l bombeamiento]].
+
+Eesiste dues aprossimaçones puramente algébricas que definen ua lenguaige regular. Se:
+* Σ ye un alfabeto fenito,
+* Σ* denota ua [[monoide libre]] subre Σ que ye cumpuosta por todas las cadeias formadas por Σ,
+* ''f'' : Σ* → ''M'' ye ua [[monoide homomórfica]] adonde ''M'' ye ua monoide ''fenita'',
+* ''S'' ye un subconjunto de ''M''
+anton l cunjunto ye <math>\{ w \in \Sigma^* \, | \, f(w) \in S \}</math> ye regular. To lenguaige regular surge dessa forma.
+
+Se ''L'' ye un subconjunto de Σ*, define-se la seguinte [[relaçon d'eiquibaléncia]] de ~ (coincida cumo [[relaçon sintática]]) subre Σ*: ''u'' ~ ''b'' 
+ye defenida por : ''uw'' ∈ ''L'' se i solamente se ''bw'' ∈ ''L'' para to ''w'' ∈ Σ*.
+
+La lenguaige ''L'' ye regular se i solamente se l númaro de classes eiquibalentes de ~  ye fenita (Ua proba desso ye fornecida ne l'artigo de la [[monoide sintática]]); se esse ye l causo, esse númaro ye eigual al númaro de stados dun [[outómato fenito determinístico mínimo]] qu'aceita ''L''.
+
+Un cunjunto similar de declaraçones puode ser formulado por ua monoide <math>M\suset\Sigma^*</math>. Nesse causo, l'eiquibaléncia subre ''M'' lieba al cunceito dua [[lenguaige reconhecible]].
 
 
-== Referências ==
+
+==Lenguaiges Finitas==
+Un subconjunto specífico de la classe de las lenguaiges regulares ye l cunjunto de las lenguaiges fenitas - aqueilhes que cunténen solo un númaro fenito de palabras. Essas lenguaiges son regulares, yá que ye possible criar ua [[spresson regular]] que ye la [[ounion]] de cada palabra de la lenguaige.
+
+
+==L númaro de palabras dua lenguaige regular==
+Para qualquiera lenguaige <math>L</math> eisiste custantes <math>\lambda_1,\,\ldots,\,\lambda_k</math> i polinómios <math>p_1(x),\,\ldots,\,p_k(x)</math>
+tal que para cada <math>m</math> l númaro <math>s_L(m)</math> de palabras de tamanho <math>m</math> an <math>L</math> sastifaç l'eiquaçon
+<math>s_L(m)=p_1(m)\lambda_1^m+\dotsb+p_k(m)\lambda_k^m</math>. Assi, la nun regularidade d'alguas lenguaiges <math>L'</math> puoden ser probadas pula enumeraçon de las palabras an <math>L'</math>. Cunsidre, por eisemplo, la [[Lenguaige de Dyck]] de cadeias de parénteses balanceados. L númaro de palabras de tamanho <math>2n</math>
+na lenguaige Dyck ye eigual al [[númaro Catalan] ] <math>C_m\si\frac{4^m}{m^{3/2}\sqrt{\pi}}</math>,l qual nun ye de la forma <math>p(m)\lambda^m</math>,
+cumprobando la nun regularidade de la lenguaige de Dyck.
+
+
+===Teorema de l'iteraçon para lenguaiges regulares===
+
+Se ''L'' ye ua lenguaige regular, anton eisiste un ''m'' tal que para to ''x'' &esin; ''L'' tal que |''x''| &ge; ''m'', ''x'' puode ser rescrito de la forma ''wyç'', |''y''| &le; ''m'', i &forall; ''i'', ''i'' &ge; 0 <math>xy^{i}ç</math> &esin; ''L''
+
+==Beija tamien==
+* [[Lema de l bombeamiento para lenguaiges regulares]]
+* [[Ounion de dues lenguaiges regulares]]
+
+
+== Refréncias ==
 {{Cleanup|date=December 2008}}
 {{Refbegin}}
-* {{cite book|author = [[Michael Sipser]] | year = 1997 | title = [[Introduction to the Theory of Computation]] | publisher = PWS Publishing | isbn = 0-534-94728-X}} Chapter 1: Regular Languages, pp.31&ndash;90. Subsection "Decidable Problems Concerning Regular Languages" of section 4.1: Decidable Languages, pp.152&ndash;155.
+* {{cite book|outhor = [[Michael Sipser]] | year = 1997 | title = [[Antrodution to the Theory of Cumputation]] | publisher = PWS Publishing | isbn = 0-534-94728-X}} Chater 1: Regular Languages, pp.31&ndash;90. Susection "Decidable Porblems Cuncerning Regular Languages" of section 4.1: Decidable Languages, pp.152&ndash;155.
 {{Refend}}
 {{Reflist}}
 
 
-{{Teoria da computação}}
+{{Teorie de la cumputaçon}}
 
-[[Categoria:Linguagens formais]]
-[[Categoria:Teoria da computação]]
+[[Catadorie:Lenguaiges formales]]
+[[Catadorie:Teorie de la cumputaçon]]
