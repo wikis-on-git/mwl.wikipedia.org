@@ -1,0 +1,193 @@
+{{Ber zambig}}
+'''''Assembly''''' ó '''lenguaige de montaige''' ye ua notaçon legible por houmanos pa l [[código de máquina]] qu'ua [[arquitetura de cumputador]] specífica usa, outelizada para porgramar çpositibos cumputacionales, cumo [[microprocessador]]s i [[microcontrolador]]es. La lenguaige de máquina, que ye un mero padron de [[bit]]s, torna-se legible pula sustituiçon de ls balores an bruto por simblos chamados [[mnemónico]]s<ref>[http://knol.gogle .com/k/assembly# Assembly - Knol]</ref><ref>[http://www.ic.uff.br/~loques/orgcump/cap7-assembler.pdf Lenguaige de montaige - UFF]</ref>.
+
+Por eisemplo, anquanto un cumputador sabe l que la [[anstruçon-máquina]] IA-21 (<code>10110000 01100001</code>) faç, pa ls porgramadores ye mais fácele recordar la repersentaçon eiquibalente an anstruçones mnemónicas <code>MOB AL, 61h</code>. Tal anstruçon ourdena que l balor [[Sistema heixadecimal|heixadecimal]] 61 (97, an [[Sistema decimal|decimal]]) seia mobido pa l [[registrador (anformática)|registrador]] 'AL'.
+
+La cumberson de la lenguaige de montaige pa l código de máquina ye feita pul montador ó ''assembler'', que ye basicamente un tradutor de comandos, sendo mais simples qu'un [[cumpilador]].
+
+== Arquitetura ==
+Al cuntrairo de l qu'acuntece nas [[Lenguaige de porgramaçon d'alto nible|lenguaiges d'alto nible]], eisiste (até cierto punto) ua correspondéncia de 1 para 1 antre la lenguaige de montaige simples i la lenguaige de máquina. Por esso la traduçon de l código de montaige an código de máquina nun ye chamada [[cumpilador|cumpilaçon]], mas montaige. Cunsegue-se trasformar la lenguaige de montaige an lenguaige de máquina recorrendo a un montador (tamien chamado ''assembler'', ouriginado de l termo assemblé an [[Léngua francesa|francés]]){{carece de fuontes}}, i la trasformaçon ambersa faç-se recorrendo a un [[çmontador]] (tamien chamado ''çassembler'').
+
+Cada [[arquitetura de cumputador]] ten la sue própia lenguaige de máquina i, antoce, la sue própia lenguaige de montaige. Essas lenguaiges de montaige difíren ne l númaro i tipo d'ouparaçones que suportan. Tamien ténen defrentes tamanhos i númaros de registradores, i defrentes repersentaçones de ls tipos de dados armazenados. Anquanto todos ls cumputadores d'outelizaçon genérica son capazes de zampenhar eissencialmente las mesmas funçones, l modo cumo l fázen ye defrente.
+
+Para alhá desso, puoden eisistir cunjuntos múltiplos de mnemónicas, ó sintaxes de lenguaige de montaige, para un único cunjunto d'anstruçones. Nestes causos, l cunjunto mais popular ye aquel que ye outelizado pul fabricante na sue documentaçon.
+
+Ne l mercado de [[Cumputador pessonal|PCs]], dominado por processadores Antel i AMD, atualmente eisisten dues arquiteturas. Purmeiro la [[IA32]] (genericamente chamada de [[i386]], [[x86]] ó [[x86-32]]), criada pula [[Antel]] an 1985 i purmeiramente outelizada pul [[processador]]s [[i386]] i segundo la [[IA32-EM64T]] (ó [[IA32-AMD64]] ) criada an 2002 pula [[AMD]] (Mas tamien outelizada pula [[Antel]] hoije). L [[IA32]] outeliza l grupo d'anstruçones chamado [[x86]], i l [[IA32-EM64T]] outeliza l grupo chamado [[x86-64]]. Las dues arquiteturas úsan númaros defrentes de registradores gerales i tamanho. Anquanto ls registradores de l x86 son [[32 bit]]s ls de la x86-64 son [[64 bit]]s.{{carece de fuontes}}
+
+Ls registradores d'uso giral de l'arquitetura x86 son:
+* ''%EAX'' - registrador acumulador
+* ''%EBX'' - registrador base
+* ''%ECX'' - registrador cuntador
+* ''%EDX'' - registrador de dados
+* ''%ESI'' - registrador de índice de la fuonte de ls dados
+* ''%EDI'' - registrador de índice de l çtino de ls dados
+* ''%EBP'' - registrador [[Ponteiro (porgramaçon)|ponteiro]] pa la moldura de chamada de funçon
+* ''%ESP'' - registrador ponteiro pa la pilha d'eisecuçon
+
+Ls registradores d'uso giral de l'arquitetura x86-64 son:
+* ''%RAX'' - registrador balor de retorno
+* ''%RBX'' - registrador base
+* ''%RCX'' - registrador cuntador
+* ''%RDX'' - registrador de dados
+* ''%RSI'' - registrador de índice de la fuonte de ls dados
+* ''%RDI'' - registrador de índice de l çtino de ls dados
+* ''%RBP'' - registrador ponteiro pa la moldura de chamada de funçon
+* ''%RSP'' - registrador ponteiro pa la pilha d'eisecuçon
+* ''%R8 '' - registrador de dados
+* ''%R9 '' - registrador de dados
+* ''%R10'' - registrador ponteiro pa la moldura de chamada de funçon
+* ''%R11'' - registrador de linking
+* ''%R12'' - registrador de base
+* ''%R13'' - registrador de base
+* ''%R14'' - registrador de base
+* ''%R15'' - registrador de base
+
+Esses nomes deriban de la forma cumo éran outelizados nas arquiteturas anteriores la IA32 ([[8086]], [[80286]]…), an que cada registrador zampenhaba un papel specífico. Na arquitetura i386, todos eilhes son d'uso giral, ambora eilhes cuntinen a poder ser outelizados an sous papéis tradecionales.
+
+L'arquitetura IA32 inda apersenta ls registradores de segmiento CS, DS, ES, SS, FS i GS, un [[cuntador de porgrama]] EIP, un registro de sinalizadores EFLAGS, 8 registradores de [[bírgula flutuante]] i sous sinalizadores associados. Eesisten tamien registradores outelizados pul [[sistema ouperacional]] para cuntrole de l'eisecuçon an [[modo protegido]], bien cumo outros registradores d'uso specífico ([[depuraçon]], cuntrole de zampenho, etc.).
+
+;Anstruçones aritméticas:
+* Adiçon: ADD, ADC, INC, XADD, AAA i DAA;
+* Subtraçon: SUB, SBB, DEC, AAS i DAS;
+* Multiplicaçon: MUL, IMUL i AAM;
+* Debison: DIB, IDIB i AAD.
+
+== Montador ==
+L '''montador''' ó '''assembler''' (nun cunfundir cun assembly) ye un porgrama que cria l [[código oubjeto]] traduzindo las anstruçones de la lenguaige de montaige (assembly) para código de máquina. Para alhá de ls comandos básicos, que son traduzidos diretamente pa la lenguaige de máquina, alguns montadores tamien aceitan diretibas, que son comandos specíficos pa l montador. Por eisemplo, ye possible defenir custantes na mimória outelizando diretibas.<ref name="antro-ranido">{{citar web |url=http://www.ic.unicamp.br/~ranido/mc404/faiska/cap2.pdf |títalo=Antroduçon a la Organizaçon de Cumputadores
+i Lenguaiges de Montaige |acessodata=11 de márcio de 2012 |outor=Ricardo Anido |ultimo=Anido |purmeiro=Ricardo |data=25 de Febreiro de 2011 |anho=2011|mes=Febreiro |formato=PDF |publicado=Ounibersidade Stadual de Campinas }}</ref>
+
+L montador ten tabelas, adonde armazena anformaçones amportantes subre l porgrama que stá sendo montado. Tabelas de rótulos, de custantes i de comandos son las mais quemuns.<ref name="antro-ranido" />{{rp|p.18}}
+
+== Eisemplos de código de montaige ==
+=== Arquitetura [[Antel]] ===
+Código an assembly qu'usa la sintaxe antel.
+<syntaxhighlight lang="asn">
+Decimal		                Andereço	OPcode		Ouperandos
+
+2089872304                    7C90EBB0	sub		sp, 2D0h
+2089872310                    7C90EBB6	mob		dword tr [ebp+FFFFFDDCh], eax
+2089872316                    7C90EBBC	mob		dword tr [ebp+FFFFFDD8h], ecx
+2089872322                    7C90EBC2	mob		eax, dword tr [ebp+8]
+2089872325                    7C90EBC5	mob		ecx, dword tr [ebp+4]
+2089872328                    7C90EBC8	mob		dword tr [eax+0Ch], ecx
+2089872331                    7C90EBCB	lea		eax, [ebp+FFFFFD2Ch]
+2089872337                    7C90EBD1	mob		dword tr [eax+000000B8h], ecx
+2089872343                    7C90EBD7	mob		dword tr [eax+000000A4h], ebx
+2089872349                    7C90EBDD	mob		dword tr [eax+000000A8h], edx
+2089872355                    7C90EBE3	mob		dword tr [eax+000000A0h], esi
+2089872361                    7C90EBE9	mob		dword tr [eax+0000009Ch], eidi
+2089872367                    7C90EBEF	lea		ecx, [ebp+0Ch]
+2089872370                    7C90EBF2	mob		dword tr [eax+000000C4h], ecx
+2089872376                    7C90EBF8	mob		ecx, dword tr [ebp]
+2089872379                    7C90EBFB	mob		dword tr [eax+000000B4h], ecx
+2089872385                    7C90EC01	mob		ecx, dword tr [ebp-4]
+2089872388                    7C90EC04	mob		dword tr [eax+000000C0h], ecx
+2089872394                    7C90EC0A	mob		word tr [eax+000000BCh], cs
+2089872400                    7C90EC10	mob		word tr [eax+00000098h], ds
+2089872406                    7C90EC16	mob		word tr [eax+00000094h], s
+2089872412                    7C90EC1C	mob		word tr [eax+00000090h], fs
+2089872418                    7C90EC22	mob		word tr [eax+0000008Ch], gs
+2089872424                    7C90EC28	mob		word tr [eax+000000C8h], ss
+2089872430                    7C90EC2E	mob		dword tr [eax], 10007h
+2089872436                    7C90EC34	push		1
+2089872438                    7C90EC36	push		eax
+2089872439                    7C90EC37	push		dword tr [ebp+8]
+2089872442                    7C90EC3A	call		7C90E252
+2089872447                    7C90EC3F	sub		sp, 20h
+2089872450                    7C90EC42	mob		dword tr [esp], eax
+2089872453                    7C90EC45	mob		dword tr [sp+4], 1
+2089872461                    7C90EC4D	mob		dword tr [esp+10h], 0
+2089872469                    7C90EC55	mob		eax, dword tr [ebp+8]
+2089872472                    7C90EC58	mob		dword tr [sp+8], eax
+2089872476                    7C90EC5C	mob		eax, esp
+2089872478                    7C90EC5E	push		eax
+2089872479                    7C90EC5F	call		7C90EBAC
+</syntaxhighlight>
+
+=== Microprocessador Texas Anstruments TMS320C2x ===
+<syntaxhighlight lang="asn">
+LOOP:
+	LARP	AR1
+	LRLK	AR1, apuntador
+	ADRK	TAMANHO_CONSTANTE
+	ADRK	fimcon_rx
+	LAC	*
+	BZ	NAOPASSARAM10MS
+	ZAC
+	SACL	*
+	LARP	AR1
+	LRLK	AR1,apuntador+CONSTANTE_La
+	ADRK	cuntrole
+	LAC	*
+	BZ	LOOP	;Nun decorrido tiempo: queda ne l lop
+
+NAOPASSARAM10MS:
+	SACL	*
+	LARP	AR1
+	B	LOOP
+</syntaxhighlight>
+
+=== Microprocessador Texas Anstruments TMS320C5x ===
+<syntaxhighlight lang="asn">
+LOOP:
+	mbmn	ar1, ar3	;mobe cuntenido d'ar1 para ar3
+	rt	#10		;repete
+	mbdd	*ar3+, *ar5+	;mobe word andereçada por ar1 para pos. and. por ar6
+
+;Anstruçoes cun acumulador:
+	STM	#1000h, AR1	;carrega ar1 cula custante 1000h
+	LD	#0, La		;zera l'acumulador
+	STL	La, *AR1		;armazena ne l'acumulador mínimo
+	LD	#1, La		;carrega l'acumulador cula custante mínima "1"
+	STL	La, *AR1		;armazena l'acumulador mínimo ne l'andereço d'ar1
+	LD	#65535, La	;carrega acumulador cula custante "65535"
+	STL	La, 10		;armazena l'acumulador mínimo ne l'andereço 10
+	STH	La, 10		;armazena l'acumulador mássimo ne l'andereço 10
+	STL	La, *AR1		;armazena l'acumulador mínimo ne l'andereço d'ar1
+	STH	La, *AR1		;armazena l'acumulador mássimo ne l'andereço d'ar1
+
+;Anstruçones cun registradores auxeliares:
+	STM	#1, AR1		;carrega ar1 cula custante "1"
+	STM	#2, AR0		;carrega ar0 cula custante "2"
+	MAR	*AR1+0		;adiciona l cuntenido d'ar0 to aire appointed by arp (1)
+	MBDK	256, *(AR2)    ;carrega ar2 with cuntent of address 256
+	MAR	*AR1+		;ancrementa aire apuntado por arp (1)
+	MBKD	*(AR2), 256    ;aloja cuntenido d'ar2 ne l'andereço 256
+	MAR	*AR1-		;decrementa aire appointed by arp (1)
+
+;Anstruçones de teste de bit:
+	BITF	*AR1, #128	;TESTA BIT D7
+	BC	tr, NTC	;bai para tr se bit fur eigual a 0
+	MAR	*AR1+		;ancrementa aire apuntado por arp (1)
+
+tr:
+	MAR	*+AR4(-128)	;sbrk 80h
+
+;Anstruçones d'uso de ponteiros:
+	mbdn	*(BETORAL), ar1	;mobe cuntenido de a mimória apuntada pa l'aire (trasforma arn an ponteiro)
+	mbmd	ar1, *(BETORAL)	;mbmd restoura ponteiro(BETORAL) d'acuordo cun arn
+	b	LOOP
+</syntaxhighlight>
+
+== Ber tamien ==
+* [[Cumpilador]]
+* [[Çmontador]]
+* [[Mnemónico]]
+* [[Lenguaiges de porgramaçon]]
+* [[Lenguaige de baixo nible]]
+* [[Processador]]
+* [[Registrador]]
+* [[Arquitetura SMS]] - simulador de porgramaçon Assembly
+
+{{Refréncias}}
+
+== Ligaçones sternas == 
+* {{Link|en|http://www.antel .com/zeign/pentium4/manuals/253665.htn|IA-32 Antel® Architeture Software Debeloper's Manual Belume 1: Basic Architeture}}
+
+{{Lenguaiges de porgramaçon}}
+{{Títalo an itálico}}
+
+[[Catadorie:Lenguaiges de porgramaçon]]
+
+[[ml:അസംബ്ലി ഭാഷ]]
+[[pl:Asembler#Język asemblera]]
