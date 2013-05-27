@@ -1,0 +1,108 @@
+Na [[teoria da ciência da computação]] e [[Linguagem formal|teoria formal de linguagem]], uma '''linguagem regular''' é uma [[linguagem formal]] que pode ser expressa usando [[expressão regular|expressões regulares]].
+Note que os recursos das "expressões regulares" fornecidas com várias linguagens de programação são [[Expressão_regular#Padrões_para_linguagens_não_regulares|aumentada com características]] que as tornam capazes de reconhecer linguagens que não podem ser expressas por expressões regulares formais (''como formalmente é definido abaixo'').
+
+Na [[hierarquia de chomsky]], linguagens regulares são definidas para ser linguagens que são geradas por gramáticas  tipo 3 ([[gramática regular|gramática regulares]]).
+Linguagens regulares são muito úteis na [[análise]] de entradas e no projeto de uma [[linguagem de programação]].
+
+
+==Definição Formal==
+A coleção de linguagens regulares sobre um alfabeto Σ é definida recursivamente seguindo as regras abaixo:
+* A linguagem vazia Ø é uma linguagem regular.
+* A linguagem [[cadeia vazia]] {ε} é uma linguagem regular.
+* Para cada ''a'' ∈ Σ (''a'' pertence a Σ), a linguagem do [[conjunto unitário]] {''a''} é uma linguagem regular.
+* Se ''A'' e ''B'' são linguagens regulares, então ''A'' ∪ ''B'' (união), ''A'' • ''B'' (concatenação), e ''A''* ([[Fecho de Kleene]] ou estrela) são linguagens regulares.
+* Nenhuma outra linguagem sobre Σ é regular.
+
+Veja [[Expressão regular]] para ver a semântica e a síntaxe dessas operações. Note que os casos acima são consequências das regras da definição das expressões regulares.
+
+;Exemplos
+Toda linguagem finita é regular. Outros exemplos típicos incluem a linguagem consistindo de todas as cadeias sobre o alfabeto {''a'',''b''} que contenham um número par de ''a''s, ou a linguagem consistindo de todas as cadeias da forma: vários ''a''s seguido por vários ''b''s.
+
+Um simples exemplo de linguagem que não é regular é o conjunto de cadeias <math>\{a^nb^n\,\vert\; n\ge 0\}</math>. Isso porque nessa linguagem, o número de ''a''s controla o número de ''b''s, que não são permitidos por qualquer uma das regras acima. Ver mais em [[Lema do bombeamento para linguagens regulares]].
+
+
+==Equivalência com outros formalismos==
+Uma linguagem regular satisfaz as seguintes propriedades que são equivalentes:
+* ela pode ser aceita por um [[autômato finito determinístico]].
+* ela pode ser aceita por um [[autômato finito não-determinístico]].
+* ela pode ser aceita por um [[autômato finito alternado]].
+* ela pode ser gerada por uma [[gramática regular]].
+* ela pode ser gerada por uma [[gramática de prefixos]].
+* ela pode ser aceita por uma leitura de [[Máquina de Turing]].
+* ela pode ser definida em um [[monádico]] da [[lógica de segunda ordem]].
+* ela é o [[conjunto imagem]] de um subconjunto de um monóide finito sob um homomorfismo do monóide livre em seu alfabeto.
+* ela pode ser reconhecida por alguma [[Monoide]] finitamente gerada.
+
+As propriedades acima são usadas, ocasionalmente, como um definição alternativa das linguagens regulares.
+
+
+== Resultados sobre a Complexidade ==
+
+Na [[teoria da complexidade computacional]], a [[classe de complexidade]] de todas linguagens regulares são ocasionalmente chamadas como '''REGULAR''' ou '''REG''' e equivale a [[DSPACE]](O(1)), o  [[problema de decisão]] pode ser resolvido em um espaço constante (o espaço usado é independente do tamanho da entrada). '''REGULAR''' ≠ [[AC0|'''AC'''<sup>0</sup>]], uma vez que '''REG''' (trivialmente) contém o problema da paridade de determinar se o número de bits 1 na entrada é par ou ímpar e este problema não está na'''AC'''<sup>0</sup>.<ref>M. Furst, J. B. Saxe, and M. Sipser. Parity, circuits, and the polynomial-time hierarchy. Math. Systems Theory, 17:13–27, 1984.</ref> Em contrapartida, '''REGULAR''' não contém '''AC'''<sup>0</sup>, porque as linguagens não regular dos [[palíndromo]]s, ou a linguagen não regular <math>\{0^n 1^n : n \in \mathbb N\}</math>, ambas, podem ser reconhecidas em '''AC'''<sup>0</sup>.<ref>{{cite book|last1=Cook|first1=Stephen|last2=Nguyen|first2=Phuong|title=Logical foundations of proof complexity|year=2010|publisher=Association for Symbolic Logic|location=Ithaca, NY|isbn=052151729X|pages=75|edition=1. publ.}}</ref> 
+
+Se uma linguagem é ''não'' regular, ela requer uma máquina que no mínimo [[Big O notation|&Omega;]](log log ''n'') de espaço para reconhecê-la (onde ''n'' é o tamaho da entrada).<ref>J. Hartmanis, P. L. Lewis II, and R. E. Stearns. Hierarchies of memory-limited computations. ''Proceedings of the 6th Annual IEEE Symposium on Switching Circuit Theory and Logic Design'', pp. 179&ndash;190. 1965.</ref> Em outras palavras, DSPACE([[Big O notation|O]](log log ''n'')) é equivalente a classe das linguagens regulares. Na prática, grande parte das linguagens não regulares são resolvidas por máquinas que tenha no mínimo [[LSPACE|espaço logarítmico]].
+
+
+==Propriedades de Fechamento==
+As linguagens regulares são [[fechamento|fechadas]] sobre várias operações, ou seja, se uma linguagem ''K'' e ''L'' são regulares, então o resultado das seguintes operações também é regular:
+
+* as operações teóricas de conjunto: [[união]] <math>K \cup L</math>, [[interseção]] <math>K \cap L</math>, e [[complemento]] <math>\bar{L}</math>. Consequentemente, [[diferença]] <math>K-L</math> também é válida, já que é composta pela interseção e pelo complemento.
+* as operações regulares: [[união]]  <math>K \cup L</math>, [[concatenação]] <math>K\circ L</math> e [[Fecho de Kleene|estrela]] <math>L^*</math>.
+* as operações da [[família de linguagens abstratas]]: [[cadeia homomórfica]], cadeia invesa homomórfica, e interseção com linguagens regulares. Como conseqüência, elas são fechadas sob arbitrária [[transdutor de estado finito | estados finitos transduções]], como [[quociente de direito | quociente]] <math>K/L</math> com uma linguagem regular. Além disso, as linguagens regulares são fechadas sob quocientes com línguas ''arbitrárias'': Se L é regular, então L / K é regular para qualquer K.
+* o reverso (ou imagem espelhada) <math>L^R</math>.
+
+
+==Decidindo se uma linguagem é regular==
+[[Ficheiro:Hierarquia de Chomsky.PNG|thumb|350px|Hierarquia de Chomsky]]
+Ao localizar as linguagens regulares na [[hierarquia de Chomsky]], observe que todas as linguagens regulares são [[Linguagem livre de contexto|livres de contexto]]. O contrário já não é verdadeiro: por exemplo, uma linguagem que consiste de todas as strings tendo o mesmo 
+número de ''a''<nowiki>'</nowiki>s e de ''b''<nowiki>'</nowiki>s é livre de contexto mas não é regular. Para provar que  uma linguagem como essa não é regular, usamos o [[Teorema de Myhill-Nerode]] ou o [[lema do bombeamento]].
+
+Existe duas aproximações puramente algébricas que definem uma linguagem regular. Se:
+* Σ é um alfabeto finito,
+* Σ* denota uma [[monoide livre]] sobre Σ que é composta por todas as cadeias formadas por Σ,
+* ''f'' : Σ* → ''M'' é uma [[monoide homomórfica]] onde ''M'' é uma monoide ''finita'',
+* ''S'' é um subconjunto de ''M''
+então o conjunto é <math>\{ w \in \Sigma^* \, | \, f(w) \in S \}</math> é regular. Toda linguagem regular surge dessa forma.
+
+Se ''L'' é um subconjunto de Σ*, define-se a seguinte [[relação de equivalência]] de ~ (conhecida como [[relação sintática]]) sobre Σ*: ''u'' ~ ''v'' 
+é definida por : ''uw'' ∈ ''L'' se e somente se ''vw'' ∈ ''L'' para todo ''w'' ∈ Σ*.
+
+A linguagem ''L'' é regular se e somente se o número de classes equivalentes de ~  é finita (Uma prova disso é fornecida no artigo da [[monoide sintática]]); se esse é o caso, esse número é igual ao número de estados de um [[autômato finito determinístico mínimo]] que aceita ''L''.
+
+Um conjunto similar de declarações pode ser formulado por uma monoide <math>M\subset\Sigma^*</math>. Nesse caso, a equivalência sobre ''M'' leva ao conceito de uma [[linguagem reconhecível]].
+
+
+
+==Linguagens Finitas==
+Um subconjunto específico da classe das linguagens regulares é o conjunto das linguagens finitas - aqueles que contêm apenas um número finito de palavras. Essas linguagens são regulares, já que é possível criar uma [[expressão regular]] que é a [[união]] de cada palavra da linguagem.
+
+
+==O número de palavras de uma linguagem regular==
+Para qualquer linguagem <math>L</math> existe constantes <math>\lambda_1,\,\ldots,\,\lambda_k</math> e polinômios <math>p_1(x),\,\ldots,\,p_k(x)</math>
+tal que para cada <math>n</math> o número <math>s_L(n)</math> de palavras de tamanho <math>n</math> em <math>L</math> satisfaz a equação
+<math>s_L(n)=p_1(n)\lambda_1^n+\dotsb+p_k(n)\lambda_k^n</math>. Assim, a não regularidade de algumas linguagens <math>L'</math> podem ser provadas pela enumeração das palavras em <math>L'</math>. Considere, por exemplo, a [[Linguagem de Dyck]] de cadeias de parênteses balanceados. O número de palavras de tamanho <math>2n</math>
+na linguagem Dyck é igual ao [[número Catalão]] <math>C_n\sim\frac{4^n}{n^{3/2}\sqrt{\pi}}</math>,o qual não é da forma <math>p(n)\lambda^n</math>,
+comprovando a não regularidade da linguagem de Dyck.
+
+
+===Teorema da iteração para linguagens regulares===
+
+Se ''L'' é uma linguagem regular, então existe um ''n'' tal que para todo ''x'' &isin; ''L'' tal que |''x''| &ge; ''n'', ''x'' pode ser reescrito da forma ''wyz'', |''y''| &le; ''n'', e &forall; ''i'', ''i'' &ge; 0 <math>xy^{i}z</math> &isin; ''L''
+
+==Veja também==
+* [[Lema do bombeamento para linguagens regulares]]
+* [[União de duas linguagens regulares]]
+
+
+== Referências ==
+{{Cleanup|date=December 2008}}
+{{Refbegin}}
+* {{cite book|author = [[Michael Sipser]] | year = 1997 | title = [[Introduction to the Theory of Computation]] | publisher = PWS Publishing | isbn = 0-534-94728-X}} Chapter 1: Regular Languages, pp.31&ndash;90. Subsection "Decidable Problems Concerning Regular Languages" of section 4.1: Decidable Languages, pp.152&ndash;155.
+{{Refend}}
+{{Reflist}}
+
+
+{{Teoria da computação}}
+
+[[Categoria:Linguagens formais]]
+[[Categoria:Teoria da computação]]
