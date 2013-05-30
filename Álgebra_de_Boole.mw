@@ -5,26 +5,26 @@ Na [[matemática]], na [[lógica]] i na [[ciéncia de la cumputaçon]], las '''�
 Recebiu l nome de boleana an houmenaige la [[George Bole]], matemático [[Anglaterra|anglés]], que fui l purmeiro la defeni-las cumo parte dun sistema de lógica an meados de l [[seclo XIX]]. Mais specificamente, la álgebra boleana fui ua tentatiba d'outelizar técnicas algébricas para lidar cun spressones ne l [[cálclo proposicional]]. Hoije, las álgebras boleanas ténen muitas aplicaçones na eiletrónica. Fúrun pula purmeira beç aplicadas a anterrutores por [[Claude Shannon]], ne l [[seclo XX]].
 
 == Defeniçon ==
-Ua álgebra boleana ye ua [[enupla|6-upla]] <math>(X, \be, \wedge, \neg, 0, 1)</math> cunsistindo dun [[cunjunto]] <math>X</math> munido de dues [[ouparaçon binária|ouparaçones binárias]] <math>\be</math> (tamien denotado por <math>+</math>, ye giralmente chamado de "ó") i <math>\wedge</math> (tamien denotado por <math>\ast</math> ó por <math>\cdot</math>, ye giralmente chamado de "i"), ua [[ouparaçon unária]] <math>\neg</math> (tamien denotada por <math>\si</math> ó por ua barra superior, ye giralmente chamado de "nó"), i dues [[custante matemática|custantes]] <math>0</math> (tamien denotada por <math>\bot</math> ó por <math>F</math>, giralmente chamado de "zero" ó de "falso") i <math>1</math> (tamien denotada por <math>\top</math> ó por <math>V</math>, giralmente chamado de "un" ó de "berdadeiro"), i sastifazendo ls seguintes [[axioma]]s, [[quantificaçon ounibersal|para qualesquiera]] <math>la, b, c \in X</math>:
+Ua álgebra boleana ye ua [[enupla|6-upla]] <math>(X, \vee, \wedge, \neg, 0, 1)</math> cunsistindo dun [[cunjunto]] <math>X</math> munido de dues [[ouparaçon binária|ouparaçones binárias]] <math>\vee</math> (tamien denotado por <math>+</math>, ye giralmente chamado de "ó") i <math>\wedge</math> (tamien denotado por <math>\ast</math> ó por <math>\cdot</math>, ye giralmente chamado de "i"), ua [[ouparaçon unária]] <math>\neg</math> (tamien denotada por <math>\sim</math> ó por ua barra superior, ye giralmente chamado de "nó"), i dues [[custante matemática|custantes]] <math>0</math> (tamien denotada por <math>\bot</math> ó por <math>F</math>, giralmente chamado de "zero" ó de "falso") i <math>1</math> (tamien denotada por <math>\top</math> ó por <math>V</math>, giralmente chamado de "un" ó de "berdadeiro"), i sastifazendo ls seguintes [[axioma]]s, [[quantificaçon ounibersal|para qualesquiera]] <math>la, b, c \in X</math>:
 
 [[Associatebidade|Propiadades Associatibas]]
-* <math>(la \be b) \be c = la \be (b \be c)</math>
+* <math>(la \vee b) \vee c = la \vee (b \vee c)</math>
 * <math>(la \wedge b) \wedge c = la \wedge (b \wedge c)</math>
 
 [[Quemutatebidade|Propiadades Quemutatibas]]
-* <math>la \be b = b \be la</math>
+* <math>la \vee b = b \vee la</math>
 * <math>la \wedge b = b \wedge la</math>
 
 [[Çtributebidade|Propiadades Çtributibas]]
-* <math>la \be (b \wedge c) = (la \be b) \wedge (la \be c)</math>
-* <math>la \wedge (b \be c) = (la \wedge b) \be (la \wedge c)</math>
+* <math>la \vee (b \wedge c) = (la \vee b) \wedge (la \vee c)</math>
+* <math>la \wedge (b \vee c) = (la \wedge b) \vee (la \wedge c)</math>
 
 [[Eilemiento neutro|Eilemientos Neutros]]
-* <math>la \be 0 = la</math>
+* <math>la \vee 0 = la</math>
 * <math>la \wedge 1 = la</math>
 
 Eilemientos Cumplementares
-* <math>la \be \neg la = 1</math>
+* <math>la \vee \neg la = 1</math>
 * <math>la \wedge \neg la = 0</math>
 
 Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar la álgebra boleana cun solamente un eilemiento.
@@ -36,7 +36,7 @@ Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar 
 |
 {| class="wikitable"
 |-
-! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+! &nbsp;&nbsp;&nbsp; <math>\vee</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
 |-
 ! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
@@ -71,7 +71,7 @@ Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar 
 |
 {| class="wikitable"
 |-
-! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+! &nbsp;&nbsp;&nbsp; <math>\vee</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
 |-
 ! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
@@ -106,14 +106,14 @@ Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar 
 |}
 |}
 
-* Dado un cunjunto <math>La</math>, l cunjunto <math>P(La)</math> [[cunjunto de las partes|de las partes]] de <math>La</math> munido de las ouparaçones <math>la \be b = la \cup b</math>, <math>la \wedge b = la \cap b</math>, <math>\neg la = La \setminus la</math>, i adonde <math>0 = \barnothing</math> i <math>1 = La</math>, ye ua álgebra boleana.
+* Dado un cunjunto <math>La</math>, l cunjunto <math>P(La)</math> [[cunjunto de las partes|de las partes]] de <math>La</math> munido de las ouparaçones <math>la \vee b = la \cup b</math>, <math>la \wedge b = la \cap b</math>, <math>\neg la = La \setminus la</math>, i adonde <math>0 = \varnothing</math> i <math>1 = La</math>, ye ua álgebra boleana.
 <!--Cumo eisemplo, ambaixo stan las tabelas de las ouparaçones de <math>P(\{la, b\})</math>:
 {|
 |-
 |
 {| class="wikitable"
 |-
-! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+! &nbsp;&nbsp;&nbsp; <math>\vee</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
 |-
 ! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
 | &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
@@ -154,46 +154,46 @@ Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar 
 |}
 |}-->
 
-* L [[anterbalo (matemática)|anterbalo]] <math>[0, 1]</math> munido de las ouparaçones <math>la \be b = \mathrn{max}\{la, b\}</math>, <math>la \wedge b = \mathrn{min}\{la, b\}</math>, i <math>\neg la = 1 - la</math>, ye ua álgebra boleana. Essa álgebra boleana recibe l nome de [[lógica fuzzy]].
+* L [[anterbalo (matemática)|anterbalo]] <math>[0, 1]</math> munido de las ouparaçones <math>la \vee b = \mathrm{max}\{la, b\}</math>, <math>la \wedge b = \mathrm{min}\{la, b\}</math>, i <math>\neg la = 1 - la</math>, ye ua álgebra boleana. Essa álgebra boleana recibe l nome de [[lógica fuzzy]].
 
 == Teoremas ==
 Dado ua álgebra boleana subre <math>X</math>, son bálidos [[quantificaçon ounibersal|para qualesquiera]] <math>la, b \in X</math>:
 
 [[Eidempoténcia|Propiadades Eidempotentes]]
-* <math>la \be la = la</math>
+* <math>la \vee la = la</math>
 * <math>la \wedge la = la</math>
 
 [[Dupla Negaçon]]
 * <math>\neg (\neg la) = la</math>
 
 [[Leis de De Morgan]]
-* <math>\neg (la \be b) = \neg la \wedge \neg b</math>
-* <math>\neg (la \wedge b) = \neg la \be \neg b</math>
+* <math>\neg (la \vee b) = \neg la \wedge \neg b</math>
+* <math>\neg (la \wedge b) = \neg la \vee \neg b</math>
 
 [[Leis d'absorçon|Propiadades Absorbentes]]
-* <math>la \be (la \wedge b) = la</math>
-* <math>la \wedge (la \be b) = la</math>
+* <math>la \vee (la \wedge b) = la</math>
+* <math>la \wedge (la \vee b) = la</math>
 
 Eilemientos Absorbentes
-* <math>la \be 1 = 1</math>
+* <math>la \vee 1 = 1</math>
 * <math>la \wedge 0 = 0</math>
 
 Negaçones de l Zero i de l Un
 * <math>\neg 0 = 1</math>
 * <math>\neg 1 = 0</math>
 
-Defeniçones altarnatibas de l'ouparaçon binária <math>\bebar</math> (tamien denotado por <math>\ouplus</math>, ye giralmente chamado de "xou" ó de "ó sclusibo")
-* <math>(la \be b) \wedge (\neg la \be \neg b) = (la \wedge \neg b) \be (\neg la \wedge b)</math>
+Defeniçones altarnatibas de l'ouparaçon binária <math>\veebar</math> (tamien denotado por <math>\oplus</math>, ye giralmente chamado de "xou" ó de "ó sclusibo")
+* <math>(a \vee b) \wedge (\neg a \vee \neg b) = (a \wedge \neg b) \vee (\neg a \wedge b)</math>
 
 == Orde ==
 Dado ua álgebra boleana subre <math>X</math>, ye bálido [[quantificaçon ounibersal|para qualesquiera]] <math>la, b \in X</math>:
-* <math>la \be b = b</math> se i solamente se <math>la \wedge b = la</math>
+* <math>la \vee b = b</math> se i solamente se <math>la \wedge b = la</math>
 
-La [[relaçon binária|relaçon]] <math>\leq</math> defenida cumo <math>la \leq b</math> [[se i solamente se]] ua de las dues cundiçones eiquibalentes arriba ye sastifeita ye ua [[relaçon d'orde]] an <math>X</math>. L [[supremo]] i l [[ínfimo]] de l cunjunto <math>\{la, b\}</math> son <math>la \be b</math> i <math>la \wedge b</math>, respetibamente.
+La [[relaçon binária|relaçon]] <math>\leq</math> defenida cumo <math>la \leq b</math> [[se i solamente se]] ua de las dues cundiçones eiquibalentes arriba ye sastifeita ye ua [[relaçon d'orde]] an <math>X</math>. L [[supremo]] i l [[ínfimo]] de l cunjunto <math>\{la, b\}</math> son <math>la \vee b</math> i <math>la \wedge b</math>, respetibamente.
 
 <!--
 San bálidas las seguintes propiadades, [[quantificaçon ounibersal|para qualesquiera]] <math>la, b, c, d \in X</math>:
-* se <math>la \leq b</math> i <math>c \leq d</math> anton <math>la \be c \leq b \be d</math>
+* se <math>la \leq b</math> i <math>c \leq d</math> anton <math>la \vee c \leq b \vee d</math>
 * se <math>la \leq b</math> i <math>c \leq d</math> anton <math>la \wedge c \leq b \wedge d</math>
 -->
 
@@ -209,7 +209,7 @@ San bálidas las seguintes propiadades, [[quantificaçon ounibersal|para qualesq
 
 == Homomorfismos i eisomorfismos ==
 Un [[homomorfismo]] antre dues álgebras boleanas <math>La</math> i <math>B</math> ye ua [[funçon (matemática)|funçon]] <math>f: La \to B</math> que para qualesquiera <math>la, b \in La</math>:
-* <math>f(la \be b) = f(la) \be f(b)</math>
+* <math>f(la \vee b) = f(la) \vee f(b)</math>
 * <math>f(la \wedge b) = f(la) \wedge f(b)</math>
 * <math>f(0) = 0</math>
 * <math>f(1) = 1</math>
