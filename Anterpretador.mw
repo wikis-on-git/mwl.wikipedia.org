@@ -1,0 +1,34 @@
+{{Sin-fuontes|data=setembre de 2010| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+
+'''Anterpretadores''' son [[porgrama de cumputador|porgramas de cumputador]] que len un [[código fuonte]] dua [[Lenguaige anterpretada|lenguaige de porgramaçon anterpretada]] i l cumberte an [[Eisecutábel|código eisecutable]]. Sou funcionamiento puode bariar d'acuordo cula amplementaçon. An alguns causos, l'anterpretador lé linha-por-linha i cumberte an [[código oubjeto]] (ó [[bytecode]]) a la medida que bai eisecutando l porgrama i, an outros causos, cumberte l código fuonte por anteiro i depuis l'eisecuta.
+
+Na berdade, an percípio, puode-se amplementar cumpiladores i anterpretadores para qualquiera lenguaige de porgramaçon. Mas, dependendo de la necidade, puode ser melhor criar un anterpretador ó un cumpilador.
+
+==Eisemplo de lenguaiges anterpretadas==
+* [[BASIC]]
+* [[Bash]]
+* [[Perl]]
+* [[PHP]]
+* [[Python]]
+* [[Euphoria (lenguaige de porgramaçon)|Euphoria]]
+* [[Forth]] 
+* [[JabaScrit]]
+* [[Lougo]]
+* [[Lisp]]
+* [[Luna (lenguaige de porgramaçon)|Luna]]
+* [[MUMPS]]
+* [[Ruby (lenguaige de porgramaçon)|Ruby]]
+* [[Haskell (lenguaige de porgramaçon)|Haskell]]
+
+=={{Ber tamien}}==
+* [[Análeze léxica]]
+* [[Análeze sintática (cumputaçon)|Análeze sintática]]
+* [[Cumpilador]]
+* [[Lenguaige anterpretada]]
+* [[Lenguaige de scrit]]
+* [[Traduçon#Cumputaçon|Tradutor (cumputaçon)]]
+
+{{rabisco-porgramaçon}}
+
+[[Catadorie:Lenguaiges anterpretadas| ]]
+[[Catadorie:Porgramas de cumputador por finalidade]]
