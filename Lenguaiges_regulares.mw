@@ -78,13 +78,13 @@ Un subconjunto specífico de la classe de las lenguaiges regulares ye l cunjunto
 Para qualquiera lenguaige <math>L</math> eisiste custantes <math>\lambda_1,\,\ldots,\,\lambda_k</math> i polinómios <math>p_1(x),\,\ldots,\,p_k(x)</math>
 tal que para cada <math>m</math> l númaro <math>s_L(m)</math> de palabras de tamanho <math>m</math> an <math>L</math> sastifaç l'eiquaçon
 <math>s_L(m)=p_1(m)\lambda_1^m+\dotsb+p_k(m)\lambda_k^m</math>. Assi, la nun regularidade d'alguas lenguaiges <math>L'</math> puoden ser probadas pula enumeraçon de las palabras an <math>L'</math>. Cunsidre, por eisemplo, la [[Lenguaige de Dyck]] de cadeias de parénteses balanceados. L númaro de palabras de tamanho <math>2n</math>
-na lenguaige Dyck ye eigual al [[númaro Catalan] ] <math>C_m\si\frac{4^m}{m^{3/2}\sqrt{\pi}}</math>,l qual nun ye de la forma <math>p(m)\lambda^m</math>,
+na lenguaige Dyck ye eigual al [[númaro Catalan]] <math>C_n\sim\frac{4^n}{n^{3/2}\sqrt{\pi}}</math>,l qual nun ye de la forma <math>p(m)\lambda^m</math>,
 cumprobando la nun regularidade de la lenguaige de Dyck.
 
 
 ===Teorema de l'iteraçon para lenguaiges regulares===
 
-Se ''L'' ye ua lenguaige regular, anton eisiste un ''m'' tal que para to ''x'' &esin; ''L'' tal que |''x''| &ge; ''m'', ''x'' puode ser rescrito de la forma ''wyç'', |''y''| &le; ''m'', i &forall; ''i'', ''i'' &ge; 0 <math>xy^{i}ç</math> &esin; ''L''
+Se ''L'' ye ua lenguaige regular, anton eisiste un ''m'' tal que para to ''x'' &esin; ''L'' tal que |''x''| &ge; ''m'', ''x'' puode ser rescrito de la forma ''wyç'', |''y''| &le; ''m'', i &forall; ''i'', ''i'' &ge; 0 <math>xy^{i}z</math> &esin; ''L''
 
 ==Beija tamien==
 * [[Lema de l bombeamiento para lenguaiges regulares]]
