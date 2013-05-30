@@ -1,0 +1,57 @@
+Un '''sistema cumputacional''' cunsiste nun cunjunto de çpositibos eiletrónicos (''[[hardware]]'') capazes de processar anformaçones d'acuordo cun un porgrama (''[[software]]''). L software mais amportante ye l [[sistema ouperacional]], porque el fornece las bases pa l'eisecuçon de las aplicaçones, a las quales l'usuairo zeia eisecutar. Eisemplos de sistemas ouperacionales son l Windows, l Macintosh i l Linux, dentre outros. Un de ls mais outelizados por usuairos domésticos hoije ye l Windows, porduzido pula Microsoft.
+
+Un sistema cumputacional puode ser cumpuosto de [[rede de cumputadores]], [[serbidores]] i [[cluster]], dependendo de la situaçon i de las necidades.
+
+Un sistema cumputacional (ó baseado an cumputador) ye aquel qu'outomatiza ó apóia la rializaçon d'atebidades houmanas atrabeç de l processamiento d'anformaçones.
+
+Un sistema baseado an cumputador ye caratelizado por alguns eilemientos fundamentales.
+
+* Hardware
+* Software
+* Anformaçones
+* Usuários
+* Procedimientos ó Tarefas
+* Documentaçon
+
+L'hardware corresponde a las partes eiletrónicas i macánicas (rígidas) que possibelitan l'eisisténcia de l software, l'armazenamiento d'anformaçones i l'anteraçon cul usuairo. La CPU, las mimórias purmária i secundária, ls periféricos, ls cumponentes de redes de cumputadores, son eisemplos d'eilemientos d'hardware. Un único cumputador puode possibelitar l'eisisténcia de dibersos sistemas i un sistema puode requesitar dibersos cumputadores.
+
+L software ye la parte abstrata de l sistema cumputacional que funciona nun hardware a partir d'anstruçones codificadas nua lenguaige de porgramaçon. Estas anstruçones permiten l processamiento i armazenamiento d'anformaçones na forma de dados codificados i puoden ser cuntroladas pul usuairo. Este cuntrole, bien cumo la troca d'anformaçones antre l'usuairo i l sistema ye feita atrabeç de l'anterface d'usuairo, cumpuosta por hardware i software.
+
+== Stórico de ls sistema cumputacionales ==
+Se separarmos ls fatos cronologicamente, i segundo sous cumponentes básicos, podemos oubter la seguinte orde.
+
+# '''L'era de ls çpositibos macánicos.'''
+
+:Durou de 3000 a.C. até 1880, i ampeçou cul zambolbimiento, por parte de ls chineses, dun eiquipamiento chamado ábaco. Este eiquipamiento fui mais tarde ousado por babilónios i romanos i hai registro de sou uso até ls dies d'hoije na China rural. La purmeira eiboluçon dun sistema de calcular surgiu an 1500, quando Leonardo de la Binci ambentou un calculador macánico; An 1621 surgiu outra eiboluçon, la régua de cálclo.
+
+# '''L'era de ls çpositibos eiletromecánicos.'''
+
+:Surgiu cula ambençon de l motor eilétrico i durou de 1880 a 1930, quando surgiu ua grande cantidade de máquinas de somar acionadas por motores eilétricos. Estas máquinas inda éran baseadas ne ls percípios de la Pascalina i tornórun-se çpositibos quemuns an scritórios até l'adbento de las calculadoras de bolso an 1970.
+
+# '''L'era de ls çpositibos eiletrónicos.'''
+
+:An 1935 un studante d'angenharie alman chamado Konrad Zuse einougurou l'era de ls cumponentes eiletrónicos cula ambençon de l Z1, cumputador baseado an relés macánicos, al ambés de las angrenaiges mobidas la manibela de la máquina de Babbage. L Z1 era porgramable, possuía mimória, ounidade aritmética i ounidade de cuntrole, usaba un botoneira cumo çpositibo d'antrada i bumbilhas cumo çpositibo de salida (çpositibo binairo – acesa i apagada, 2 stados). Passado alguas eiboluçones Zuse chegou al Z3, qu'outelizaba relas eiletromecánicos i era cuntrolado por porgrama, i fui probabelmente l purmeiro cumputador efetibamente ouperacional de la stória.
+
+# '''L'era de ls cumputadores(eiquipamientos eiletrónicos de processamiento de dados).'''
+
+:Na mesma época an que Zuse zambolbiu sou çpositibo eiletromecánico, outros cientistas zambolbírun çpositibos baseados an bálbulas, cumo John Atanasoff, qu'an 1939 porjetou ua calculadora para eiquaçones lineares i, inda que quejisse que sue máquina fusse d'uso giral, quedou solo l registro stórico de sues antençones. Fui nesta época que Alan Turing zambolbiu l cunceito de las “Maquinas de Turing”, i, an 1943 colocou an funcionamiento l Colossus, un cumputador dedicado a quebrar códigos secretos de ls melitares almanes. Nun era un cumputador d'uso giral, tenie solo un porgrama.
+:Atanasoff i Turing fúrun bien sucedidos an custruir máquinas eiletrónicas i outomáticas, mas éran máquinas d'uso specífico, i nun máquinas d'uso giral. La purmeira máquina a tenr estas 3 caratelísticas i einougurar l'era de ls cumputadores eiletrónicos fui l ENIAC.
+
+:'''Geraçones de l'era de ls cumputadores'''
+::* Purmeira geraçon: l'era de las bálbulas;
+::* Segunda geraçon: l'era de ls trasistores;
+::* Terceira geraçon: l'era de ls circuitos antegrados;
+::* Quarta geraçon: l'era de ls circuitos d'antegraçon an ancha scala.
+:
+
+{{rabisco-anformática}}
+
+{{DEFAULTSORT:Sistema Cumputacional}}
+[[Catadorie:Sistemas d'anformaçon| ]]
+
+[[de:Cumputersysten]]
+[[en:Cumputer systen]]
+[[s:Sistema anformático]]
+[[ms:Sisten komputer]]
+[[sb:Datasysten]]
+[[uk:Електронна обчислювальна машина]]
