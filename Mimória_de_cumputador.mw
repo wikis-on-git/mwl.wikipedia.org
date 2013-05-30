@@ -1,0 +1,113 @@
+{{sin notas|data=abril de 2012| angola=| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=Este artigo ó seçon|2=|3=|4=|5=|6=}} 
+[[Fexeiro:RAM m.jpg|thumb|right|250px|Dibersos modelos de [[RAM]], ua mimória purmária i bolátil]]
+
+An [[anformática]], '''mimória''' son todos ls çpositibos que permiten a un [[cumputador]] guardar dados, temporariamente ó permanentemente. 
+Mimória ye un termo genérico para chamar cumponentes dun sistema capazes d'armazenar dados i porgramas. L cunceito de cumputador digital binairo cun porgrama armazenado (arquitetura de Bon Neumann i susequentes) ye siempre baseado ne l'uso de mimória, i nun eisistirie sin l'outelizaçon destas.
+	A ounidade básica de mimória ye l digito binairo, ó bit. Un bit puode cunter 0 ó 1. Ye l'ounidade mais simples possible. Un sistema qu'armazenasse solo un destes balores nun poderie formar la base dun sistema de mimória.
+
+== Tipologie ==
+Basicamente son dous tipos de mimórias qu'eisisten: Anternas drento de l processador, son mimórias boláteis, esto ye, perden sous dados cun auséncia d'einergie, cumo a mimória Cache, registradora. Las mimórias sternas son memorias nun bolateis, serben para guardar dados anquanto l cumputador esta an uso.
+
+* Mimória '''percipal''': "tamien chamadas de mimória rial, son mimórias que l [[processador]] puode andereçar diretamente, sin las quales l cumputador nun puode funcionar. Estas fornecen giralmente ua ''puonte'' pa las secundárias, mas la sue funçon percipal ye la de cunter l'anformaçon neçaira pa l processador nun detreminado momiento; esta anformaçon puode ser, por eisemplo, ls porgramas an eisecuçon. Nesta catadorie ansere-se la [[RAM]],que ye ua mimória de semicondutores, bolátil, cun acesso aleatório, esto ye, palabras andebiduales de mimória son besitadas diretamente, outelizando ua lógica d'andereçamiento amplementada an hardware. Tamien puode-se cumprender la [[mimória ROM]] (''nun bolátil''), [[registrador (anformática)|registradores]] i [[mimória cache|mimórias ''cache'']]." [BELLOSO:2011:38]
+* Mimória '''secundária''': mimórias chamadas de “mimórias d'armazenamiento an massa”, para armazenamiento permanente de dados. Nun puoden ser andereçadas diretamente, l'anformaçon percisa ser carregada an mimória percipal antes de poder ser tratada pul processador. Nun son stritamente neçairas pa l'ouparaçon de l cumputador. San giralmente ''nó-boláteis'', permitindo guardar ls dados permanentemente. Cumo mimórias sternas, d'armazenamiento an massa, podemos citar ls [[çco rígido|çcos rígidos]] cumo l meio mais outelizado, ua série de çcos óticos cumo [[CD]]s, [[DBD]]s i [[Blu-Ray]]s,[[çquete]]s i [[fitas magnéticas]].
+
+A las bezes faç-se ua defrença antre '''mimória secundária''' i '''mimória terciária'''. La mimória secundária nun necessita d'ouparaçones de montaige (anserçon dua [[mídia|média ó média]] nun çpositibo de leitura/grabaçon) para acessar ls dados, cumo [[çco rígido|çcos rígidos]]; a mimória terciária depende de las ouparaçones de montaige, cumo [[çco ótico|çcos óticos]] i [[fita magnética|fitas magnéticas]], antre outros.
+
+Ls çcos rígidos magnéticos cunsisten ua catadorie la parte nas mimórias ditas “sternas”, pus giralmente armazenan sistema, porgramas i arquibos d'usuairos, son bendidos hoije an capacidades que barian de 500GB a 3TB. La tecnologie de trasmisson de dados mais atual para sistemas çktop ye la Serial ATA 3, ó SATA 600, i para serbidores ye l SAS, mui semelhante al SATA mas cun belocidade (1.2GBPS) i padrones de culidade de fabricaçon superiores. Inda subrebiben çcos cun anterface SCSI, percipalmente las ultra wide 4, capazes de trasmitir até 320MB/s cula tradecional alta cunfiabelidade i durabelidade de ls çcos SCSI.
+
+Ne l nible seguinte podemos citar çcos de leitura ótica i ounidades de fita (las ditas mimórias terciárias). Çcos óticos son mui outelizados para guardar porgramas i cumo backup d'arquibos pessonales. L CD (Cumpat çk), an sues dibersas bersones, ye capaç d'armazenar 700MB, l DBD (Digital Bideo Çk) armazena até 4.7GB (8.5GB na berson “dual layer”) i l Blu-ray ye capaç d'armazenar até 50GB.  Las fitas magnéticas son çpositibos d'acesso sequencial. Las antigas DAT ten sido sustituídas pulas modernas fitas Ultriun LTO (Linear Tape Oupen) que, an sue 5ª geraçon, son capazes d'armazenar 1.5TB i rializar leitura a ua belocidade mássima de 140MB/s.
+
+== Tecnologies d'amplementaçon ==
+Las percipales tecnologies d'amplantaçon de mimórias an uso corriente son:
+* [[Puorta lógica|Puortas lógicas]] i ''[[flip-flop]]s'', ousados na amplementaçon de la [[mimória cache|mimória ''cache'']].
+* [[Trasistor]]s i circuitos de [[diçscamiento]], ousados na amplementaçon de a mimória percipal.
+* Arranjos de conexones, outelizados na amplementaçon de ciertas [[ROM]]s (mimórias de leitura).
+* [[Fita magnética|Fitas magnéticas]], outelizadas percipalmente para [[backup|cópias de sigurança]] i arquibamiento a longo prazo.
+* Çcos magnéticos, cumo [[çco rígido|çcos rígidos]] i [[çquete]]s - la percipal tecnologie d'amplementaçon de mimória secundária.
+* Çcos óticos, cumo [[CD]]s i [[DBD]]s, i sues dibersas bariaçones.
+* [[Mimória flash]], un tipo de mimória semicondutora nun bolátil mui ousada an [[cámera digital|cámeras digitales]] i leitores de [[MP3]]. 
+
+Eesisten tamien tecnologies que fúrun ousadas ne l passado, mas tornórun-se ousoletas:
+* Mimórias de tecnologie ''[[delay line]]'', ua de las purmeiras tecnologies de mimória percipal, qu'armazenában ls dados na forma de [[sonido|pulsos sonoros]] nua coluna de [[mercúrio (eilemiento químico)|mercúrio]].
+* [[Mimória CRT|Mimórias CRT]], tamien chamadas de ''Williams-tube'', un tipo de mimória qu'usaba un tubo [[CRT]] para armazenar dados na forma de puntos luminosos.
+* [[Mimória de núcleo de ferrite|Mimórias de núcleo de ferrite]], ua tecnologie popular d'amplementaçon de a mimória percipal nas décadas de 1940 i 1950.
+* [[Mimória de filme fino|Mimórias de filme fino]], ua melhorie de la tecnlogie de núcleo de ferrite, outelizada an alguns cumputadores na década de 1960.
+* [[Carton perfurado|Cartones]] i [[fita perfurada|fitas perfuradas]], que yá fúrun ls percipales meios de mimória nó-bolátil.
+
+=== Mimórias boláteis ===
+Mimórias boláteis son las que requíren einergie para manter l'anformaçon armazenada. San fabricadas cun base an dues tecnologies: dinámica i stática. Ber [[alocaçon de mimória]].
+
+[[Fexeiro:SODIMM 64MB SDRAM.JPG|thumb|left|250px|Mimória SRAM de 64MB.]]
+
+==== Mimória dinámica ====
+La mimória dinámica ye la mais barata deilhas i, antoce, la mais outelizada ne ls cumputadores i son aqueilhas que fúrun popularizadas cumo mimórias [[RAM]]. Este atributo ben de l nome anglés [[RAM|Randomic Acess Memory]] (mimória d'acesso aleatório), que senefica que ls dados neilha armazenados puoden ser besitados a partir de qualquiera andereço. Las mimórias RAM se cuntraponen culas d'acesso sequencial, qu'eisigen que qualquiera acesso seia feito l'ampeçar pul purmeiro andereço i, sequencialmente, bai “pulando” dun nun até atingir l'oubjetibo. Na rialidade, eisisten outras mimórias d'acesso aleatório ne ls cumputadores, anclusibe nun boláteis, antoce, ye amportante tener l coincimiento de que l nome [[RAM]] ye solo ua popularizaçon de l nome de a mimória percipal de ls cumputadores, outelizada para armazenar ls porgramas i dados ne l momiento de l'eisecuçon.
+
+L nome ''dinámica'' ye referente a la tecnologie outelizada para armazenar porgramas i dados i nun a la forma d'acessá-los. De modo simplista eilha funciona cumo ua baterie que debe ser recarregada siempre qu'apersentar carga ansuficiente para alimentar l'eiquipamiento.
+
+Todas las bezes que la CPU (ounidade de processamiento central) fur acessar a mimória, para scrita ó para leitura, cada célula dessa mimória ye atualizada. Se eilha ten <code>1</code> lógico armazenado, sue “baterie” será recarregada; se eilha ten <code>0</code> lógico, la “baterie” será çcarregada. Este procedimiento ye chamado de diçsco de mimória, an [[Léngua anglesa|anglés]], ''diçsh''.
+
+==== Mimória stática ====
+La mimória estática nun necessita ser analisada ó recarregada la cada momiento. Fabricada cun circuitos eiletrónicos coincidos cumo [[Latch|''latch'']], guardan l'anformaçon por to l tiempo an que stubir a recebir alimentaçon.
+
+[[Fexeiro:D23128C PROM.jpg|thumb|right|250px|Mimória PROM.]]
+
+=== Mimórias nun boláteis ===
+San aqueilhas que guardan todas las anformaçones mesmo quando nó stubíren a recebir alimentaçon. Cumo eisemplos, citan-se las mimórias coincidas por [[ROM]], [[FeRAM]] i [[mimória flash|FLASH]], bien cumo ls çpositibos d'armazenamiento an massa, çco rígido, [[CDs]] i çquetes. Las mimórias solamente para leitura, de l tipo [[ROM]] (sigla de [[ROM|Read Only Memory]]), permiten l'acesso aleatório i son coincidas pul fato de l'usuairo nun poder altarar l sou cuntenido. Para grabar ua mimória deste tipo son necessairos eiquipamientos specíficos. Dentre las mimórias de l tipo ROM çtacan-se las seguintes:
+
+{| {{Prettytable}}
+|-----
+| Sigla || Nome || Tecnologie
+|-----
+| ROM 
+| ''Read Only Memory'' (mimória solamente de leitura)
+| Grabada na fábrica ua única beç
+|-----
+| PROM 
+| ''Porgramable Read Only Memory'' (mimória porgramable solamente de leitura)
+| Grabada pul usuairo ua única beç
+|-----
+| EPROM
+| ''Erasable Porgramable Read Only Memory'' (mimória porgramable i apagable solamente de leitura)
+| Puode ser grabada ó regrabada por meio dun eiquipamiento que fornece las buoltaiges adequadas an cada pino. Para apagar ls dados neilha cuntidos, basta eiluminar l ''chip'' cun centeilhas [[ultrabioleta]]. Esto puode ser feito atrabeç dua pequeinha jinela de cristal persente ne l circuito antegrado.
+|-----
+| EEPROM
+| ''Eiletrically Erasable Porgramable Read Only Memory'' (mimória porgramable i apagable eiletronicamente solamente de leitura)
+| Puode ser grabada, apagada ó regrabada outelizando un eiquipamiento que fornece las buoltaiges adequadas an cada pino.
+|}
+
+La Flash ye anterior la FeRAM, mas ye ua bariaçon de l tipo Eipron. Tornórun-se mui populares por dous motibos: l'outelizaçon de çpositibos d'armazenamiento remobibles cumo ls chamados ''[[USB flash dribe|pen dribes]]'', l'aplicaçon an eiquipamientos de sonido que reproduzen música ne l formato MP3 i ls cartones de mimória de las cámeras digitales. Ls dados armazenados neste tipo de mimória permanecen eilhi sin la necidade d'alimentaçon. Sue grabaçon ye feita an giral atrabeç de la puorta [[USB]] que fornece 5 Bolts para alimentaçon.
+
+Las mimórias de massa puoden armazenar grande cantidade d'anformaçon i ténen tenido sou tamanho reduzido la cada die. L [[çco rígido]] ye l meio mais quemun neste tipo de mimória, mas ls [[çquete]]s inda acupan ua pequeinha parcela de l mercado. Nun ye tan rápida cumo a mimória flash mas yá ye possible outelizá-l'an eiquipamientos de reproduçon de música i filmes cumo ls portáteles que reproduzen [[bideoclipe]]s de música an bários formatos, cumo [[MPEG]].
+
+== Capacidade de spanson ==
+Dun modo giral ls cumputadores ancontran-se lemitados nas cantidades de mimória que puoden cunter. A esse lemite chamado '''capacidade de spanson''' corresponde l balor mássimo de mimória qu'un sistema specífico puode cunter.
+Eesisten lemitaçones quanto al ''[[hardware]]'' i al ''[[software]]''. 
+
+Ne l que respeita a las lemitaçones de ''hardware'', d'eiquipamiento, la cantidade de mimória ye lemitada pul spácio d'andereçamiento de l processador. Un processador qu'outelize andereços de 32 bits, por eisemplo, solo poderá andereçar 2³² (1) [[palabra]]s de mimória. Esta ye la rezon pula qual ls cumputadores qu'outelizan processadores [[32 bit]] (x86) son lemitados a 4 ''[[gigabyte]]s'' de mimória. Anquanto ls processadores atuales [[64 bit]] gerencian até 128 [[GB]] de mimória RAM i 16 [[TB]] de mimória birtual. L [[sistema ouperacional]] tamien debe ser [[64 bit]] para trabalhar cun esses balores.
+
+Un detreminado ''software'' (cumo l [[sistema ouperatibo]]) puode tener sido zenhado para permitir ua cantidade lemitada de mimória.
+
+L lemite de '''capacidade de spanson''' de mimórias RAM tamien ye lemitado pula [[placa-mai]] de l cumputador, que probé un cierto númaro de fendas pa las cartas de mimória, bien cumo l ''[[chipset]]'' necessairo para acessar a mimória percipal.
+
+== Ber tamien ==
+* [[Armazenamiento corporatibo]]
+* [[Mimória cache]]
+* [[Mimória RAM]]
+* [[Mimória ROM]]
+* [[Mimória FeRAM]]
+* [[Mimória zin]]
+
+== Refréncias ==
+* Proença, Alberto José. (1999) Arquitetura de Cumputadores: Notas de Studo. [http://gec.di.uminho .pt/decip/TestoAC/cap11.html]
+* SICA, Carlos. "Sistemas Outomáticos cun Microcontroladores 8031/8051", Eiditora Nobatec, 2006.
+* BELLOSO, Fernando de Castro. Anformática: cunceitos básicos. 8ed. Riu de Janeiro:Eilsebier,2011.
+
+{{Cumputaçon}}
+
+[[Catadorie:Mimórias de cumputador| ]]
+[[Catadorie:Treminologie anformática]]
+
+[[aire:ذاكرة (حاسوب)]]
+[[hu:Memóriaegység]]
+[[simple:Cumputer memory]]
+[[th:หน่วยความจำ]]
