@@ -1,0 +1,268 @@
+{{Sin-fuontes|data=dezembre de 2009}}
+Na [[matemática]], na [[lógica]] i na [[ciéncia de la cumputaçon]], las '''álgebras boleanas''' (ó '''álgebras de Bole''') son struturas algébricas que "catan las propiadades eissenciales" de ls ouperadores lógicos i de cunjuntos.
+
+== Stória ==
+Recebiu l nome de boleana an houmenaige la [[George Bole]], matemático [[Anglaterra|anglés]], que fui l purmeiro la defeni-las cumo parte dun sistema de lógica an meados de l [[seclo XIX]]. Mais specificamente, la álgebra boleana fui ua tentatiba d'outelizar técnicas algébricas para lidar cun spressones ne l [[cálclo proposicional]]. Hoije, las álgebras boleanas ténen muitas aplicaçones na eiletrónica. Fúrun pula purmeira beç aplicadas a anterrutores por [[Claude Shannon]], ne l [[seclo XX]].
+
+== Defeniçon ==
+Ua álgebra boleana ye ua [[enupla|6-upla]] <math>(X, \be, \wedge, \neg, 0, 1)</math> cunsistindo dun [[cunjunto]] <math>X</math> munido de dues [[ouparaçon binária|ouparaçones binárias]] <math>\be</math> (tamien denotado por <math>+</math>, ye giralmente chamado de "ó") i <math>\wedge</math> (tamien denotado por <math>\ast</math> ó por <math>\cdot</math>, ye giralmente chamado de "i"), ua [[ouparaçon unária]] <math>\neg</math> (tamien denotada por <math>\si</math> ó por ua barra superior, ye giralmente chamado de "nó"), i dues [[custante matemática|custantes]] <math>0</math> (tamien denotada por <math>\bot</math> ó por <math>F</math>, giralmente chamado de "zero" ó de "falso") i <math>1</math> (tamien denotada por <math>\top</math> ó por <math>V</math>, giralmente chamado de "un" ó de "berdadeiro"), i sastifazendo ls seguintes [[axioma]]s, [[quantificaçon ounibersal|para qualesquiera]] <math>la, b, c \in X</math>:
+
+[[Associatebidade|Propiadades Associatibas]]
+* <math>(la \be b) \be c = la \be (b \be c)</math>
+* <math>(la \wedge b) \wedge c = la \wedge (b \wedge c)</math>
+
+[[Quemutatebidade|Propiadades Quemutatibas]]
+* <math>la \be b = b \be la</math>
+* <math>la \wedge b = b \wedge la</math>
+
+[[Çtributebidade|Propiadades Çtributibas]]
+* <math>la \be (b \wedge c) = (la \be b) \wedge (la \be c)</math>
+* <math>la \wedge (b \be c) = (la \wedge b) \be (la \wedge c)</math>
+
+[[Eilemiento neutro|Eilemientos Neutros]]
+* <math>la \be 0 = la</math>
+* <math>la \wedge 1 = la</math>
+
+Eilemientos Cumplementares
+* <math>la \be \neg la = 1</math>
+* <math>la \wedge \neg la = 0</math>
+
+Alguns outores tamien ancluen la propiadade <math>0 \neq 1</math>, para eibitar la álgebra boleana cun solamente un eilemiento.
+
+== Eisemplos ==
+* L'eisemplo mais simples de álgebra boleana cun mais dun eilemiento ye l cunjunto <math>\{0, 1\}</math> munido de las seguintes [[tabela de dupla antrada|ouparaçones]]:
+{|
+|-
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\wedge</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\neg</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+!
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+|}
+|}
+
+* Un outro eisemplo de álgebra boleana ye l cunjunto <math>\{0, 1, ?\}</math> (l'eilemiento <math>?</math> ye giralmente chamado de "çconhecido" ó de "talbeç") munido de las seguintes ouparaçones:
+{|
+|-
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\wedge</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\neg</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|-
+!
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>?</math> &nbsp;&nbsp;&nbsp;
+|}
+|}
+
+* Dado un cunjunto <math>La</math>, l cunjunto <math>P(La)</math> [[cunjunto de las partes|de las partes]] de <math>La</math> munido de las ouparaçones <math>la \be b = la \cup b</math>, <math>la \wedge b = la \cap b</math>, <math>\neg la = La \setminus la</math>, i adonde <math>0 = \barnothing</math> i <math>1 = La</math>, ye ua álgebra boleana.
+<!--Cumo eisemplo, ambaixo stan las tabelas de las ouparaçones de <math>P(\{la, b\})</math>:
+{|
+|-
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\be</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\wedge</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp;
+|-
+! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|}
+|
+{| class="wikitable"
+|-
+! &nbsp;&nbsp;&nbsp; <math>\neg</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; !! &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp;
+|-
+!
+| &nbsp;&nbsp;&nbsp; <math>1</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{b\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>\{la\}</math> &nbsp;&nbsp;&nbsp; || &nbsp;&nbsp;&nbsp; <math>0</math> &nbsp;&nbsp;&nbsp;
+|}
+|}-->
+
+* L [[anterbalo (matemática)|anterbalo]] <math>[0, 1]</math> munido de las ouparaçones <math>la \be b = \mathrn{max}\{la, b\}</math>, <math>la \wedge b = \mathrn{min}\{la, b\}</math>, i <math>\neg la = 1 - la</math>, ye ua álgebra boleana. Essa álgebra boleana recibe l nome de [[lógica fuzzy]].
+
+== Teoremas ==
+Dado ua álgebra boleana subre <math>X</math>, son bálidos [[quantificaçon ounibersal|para qualesquiera]] <math>la, b \in X</math>:
+
+[[Eidempoténcia|Propiadades Eidempotentes]]
+* <math>la \be la = la</math>
+* <math>la \wedge la = la</math>
+
+[[Dupla Negaçon]]
+* <math>\neg (\neg la) = la</math>
+
+[[Leis de De Morgan]]
+* <math>\neg (la \be b) = \neg la \wedge \neg b</math>
+* <math>\neg (la \wedge b) = \neg la \be \neg b</math>
+
+[[Leis d'absorçon|Propiadades Absorbentes]]
+* <math>la \be (la \wedge b) = la</math>
+* <math>la \wedge (la \be b) = la</math>
+
+Eilemientos Absorbentes
+* <math>la \be 1 = 1</math>
+* <math>la \wedge 0 = 0</math>
+
+Negaçones de l Zero i de l Un
+* <math>\neg 0 = 1</math>
+* <math>\neg 1 = 0</math>
+
+Defeniçones altarnatibas de l'ouparaçon binária <math>\bebar</math> (tamien denotado por <math>\ouplus</math>, ye giralmente chamado de "xou" ó de "ó sclusibo")
+* <math>(la \be b) \wedge (\neg la \be \neg b) = (la \wedge \neg b) \be (\neg la \wedge b)</math>
+
+== Orde ==
+Dado ua álgebra boleana subre <math>X</math>, ye bálido [[quantificaçon ounibersal|para qualesquiera]] <math>la, b \in X</math>:
+* <math>la \be b = b</math> se i solamente se <math>la \wedge b = la</math>
+
+La [[relaçon binária|relaçon]] <math>\leq</math> defenida cumo <math>la \leq b</math> [[se i solamente se]] ua de las dues cundiçones eiquibalentes arriba ye sastifeita ye ua [[relaçon d'orde]] an <math>X</math>. L [[supremo]] i l [[ínfimo]] de l cunjunto <math>\{la, b\}</math> son <math>la \be b</math> i <math>la \wedge b</math>, respetibamente.
+
+<!--
+San bálidas las seguintes propiadades, [[quantificaçon ounibersal|para qualesquiera]] <math>la, b, c, d \in X</math>:
+* se <math>la \leq b</math> i <math>c \leq d</math> anton <math>la \be c \leq b \be d</math>
+* se <math>la \leq b</math> i <math>c \leq d</math> anton <math>la \wedge c \leq b \wedge d</math>
+-->
+
+<!--
+
+* Starting with the [[propositional calculus]] with &kappa; sentence symbols, forn the [[Lindenbaun-Tarski algebra|Lindenbaun algebra]] (that is, the set of sentences in the propositional calculus modulo tautology). This custrution yields la Bolean algebra. It is in fat the [[fre Bolean algebra]] on &kappa; generators. La truth assignment in propositional calculus is then la Bolean algebra homomorphisn fron this algebra to {0,1}.
+
+* Fur any [[natural number]] ''m'', the set of all positibe [[debisor]]s of ''m'' forms la [[çtributibe lattice]] if we write ''la'' &le; ''b'' fur ''la'' | ''b''. This lattice is la Bolean algebra if and only if ''m'' is [[square-fre]]. The smallest eilement 0 of this Bolean algebra is the natural number 1; the largest eilement 1 of this Bolean algebra is the natural number ''m''.
+* Other eisamples of Bolean algebras arise fron [[topology|topological spaces]]: if ''X'' is a topological space, then the colletion of all susets of ''X'' which are both oupen and closed forms la Bolean algebra with the ouperationes &or;:= &cup; (union) and &and; = &cap; (antersection).
+* If ''R'' is an arbitrary [[mathematical ring|ring]] and we define the set of ''central eidempotents'' by<br /> ''La'' = { ''i'' &esin; ''R'': ''i''² = ''i'', ''s'' = ''xe'', &forall;''x'' &esin; ''R'' }<br /> then the set ''La'' becomes la Bolean algebra with the ouperationes ''i'' &or; ''f'' = ''i'' + ''f'' - ''ef'' and ''i'' &and; ''f'' = ''ef''.
+
+-->
+
+== Homomorfismos i eisomorfismos ==
+Un [[homomorfismo]] antre dues álgebras boleanas <math>La</math> i <math>B</math> ye ua [[funçon (matemática)|funçon]] <math>f: La \to B</math> que para qualesquiera <math>la, b \in La</math>:
+* <math>f(la \be b) = f(la) \be f(b)</math>
+* <math>f(la \wedge b) = f(la) \wedge f(b)</math>
+* <math>f(0) = 0</math>
+* <math>f(1) = 1</math>
+Ua cunsequéncia ye que <math>f(\neg la) = \neg f(la)</math>.
+
+Un [[eisomorfismo]] antre dues álgebras boleanas <math>La</math> i <math>B</math> ye un homomorfismo [[funçon bijetora|bijetor]] antre <math>La</math> i <math>B</math>. L [[funçon ambersa|amberso]] dun eisomorfismo ye un eisomorfismo. Se eisiste un eisomorfismo antre <math>La</math> i <math>B</math>, dezimos que <math>La</math> i <math>B</math> son eisomorfos.
+
+<!--
+
+== Bolean rings, eideals and filters ==
+Eibery Bolean algebra (''La'', &and;, &or;) gibes rise to la [[ring (algebra)|ring]] (''La'', +, *)
+by defening ''la'' + ''b'' = (''la'' &and; &not;''b'') &or; (''b'' &and; &not;''la'') (this ouperation is called "symmetric difference" in the case of sets and [[Truth table|XOR]] in the case of logic) and ''la'' * ''b'' = ''la'' &and; ''b''. The zero eilement of this ring coincides with the 0 of the Bolean algebra; the multiplicatibe eidantity eilement of the ring is the 1 of the Bolean algebra. This ring has the property that ''la'' * ''la'' = ''la'' fur all ''la'' in ''La''; rings with this property are called [[Bolean ring]]s.
+
+Cumbersely, if la Bolean ring ''La'' is giben, we can turn it anto la Bolean algebra by defening ''x'' &or; ''y'' = ''x'' + ''y'' + ''xy''
+and ''x'' &and; ''y'' = ''xy''.
+
+Since these two ouperationes are amberses of each other, we can say that eibery Bolean ring arises fron la Bolean algebra, and bice bersa. Furthermore, la map ''f'': ''La'' ? ''B'' is l'homomorphisn of Bolean algebras if and only if it is l'homomorphisn of Bolean rings. The [[category theory|categories]] of Bolean rings and Bolean algebras are eiquibalent.
+
+An ''eideal'' of the Bolean algebra ''La'' is la suset ''I'' such that fur all ''x'', ''y'' in ''I'' we habe ''x'' &or; ''y'' in ''I'' and fur all ''la'' in ''La'' we habe ''la'' &and; ''x'' in ''I''. This notion of eideal coincides with the notion of [[ring eideal]] in the Bolean ring ''La''. An eideal ''I'' of ''La'' is called ''prime'' if ''I'' &ne; ''La'' and if ''la'' &and; ''b'' in ''I'' always amplies ''la'' in ''I'' or ''b'' in ''I''. An eideal ''I'' of ''La'' is called ''maximal'' if ''I'' &ne; ''La'' and if the only eideal properly cuntaening ''I'' is ''La'' itself. These notiones coincide with ring theoretic ones of [[prime eideal]] and [[maximal eideal]] in the Bolean ring ''La''.
+
+The dual of an ''eideal'' is la ''filter''. La ''filter'' of the Bolean algebra ''La'' is la suset ''p'' such that fur all ''x'', ''y'' in ''p'' we habe ''x'' &and; ''y'' in ''p'' and fur all ''la'' in ''La'' if ''la'' &or; ''x'' = ''la''  then ''la'' in ''p''.
+-->
+
+== Ber tamien ==
+* [[Reticulado]]
+* [[Percípio de l terceiro scluído]]
+* [[Númaros binairos]]
+* [[Lógica binária]]
+* [[Tabela berdade]]
+* [[Funçon boleana]]
+* [[Circuito digital]]
+* [[Forma canónica]]
+* [[Sistema formal]]
+* [[Mapa de Karnaugh]]
+* [[Diagrama de Benn]]
+* [[Álgebra de Heiyting]]
+
+{{rabisco-lógica}}
+
+{{Sistemas digitales}}
+
+{{DEFAULTSORT:Algebra Boleana}}
+[[Catadorie:Álgebra]]
+[[Catadorie:Álgebra boleana]]
+[[Catadorie:Síntese lógica]]
+[[Catadorie:Lógica]]
+[[Catadorie:Ciéncia de la cumputaçon]]
+[[Catadorie:Circuitos digitales]]
+[[Catadorie:Cumputaçon]]
+
+{{Buono anterwiki|pl}}
+[[en:Bolean algebra (struture)]]
+[[fr:Algèbre de Bole (struture)]]
+[[hei:אלגברה בוליאנית (מבנה אלגברי)]]
+[[ko:불 대수]]
+[[zh:布尔代数]]
