@@ -1,0 +1,260 @@
+L zambolbimiento de la tecnologie de la [[cumputaçon]] fui l'ounion de bárias árias de l [[coincimiento houmano]], dentre las quales: la [[matemática]], la [[eiletrónica digital]], la [[lógica]] de [[porgramaçon]], antre outras.
+{{TOC}}
+== Cumputaçon ==
+{{Ber artigos percipales|[[Numeraçon]], [[Ábaco]]}}
+La capacidade de ls seres houmanos an calcular cantidades ne ls mais bariados modos fui un de ls fatores que possibelitórun l zambolbimiento de la matemática i de la lógica. Ne ls primórdios de la matemática i de la álgebra, outelizában-se ls dedos de las manos para efetuar cálclos.
+
+La mais antiga ferramienta coincida para uso an cumputaçon fui l ábaco, i fui ambentado na Babilónia por buolta de 2400 a.C. L sou stilo ouriginal d'uso, era zenhar linhas na arena cun peinhas. Ábacos, dun zeign mais moderno, inda son ousados cumo ferramientas de cálclo.
+
+L ábaco de ls [[Ampério Romano|romanos]] cunsistia de bolinhas de [[mármore]] que çlizában nua placa de [[bronze]] chena de sulcos. Tamien surgiran alguns tenermos matemáticos: an latin "Calx" senefica mármore, assi "Calclos" era ua bolinha de l ábaco, i fazer [[Aritmética|cálclos aritméticos]] era "Calculare".
+
+Ne l seclo V a.C., na antiga Índia, l gramático Pāneni formulou la gramática de Sánscrito usando 3959 regras coincidas cumo Ashtadhyāyi, de forma bastante sistemática i técnica. Pāneni usou meta-regras, trasformaçones i recursebidade cun tamanha sofisticaçon que sue gramática possuía l poder cumputacional teórico tal qual la [[Máquina de Turing]].
+
+Antre 200 a.C. i 400, ls andianos tamien ambentórun l logaritmo, i cobrar de l seclo XIII tabelas logarítmicas éran porduzidas por matemáticos eislámicos. Quando John Napier çcubriu ls logaritmos para uso cumputacional ne l seclo XVI, seguiu-se un período de cunsidrable progresso na custruçon de ferramientas de cálclo.
+
+John Napier (1550-1617), scocés ambentor de ls logaritmos, tamien ambentou ls uossos de Napier, que éran tabelas de multiplicaçon grabadas an choupa, l qu'eibitaba la memorizaçon de la tabuada.
+
+La purmeira máquina de berdade fui custruída por Wilheln Schickard (1592-1635), sendo capaç de somar, subtrair, multiplicar i debedir. Essa máquina fui perdida durante la [[guerra de ls trinta anhos]], sendo que recentemente fui ancontrada algua documentaçon subre eilha. Durante muitos anhos nada se soube subre essa máquina, por esso, atribuía-se la Blaise Pascal (1623-1662) la custruçon de la purmeira máquina calculadora, que fazie solo somas i subtraçones.
+
+Pascal, qu'als 18 anhos trabalhaba cun sou pai nun scritório de coleta d'ampuostos na cidade de [[Rouen]], zambolbiu la máquina para auxeliar l sou trabalho de [[cuntabelidade]].
+
+La calculadora usaba [[Angrenaige|angrenaiges]] que la fazien funcionar de maneira similar a un [[odómetro]].
+
+Pascal recebiu ua [[patente]] de l rei de la Fráncia para que lançasse sue máquina ne l comércio. La comercializaçon de sues calculadoras nun fui sastifatória debido la sou funcionamiento pouco cunfiable, anque Pascal tener custruído cerca de 50 bersones.
+
+La máquina Pascal fui criada cun oubjetibo d'ajudar sou pai a cumputar ls ampuostos an Rouen, Fráncia. L porjeto de Pascal fui bastante aprimorado pul matemático alman Gottfried Wilheln Leibniç (1646-1726), que tamien ambentou l cálclo, l qual sonhou que, un die ne l feturo, to l pensar podisse ser sustituído pul girar dua simples alabanca.
+
+An 1671, l filósofo i matemático alman de [[Leipzig]], [[Gottfried Wilheln Leibniç]] antroduziu l cunceito de rializar multiplicaçones i debisones atrabeç d'adiçones i subtraçones sucessibas. An 1694, la máquina fui custruída, inda assi, sue ouparaçon apersentaba muita deficuldade i sujeita a erros.
+
+An 1820, l francés natural de Paris, [[Charles Xabier Thomas]], coincido cumo Thomas de Colmar,porjetou i custruiu ua máquina capaç d'efetuar las 4 ouparaçones aritméticas básicas: la [[Arithmomet]]. Esta fui la purmeira calculadora rialmente comercializada cun sucesso. Eilha fazie multiplicaçones cul mesmo percípio de la calculadora de Leibnitç i efetuaba las debisones cula assisténcia de l'usuairo.
+
+Todas essas máquinas, mas, stában loinge de ser cunsidrado un cumputador, pus nun éran porgramables. Esto quier dezir que l'antrada era feita solo de númaros, mas nun d'anstruçones a respeito de l que fazer culs númaros.'''
+
+== Ls Algoritmos ==
+{{Artigo percipal|Algoritmos}}
+Ne l seclo VII, l matemático andiano [[Brahmaguta]] splicou pula purmeira beç l sistema de numeraçon hindu-arábico i l'uso de l 0. Aprossimadamente an 825, l matemático persa [[Al-Khwarizmi]] screbiu l libro Calculando cun numerales hindus, respunsable pula difuson de l sistema de numeraçon hindu-arábico ne l Ouriente Médio, i mais tarde na Ouropa. Por buolta de l seclo XII houbo ua traduçon de l mesmo libro pa l latin: Algoritmi de númaro Andorun. Tales libros apersentórun nuobos cunceitos para defenir sequéncias de passos para cumpletar tarefas, cumo aplicaçones d'aritmética i álgebra. Por deribaçon de l nome, atualmente usa-se l termo algoritmo.
+
+== La Reboluçon Andustrial ==
+An [[1801]], na [[Fráncia]], durante la [[Reboluçon Andustrial]], [[Joseph Marie Jacquard]], macánico francés, ([[1752]]-[[1834]]) ambentou un [[telar]] macánico cuntrolado por grandes [[carton perfurado|cartones perfurados]]. Sue máquina era capaç de porduzir tecidos cun zeinhos guapos i antrincados. Fui tamanho l sucesso que Jacquard fui quaije muorto quando lebou l telar para [[Lyon]], pus las pessonas tenien medo de perder l'amprego. An siete anhos, yá habie 11 mil telares desse tipo ouperando na Fráncia.
+
+== Vabbage i Ada ==
+{{Artigo percipal|[[Máquina analítica]]}}
+
+L'ourige de l'eideia de porgramar ua máquina ben de la necidade de que las máquinas de tecer porduzissen padrones de quelores defrentes. Assi, ne l seclo XVIII fui criada ua forma de repersentar ls padrones an cartones de papel perfurado, que éran tratados manualmente. An 1801, Joseph Marie Jacquard (1752-1834) ambenta un telar macánico, cun ua leitora outomática de cartones.
+
+L'eideia de Jacquard atrabessou l Canhal de la Mancha, adonde anspirou [[Charles Babbage]] (1792-1871), un porsor de matemática de Cambridge, a zambolber ua máquina de "tecer númaros", ua máquina de calcular adonde la forma de calcular podisse ser cuntrolada por cartones.
+
+[[Fexeiro:CharlesBabbage.jpg|squierda|thumb|150px|'''Charles Babbage''' fui un matemático anglés.]]
+
+Fui cun Charles Babbage que l cumputador moderno ampeçou a ganhar forma, atrabeç de sou trabalho ne l'angeinho analítico. L'eiquipamiento, anque nunca tener sido custruído cun sucesso, possuía todas las funcionalidades de l cumputador moderno. Fui çcrito ouriginalmente an 1837, mais dun seclo antes que qualquiera eiquipamiento de l género tubisse sido custruído cun sucesso. L grande defrencial de l sistema de Vabbage era l fato que sou çpositibo fui porjetado para ser porgramable, iten amprescindible para qualquiera cumputador moderno.
+
+Todo ampeçou cula tentatiba de zambolber ua máquina capaç de calcular polinómios por meio de defrenças, l calculador defrencial. Anquanto porjetaba sou calculador defrencial, l'eideia de Jacquard fizo cun que Babbage eimaginasse ua nuoba i mais cumplexa máquina, l calculador analítico, stremamente semelhante al cumputador atual.
+
+L porjeto, totalmente macánico, era cumpuosto dua mimória, un angeinho central, angrenaiges i alabancas ousadas pa la trasferéncia de dados de a mimória pa l'angeinho central i çpositibos para antrada i salida de dados. L calculador outelizarie cartones perfurados i serie outomático.
+
+Sue parte percipal serie un cunjunto de ruodas dentadas, l molino, formando ua máquina de somar cun percison de cinquenta dígitos. Las anstruçones serien lidas de cartones perfurados. Ls cartones serien lidos nun çpositibo d'antrada i armazenados, para feturas refréncias, nun banco de mil registradores. Cada un de ls registradores serie capaç d'armazenar un númaro de cinquenta dígitos, que poderien ser colocados alhá por meio de cartones a partir de l resultado dun de ls cálclos de l molino.
+
+Por algun tiempo, l gobierno británico financiou Babbage para custruir la sue ambençon.
+
+Para alhá desso todo, Babbage eimaginou la purmeira máquina d'ampresson, qu'amprimirie ls resultados de ls cálclos, cuntidos ne ls registradores. Babbage cunseguiu, durante algun tiempo, fondos para sue pesquisa, mas nun cunseguiu cumpletar sue máquina ne l tiempo prometido i nó recebiu mais denheiro. Hoije, partes de sue máquina puoden ser bistas ne l Museu Británico, que tamien custruiu ua berson cumpleta, outelizando las técnicas çponibles na época.
+
+Durante sue colaboraçon, la matemática Ada Lobelace publicou ls purmeiros porgramas de cumputador nua série de notas pa l'angeinho analítico. Por esso, Lobelace ye popularmente cunsidrada cumo la purmeira porgramadora. An parcerie cun Charles Babbage, [[Ada Lobelace|Ada Augusta]] ([[1815]]-[[1852]]) ó Lady Lobelace, filha de l poeta [[Lord Byron]], era matemática amadora entusiasta. Eilha se tornou la pioneira de la lógica de porgramaçon, screbendo séries d'anstruçones pa l [[máquina analítica|calculador analítico]]. Ada ambentou ls cunceitos de subrotina, ua sequéncia d'anstruçones que puode ser ousada bárias bezes, lop, ua anstruçon que permite la repetiçon dua sequéncia de cartones, i de l salto cundicional, que permite saltar algun carton causo ua cundiçon seia sastifeita.
+
+Babbage tubo muitas deficuldades cula tecnologie de la época, qu'era inadequada para se custruir cumponentes macánicos cula percison neçaira. Cula suspenson de l financiamiento por parte de l gobierno británico, Babbage i Ada outelizórun la fertuna de la família Byron até la falhéncia , sin que podíssen cuncluir l porjeto, i assi l calculador analítico nunca fui custruído.
+
+Ada Lobelace i Charles Babbage stában abançados demales pa l sou tiempo, tanto qu'até la década de 1940, nada se ambentou parecido cun sou cumputador analítico. Até essa época fúrun custruídas muitas máquinas macánicas de somar çtinadas a cuntrolar negócios (percipalmente caixas registradoras) i alguas máquinas anspiradas na calculadora defrencial de Babbage, para rializar cálclos d'angenharie (que nun alcançórun grande sucesso).
+
+== La Lógica Binária ==
+{{Artigo percipal|[[Lógica boleana]]}}
+
+Por buolta de l seclo III a.C., l matemático andiano Pingala ambentou l sistema de numeraçon binairo. Inda ousado atualmente ne l processamiento de todos cumputadores modernos, l sistema stablece que sequéncias specíficas duns i zeros puoden repersentar qualquiera númaro, letra ó eimaige.
+
+An 1703 [[Gottfried Leibniç]] zambolbiu la lógica nun sentido formal i matemático, outelizando l sistema binairo. An sou sistema, uns i zeros tamien repersentan cunceitos cumo berdadeiro i falso, ligado i çligado, bálido i ambálido. Lebou mais dun seclo para que [[George Vole]] publicasse la [[álgebra boleana]] (an 1854), cun un sistema cumpleto que permitie la custruçon de modelos matemáticos pa l processamiento cumputacional. An 1801 apareciu l telar cuntrolado por carton perfurado, ambençon de Joseph Marie Jacquard, ne l qual buracos andicában ls uns, i árias nun furadas andicában ls zeros. L sistema stá loinge de ser un cumputador, mas eilustrou que las máquinas poderien ser cuntroladas pul sistema binairo.
+
+Las máquinas de l'ampeço de l [[seclo XIX]] outelizában base decimal (0 a 9), mas fúrun ancontradas deficuldades an amplementar un dígito decimal an cumponentes eiletrónicos, pus qualquiera bariaçon probocada por un rugido causarie erros de cálclo cunsidrables.
+
+L matemático anglés George Vole ([[1815]]-[[1864]]) publicou an [[1854]] ls percípios de la [[lógica boleana]], adonde las bariables assumen solo balores 0 i 1 (berdadeiro i falso), que passou a ser outelizada a partir de l'ampeço de l [[seclo XX]].
+
+== Shannon i la Teorie de la Anformaçon ==
+Até la década de 1930, angenheiros eiletricistas podien custruir circuitos eiletrónicos para resulber porblemas lógicos i matemáticos, mas la maiorie l fazie sin qualquiera porcesso, de forma particular, sin rigor teórico para tal. Esso mudou cula tese de mestrado de Claude I. Shannon de 1937, La Symbolic Analysis of Relay and Switching Circuits. Anquanto tomaba aulas de Filosofie, Shannon fui sposto al trabalho de George Vole, i percebiu que tal cunceito poderie ser aplicado an cunjuntos eiletro-macánicos para resulber porblemas de lógica. Tal eideia, qu'outeliza propiadades de circuitos eiletrónicos pa la lógica, ye l cunceito básico de todos ls cumputadores digitales. Shannon zambolbiu la teorie de l'anformaçon ne l'artigo de 1948 La Mathematical Theory of Communication, cujo cuntenido sirbe cumo fundamiento para árias de studo cumo cumpresson de dados i critografie.
+
+== Hollerith i sue máquina de perfurar cartones ==
+{{Artigo percipal|[[Carton perfurado]]}}
+Por buolta de [[1890]], Dr. [[Heirman Hollerith]] ([[1860]]-[[1929]]) fui l respunsable por ua grande mudança na maneira de se processar ls dados de ls censos de la época.
+
+L próssimo abanço de ls cumputadores fui feito pul amaricano Heirman Hollerith (1860-1929), qu'ambentou ua máquina capaç de processar dados baseada na separaçon de cartones perfurados (puls sous furos). La máquina de Hollerith fui outelizada para auxeliar ne l censo de 1890, reduzindo l tiempo de processamiento de dados de siete anhos, de l censo anterior, para solo dous anhos i meio. Eilha fui tamien pioneira al outelizar l'eiletricidade na separaçon, cuntaige i tabulaçon de ls cartones.
+
+Ls dados de l censo de [[1880]], manualmente processados, liebórun 7 anhos i meio para séren cumpilados. Ls de l censo de 1890 fúrun processados an 2 anhos i meio, cula ajuda dua máquina de perfurar cartones i máquinas de tabular i ourdenar, criadas por Hollerith i sue eiquipe.
+
+Las anformaçones subre ls andibíduos éran armazenadas por meio de perfuraçones an locales specíficos de l carton. Nas máquinas de tabular, un pino passaba pul furo i chegaba a ua jarra de mercúrio, fechando un circuito eilétrico i causando un ancremiento de 1 nun cuntador macánico.
+
+Mais tarde, Hollerith fondou ua cumpanha para porduzir máquinas de tabulaçon. Anhos depuis, an [[1924]], essa cumpanha bieno la se chamar cumo [[Anternational Business Machines]],ó [[IBM]],cumo ye hoije coincida.
+
+== L purmeiro cumputador ==
+L purmeiro cumputador eiletro-macánico fui custruído por [[Konrad Zuse]] ([[1910]]-[[1995]]). An [[1936]], esse angenheiro alman custruiu, a partir de [[relé]]s qu'eisecutában ls cálclos i dados lidos an fitas perfuradas, l Z1.
+
+Hai ua grande polémica an torno de l purmeiro cumputador. L Z-1 ye cunsidrado por muitos cumo l purmeiro cumputador eiletro-macánico.
+
+Zuse tentou bender l cumputador al gobierno alman, que çprezou l'ouferta, yá que nun poderie auxeliar ne l sfuorço de guerra. Ls porjetos de Zuse quedarian parados durante la guerra, dando la chance als amaricanos de zambolber sous cumputadores, l chamado Eniac.
+Depuis d'alguns anhos la populaçon ampeçou a ousar l chamado cumputador,i acabórun quedando dependentes del, pus hoije essa máquina ye cada beç mais percisa, podendo fazer pesquisas i trabalhos.
+
+== La guerra i ls cumputadores ==
+Durante l trabamiento de la [[Segunda Guerra Mundial]] la Marina amaricana, an cunjunto cula Ounibersidade de Harbard, zambolbiu l cumputador Harbard [[Mark I]], porjetado pul porsor [[Howard Aiken]], cun base ne l calculador analítico de Babbage. L Mark I acupaba 120n³ aprossimadamente, cunseguindo multiplicar dous númaros de dieç dígitos an trés segundos. Este cumputador gigante permitiu tener l purmeiro centro de cumputaçon ne l mundo, assi dando l'ampeço á era moderna de ls cumputadores. 
+
+An segredo, l [[Eisército de ls Stados Ounidos]] tamien zambolbia sou cumputador. Esse usaba solo [[Bálbula eiletrónica|bálbula]]s i tenie por oubjetibo calcular las trajetórias de [[míssil|mísseis]] cun maior percison.
+
+A la par, i an segredo, l Eisército Amaricano zambolbia un porjeto semelhante, xefiado puls angenheiros J. Presper Eckert i John Mauchy, cujo resultado fui l purmeiro cumputador la bálbulas, l Eiletronic Numeric Antegrator And Calculator (ENIAC)[2], capaç de fazer quinhentas multiplicaçones por segundo. Tenendo sido porjetado para calcular trajetórias balísticas, l ENIAC fui mantido an segredo pul gobierno amaricano até l final de la guerra, quando fui anunciado al mundo.
+
+L'angenheiro [[John Presper Eckert]] ([[1919]]-[[1995]]) i l físico [[John Mauchly]] (1907-1980) porjetórun l [[ENIAC]]: ''Eiletronic Numeric Antegrator And Calculator''. Cun 18&nbsp;000 bálbulas, l ENIAC cunseguia fazer 500 multiplicaçones por segundo, mas solo quedou pronto an [[1946]], bários meses passado l final de la guerra.
+
+Ls custos pa la manutençon i cunserbaçon de l ENIAC éran proibitibos, pus dezenas a cientos de bálbulas queimában la cada hora i la calor gerado por eilhas necessitaba ser cuntrolado por un cumplexo sistema de refrigeraçon, para alhá de ls gastos eilebadíssemos d'einergie eilétrica.
+
+Ne l ENIAC, l porgrama era feito rearranjando la fiaçon nun painel. Nesse punto John bon Neumann propós l'eideia que trasformou ls calculadores eiletrónicos an "cérebros eiletrónicos": modelar l'arquitetura de l cumputador segundo l sistema nerboso central. Para esso, eilhes tenerien que tener trés caratelísticas:
+
+# Codificar las anstruçones dua forma possible de ser armazenada na mimória de l cumputador. Bon Neumann sugeriu que fússen ousados uns i zeros.
+# Armazenar las anstruçones na mimória, bien cumo to i qualquiera anformaçon neçaira l'eisecuçon de la tarefa, i
+# Quando processar l porgrama, buscar las anstruçones diretamente na mimória, al ambés de líren un nuobo carton perfurado la cada passo.
+
+Este ye l cunceito de porgrama armazenado, cujas percipales bantaiges son: rapideç, bersatelidade i outomodificaçon. Assi, l cumputador porgramable que conhecemos hoije, adonde l porgrama i ls dados stan armazenados na mimória quedou coincido cumo Arquitetura de bon Neumann.
+
+Para dibulgar essa eideia, bon Neumann publicou solico un artigo. Eckert i Mauchy nun quedórun mui cuntentes cun esso, pus tenerien çcutido muitas bezes cul. L porjeto ENIAC acabou se dissolbendo nua chuba de porcessos, mas yá staba criado l cumputador moderno...
+
+== L nacimiento de la Ciéncia de la Cumputaçon ==
+Antes de la década de 1920, l cumputador era un termo associado la pessonas que rializában cálclos, giralmente liderados por físicos an sue maiorie homes. Miles de cumputadores, éran ampregados an porjetos ne l comércio, gobierno i sítios de pesquisa. Passado la década de 1920, la spresson máquina cumputacional ampeçou a ser ousada para referir-se la qualquiera máquina que rialize l trabalho dun profissional cumputador, specialmente aqueilhas d'acuordo culs métodos de la Tese de Church-Turing.
+
+L termo máquina cumputacional acabou perdendo spácio pa l termo reduzido cumputador ne l final de la década de 1940, culas máquinas digitales cada beç mais difundidas. Alan Turing, coincido cumo pai de la Ciéncia de la Cumputaçon, ambentou la Máquina de Turing, que mais tarde eiboluiu pa l cumputador moderno.
+
+== L Trabalho Teórico ==
+Ls fundamientos matemáticos de la ciéncia de la cumputaçon moderna ampeçórun la séren defenidos por Kurt Gödel cun sou teorema de l'ancumpletude (1931). Essa teorie mostra qu'eisisten lemites ne l que puode ser probado ó zaprobado nun sistema formal; esso lebou a trabalhos posteriores por Gödel i outros teóricos para defenir i çcrebir tales sistemas formales, ancluindo cunceitos cumo recursebidade i cálclo lambda.
+
+An 1936 Alan Turing i Alonzo Church andependientemente, i tamien juntos, antroduziran la formalizaçon dun algoritmo, defenindo ls lemites de l que puode ser cumputado, i un modelo puramente macánico pa la cumputaçon. Tales tópicos son abordados ne l qu'atualmente chama-se Tese de Church-Turing, ua heipótese subre la natureza de çpositibos macánicos de cálclo. Essa tese define que qualquiera cálclo possible puode ser rializado por un algoritmo sendo eisecutado nun cumputador, zde qu'haba tiempo i armazenamiento suficiente para tal.
+
+Turing tamien ancluiu na tese ua çcriçon de la Máquina de Turing, que ten ua fita de tamanho anfenito i un cabeçote para leitura i scrita que mobe-se pula fita. Debido al sou caráter anfenito, tal máquina nun puode ser custruída, mas tal modelo puode simular la cumputaçon de qualquiera algoritmo eisecutado nun cumputador moderno. Turing ye bastante amportante pa la ciéncia de la cumputaçon, tanto que sou nome ye ousado pa l Turing Award i l teste de Turing. El cuntribuiu pa las quebras de código de la Grana-Bretanha na Segunda Guerra Mundial, i cuntinou a porjetar cumputadores i porgramas de cumputador pula década de 1940; cometiu suicídio an 1954.
+
+== Alan Turing ==
+Alan Mathison Turing naciu an 23 de júnio de 1912 an Londres, filho dun oufecial británico, Julius Mathison i Ethel Sara Turing. Sou antresse pula ciéncia ampeçou cedo, lougo que daprendiu a ler i screbir, çtraia-se fatorando númaros d'hinos relegiosos i zenhando bicicletas anfíbias. La maior parte de l sou trabalho fui zambolbido ne l serbício de spionaige, durante la II Grande Guerra, liebando-lo solamente por buolta de 1975 a ser reconhecido cumo un de ls grandes pioneiros ne l campo de la cumputaçon,
+An 1928, Alan ampeçou a studar la Teorie de la Relatebidade, conhecendo Christopher Morcon, que l'anfluenciou perfundamente. Morcon morriu an 1930 i Alan se motibou a fazer l que l'amigo nun tubo tiempo, durante anhos trocou correspondéncias cula mai de Morcon a respeito de las eideias de l'amigo i se marabilhou cula possibelidade de resulber porblemas cula teorie macánica quántica.Chegou anclusibe a screbir subre la possibelidade de l sprito subrebibir passado la muorte.
+
+Depuis de cuncluir l mestrado an King's College (1935) i recebir l Smith's prize an 1936 cun un trabalho subre la Teorie de las Porbabelidades, Turing se amberedou pula ária de la cumputaçon. Sue preocupaçon era saber l qu'efetibamente la cumputaçon poderie fazer. Las repuostas benirun sob la forma teórica, dua máquina coincida cumo Turing Ounibersal Machine, que possibelitaba calcular qualquiera númaro i funçon, d'acuordo cun anstruçones apropiadas.
+
+Quando la II Guerra Mundial eclodiu, Turing fui trabalhar ne l Departamiento de Quemunicaçones de la Gran Bretanha (Gobernment Code and Cypher Schol) an Buckinghamshire, cul antuito de quebrar l código de las quemunicaçones alemanas, porduzido por un tipo de cumputador chamado Enigma. Este código era custantemente trocado, oubrigando ls enimigos a tentar decodifica-lo correndo contra l reloijo. Turing i sous colegas cientistas trabalhórun nun sistema que fui chamado de Colossus, un einorme emaranhado de serbo-motores i metal, cunsidrado un precursor de ls cumputadores digitales.
+
+Durante la guerra, Turing fui ambiado als EUA la fin de stablecer códigos siguros para quemunicaçones trasatlánticas antre ls aliados. Supone-se que fui an Princeton, NJ, que conheciu Bon Neumann i dende tener participado ne l porjeto de l ENIAC na ounibersidade de la Pensilbánia..
+
+Treminada la guerra, Alan se juntou al National Physical Laboratory para zambolber un cumputador totalmente anglés que serie chamado de ACE (outomatic cumputing angine).Zeiludido cula demora de la custruçon, Turing mudou-se para Manchester. An 1952, fui preso por "andecéncia", sendo oubrigado la se submeter a la pesicoanálise i a tratamientos que bisában curar sue homossexualidade.Turing suicidou-se an Manchester, ne l die 7 de júnio de 1954, durante ua crise de depresson, comendo ua maçana ambenenada cun cianureto de potássio.
+
+== L Teste de Turing ==
+L teste cunsistia an submeter un ouperador, cerrado nua sala, la çcubrir se quien respundia sues preguntas, antroduzidas atrabeç de l botoneira, era un outro home ó ua máquina. Sue antençon era de çcubrir se podiamos atribuir a la máquina la noçon d'anteligéncia.
+
+== Bon Neumann ==
+L matemático húngaro [[John Bon Neumann]] ([[1903]]-[[1957]]) formalizou l porjeto lógico dun [[cumputador]].
+
+An sue perpuosta, Bon Neumann sugeriu que las anstruçones fússen armazenadas na mimória de l cumputador. Até anton eilhas éran lidas de cartones perfurados i eisecutadas, ua a ua. Armazená-las na mimória, para anton eisecutá-las, tornarie l cumputador mais rápido, yá que, ne l momiento de l'eisecuçon, las anstruçones serien oubtidas cun rapideç eiletrónica.
+
+La maiorie de ls cumputadores hoije an die segue l modelo proposto por Bon Neumann.
+
+Esse modelo define un cumputador sequencial digital an que l processamiento de las anformaçones ye feito passo a passo, caraterizando un cumportamiento determinístico (ó seia, ls mesmos dados d'antrada porduzen siempre la mesma repuosta).
+
+== Purmeiros cumputadores pessonales ==
+[[Fexeiro:BRLESC-1 cumputer.jpg|thumb|dreita|Ls [[mainframe]]s surgian cada beç maiores i caros, sendo outelizados solo por grandes ampresas.]]
+Até l final de ls [[década de 1970|anhos 1970]], reinában absolutos ls ''[[mainframe]]s'', cumputadores einormes, trancados an salas refrigeradas i ouperados solo por alguns poucos prebilegiados. Solo grandes ampresas i bancos podien ambestir alguns milhones de dólares para tornar mais eficientes alguns porcessos anternos i l fluxo d'anformaçones. La maiorie de ls scritórios funcionaba mais ó menos de la mesma maneira que ne l'ampeço de l seclo. Arquibos de metal, máquinas de screbir, papel carbono i memorandos fazien parte de l die-la-die.
+
+Segundo l [[Cumputer Story Museun]], l purmeiro "cumputador pessonal" fui l [[Kenbak-1]], lançado an 1971. Tenie 256 [[byte]]s de [[RAM|mimória]] i fui anunciado na rebista ''[[Scientific Amarican]]'' por [[dólar|US$]] 750; todabie, nun possuía [[CPU]] i era, cumo outros sistemas desta época, porjetado para uso eiducatibo (ó seia, demunstrar cumo un "cumputador de berdade" funcionaba). An 1975, surge l [[Altair 8800]], un cumputador pessonal baseado na CPU [[Antel 8080]]. Vendido ouriginalmente cumo un kit de montar atrabeç de la rebista norte-amaricana Popular Eiletronics, ls porjetistas pretendian bender solo alguas cientos d'ounidades, tenendo quedado surpresos quando bendírun 10 bezes mais que l prebisto pa l purmeiro més. Custaba cerca de 400 doláres i se quemunicaba cul usuairo atrabeç de luzes que piscában. Antre ls purmeiros usuairos stában l calouro de la [[Ounibersidade de Harbard]], [[Bill Gates]], i l moço porgramador, [[Paul Allen]], que juntos zambolbírun ua berson de la lenguaige "[[BASIC|Basic]]" pa l [[Altair]]. Pouco tiempo depuis, la dupla resolbiu mudar l rumo de sues carreiras i criar ua ampresa chamada [[Microsoft]].
+
+Ne ls anhos seguintes, surgiran dezenas de nuobos cumputadores pessonales cumo l [[TRS-80|Radio Shack TRS-80]] (L TRS-80 fui comercializado cun bastante sucesso ne l [[Brasil]] pula [[Prológica]] culs nomes de CP-300 i CP-500), [[Commodore 64]], [[Atari 400]] i outros cun sucesso moderado.
+
+== La Apple i la popularizaçon ==
+[[Fexeiro:Apple-II.jpg|thumb|dreita|L [[Apple II]] fui lançado an 1977 cun botoneira antegrado, gráficos queloridos, sonidos, gabinete de plástico i uito slots de spanson.]]
+An [[1976]], outra dupla de moços, [[Stebe Jobs]] i [[Stebe Wozniak]], ampeçou outra ampresa que mudarie l rumo de l'anformática: la [[Apple Cumputer, Anc.|Apple]].
+
+Jobs i Wozniak abandonórun la [[Ounibersidade de Berkeley]] para podéren se dedicar al porjeto de cumputador pessonal criado por Wozniak, l [[Apple I]]. Cumo Wozniak trabalhaba pa la [[Heiwlett-Packard|HP]], l sou porjeto percisaba ser apersentado pa l'ampresa que recusou d'eimediato l'eideia. Esso abriu l camino pa la criaçon de la Apple, ampresa fundada puls dous que comercializarie ls cumputadores. Montados na garaige de Jobs, ls 200 purmeiros cumputadores fúrun bendidos nas loijas de la bizinhança la US$ 500 cada. Antressado ne l porjeto, Mike Makula (na época bice-persidente de [[marketing]] de la [[Antel]]), resolbiu ambestir US$ 250 mil na Apple.
+
+Alguns meses depuis, yá an [[1977]], fui lançado l purmeiro microcumputador cumo conhecemos hoije, l [[Apple II]]. L'eiquipamiento yá benie montado, cun botoneira antegrado i era capaç de gerar gráficos queloridos. Parte de la lenguaige de porgramaçon de l Apple II habie sido feita pula Microsoft, ua bariaçon de l BASIC pa l Apple II. Las bendas chegórun la US$ 2,5 milhones ne l purmeiro anho de comercializaçon i, cul sou rapido crecimiento de bendas, la Apple tornou-se ua [[ampresa pública]] (ó seia, cun açones que puoden ser adquiridas por qualquiera un na bolsa de balores) i eilha custruiu la sue sede percipal - Anfenite Lop - an [[Cupertino]], [[Califórnia]].
+
+Cul sucesso de l Apple II, benirun l [[Besicalc]] (la purmeira planilha eiletrónica ambentada), processadores de testo i porgramas de banco de dados. Ls micros yá podien sustituir ls fluxos de caixa feitos cun cadernos i calculadoras, máquinas de screbir i ls arquibos de metal ousados para guardar miles de decumientos. Ls cumputadores domésticos deixórun anton de ser solo un ''[[hobby]]'' d'adolescentes para se tornáren ferramientas andispensables para muitas pessonas.
+
+Antretanto, até l'ampeço de ls [[década de 1980|anhos 1980]], muitos eisecutibos inda ancarában ls cumputadores pessonales cumo brinquedos. Para alhá de las mudanças d'hábitos neçairas para aprobeitar la nuoba tecnologie, ls mais cunserbadores tenien medo de cumprar perdutos d'ampresas dirigidas por un rapaç de 26 anhos qu'hai menos de 5 trabalhaba na garaige de ls pais.
+
+== Ls cumputadores pessonales para ampresas ==
+{{Artigo percipal|[[IBM-PC]]}}
+[[Fexeiro:IBM PC 5150.jpg|thumb|dreita|L [[IBM PC]] outelizaba l [[PC-DOS]] i tena la [[BIOS]] cumo única parte de porduçon sclusiba de la IBM.]]
+An [[1980]], la [[IBM]] staba cumbencida de que percisaba antrar ne l mercado de a microinformática i l'uso profissional de ls micros solo çlanchou quando eilha antrou nesse mercado. L'ampresa dominaba (i domina até hoije) l mercado de cumputadores de grande porte i, zde la purmeira metade de l [[seclo XX]], máquinas de screbir cun sue marca stában persentes ne ls scritórios de to mundo. Cumo nun staba acostumada a l'agelidade de l nuobo mercado, criado i dominado por moços dinámicos i entusiasmados, la gigantesca corporaçon decidiu que l PC nun podie ser criado na mesma belocidade na qual eilha staba acostumada a zambolber nuobos perdutos.
+
+Por esso, l'ampresa criou ua fuorça tarefa special para zambolber l nuobo perduto. Assi, un grupo de 12 angenheiros liderados por William C. Lowe fui anstalado nun laboratório an [[Voca Raton]], na [[Flórida]], loinge de ls percipales centros de zambolbimiento de la corporaçon que, até hoije, quedan na [[Califórnia]] i an [[Nuoba Iorque]]. L resultado desse trabalho fui l ''[[IBM-PC]]'', que tenie un précio de tabela de US$ 2.820, bien mais caro que ls cuncorrentes, mas fui un sucesso eimediato. An 4 meses fúrun bendidas 35 mil ounidades, 5 bezes mais de l que l sperado. Cumo ouserbou l jornalista Robert X Cringley: "naide nunca tenie sido çpedido por cumprar perdutos IBM". Ls micros deixórun defenitibamente de ser un brinquedo.
+
+== La Parcerie IBM - Microsoft ==
+Cumo to cumputador, l IBM PC percisaba dun [[Sistema Ouperatibo|Sistema Ouperacional]] para poder ser outelizado. Durante l porcesso de zambolbimiento de l IBM PC, houbo ua tentatiba sin sucesso de cuntratar la [[Digital Research]], ua ampresa speriente na criaçon de Sistemas Ouperacionales, pa l zambolbimiento de l Sistema Ouperacional de la IBM.
+
+Sin outra altarnatiba, la IBM recorreu la [[Microsoft]] qu'oufereciu un Sistema Ouperacional pa la IBM, mas na berdade eilhes nun tenien nada pronto. Al assinar l [[Licença de Software|cuntrato de licenciamiento]] de l [[DOS]] (Çk Ouperating Systen - Sistema Ouperacional de Çco) pa la IBM, Bill Gates i Paul Allen fúrun atrás de la Seatlle Cumputer, ua pequeinha ampresa que zambolbia l Sistema Ouperacional QDOS i que l bendiu pa la Microsoft por US$ 50.000 sin eimaginar la fin qu'esse sistema tenerie.
+
+La Microsoft anton adatou-lo i criou l [[PC-DOS]]. L cuntrato cula IBM prebia ua [[royalty]] (de 10 a 50 dólares por cada máquina bendida) i un pequeinho pagamiento enicial. Mas l sistema cuntinaba subre propiadade de la Microsoft, assi cumo la possibelidade de çtribuir bersones modificadas ([[MS-DOS]]).
+
+Esse cuntrato ye, sin dúbeda algua, un de ls mais amportantes de l [[seclo XX]] pus, atrabeç desse cuntrato, la Microsoft deixou de ser ua microempresa de software para se tornar l'ampresa mais poderosa ne l galho de l'anformática i tornar Vill Gates un de ls homes mais ricos de l mundo atual.
+
+== L'aposta de la Apple para cuntinar ne l topo ==
+[[Fexeiro:Macintosh 128k trasparency.png|thumb|dreita|L'aposta [[Apple Anc.]] para se manter ne l topo de l mercado: l [[Macintosh 128K|Macintosh]]. Sue [[anterface gráfica]] deixaba la [[IBM]] décadas atrás.]]
+
+An dezembre de [[1979]], la [[Apple Cumputer]] era l'ampresa de maior sucesso de a microinformática. L carro xefe de l'ampresa, l [[Apple II+]] yá staba persente an scuolas i residéncias de l'elite amaricana. Antretanto, las máquinas inda éran defíceles d'ousar. Para ouperar un microcumputador, era perciso coincer la "lenguaige" de l sistema ouperacional i la sintaxe correta para aplicá-la. Todas las anteraçones de l'usuairo cula máquina éran feitas atrabeç de la digitaçon de comandos. Ua letra errada i l'ouparaçon nun era rializada, eisigindo la digitaçon de l comando correto. Assi, antes d'aprobeitar ls benefícios de l'anformática, era andispensable daprender todos ls comandos de cuntrole de l cumputador.L cumputador de la Apple staba cun quaije 2 anhos d'eisisténcia i yá ampeçaba a quedar bielho. L'ampresa percisaba criar algo nuobo para cuntinar cumpetindo.
+
+La [[Xerox]], ampresa que dominaba l mercado de [[fotocopiadora|copiadoras]], acraditaba que l sou negócio poderie perder rentabelidade cula reduçon de l fluxo de decumientos an papel, por causa de l'uso de decumientos an formato eiletrónico. Fui criado anton, an 1970, l Palo Alto Research Center ([[PARC]]) cul antuito d'ambentar l feturo.Nessa época l PARC zambolbia muitas nobidades cumo las [[LAN|redes locales]] i [[Ampressora a laser|ampressoras laser]], mas la pesquisa mais amportante era la [[anterface gráfica]] i l [[mouse]]. Passado grandes zastres na tentatiba de comercializar cumputadores de l PARC (l cumputador de l PARC saia por US$ 17 mil anquanto l de la [[IBM]] custaba solo US$ 2,8 mil), la Xerox zeistiu de l porjeto.
+
+[[Stebe Jobs]] tamien zambolbia ne ls laboratórios de la [[Apple Anc.]] l'anterface gráfica. Buscando saber detalhes de cumo eilha quedarie depuis de pronta, trocou oupçones de cumpra d'açones de la Apple por ua bejita detalhada de trés dies al PARC. L purmeiro perduto lançado pula Apple usando ls cunceitos criados pula Xerox fui l [[Lisa]]. Anque moderno, nun chegou a ser porduzido an grande cantidade, pus l mercado nun staba preparado para pagar quaije US$ 10 mil solo pula facelidade d'uso.
+
+An 1979 [[Jef Raskin]], un specialista an anterfaces home-máquina, eimaginou un cumputador fácele d'outelizar i barato pa l grande público. El anton lançou las bases de l porjeto Macintosh. L porjeto inobador de l Macintosh atraiu l'atençon de Stebe Jobs, que saliu de l porjeto Lisa cun sue eiquipe para se cuncentrar ne l porjeto Macintosh. An janeiro de 1981, el tomou la direçon de l porjeto, fuorçando Jef Raskin a deixar l mesmo.
+
+An 24 de janeiro de [[1984]] surgiu l [[Macintosh]], l purmeiro cumputador de sucesso cun ua anterface gráfica amigable, usando ícones, jinelas i mouse. Sue acolhida fui stremamente entusiástica, grande parte desso debido las campanhas publicitárias an massa de la Apple. L percipal anúncio de sou lançamiento fui durante l'anterbalo de la Super Bowl XBIII (eibento cumparable cula amportança de la Copa de l Mundo pa l Brasil). Essa propaganda ye coincida cumo "1984", pus era baseada ne l libro "[[1984 (libro)|Nineten Eighty-Four]]" (Mil Nuobecientos i Uitenta i Quatro) de [[George Orwell]], i retrata un mundo ne l qual todos éran submetidos al regime totalitairo de l "Big Brother" (Grande Armano). Ua heiroína repersentada por Anya Manjor çtroí un telon ne l qual l Big Brother falaba al público. L'antuito de l comercial era relacionar la IBM al "Big Brother" i l'heiroína a la Apple.
+
+== Ls "IBM-PC Cumpatíbeis" ==
+{{Artigo percipal|[[IBM PC cumpatible]]}}
+[[Fexeiro:ROM BIOS.jpg|thumb|dreita|La clonaige de l [[BIOS]] quaije tirou la [[IBM]] de l mercado de PCs.]]
+L mesmo grupo que criou l IBM-PC tamien defeniu que l cumponente básico de l cumputador, la [[BIOS]], serie de fabricaçon sclusiba de la IBM. Esse chip ten la finalidade de fornecer als PCs ua anterface d'antrada i salida de dados. Cumo todos ls outros cumponentes de l cumputador éran fabricados por outras ampresas, la IBM tenie nesses chips la sue maior fuonte de renda i la única cousa que binculaba qualquiera PC a la IBM.
+
+Alguas ampresas, dentre eilhas la [[Cumpaq]], aplicórun la técnica de [[angenharie rebersa]] ne l BIOS, clonórun-na i custruíran cumputadores similares al de la IBM. An nobembre de 1982, la Cumpaq anuncia l ''Cumpaq Portable'', purmeiro PC que nun usa la BIOS de la IBM i mantén 100% de cumpatibelidade cul IBM PC.
+
+Esses cumputadores son coincidos cumo "[[IBM PC cumpatible|IBM PC cumpatibles]]" i son ls PCs que son bendidos nas loijas até hoije, solo bien mais eiboluídos de l que ls purmeiros PCs. Esso lebou la IBM la se tornar ua simples ampresa que fabricaba cumputadores pessonales i cuncorria cumo qualquiera outra nesse mercado. La IBM praticamente abandonou l mercado de PCs i se dedicou al mercado de [[serbidores]], na qual ye eimbatible até hoije.
+
+== Geraçones de cumputadores ==
+La [[Arquitetura de cumputadores|arquitetura dun cumputador]] depende de l sou porjeto lógico, anquanto que la sue amplementaçon depende de la tecnologie çponible.
+
+Las trés purmeiras geraçones de cumputadores refletian l'eiboluçon de ls cumponentes básicos de l cumputador (hardware) i un aprimoramiento de ls porgramas (software) eisistentes.
+
+Ls cumputadores de [[purmeira geraçon de cumputadores|purmeira geraçon]] ([[1945]]–[[1959]]) usában bálbulas eiletrónicas, quilómetros de filos, éran lentos, einormes i squentában muito.
+
+La [[segunda geraçon de cumputadores|segunda geraçon]] (1959–[[1964]]) sustituiu las bálbulas eiletrónicas por [[trasístor]]s i ls filos de ligaçon por [[circuito ampresso|circuitos ampressos]], l que tornou ls cumputadores mais rápidos, menores i de custo mais baixo.
+
+La [[terceira geraçon de cumputadores]] (1964–[[1970]]) fui custruída cun [[circuito antegrado|circuitos antegrados]], proporcionando maior cumpataçon, reduçon de ls custos i belocidade de processamiento de l'orde de [[microssegundo]]s. Ten ampeço l'outelizaçon d'abançados [[sistema ouperatibo|sistemas ouperacionales]].
+
+La [[quarta geraçon de cumputadores|quarta geraçon]], de 1970 até hoije, ye caratelizada por un aperfeiçoamiento de la tecnologie yá eisistente, proporcionando ua outimizaçon de la máquina pa ls porblemas de l'usuairo, maior grau de meniaturizaçon, cunfiabelidade i maior belocidade, yá de l'orde de [[nanossegundo]]s (belionésima parte de l segundo).
+
+L termo [[quinta geraçon de cumputadores|quinta geraçon]] fui criado puls japoneses para çcrebir ls potentes cumputadores "anteligentes" que querien custruir an meados de la década de 1990. Mais tarde, l termo passou a ambolber eilemientos de dibersas árias de pesquisa relacionadas a l'anteligéncia cumputadorizada: anteligéncia artificial, sistemas specialistas i lenguaige natural.
+
+Mas l berdadeiro foco dessa ininterruta quinta geraçon ye la conetebidade, l maciço sfuorço de l'andústria para permitir als usuairos conetáren sous cumputadores a outros cumputadores. L cunceito de superbia de l'anformaçon caturou l'eimaginaçon tanto de profissionales de la cumputaçon cumo d'usuairos quemuns.
+
+== La Cumputaçon Móbel i la cumbergéncia de médias ==
+Ne l'ampeço de l seclo XXI, a partir d'eniciatibas d'ampresas cumo l [[Google]], la [[Nokia]] i, subretodo, la [[Apple]], ampeçórun ua stenson de la quarta geraçon de cumputadores que resultou na unificaçon de lenguaiges de tecnologies yá eisistentes, i cunsequente stenson de las funcionalidades. La cumputaçon pessonal deixou de se lemitar als chamados ''çktops'' (outrora chamados de "microcumputadores") i passou a ancluir outros çpositibos cumo telifones telemobles i apareilhos de [[telebison]], bien cumo ua nuoba catadorie de çpositibos chamado [[tablet]] - ua spece de cumputador delgado i portátil, sin botoneira físico nin mouse i cun tela sensible al toque, de l tamanho dun libro. Aplicaçones d'uso giral passórun a ser portaladas para esses çpositibos i, debido al zambolbimiento de la [[cumputaçon an nubre]], arquibos armazenados nun çpositibo podírun ser sincronizados an outros çpositibos, tornando la cumputaçon onipresente. Estes cunceitos, que stan an curso atualmente, stan progressibamente tornando médias físicas sternas ousoletas, salbo talbeç ls cartones de mimória.
+
+== Rializaçones pa la sociadade ==
+Anque sue pequeinha stória anquanto ua deciplina académica, la ciéncia de la cumputaçon dou ourige la dibersas cuntribuiçones fundamentales pa la ciéncia i pa la sociadade. Esta ciéncia fui respunsable pula defeniçon formal de cumputaçon i cumputabelidade, i pula proba de l'eisisténcia de porblemas ansolúbeis ó antratables cumputacionalmente. Tamien fui possible la custruçon i formalizaçon de l cunceito de lenguaige de cumputador, subretodo lenguaige de porgramaçon, ua ferramienta pa la spresson percisa d'anformaçon metodológica flexible l suficiente para ser repersentada an dibersos nibles d'abstraçon.
+
+Para outros campos científicos i pa la sociadade de forma giral, la ciéncia de la cumputaçon forneciu suporte pa la Reboluçon Digital, dando ourige la Era de la Anformaçon. La cumputaçon científica ye ua ária de la cumputaçon que permite l'abanço de studos cumo l mapeamiento de l genoma houmano
+
+== Ver tamien ==
+* [[Cronologie de l'eiboluçon de ls cumputadores]]
+* [[Stória de l'hardware]]
+* [[Pirates of Silicon Balley (filme)]] - Filme dramatizado subre la stória de la [[Microsoft]] i de la [[Apple Anc.]]
+
+== Bibliografie Recomendada ==
+; Stória de la Cumputaçon - L camino de l pensamiento i de la tecnologie - Cléuzio Fonseca Filho - EDIPUCRS - PUCRS (Domínio Público)
+== Ligaçones sternas ==
+* {{Link|t|2=http://www.pucrs.br/eidipucrs/online/libro4.html |3=Download de l libro outorizado legalmente pul outor}}
+* {{Link|t|2=http://www.baixaki .com.br/anfo/2231-la-storia-de ls-notebooks.htn |3=La Stória de ls Notebooks}}
+
+{{Cumputaçon}}
+{{Stória de la ciéncia}}
+
+{{Portal3|Matemática|Tecnologies d'anformaçon|Stória de la ciéncia}}
+
+{{DEFAULTSORT:Storia Cumputacao}}
+[[Catadorie:Stória de la matemática]]
+[[Catadorie:Stória de la cumputaçon]]
+[[Catadorie:Stória de l'anformática| ]]
