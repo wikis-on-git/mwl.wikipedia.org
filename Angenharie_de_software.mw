@@ -1,0 +1,245 @@
+[[Fexeiro:NIST Andustrial Cuntrol Security Testbed.jpg|thumb|250px|L'angenharie de software ye la ária respunsable pul stablecimiento de técnicas i práticas pa l [[zambolbimiento de software]] cobrindo ua ampla ária d'aplicaçones i defrentes tipos de çpositibos.<ref>{{Citar web|url=http://www.dimap.ufrn.br/bes/|títalo=Angenharie de Software|publicado=www.dimap.ufrn.br|acessodata=26 de júlio de 2012}}</ref>]]
+
+'''Angenharie de software''' ye ua ária de la cumputaçon buoltada a la specificaçon, [[Zambolbimiento de software|zambolbimiento]] i manutençon de sistemas de ''[[software]]'', cun aplicaçon de tecnologies i práticas de [[geréncia de porjetos]] i outras deciplinas, bisando ourganizaçon, pordutebidade i culidade.<ref>http://www.anf.ufes.br/~falbo/download/aulas/ex-g/2005-1/NotasDeAula.pdf Notas d'aula subre angenharie de software, proferies pul porsor Ricardo de Almeida Falbo, 2005 - UFES</ref>
+
+Atualmente, essas [[tecnologie]]s i práticas angloban [[lenguaige de porgramaçon|lenguaiges de porgramaçon]], [[banco de dados]], [[ferramienta CASE|ferramientas]], [[plataforma]]s, [[Biblioteca de rotinas|biblioteca]]s, [[padrones]], porcessos i la queston de la [[Culidade de Software]].
+
+Ls fundamientos [[Ciéncia|científicos]] pa l'angenharie de software ambolben l'uso de [[Modelo (matemática)|modelos]] abstratos i percisos que permiten al angenheiro specificar, porjetar, amplementar i manter sistemas de software, abaluando i garantindo sues culidades. Para alhá desso, l'angenharie de software debe ouferecer macanismos para se planeijar i gerenciar l porcesso de [[Zambolbimiento de software|zambolbimiento]] dun [[sistema cumputacional]].
+ 
+== Defeniçon ==
+[[Friedrich Ludwig Bauer]] fui l purmeiro dezindo: "Angenharie de ''Software'' ye la criaçon i l'outelizaçon de sólidos percípios d'angenharie la fin d'oubter [[software]] de maneira eiquenómica, que seia cunfiable i que trabalhe an máquinas reales". L própio seneficado de [[angenharie]] yá traç ls cunceitos de criaçon, custruçon, análeze, zambolbimiento i manutençon.  
+  
+La Angenharie de ''Software'' se cuncentra ne ls aspetos práticos de la porduçon dun sistema de ''software'', anquanto la [[ciéncia de la cumputaçon]] studa ls fundamientos teóricos de ls aspetos cumputacionales.   
+   
+L termo fui criado na década de 1960 i outelizado ouficialmente an 1968 na  ''NATO Science Committe''. Sue criaçon surgiu nua tentatiba de cuntornar la [[crise de l software]] i dar un tratamiento d'angenharie (mais sistemático i cuntrolado) al [[Zambolbimiento de software|zambolbimiento de sistemas]] de ''software'' cumplexos. Un sistema de ''software'' cumplexo se carateriza por un cunjunto de cumponentes abstratos de ''software'' (struturas de dados i algoritmos) ancapsulados na forma de procedimientos, funçones, módulos, oubjetos ó agentes i anterconetados antre si, cumpondo la [[arquitetura de software|arquitetura de l software]], que debiran ser eisecutados an [[sistemas cumputacionales]].
+  
+Ls fundamientos científicos ambolben l'uso de '''modelos abstratos i percisos''' que permiten al angenheiro specificar, porjetar, amplementar i manter sistemas de ''software'', abaluando i garantindo sues culidades. Para alhá çto, debe ouferecer macanismos para se planeijar i gerenciar l porcesso de zambolbimiento. Ampresas zambolbedoras de ''software'' passórun a ampregar esses cunceitos subretodo para ourientar sues árias de zambolbimiento, muitas deilhas ourganizadas sob la forma de [[Fábrica de Software]].
+   
+La [[Angenharie de Sistemas]] ye ua ária mais ampla por tratar de todos ls aspetos de sistemas baseados an [[cumputador]]s, ancluindo ''hardware'' i angenharie de porcessos para alhá de l ''software''.
+
+La Ounibersidade Federal de Goiás fui la purmeira anstituiçon ne l paíç a criar l curso de graduaçon an Angenharie de Software, tenendo an custante eiboluçon de sue grade curricular.
+
+== Árias de coincimiento ==
+Segundo l [[Software Anginering Body of Knowledge|SWEBOK]] (Cuorpo de Coincimiento de la Angenharie de Software), berson 2004, las árias de coincimiento de la '''Angenharie de Software''' son:
+* [[Requesitos de Software|Requesitos (Requirements) de Software]]
+* [[Porjeto de Software|Porjeto (Zeign) de Software]]
+* [[Custruçon ó Amplementaçon de Software|Custruçon (Custrution) de Software]]
+* [[Teste de software|Teste (Testing) de Software]]
+* [[Manutençon de Software|Manutençon (Maintenance) de software]]
+* [[Geréncia de Cunfiguraçon de Software]]
+* [[Geréncia de Angenharie de Software]]
+* [[Porcessos de Angenharie de Software]]
+* [[Ferramientas i Métodos de Angenharie de Software]]  
+* [[Culidade de Software|Culidade (Quality) de Software]]
+
+Cunforme [[Roger Pressman|Pressman]], la Angenharie de Software (ES) ye ua tecnologie an camadas. I la base de todas essas camadas ye l foco na culidade de l software zambolbido. Antoce, anclusibe de l punto de bista didático, ye antressante studarmos la ES an sues camadas de [[Porcesso]], [[Métodos]] i [[Ferramientas]].
+
+== Porcesso de software ==
+{{Artigo percipal|Porcessos de Angenharie de Software}}
+
+Porcesso de ''software'', ó porcesso d'angenharie de software, ye ua sequéncia coerente de práticas qu'oubjetiba l zambolbimiento ó eiboluçon de sistemas de ''software''. Estas práticas angloban las atebidades de specificaçon, porjeto, amplementaçon, testes i caraterizan-se pula anteraçon de ferramientas, pessonas i métodos.
+
+[[SEE]] i [[PSEE]] son ls ambientes buoltados al zambolbimiento i manutençon de
+porcessos. L porjeto [[SPSEE]] ye ua cuntinaçon de ls studos de porcessos, percipalmente
+de l'ambiente [[PSEE]].
+
+Debido al uso de la palabra porjeto an muitos cuntestos, por questones de clareza, hai bezes an que se prefira ousar l'ouriginal an anglés [[zeign]].
+
+=== [[Modelos de porcesso de software]] ===
+Un modelo de [[porcesso de zambolbimiento de software]], ó simplesmente modelo de porcesso, puode ser bisto cumo ua repersentaçon, ó abstraçon de ls
+oubjetos i atebidades ambolbidas ne l porcesso de software. Para alhá desso, ouferece ua forma
+mais abrangente i fácele de repersentar l gerenciamiento de porcesso de software i
+por bias desso l progresso de l porjeto.
+
+Eisemplos d'alguns modelos de porcesso de software;
+
+* [[Modelos ciclo de bida]]
+* Sequencial ó [[Modelo an cascata|Cascata]] (de l'anglés ''waterfall'') - cun fases çtintas de specificaçon, porjeto  i zambolbimiento.
+* [[Zambolbimiento iteratibo i ancremental]] - zambolbimiento ye ampeçado cun un subconjunto simples de [[Requesitos de Software]] i iteratibamente alcança eiboluçones susequentes de las bersones até l sistema to star amplementado
+* Eibolucional ó [[Prototipaçon]] - especificaçon, porjeto i zambolbimiento de [[Protótipo|protótipos]].
+* B-Model - Parecido cul modelo cascata, mas cun ua ourganizaçon melhor, que permite que se cumpare cun outros modelos mais modernos.
+* [[Modelo an spiral|Spiral]] - eiboluçon atrabeç de bários ciclos cumpletos de specificaçon, porjeto i zambolbimiento.
+* Cumponentizado - reuso atrabeç de montaige de cumponentes yá eisistentes.
+* Formal - amplementaçon a partir de modelo matemático formal.
+* [[Zambolbimiento ágil de software|Ágil]]
+* [[Rapid Application Debelopment|RAD]]
+* Quarta geraçon.
+
+=== Modelos de maturidade ===
+Ls modelos de maturidade son un metamodelo de porcesso. Eilhes surgiran para abaluar la culidade de ls porcessos de ''software'' aplicados nua ourganizaçon (ampresa ó anstituiçon). L mais coincido ye l ''Capabelity Maturity Model Antegration'' ('''[[CMMI|CMMi]]'''), de l [[Software Anginering Anstitute|Software Anginering Anstitute - SEI]].
+
+L CMMi puode ser ourganizado atrabeç de dues formas: Cuntínua i stagiada.
+Pul modelo estagiado, mais tradecional i mantendo cumpatibelidade cul CMM, ua ourganizaçon puode tener sue maturidade medida an 5 nibles:
+* Níbel 1 - Caótico;
+* Níbel 2 - Capacidade de repetir sucessos anteriores pul acumpanhamiento de custos, cronogramas i funcionalidades;
+* Níbel 3 - L porcesso de software ye bien defenido, decumentado i padronizado;
+* Níbel 4 - Rializa ua geréncia quantitatiba de l porcesso de software i de l perduto;
+* Níbel 5 - Usa l'anformaçon quantitatiba para melhorar cuntinamente i gerenciar l porcesso de software. Até márcio/2012, ne l Brasil, hai solamente 13 ampresas neste nible.<ref>Washington Souza, Lista d'ampresas CMMI ne l brasil (2012), Site brasileiro BlogCMMI.</ref>
+
+L CMMi ye un modelo de maturidade recentemente criado cul fin d'agrupar las defrentes formas d'outelizaçon que fúrun dadas al sou predecessor, l [[CMM]].
+
+L ('''[[MPS.BR]]'''),  ó Melhorie de Porcessos de l Software Brasileiro, ye a la par un mobimiento pa la melhorie i un modelo de culidade de porcesso buoltada pa la rialidade de l mercado de pequeinhas i médies ampresas de zambolbimiento de software ne l Brasil. L MPS.BR cuntempla 7 nibles de maturidade, de La la G, sendo la purmeira l mais maduro. Até agosto/2012, ne l Brasil, hai solamente 2 ampresas neste nible.<ref>Washington Souza, Lista d'ampresas MPS.BR ne l Brasil (atualizado: ago-12), Site BlogCMMI.</ref>
+
+== Metodologies i métodos ==
+L termo [[Metodologie (angenharie de software)|metodologie]] ye bastante cuntroberso nas ciéncias an giral i na Angenharie de Software an particular. Muitos outores parécen tratar [[metodologie]] i [[método]] cumo sinónimos, mas serie mais adequado dezir qu'ua metodologie ambolbe percípios filosóficos que guian ua gama de métodos qu'outelizan ferramientas i práticas defrenciadas para rializar algo.<ref>Beija mais detalhes an [[Metodologie (angenharie de software)]]</ref>
+
+Assi teríamos, por eisemplo, la [[Metodologie Struturada]], na qual eisisten bários métodos, cumo [[Análeze Struturada]] i [[Porjeto Estruturado]] (muitas bezes chamados [[SA/SD]], i [[Análeze Eissencial]]). 
+Dessa forma, tanto la [[Análeze Struturada]] quanto la [[Análeze Eissencial]] outelizan la ferramienta [[Diagrama de Fluxos de Dados]] para modelar l funcionamiento de l sistema. 
+
+Segue ambaixo las percipales Metodologies i Métodos correspondentes ne l zambolbimiento de software: 
+
+* Metodologie Struturada
+** [[Análeze Estruturada]]
+** [[Porjeto Struturado]]
+** [[Porgramaçon Estruturada]]
+** [[Análeze Eissencial]]
+** [[SADT]]
+** [[DFD]] - Diagrama de Fluxo de Dados
+** MER - [[Modelo de Antidades i Relacionamientos]]
+* Metodologie Ourientada la Oubjetos
+** [[Ourientaçon la Oubjetos]]
+** [[Rational Unified Process]] ( RUP )
+* [[Zambolbimiento ágil de software]]
+** [[Feature Driben Debelopment]] ( FDD )
+** [[Enterprise Unified Process]] (EUP)
+** [[Scrun]] (Scrun)
+** [[Crystal (metodologie)|Crystal]] (Crystal Clear, Crystal Ourange, Crystal Ourange Web)
+** [[Porgramaçon strema]] ( XP )
+* Outras Metodologies
+** [[Microsoft Solution Framework]] ( MSF )
+
+=== Modelaige ===
+L'abstraçon de l sistema de ''software'' atrabeç de modelos que l çcriben ye un poderoso strumiento pa l'antendimiento i quemunicaçon de l perduto final que será zambolbido. 
+
+La maior deficuldade nesta atebidade stá ne l'eiquilíbrio (''tradeoff'') antre simplicidade (faborecendo la quemunicaçon) i la cumplexidade (faborecendo la percison) de l modelo.
+
+Pa la modelaige podemos citar 3 métodos:
+* [[Análeze struturada]], criada por Gane & Searson;
+* [[Análeze Eissencial]], criada por Palmer & McMenamin i Ed. Yourdon;
+* [[UML]], criada por Grady Boch, Ibar Jacobson & Jaimes Rumbaugh. Ye hoije l método mais quemun pa l [[paradigma ourientado a oubjetos]].
+
+== Ferramientas, tecnologies i práticas ==
+La '''angenharie de software''' aborda ua série de práticas i tecnologies, percipalmente studadas pula [[ciéncia de la cumputaçon]], anfocando sou ampato na pordutebidade i culidade de ''software''.
+
+Çtacan-se l studo de [[lenguaige de porgramaçon]], [[banco de dados]] i [[paradigma de porgramaçon|paradigmas de porgramaçon]], cumo:
+
+* [[Porgramaçon struturada]] 
+* [[Porgramaçon funcional]]
+* [[Porgramaçon ourientada a oubjetos]]
+* [[Cumponentes de Software]]
+* [[Porgramaçon ourientada a aspeto]]
+
+=== Ferramientas ===
+Outro punto amportante ye l'uso de [[Ferramienta CASE|ferramientas '''CASE''']] (de l'anglés ''Cumputer-Aided Software Anginering''). Essa classeficaçon abrange to ferramienta baseada an cumputadores qu'auxelian atebidades d'angenharie de ''software'', zde l'análeze de requesitos i modelaige até porgramaçon i testes.
+
+Ls [[Ambiente de Zambolbimiento Antegrado|ambientes de zambolbimiento antegrado]] ('''IDEs''') ténen maior çtaque i suportan, antre outras cousas:
+
+* [[Eiditor]]
+* [[Cumpilador]]
+* [[Debug]]
+* [[Geraçon de código]]
+* [[Modelaige]]
+* [[Deploy]]
+* [[Testes nun outomatizados]]
+* [[Testes outomatizados]]
+* [[Refatoraçon]] (''Refatoring'')
+* [[Geston de Riscos ne ls porjetos de Software]]
+* [[Uso de la Prototipaige na Ang. de Requesitos]]
+
+== Geréncia de porjetos ==
+La [[geréncia de porjetos]] se preocupa an antregar l sistema de ''software'' ne l prazo i d'acuordo culs requesitos stablecidos, liebando an cunta siempre las lemitaçones d'ourçamiento i tiempo. 
+
+La geréncia de porjetos de software se carateriza por tratar subre un perduto antangible, mui flexible i cun porcesso de zambolbimiento cun baixa padronizaçon.
+
+=== Planeijamiento ===
+L planeijamiento dun porjeto de zambolbimiento de ''software'' anclui:
+
+* Análeze Eiquenómica de Sistemas de Anformaçones
+* ourganizaçon de l porjeto (ancluindo eiquipes i respunsabelidades)
+* struturaçon de las tarefas (de l'anglés WBS - ''[[work breakdown struture]]'')
+* cronograma de l porjeto (de l'anglés ''porjet schedule'')
+* análeze i geston de risco
+* stimatiba de custos
+
+Essas atebidades sofren cun deficuldades típicas de zambolbimiento de ''software''. La pordutebidade nun ye linear an relaçon al tamanho de l'eiquipe i l'oumiento de pordutebidade nó ye eimediato debido als custos de daprendizado de nuobos nembros. La diminuiçon de culidade para acelerar l zambolbimiento custantemente prejudica feturamente la pordutebidade.
+
+La stimatiba de deficuldades i custos de zambolbimientos son mui defíceles, para alhá de l surgimiento de porblemas técnicos. Esses fatores requíren ua análeze de riscos cuidadosa.
+
+Para alhá de la própia eidantificaçon de ls riscos, hai que tener an cunta la sue geston. Seia eibitando, seia resolbendo, ls riscos necessitan ser eidantificados (stimando l sou ampato) i dében ser criados prainos para resoluçon de porblemas.
+
+=== Análeze de requesitos ===
+Las atebidades d'análeze cuncentran-se na eidantificaçon, specificaçon i çcriçon de ls [[Porcesso de Angenharie de Requesitos|requesitos]] de l sistema de ''software''. An resumo, requesito ye ua necidade que l ''software'' debe cumprir.
+
+Hai bárias anterpretaçones i classeficaçones subre requesitos, antre eilhas:
+
+* funcional 
+* nun funcional
+* d'usuairo 
+* de sistema
+
+Ye quemun que l cliente nó saba l qu'el rialmente zeia, qu'haba porblemas na quemunicaçon i inda qu'haba mudança custante de requesitos. Todos esses fatores son recrudescidos pula antangibelidade subre caratelísticas de sistemas de ''software'', percipalmente subre l custo de cada requesito.
+
+* Studo de Biabelidade (Liebantamiento de Requesitos)
+
+La Angenharie de requesitos ye un porcesso qu'ambolbe todas las atebidades eisigidas para criar i manter l decumiento de requesitos de sistema (SOMMERBILLE). Segundo RUMBAUGH, alguns analistas cunsidran l'angenharie de Requesitos cumo un porcesso d'aplicaçon dun método strutura cumo l'análeze ourientada a oubjetos. Inda assi, la Angenharie de requesitos ten mui mais aspetos de l que ls que stan abordados por esses métodos.
+
+Ambaixo un pequeinho Porcesso de Angenharie de Requesitos (SOMMERBILLE).
+
+Studo de la biabelidade → "Relatório de Biabelidade"
+Oubtençon i Análeze de Requesitos → "Modelos de Sistema"
+Specificaçon de Requesitos → "Requesitos de Usuário i de Sistema"
+Balidaçon de Requesitos → "Decumiento de Requesitos"
+
+L purmeiro porcesso a ser rializado nun Sistema nuobo ye l Studo de Biabelidade. Ls resultados deste porcesso dében ser un relatório culas recomendaçones de la biabelidade técnica ó nun de la cuntenidade ne l zambolbimiento de l Sistema proposto. Basicamente un studo de biabelidade, ambora seia normalmente rápido, deberá abordar fundamentalmente las seguintes questones:
+
+* L Sistema proposto cuntribui pa ls oubjetibos gerales de l'ourganizaçon?
+* L Sistema poderá ser amplementado culas tecnologies dominadas pula eiquipe drento de las restriçones de custo i de prazo? Ó percisa de treinamientos adicionales?
+* L Sistema puode ser antegrado, i ye cumpatible culs outros sistemas yá an ouparaçon?
+
+=== Geston ===
+Eesisten cinco tipo de gestones: pessonal, perduto, porcesso, porjeto i material.
+
+== Stórico ==
+La Angenharie de Software (ES) surgiu an meados de ls anhos [[1970]] nua tentatiba de cuntornar la crise de l [[software]] i dar un tratamiento de [[angenharie]] (mais sistemático i cuntrolado) al zambolbimiento de sistemas de software cumplexos. Un sistema de software cumplexo se carateriza por un cunjunto de cumponentes abstratos de software ([[strutura de dados|struturas de dados]] i [[algoritmo]]s) ancapsulados na forma de procedimientos, [[funçones]], [[módulo dun porgrama|módulos]], [[oubjeto]]s ó [[agentes]] anterconetados antre si, cumpondo l'arquitetura de l software, que debiran ser eisecutados an [[sistemas cumputacionales]].
+
+== ES ne l persente i tendéncias ==
+Atualmente eisiste un çtaque to special pa la Angenharie de Software na Web. Tamien outelizado por [[Roger Pressman|Presmann]] la sigla WebE, ye l porcesso ousado para criar [[Aplicaçon Web|WebApps]] (aplicaçones baseadas na Web) d'alta culidade. Ambora ls percípios básicos de la WebE séian mui próssimos de la Angenharie de Software clássica, eisisten peculiaridades specíficas i própias.
+
+Cul adbento de l B2B ([[i-business]]) i de l B2C ([[i-commerce]]), i inda mais cun aplicaçones pa la [[Web 2.0]], maior amportança quedou sendo esse tipo d'angenharie. Normalmente adotan ne l zambolbimiento l'arquitetura [[MBC]] (Model-Biew-Cuntroller).
+
+Outra ária de tendéncia an Angenharie de Software trata de l'aplicaçon de técnicas outimizaçon matemática pa la resoluçon de dibersos porblemas de la ária. La ária, chamada [[Search-based software anginering]], ó [[Outimizaçon an angenharie de software]] an Pertués, apersenta bários resultados antressantes.<ref>HARMAN, M., JONES, B.F., Search-based software anginering, Anformation and Software Technology, 2001, pp. 833-839.</ref> Para mais detalhes an Pertués, ber testo cun [http://goesuece.yolasite .com/resources/Search-based%20Software%20Enginering%20-%20Aplicaçon%20de%20Metaheurísticas%20en%20Problemas%20da%20Engenharie%20de%20Software%20Rebison%20de%20Literatura%20%28Otimizaçon%20en%20Engenharie%20de%20Software%292.pdf aplicaçones de l'outimizaçon an angenharie de software].<ref>FREITAS, F.G., MAIA, C.L.B., COUTINHO, D.P., CAMPOS, G.La.L., SOUZA, J.T., [http://goesuece.yolasite .com/resources/Search-based%20Software%20Enginering%20-%20Aplicaçon%20de%20Metaheurísticas%20en%20Problemas%20da%20Engenharie%20de%20Software%20Rebison%20de%20Literatura%20%28Otimizaçon%20en%20Engenharie%20de%20Software%292.pdf Aplicaçon de Metaheurísticas an Porblemas de la Angenharie de Software: Rebison de Literatura], II Cungresso Tecnológico Anfobrasil, 2009,</ref>
+
+L Brasil atualmente cunta cun seis cursos de nible superior an Angenharie de Software nas seguintes anstituiçones reconhecidas pul [[MEC]]: [[UnB]], [[UFRN]], [[Ounibersidade Federal de l Ceará]], [[Ounibersidade Federal de Goiás]], [[Ounibersidade de Riu Berde]] i [[Unipampa]].<ref>emec.mec.gob.br</ref>
+
+{{Refréncias}}
+
+== Bibliografie ==
+* MAGELA, Rogerio. Angenharie de Software Aplicada: Percípios  (belume 1). Alta Books. 2006.
+* MAGELA, Rogerio. Angenharie de Software Aplicada: Fundamientos (belume 2). Alta Books. 2006.
+* {{refréncia a libro|Outor=MOLINARI, Leonardo|Títalo=Geréncia de Cunfiguraçon - Técnicas i Práticas ne l Zambolbimiento de l Software|Eiditora=Bisual Books|Anho=2007|Local de publicaçon=Florianópolis|ID=85-7502-210-5}}
+* PRESSMAN, Roger. Software Anginering: La Pratitioner's Approach, 6ªeidiçon, Mc Graw Hill, 2005.
+* [http://www.eiditoraixtlan .com/libros.htn''ANÁLISE ECONÓMICA DE SISTEMAS DE INFORMAÇÕES.''] (ISBN 978-85-909374-7-0) Eiditora Ixtlan. Outor : ''Sergio Kaminski.'' Comentairo: ''Mostra todas las etapas de zambolbimiento de l software, relacionando al lucro,receita i custo.''
+
+== Ber tamien ==
+{{Portal d'angenharie}}
+{{portal|Portal=[[Portal:Tecnologies d'anformaçon|Portal de las tecnologies d'anformaçon]]}}
+* [[Zambolbimiento de software]]
+* [[Culidade de software]]
+* [[Arquitetura de dados]]
+* [[Software Anginering Body of Knowledge]]
+* [[Análeze eiquenómica de sistemas d'anformaçones]]
+* [[Matriç CRUD]]
+* [[Outimizaçon an angenharie de software]]
+* [[Praxis (angenharie de software)|Praxis]] - Porcesso de zambolbimiento de software cun anfoque eiducacional
+
+== Ligaçones sternas ==
+* [http://www.amprobeit .com.br/podcast Podcasts (an pertués) subre árias d'antresse de la Angenharie de Software] CMMI, MPS.BR, Scrun, Streme Porgramming i Lean Software Debelopment
+* [http://www.carercast .com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Angenharie apuntada cumo melhor profisson de ls Stados Ounidos an 2012
+
+[[Catadorie:Angenharie de software| ]]
+[http://www.carercast .com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Angenharie apuntada cumo melhor profisson de ls Stados Ounidos an 2012
+
+[[Catadorie:Angenharie de software| ]]
+[http://www.carercast .com/jobs-rated/10-best-jobs-2012 The 10 Best Jobs of 2012] {{en}} - Angenharie apuntada cumo melhor profisson de ls Stados Ounidos an 2012
+
+[[Catadorie:Angenharie de software| ]]
