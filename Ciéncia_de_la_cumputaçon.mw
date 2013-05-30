@@ -1,7 +1,7 @@
 {{Ber zambig|prefixo=Se percura|la ramificaçon de la ciéncia de la cumputaçon|Teorie de la cumputaçon|prefixo=Se percura|l termo giral|Cumputaçon|}}
 {{Mais notas|data=nobembre de 2010}}
-<dib class="thumb tright">
-<dib class="thumbinner" style="width:200px;">
+<div class="thumb tright">
+<div class="thumbinner" style="width:200px;">
 {| style="border:1px solid #cc;"
 |-
 | [[Fexeiro:Lambda lc.sbg|94px|alt=Lambda maiúscila|Teorie de lenguaige de porgramaçon|link=Teorie de lenguaige de porgramaçon]]
@@ -10,9 +10,9 @@
 | [[Fexeiro:Utah teapot simple 2.png|94px|alt=Utah teapot repersenting cumputer graphics|Cumputaçon gráfica|link=Cumputaçon gráfica]]
 | [[Fexeiro:3-Tastenmaus Microsoft.jpg|94px|alt=Mouse Microsoft Tastenmaus repersentando l'anteraçon houmano-cumputador|Anteraçon houmano-cumputador|link=Anteraçon houmano-cumputador]]
 |}
-<dib class="thumbcation">La ciéncia de la cumputaçon lida cun fundamientos teóricos de l'anformaçon, cumputaçon, i técnicas práticas para sues amplementaçones i aplicaçones.</dib>
-</dib>
-</dib>'''Ciéncia de la cumputaçon''' ye l studo de ls [[algoritmo]]s, sues aplicaçones i de sue amplementaçon, na forma de [[software]], para eisecuçon an cumputadores eiletrónicos.
+<div class="thumbcation">La ciéncia de la cumputaçon lida cun fundamientos teóricos de l'anformaçon, cumputaçon, i técnicas práticas para sues amplementaçones i aplicaçones.</div>
+</div>
+</div>'''Ciéncia de la cumputaçon''' ye l studo de ls [[algoritmo]]s, sues aplicaçones i de sue amplementaçon, na forma de [[software]], para eisecuçon an cumputadores eiletrónicos.
 
 Zampenha un papel amportante, na ária de ciéncia de la cumputaçon, la formalizaçon matemática d'algoritmos, cumo forma de repersentar porblemas decidibles, i.i., ls que son suscetibles de reduçon l'ouparaçones eilementares básicas, capazes de séren reproduzidas atrabeç dun qualquiera çpositibo macánico/eiletrónico capaç d'armazenar i manipular dados. Un destes çpositibos ye l [[cumputador digital]], d'uso generalizado, ne ls dies d'hoije. Tamien de fundamental amportança pa la ária de ciéncia de la cumputaçon son las metodologies i técnicas ligadas a l'amplementaçon de software qu'abordan la specificaçon, modelaige, codificaçon, teste i abaluaçon de sistemas de software.
 
