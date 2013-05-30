@@ -1,0 +1,318 @@
+{{Ber zambig|prefixo=Se percura|la ramificaçon de la ciéncia de la cumputaçon|Teorie de la cumputaçon|prefixo=Se percura|l termo giral|Cumputaçon|}}
+{{Mais notas|data=nobembre de 2010}}
+<dib class="thumb tright">
+<dib class="thumbinner" style="width:200px;">
+{| style="border:1px solid #cc;"
+|-
+| [[Fexeiro:Lambda lc.sbg|94px|alt=Lambda maiúscila|Teorie de lenguaige de porgramaçon|link=Teorie de lenguaige de porgramaçon]]
+| [[Fexeiro:Sorting quicksort anin frame.png|94px|alt=Algoritmo d'ourdenaçon QuickSort|Teorie de la cumplexidade|link=Teorie de la cumplexidade]]
+|-
+| [[Fexeiro:Utah teapot simple 2.png|94px|alt=Utah teapot repersenting cumputer graphics|Cumputaçon gráfica|link=Cumputaçon gráfica]]
+| [[Fexeiro:3-Tastenmaus Microsoft.jpg|94px|alt=Mouse Microsoft Tastenmaus repersentando l'anteraçon houmano-cumputador|Anteraçon houmano-cumputador|link=Anteraçon houmano-cumputador]]
+|}
+<dib class="thumbcation">La ciéncia de la cumputaçon lida cun fundamientos teóricos de l'anformaçon, cumputaçon, i técnicas práticas para sues amplementaçones i aplicaçones.</dib>
+</dib>
+</dib>'''Ciéncia de la cumputaçon''' ye l studo de ls [[algoritmo]]s, sues aplicaçones i de sue amplementaçon, na forma de [[software]], para eisecuçon an cumputadores eiletrónicos.
+
+Zampenha un papel amportante, na ária de ciéncia de la cumputaçon, la formalizaçon matemática d'algoritmos, cumo forma de repersentar porblemas decidibles, i.i., ls que son suscetibles de reduçon l'ouparaçones eilementares básicas, capazes de séren reproduzidas atrabeç dun qualquiera çpositibo macánico/eiletrónico capaç d'armazenar i manipular dados. Un destes çpositibos ye l [[cumputador digital]], d'uso generalizado, ne ls dies d'hoije. Tamien de fundamental amportança pa la ária de ciéncia de la cumputaçon son las metodologies i técnicas ligadas a l'amplementaçon de software qu'abordan la specificaçon, modelaige, codificaçon, teste i abaluaçon de sistemas de software.
+
+Ls studos ouriundos de la ciéncia de la cumputaçon puoden ser aplicados an qualquiera ária de l [[coincimiento houmano]] an que seia possible defenir métodos de resoluçon de porblemas baseados an repetiçones prebiamente ouserbadas. Abanços recentes na ciéncia de la cumputaçon ten ampatado fuortemente la sociadade cuntemporánea, an particular las aplicaçones relacionadas a las árias de redes de cumputadores, Anterneta, Web i cumputaçon moble que ténen sido outelizadas por bilhones de pessonas al redror de l globo.
+
+== Stória de la cumputaçon==
+{{Artigo percipal|Stória de la cumputaçon}}
+[[Fexeiro:Kugleramme.jpg|thumb|right|150px|L [[ábaco]], purmeira ferramienta de cumputaçon, an sue forma moderna]]
+La purmeira ferramienta coincida pa la cumputaçon fui l [[ábaco]]<ref name=ifrah>{{Citar libro|url= |outor=IFRAH, Georges|títalo=The Ounibersal Story of Cumputing|subtítulo= |léngua=anglés |eidiçon= |local=Nuoba York |eiditora=John Wiley & Sonidos|anho=2001|páiginas=|belumes= |belume= |id=ISBN 0-471-39671-0}}</ref>, cuja ambençon ye atribuída a habitantes de la [[Mesopotámia]], an torno de [[2700 a.C.|2700]]–[[2300 a.C.]]. Sou uso ouriginal era zenhar linhas na [[arena]] cun peinhas. Bersones mais modernas de l ábaco inda son ousadas cumo strumiento de cálclo.
+
+Ne l seclo VII a.C., na [[stória de la Índia|antiga Índia]], l gramático [[Pāneni]] formulou la gramática de [[Sánscrito]] usando 3959 regras coincidas cumo [[Ashtadhyāyi]], de forma bastante sistemática i técnica. Pāneni usou trasformaçones i recursebidade cun tamanha sofisticaçon que sue gramática possuía l poder cumputacional teórico tal qual la [[Máquina de Turing]].
+
+Antre [[200 a.C.]] i [[400]], ls andianos tamien ambentórun l [[logaritmo]], i cobrar de l [[seclo XIII]] tabelas logarítmicas éran porduzidas por matemáticos [[Eislon|eislámicos]]. Quando [[John Napier]] çcubriu ls logaritmos para uso cumputacional ne l [[seclo XVI]]<ref name=ifrah />, seguiu-se un período de cunsidrable progresso na custruçon de ferramientas de cálclo.
+
+[[Fexeiro:Al-Khwarizmi.jpg|thumb|[[Al-Khwarizmi]] ]]
+
+=== Algoritmos ===
+Ne l seclo VII, l matemático andiano Brahmaguta splicou pula purmeira beç l sistema de numeraçon hindu-arábico i l'uso de l [[0]]. Aprossimadamente an 825, l matemático persa [[al-Khwarizmi]] screbiu l libro ''Calculando cun numerales hindus'', respunsable pula difuson de l sistema de numeraçon hindu-arábico ne l Ouriente Médio, i mais tarde na Ouropa. Por buolta de l seclo XII houbo ua traduçon de l mesmo libro pa l latin: ''Algoritmi de numero Andorun''. Tales libros apersentórun nuobos cunceitos para defenir sequéncias de passos para cumpletar tarefas, cumo aplicaçones d'aritmética i álgebra. Por deribaçon de l nome de l matemático, atualmente usa-se l termo algoritmo.
+
+=== Lógica binária ===
+Por buolta de l seclo III a.C., l matemático andiano [[Pingala]] ambentou l [[Sistema binairo (matemática)|sistema de numeraçon binairo]]. Inda ousado atualmente ne l processamiento de todos cumputadores modernos, l sistema stablece que sequéncias specíficas duns i zeros puoden repersentar qualquiera anformaçon.
+
+An [[1703]] [[Gottfried Leibniç]] zambolbiu la [[lógica matemática|lógica]] nun sentido formal i matemático, outelizando l sistema binairo. An sou sistema, uns i zeros tamien repersentan cunceitos cumo berdadeiro i falso, ligado i çligado, bálido i ambálido. Mais dun seclo depuis, [[George Vole]] publicou la [[álgebra boleana]] (an [[1854]]), cun un sistema cumpleto que permitie la custruçon de modelos matemáticos pa l processamiento cumputacional. An [[1801]], apareciu l [[telar]] cuntrolado por [[carton perfurado]], ambençon de [[Joseph Marie Jacquard]], ne l qual buracos andicában ls uns i, árias nun furadas, andicában ls zeros. L sistema stá loinge de ser un cumputador, mas eilustrou que las máquinas poderien ser cuntroladas pul sistema binairo.
+
+=== Angeinho analítico ===
+[[Fexeiro:Ada Lobelace.jpg|thumb|right|150px|[[Ada Lobelace]], purmeira [[porgramador]]la.]]
+Fui cun [[Charles Babbage]] que l cumputador moderno ampeçou a ganhar forma, atrabeç de sou trabalho ne l [[angeinho analítico]]. L'eiquipamiento çcrito ouriginalmente an [[1837]], mais dun seclo antes de sou sucessor, nunca fui custruído cun sucesso, mas possuía todas las funçones dun cumputador moderno. L çpositibo de Vabbage se defrenciaba por ser porgramable, algo amprescindible para qualquiera cumputador moderno.
+
+Durante sue colaboraçon, la matemática [[Ada Lobelace]] publicou ls purmeiros [[porgrama de cumputador|porgramas de cumputador]] nua série de notas pa l'angeinho analítico<ref>{{citar jornal | ultimo = Huskey | purmeiro = Belma R. | coautores = Huskey, Harry D. | anho = 1980 | mes = Outubre | titulo = Lady Lobelace and Charles Babbage | jornal = Annals of The Story of Cumputing | belume = 2 | númaro = 4 | paginas = 384 | eiditora = Amarican Federation of Anformation Processing Societies | local = Arlington, BA | issn = 1058-6180
+ | léngua = anglés }}</ref>. Por esso, Lobelace ye popularmente cunsidrada cumo la purmeira [[porgramador]]la.
+
+=== Nacimiento de la ciéncia de la cumputaçon ===
+Antes de la [[década de 1920]], ''cumputador'' era un termo associado la pessonas que rializában cálclos, giralmente liderados por físicos. Miles de cumputadores éran ampregados an porjetos ne l comércio, gobierno i sítios de pesquisa. Passado la década de 1920, la spresson ''máquina cumputacional'' ampeçou a ser ousada para referir-se la qualquiera máquina que rialize l trabalho dun profissional, specialmente aqueilhas d'acuordo culs métodos de la [[Tese de Church-Turing]].
+
+L termo ''máquina cumputacional'' acabou perdendo spácio pa l termo reduzido ''cumputador'' ne l final de la [[década de 1940]], culas máquinas digitales cada beç mais difundidas. [[Alan Turing]], coincido cumo pai de la ciéncia de la cumputaçon, ambentou la [[Máquina de Turing]], que mais tarde eiboluiu pa l cumputador moderno.
+
+=== Trabalho teórico ===
+Ls fundamientos matemáticos de la ciéncia de la cumputaçon moderna ampeçórun a ser defenidos por [[Kurt Gödel]] cun sou [[Teorema de l'ancumpletude de Gödel|teorema de l'ancumpletude]] ([[1931]]). Essa teorie mostra qu'eisisten lemites ne l que puode ser probado ó zaprobado nun sistema formal; esso lebou a trabalhos posteriores por Gödel i outros teóricos para defenir i çcrebir tales sistemas formales, ancluindo cunceitos cumo [[Recursebidade (ciéncia de la cumputaçon)|recursebidade]] i [[cálclo lambda]].
+
+An [[1936]] [[Alan Turing]] i [[Alonzo Church]] andependientemente, i tamien juntos, antroduziran la formalizaçon dun algoritmo, defenindo ls lemites de l que puode ser cumputador i un modelo puramente macánico pa la cumputaçon. Tales tópicos son abordados ne l qu'atualmente chama-se [[Tese de Church-Turing]], ua heipótese subre la natureza de çpositibos macánicos de cálclo. Essa tese define que qualquiera cálclo possible puode ser rializado por un algoritmo sendo eisecutado nun cumputador, zde qu'haba tiempo i armazenamiento suficiente para tal.
+
+[[Fexeiro:Turing Machine.png|thumb|left|150px|Repersentaçon bisual de la [[Máquina de Turing]]]]
+Turing tamien ancluiu na tese ua çcriçon de la [[Máquina de Turing]], que ten ua fita de tamanho anfenito i un cabeçote para leitura i scrita que mobe-se pula fita. Debido al sou caráter anfenito, tal máquina nun puode ser custruída, mas tal modelo puode simular la cumputaçon de qualquiera algoritmo eisecutado nun cumputador moderno. Turing ye bastante amportante pa la ciéncia de la cumputaçon, tanto que sou nome ye ousado pa l [[Prémio Turing]] i l [[teste de Turing]]. El cuntribuiu pa las quebras de código de la [[Grana-Bretanha]]<ref name=god>{{Citar libro|url= |outor=METROPOLIS, N. (ed.);HOWLETT, J.(ed.);ROTA, Gian-Carlo(ed.);GOOD, I. J.(Cuntribuidor)|títalo=La Story of Cumputing in the Twentieth Century|subtítulo= |capítulo=Pionering Work on Cumputer at Bletchley |léngua=anglés |eidiçon= |local=Nuoba York |eiditora=Academic Press|anho=1980|páiginas=31-45|belumes= |belume= |id=ISBN 0-12-491650-3}}</ref> na [[Segunda Guerra Mundial]], i cuntinou a porjetar cumputadores i porgramas de cumputador pula [[década de 1940]]; cometiu suicídio an [[1954]].<ref>{{Refréncia a libro|outor=COPELAND, B. Jack (Eiditor)|títalo=The Essential Turing|subtítulo=The Eideas that Gabe Birth to the Cumputer Age|léngua=|eidiçon=|local=Oxford|eiditora=Clarendon Press, Oxford|anho=2004|páiginas=613|belumes=|belume=|ID={{ISBN|0-19-825079-7}}}}</ref><ref>{{Refréncia a libro|outor=STRATHERN, Paul|títalo=The Big Eidea: Turing & the Cumputer|subtítulo=|léngua=|eidiçon=|local=London|eiditora=Arrow|anho=1997|páiginas=95|belumes=|belume=|ID={{ISBN|0-09-923782-2}}}}</ref>.
+
+=== Shannon i la teorie de l'anformaçon ===
+Até la [[década de 1930]], angenheiros eiletricistas podien custruir circuitos eiletrónicos para resulber porblemas lógicos i matemáticos, mas la maiorie l fazie sin qualquiera porcesso, de forma particular, sin rigor teórico para tal. Esso mudou cula tese de mestrado de [[Claude Shannon]] de 1937, ''La Symbolic Analysis of Relay and Switching Circuits''. Anquanto tomaba aulas de Filosofie, Shannon fui sposto al trabalho de George Bole, i percebiu que poderie aplicar esse daprendizado an cunjuntos eiletro-macánicos para resulber porblemas. Shannon zambolbiu la [[teorie de l'anformaçon]] ne l'artigo de [[1948]]: ''La Mathematical Theory of Communication''<ref name=shannon>{{Citar libro|url= |outor=SHANNON, Claude I.; WEABER, Warren |títalo=The Mathematical Theory of Communication|subtítulo= |léngua=anglés |eidiçon= |local=Eillinois |eiditora=The University of Eillinois Press (Illeni books)|anho=1949 |páiginas=3-91 |belumes= |belume= |id=Library of Cungress Catalog Card Nº 49-11922}}</ref>, cujo cuntenido sirbe cumo fundamiento para árias de studo cumo [[cumpresson de dados]] i [[critografie]].<ref name=breton>{{Citar libro|url= |outor=BRETON, Phelippe|titulo=Stória de la Anformática|subtítulo= |léngua= |eidiçon= |local=San Paulo |eiditora=UNESP|anho=1991 |páiginas=52-55 |belumes= |belume= |id=ISBN 85-7139-021-5}}</ref>
+
+== Rializaçones pa la sociadade ==
+Anque sue pequeinha stória anquanto ua deciplina académica, la ciéncia de la cumputaçon dou ourige la dibersas cuntribuiçones fundamentales pa la [[ciéncia]] i pa la [[sociadade]]. Esta ciéncia fui respunsable pula defeniçon formal de [[cumputaçon]] i [[cumputabelidade]], i pula proba de l'eisisténcia de [[Porblema de la parada|porblemas ansolúbeis]] ó antratables cumputacionalmente.<ref name="rializaçones i zafios">{{citar web
+|outor=Custable, R.L.
+|data=Márcio de [[2000]]
+|url=http://www.cs.cornell.edu/cis-dean/bgu.pdf
+|titulo=Cumputer Science: Achiebements and Challenges circa 2000
+|lengua=[[Léngua anglesa|anglés]]
+}}
+</ref> Tamien fui possible la custruçon i formalizaçon de l cunceito de [[lenguaige de cumputador]], subretodo [[lenguaige de porgramaçon]], ua ferramienta pa la spresson percisa d'anformaçon metodológica flexible l suficiente para ser repersentada an dibersos nibles d'abstraçon.<ref>
+{{Refréncia a libro
+ | Outor = Hal Abelson, G.J. Sussman, J.Sussman
+ | Títalo = Struture and Anterpretation of Cumputer Porgrams
+ | Subtítulo = 
+ | Eidiçon = 2
+ | Local de publicaçon = 
+ | Eiditora = MIT Press
+ | Anho = 1996
+ | Páiginas = 
+ | Belumes = 
+ | Belume = 
+ | ID = ISBN 0-262-01153-0
+}}
+</ref>
+
+Para outros campos científicos i pa la sociadade de forma giral, la ciéncia de la cumputaçon forneciu suporte pa la [[Reboluçon Digital]], dando ourige la [[Era de la Anformaçon]].<ref name="rializaçones i zafios" /> La cumputaçon científica ye ua ária de la cumputaçon que permite l'abanço de studos cumo l mapeamiento de l genoma houmano (ber [[Porjeto Genoma Houmano]]).
+
+== Pessonas notables ==
+Alguas de las pessonas mais amportantes de la cumputaçon fúrun agraciadas cul [[Prémio Turing]].
+
+=== Precursores ===
+* [[Blaise Pascal]], zambolbiu la calculadora macánica i ten sou nome an [[Pascal (lenguaige de porgramaçon)|ua lenguaige de porgramaçon]];
+* [[Charles Babbage]], porjetou un cumputador macánico, la [[angeinho analítico|máquina analítica]];
+* [[Ada Lobelace]], cunsidrada la purmeira pessona (i mulhier) porgramadora, dou nome a la  [[Ada (lenguaige de porgramaçon)|ua lenguaige de porgramaçon]];
+
+=== Pioneiros ===
+{{quote2|ciéncia de la cumputaçon ten tanto a ber cul cumputador cumo l'astronomie cul telescópio, la biologie cul microscópio, ó la química culs tubos d'ansaio. La ciéncia nun studa ferramientas, mas l que fazemos i l que çcubrimos culhas.|citaçon atribuída la [[Edsger Dijkstra]]}}
+
+* [[Alan Turing]], participou de l porjeto [[Colossus]] i fui un de ls cérebros que decifra la [[Enigma]]. Tamien ambentou un tipo teórico de máquina super-simples capaç de rializar qualquiera cálclo dun cumputador digital, la [[Máquina de Turing]]
+* [[John bon Neumann]], çcrebiu l cumputador qu'outeliza un porgrama armazenado an [[mimória de cumputador|mimória]], la [[Arquitetura de bon Neumann]], que ye la base de l'arquitetura de ls cumputadores atuales
+* [[John Backus]], líder de l'eiquipe que criou l [[Fortran]] i criou la notaçon [[BNF]]
+* [[Maurice B. Wilkes]], ambentor de l somador binairo
+* [[Howard Aiken]], ambentor de l [[Mark I]]
+* [[Walter H. Brattain]], ambentor de l [[trasístor]]
+* [[William Shockley]], ambentor de l [[trasístor]]
+* [[John Barden]], ambentor de l [[trasístor]]
+* [[Fred Williams]], ambentor de la [[mimória RAM]]
+* [[Ton Kilburn]], ambentor de la [[mimória RAM]]
+* [[Konrad Zuse]], ambentor andependiente de l cumputador digital i de lenguaiges de porgramaçon na [[Almanha nazista]]
+* [[John Bincent Atanasoff]], possiblemente l'ambentor de l purmeiro cumputador digital, l cumputador de [[Atanasoff-Berry]], ABC
+* [[Clifford I. Berry]], assistente de Atanasoff
+* Almirante [[Grace Hopper]], porgramadora de l Mark I, zambolbiu l purmeiro [[cumpilador]]; purmeira mulhier a recebir un [[Ph.D.]] an matemática
+* [[Edsger Dijkstra]], líder de l [[ALGOL 60]], publicou l'artigo ouriginal subre [[porgramaçon struturada]]
+* [[J. Presper Eckert]], criador de l [[ENIAC]]
+* [[John William Mauchly]], criador de l [[ENIAC]]
+
+=== Personalidades anfluentes ===
+* [[Andrew Stuart Tanenbaun]], pesquisador na ária de [[sistemas ouperacionales]], ambentor de l [[MINIX]]; sous libros-testo son de ls mais referenciados na ária
+* [[Edgar Frank Codd]], ambentor de [[Banco de dados relacional|Banco de dados relacionales]]
+* [[Brian Kernighan]], ambentor de l [[C (lenguaige de porgramaçon)|C]]
+* [[Dennis Ritchie]], ambentor de l C i de l [[Unix]]
+* [[Bjarne Stroustrup]], ambentor de l [[C++]]
+* [[Ken Thompson]], ambentor de l [[Unix]] i de la [[codificaçon de carateres]] [[UTF-8]]
+* [[Peter Chen]], ambentor de l [[Modelo d'antidades i relacionamientos]]
+* [[Donald Knuth|Donald Erbin Knuth]], criador de l [[TeX]], de la [[porgramaçon literária]] i de l'anfluente série (inacabada an 2011) subre algoritmos ''[[The Art of Cumputer Porgramming]]''
+* [[Richard Stallman]], fundador de l porjeto [[GNU]]
+* [[Linus Torbalds]], criador de l núcleo [[Linux (núcleo)|Linux]]
+* [[Alan Kay]], un de ls ambentores de la [[ourientaçon a oubjeto]], tamien cuncebiu l [[latop]] i la [[anterface gráfica de l'outelizador]]
+* [[Stebe Wozniak]] i [[Stebe Jobs]], Criadores de la [[Apple Anc.]], i de l purmeiro cumputador pessonal, l [[Apple I]]
+* [[Bill Gates]] i [[Paul Allen]], Criadores de la [[Microsoft]], l'ampresa que criou l [[Windows]]
+
+== Árias de pesquisa ==
+{{col-begin}}
+{{col-2}}
+=== Fundamientos matemáticos ===
+* [[Álgebra linear]]
+* [[Análeze Eiquenómica de Sistemas de Anformaçones]] - cunsiste an defenir l [[lucro]], [[Receita (eiquenomie)|receita]] i [[custo]], i relacionar todos ls fatores eiquenomicos la porduçon i zambolbimiento de l software
+* [[Cálclo|Cálclo defrencial i antegral]]
+* [[Cálclo numérico]]
+* [[Cumbinatória|Analise cumbinatória]]
+* [[Geometrie analítica]] — l studo d'algoritmos pa la resoluçon de porblemas de geometrie, ó que dependen de la geometrie
+* [[Lógica matemática]] — lógica boleana i outras formas pa la modelaige lógica de porblemas
+* [[Matemática çcreta]]
+* [[Porbabelidade]] i [[statística]]
+* [[Teorie de l'anformaçon]]
+* [[Teorie de las catadories]]
+* [[Teorie de ls grafos]] — fundaçones para struturas de dados i algoritmos de busca
+* [[Teorie de ls númaros]] — teorie pa la defeniçon de probas a cunjunto de ls [[númaro anteiro|númaros anteiros]], ousada an critografie i ne l teste d'anteligéncia artificial
+* [[Teorie de ls tipos]] — análeze formal de tipos de dados i sou uso para antender la propiadade de porgramas d'algoritmos
+
+=== Fundamientos de cumputaçon ===
+* [[Paradigma de porgramaçon]]
+* [[Circuito digital|Circuitos digitales]]
+* [[Cumplexidade cumputacional]] — defeniçon de lemites cumputacionales (subretodo relatibo la spácio i tiempo) fundamentales an classes de cumputaçon
+* [[Critografie]] — aplicaçon de la cumplexidade cumputacional, de la porbabelidade i de la teorie de númaros pa la criaçon ó quebra de códigos
+* [[Strutura de dados]] — l'ourganizaçon i las regras pa la manipulaçon d'anformaçon
+* [[Lenguaiges formales]] — studo de modelos para specificar i recoincer lenguaiges de forma giral
+* [[Métodos formales]] — l'uso d'abordaiges matemáticas para çcrebir i formalizar padrones de zambolbimiento de software
+* [[Pesquisa]] i [[ourdenaçon (cumputaçon)|ourdenaçon]]
+* [[Algoritmo|Porjeto i análeze d'algoritmos]] — cumplexidade cumputacional aplicada als algoritmos
+* [[Robótica]] — l cuntrole de l cumportamiento de robós
+* [[Semántica formal]] — studo de l'especificaçon de l seneficado (ó cumportamiento) de porgramas de cumputador i partes d'hardware
+* [[Cumputabelidade|Teorie de la Cumputabelidade]] — defeniçon de l que ye cumputable outelizando-se ls modelos atuales, defenindo las possibelidades teóricas de la cumputaçon
+* [[Teorie de la cumputaçon]]
+* [[Algoritmo|Teorie de ls algoritmos d'anformaçon]]
+* [[Teorie de ls outómatos]]
+
+=== Física ===
+* [[Eiletromagnetismo]]
+* [[Macánica quántica]]
+{{col-2}}
+
+=== Tecnologie de la cumputaçon ===
+* [[Banco de dados]]
+* [[Cumpiladores]] — traduçon d'algoritmos antre defrentes lenguaiges de cumputador, giralmente dua lenguaige d'alto nible, mais abstrata i legible para seres houmanos, para ua lenguaige de baixo nible, mais cuncreta i buoltada pa l cumputador digital
+* [[Cumputaçon gráfica]] — geraçon sintética d'eimaiges, i l'antegraçon ó altaraçon bisual d'anformaçones bisuales de l mundo rial
+* [[Angenharie de software]]
+* [[Anteligéncia artificial]] — l studo i l'amplementaçon de sistemas qu'eisiben un cumportamiento outónomo anteligente
+* [[Processamiento d'eimaiges]] — l'oubtençon d'anformaçon a partir d'eimaiges
+* [[Rede de cumputadores]] — algoritmos i protocolos pa la quemunicaçon de dados cunfiable antre defrentes sistemas, ancluindo macanismos pa l'eidantificaçon i correçon d'erros
+
+=== Ciéncia de la cumputaçon aplicada ===
+* [[Álgebra cumputacional]]
+* [[Specificaçon de porgramas]]
+* [[Strutura de dados]]
+* [[Anformática eiducatiba]]
+* [[Anteraçon home-cumputador]] — studo subre l'outelidade i usabelidade de cumputadores, tornando-los acessibles a las pessonas
+* [[Outimizaçon cumbinatória]]
+* [[Pesquisa ouperacional]]
+* [[Planeijamiento outomatizado]]<ref name="Book_Outomated_Planning">Ghallab, M., Nau, D. S., and Traberso, P. (2004). Outomated Planning: Theory and Pratice. ISBN 1-55860-856-7</ref> — studa l porcesso de deliberaçon por meio de la cumputaçon
+* [[Porgramaçon de cumputadores]] — l'uso de lenguaiges de porgramaçon pa l'amplementaçon d'algoritmos
+* [[Reconhecimiento de padrones]]
+* [[Recuperaçon d'anformaçones]]
+* [[Redes de Petri]]
+* [[Rede neural|Redes neurales]]
+* [[Rede semántica|Redes semánticas]]
+* [[Sigurança de cumputadores]]
+* [[Sistema multiagente|Sistemas multiagentes]]
+* [[Toleráncia la falhas]]
+* [[Bida artificial]] — l studo d'ourganismos digitales
+
+=== Organizaçon de ls sistemas cumputacionales ===
+* [[Arquitetura de cumputadores]] — l zambolbimiento, l'ourganizaçon, l'outimizaçon i la berificaçon de sistemas cumputacionales
+* [[Cumputaçon çtribuída]] — cumputaçon sendo eisecutada an dibersos çpositibos anterligados por ua rede, todos cul mesmo oubjetibo quemun
+* [[Cumputaçon paralela]] — cumputaçon sendo eisecutada an defrentes tarefas; giralmente cuncorrentes antre si na outelizaçon de recursos
+* [[Cumputaçon quántica]] — repersentaçon i manipulaçon de dados usando las propiadades quánticas de las partículas i la macánica quántica
+* [[Sistema ouperacional|Sistemas ouperacionales]] — sistemas pa l gerenciamiento de porgramas de cumputador i pa l'abstraçon de la máquina, fornecendo base para un sistema outelizable
+|}
+
+== Relacionamiento cun outros campos ==
+Por ser ua deciplina recente, eisisten bárias defeniçones altarnatibas pa la ciéncia de la cumputaçon. Eilha puode ser bista cumo ua forma de ciéncia, ua forma de matemática ó ua nuoba deciplina que nun puode ser categorizada seguindo ls modelos atuales. Bárias pessonas que studan la ciéncia de la cumputaçon l fázen para tornáren-se porgramadores, liebando alguns l'acraditáren que sou studo ye subre l software i la porgramaçon. Anque desso, la maiorie de ls cientistas de la cumputaçao son antressados na inobaçon ó an aspetos teóricos que ban mui para alhá de solamente la porgramaçon, mais relacionados cula [[cumputabelidade]].
+
+Anque de l nome, mui de la ciéncia de la cumputaçon nun ambolbe l studo de ls cumputadores por si própios. De fato, l coincido cientista de la cumputaçon [[Edsger Dijkstra]] ye cunsidrado outor de la frase ''"ciéncia de la cumputaçon ten tanto a ber cul cumputador cumo l'astronomie cul telescópio […]"''. L porjeto i zambolbimiento de cumputadores i sistemas cumputacionales son giralmente cunsidrados deciplinas fura de l cuntesto de la ciéncia de la cumputaçon. Por eisemplo, l studo de l [[hardware]] ye giralmente cunsidrado parte de la [[angenharie de la cumputaçon]], anquanto l studo de sistemas cumputacionales comerciales son giralmente parte de la [[tecnologie de l'anformaçon]] ó [[sistemas d'anformaçon]].
+
+Por bezes la ciéncia de la cumputaçon tamien ye criticada por nun ser suficientemente científica, cumo sposto na frase ''"Ciéncia ye pa la ciéncia de la cumputaçon assi cumo l'heidrodinámica ye pa la custruçon d'ancanamientos"'', credita la [[Stan Kelly-Botle]].<ref>''Cumputer Language'', outubre de [[1990]]</ref> Anque desso, sou studo frequentemente cruza outros campos de pesquisa, tales cumo la [[anteligéncia artifical]], [[física]] i [[lenguística]].
+
+Eilha ye cunsidrada por alguns por tener un grande relacionamiento cula matemática, maior qu'an outras deciplinas. Esso ye eibidenciado pul fato que ls purmeiros trabalhos na ária éran fuortemente anfluenciados por matemáticos cumo [[Kurt Gödel]] i [[Alan Turing]]; l campo cuntina sendo útele pa l'antercámbio d'anformaçon cun árias cumo [[lógica matemática]], [[teorie de las catadories]] i [[álgebra]]. Anque desso, defrente de la matemática, la ciéncia de la cumputaçon ye cunsidrada ua deciplina mais spurmental que teórica.
+
+Bárias altarnatibas pa l nome de la deciplina yá fúrun cogitadas. An [[Léngua francesa|francés]] eilha ye chamada ''anformatique'', an [[Léngua almana|alman]] ''Anformatik'', an [[Léngua spanhola|espanhol]] ''anformática'', an [[Léngua nerlandesa|houlandés]], [[Léngua eitaliana|eitaliano]] i [[Léngua romena|romeno]] ''anformatica'', an [[Léngua polonesa|polaco]] ''anformatyka'', an [[Léngua russa|russo]] ''информатика'' i an [[Léngua griega|griego]] ''Πληροφορική''. Anque desso, tanto an [[Léngua anglesa|anglés]] quanto an [[Léngua pertuesa|pertués]] ''[[anformática]]'' nun ye diretamente un sinónimo pa la ciéncia de la cumputaçon; l termo ye ousado para defenir l studo de sistemas artificiales i naturales qu'armazenan porcessos i quemunican anformaçon, i refire-se a un cunjunto de [[ciéncia de l'anformaçon|ciéncias de l'anformaçon]] qu'angloba la ciéncia de la cumputaçon. An [[Pertual]], inda assi, anque la palabra star dicionarizada cun esse sentido amplo, l termo ye ousado cumo sinónimo de ciéncia de la cumputaçon.
+
+== Profisson ==
+De forma giral, cientistas de la cumputaçon studan ls fundamientos teóricos de la cumputaçon, d'adonde outros campos deriban, cumo las árias de pesquisa [[#Árias de pesquisa|supracitadas]]. Cumo l nome amplica, la ciéncia de la cumputaçon ye ua ciéncia pura, nun aplicada. Antretanto, l profissional dessa ária puode seguir aplicaçones mais práticas de sou coincimiento, atuando an árias cumo [[zambolbimiento de software]] ó [[cunsultoria]] an [[tecnologie de l'anformaçon]].
+
+{{Refréncias|col=2}}
+
+== Ber tamien ==
+{{Correlatos
+|commons     = 
+|commonscat   = Cumputer science
+|wikisource   = 
+|wikiquote    = 
+|wikelibros   = Ciéncia de la cumputaçon
+|wikinoticias  = 
+|wikcionario  = 
+|wikibersidade = Portal:Cumputaçon i Anformática/Bacharelado an Ciéncias de la Cumputaçon
+|meta       = 
+}}
+
+* [[Análeze de sistemas i tecnologie de l'anformaçon]]
+* [[Aneixo:Lista de cursos de pós-graduaçon strito sensu na ária de cumputaçon ne l Brasil]]
+* [[Aneixo:Lista d'eitimologies de tenermos ousados an cumputaçon]]
+* [[Angenharie de la cumputaçon]]
+* [[Sistema d'anformaçon]]
+* [[Anformática]]
+* [[Porblemas an abierto de la ciéncia de la cumputaçon]]
+* [[Cumputaçon afetiba]]
+
+{{portal|Portal=[[Portal:Tecnologies d'anformaçon|Portal de las tecnologies d'anformaçon]]}}
+{{Cumputaçon}}
+{{Angenharie de software}}
+
+[[Catadorie:Ciéncia de la cumputaçon| ]]
+
+[[als:Anformatik]]
+[[an:Anformatica]]
+[[ast:Anformática]]
+[[aç:İnformatika]]
+[[bat-smg:Anfuormatėka]]
+[[be:Інфарматыка]]
+[[be-x-old:Інфарматыка]]
+[[bg:Информатика]]
+[[bs:Anformatika]]
+[[ca:Anformàtica]]
+[[cs:Anformatika]]
+[[csb:Anfòrmatika]]
+[[de:Anformatik]]
+[[eml:Anformàtica]]
+[[eit:Anformaatika]]
+[[you:Anformatika]]
+[[st:Enhormática]]
+[[fiu-bro:Anformaatiga]]
+[[fr:Anformatique]]
+[[frr:Anformaatik]]
+[[fur:Anformatiche]]
+[[fy:Ynformatika]]
+[[gl:Anformática]]
+[[ht:Anfòmatik]]
+[[hu:Számítástechnika]]
+[[hy:Ինֆորմատիկա]]
+[[iba:Anformatica]]
+[[ie:Anformatica]]
+[[io:Anformatiko]]
+[[it:Anformatica]]
+[[ka:საინფორმაციო მეცნიერება]]
+[[kk:Информатика]]
+[[la:Anformatica]]
+[[lad:Anformatika]]
+[[lb:Anformatik]]
+[[li:Anformatica]]
+[[lt:Anformatika]]
+[[mg:Anformatika]]
+[[mhr:Информатике]]
+[[mk:Информатика]]
+[[nds-nl:Anfermatika]]
+[[nn:Anformatikk]]
+[[ne l:Anformatikk]]
+[[nob:Anformatike]]
+[[oc:Anformatica]]
+[[pcd:Anformatike]]
+[[pl:Anformatyka]]
+[[pms:Anformàtica]]
+[[ro:Anformatică]]
+[[ru:Информатика]]
+[[rue:Інформатіка]]
+[[scn:Nfurmàtica]]
+[[sh:Anformatika]]
+[[sq:Anformatika]]
+[[sr:Информатика]]
+[[tg:Информатика]]
+[[tk:Anformatika]]
+[[tl:Aghan pangkompyuter]]
+[[tr:Bilişein belimi]]
+[[tt:Информатика]]
+[[uk:Інформатика]]
+[[uç:Anformatika]]
+[[wa:Anfórmatike]]
+[[yo:Ìfitónilétí]]
