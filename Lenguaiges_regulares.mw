@@ -68,9 +68,7 @@ ye defenida por : ''uw'' ∈ ''L'' se i solamente se ''bw'' ∈ ''L'' para to ''
 
 La lenguaige ''L'' ye regular se i solamente se l númaro de classes eiquibalentes de ~  ye fenita (Ua proba desso ye fornecida ne l'artigo de la [[monoide sintática]]); se esse ye l causo, esse númaro ye eigual al númaro de stados dun [[outómato fenito determinístico mínimo]] qu'aceita ''L''.
 
-Un cunjunto similar de declaraçones puode ser formulado por ua monoide <math>M\suset\Sigma^*</math>. Nesse causo, l'eiquibaléncia subre ''M'' lieba al cunceito dua [[lenguaige reconhecible]].
-
-
+Un cunjunto similar de declaraçones puode ser formulado por ua monoide <math>M\subset\Sigma^*</math>. Nesse causo, l'eiquibaléncia subre ''M'' lieba al cunceito dua [[lenguaige reconhecible]].
 
 ==Lenguaiges Finitas==
 Un subconjunto specífico de la classe de las lenguaiges regulares ye l cunjunto de las lenguaiges fenitas - aqueilhes que cunténen solo un númaro fenito de palabras. Essas lenguaiges son regulares, yá que ye possible criar ua [[spresson regular]] que ye la [[ounion]] de cada palabra de la lenguaige.
