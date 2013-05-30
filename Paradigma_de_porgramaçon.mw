@@ -1,0 +1,45 @@
+Un '''paradigma de porgramaçon''' fornece i detremina la bison que l [[porgramador]] ten subre la struturaçon i eisecuçon de l porgrama. Por eisemplo, an [[ourientaçon a oubjeto|porgramaçon ourientada a oubjetos]], porgramadores puoden abstrair un porgrama cumo ua coleçon de [[oubjeto]]s qu'anteraige antre si, anquanto an [[porgramaçon funcional]] ls porgramadores abstraen l porgrama cumo ua sequéncia de [[subrotina|funçones]] eisecutadas de modo [[LIFO|ampilhado]].
+
+Assi cumo defrentes grupos an [[angenharie de software]] proponen defrentes [[Metodologie (angenharie de software)|metodologies]], defrentes [[Lenguaige de porgramaçon|lenguaiges de porgramaçon]] proponen defrentes ''paradigmas de porgramaçon''. Alguas lenguaiges fúrun zambolbidas para suportar un paradigma specífico ([[Smalltalk]] i [[Jaba (lenguaige de porgramaçon)|Jaba]] suportan l paradigma d'ourientaçon a oubjetos anquanto [[Haskell (lenguaige de porgramaçon)|Haskell]] suportan l paradigma funcional), anquanto outras lenguaiges suportan múltiplos paradigmas (cumo l [[Lisp|LISP]], [[Perl]], [[Python]], [[C++]] i [[Oç (lenguaige de porgramaçon)|Oç]]).
+
+Ls paradigmas de porgramaçon son muitas bezes defrenciados pulas técnicas de porgramaçon que ''proíben'' ó ''permiten''. Por eisemplo, la [[porgramaçon struturada]] nun permite l'uso de <code>[[goto (porgramaçon)|goto]]</code>. Esse ye un de ls motibos pul qual nuobos paradigmas son cunsidrados mais rígidos que stilos tradecionales. Anque desso, eibitar ciertos tipos de técnicas puode facelitar la proba de cunceito dun sistema, podendo até mesmo facelitar l zambolbimiento d'algoritmos.
+
+L relacionamiento antre paradigmas de porgramaçon i lenguaiges de porgramaçon puode ser cumplexo pul fato de lenguaiges de porgramaçon podéren suportar mais dun [[paradigma]].
+
+== Stória ==
+Einicialmente, ls cumputadores éran porgramados atrabeç de [[código binairo]], que repersentaba las sequéncias de cuntrole alimentadas a la [CPU]. Tal porcesso era defícel i propenso a erros; ls porgramas stában an [[código de máquina]], que ye un paradigma de porgramaçon de muito [[Lenguaige de porgramaçon de baixo nible|baixo nible]].
+
+Para facelitar la porgramaçon fúrun zambolbidas [[lenguaige de montaige|lenguaiges de montaige]]. Eilhas sustituían las funçones de l código de máquina por mnemónicos, [[andereço de mimória|andereços de mimória]] absolutos por [[eidantificador]]s. La lenguaige de montaige inda ye cunsidrada de baixo nible, inda que seia un paradigma de la "segunda geraçon" de las lenguaiges. Mesmo lenguaiges de montaige de la [[década de 1960]] suportában geraçones cundicionales de [[macro]]s bastante sofisticadas. Tamien suportában recursos de [[porgramaçon modular]] tales cumo <code>CALL</code> (para suportar [[subrotina]]s), bariables sternas i seçones quemuns (globales); esso permitie l reuso de código i l'eisolamiento de caratelísticas specíficas de l'hardware, atrabeç de l'uso d'ouperadores lógicos cumo <code>READ</code>, <code>WRITE</code>, <code>GET</code> i <code>PUT</code>. La lenguaige de montaige fui i inda ye ousada para sistemas críticos, i frequentemente ousada an [[sistema ambarcado|sistemas ambarcados]].
+
+L próssimo abanço fui l zambolbimiento de las [[lenguaige procedural|lenguaiges procedurales]]. Las purmeiras la séren çcritas cumo de [[Lenguaige de porgramaçon d'alto nible|alto nible]], essas lenguaiges de la terceira geraçon úsan un bocabulairo relatibo al porblema sendo resolbido. Por eisemplo, [[COBOL]] usa tenermos cumo <code>file</code> (para eidantificar arquibos), <code>mobe</code> (para mober arquibos) i <code>copy</code> (para copiar arquibos). Tanto [[FORTRAN]] quanto [[ALGOL]] úsan treminologie matemática, tenendo sido zambolbidas percipalmente para porblemas comerciales ó científicos. Tales lenguaiges procedurales çcriben, passo a passo, l procedimiento a ser seguido para resulber cierto porblema. L'eficácia i l'eficiéncia de cada soluçon ye subjetiba i altamente dependente de la spriéncia, halbelidade i criatebidade de l porgramador.
+
+Mais tarde, [[ourientaçon a oubjeto|lenguaiges ourientadas a oubjeto]] fúrun criadas. Neilhas, ls dados i las rotinas para manipulá-los son mantidos nua ounidade chamada [[oubjeto]]. L'outelizador solo puode acessar ls dados atrabeç de las subrotinas çponibles, chamadas ''métodos'', l que permite altarar l funcionamiento anterno de l'oubjeto sin afetar l código que l cunsume. Inda hai cuntrobérsia por porgramadores notables cumo [[Alexander Stepanob]], [[Richard Stallman]]<ref>{{citar web|url=http://groups.gogle .com/group/cump.emacs.xemacs/browse_thread/thread/d0af257a2837640c/37f251537fafbb03?lnk=st&q=%22Richard+Stallman%22+op&rnun=5&hl=en#37f251537fafbb03|titulo=Mode anheritance, cloning, hoks & OOP (Google Groups Çcussion)}}</ref> antre outros, questionando l'eficácia desse paradigma an cumparaçon de l paradigma procedural. La necidade de cada oubjeto de tener métodos associados tornarie ls porgramas mui maiores. l cunceito de [[polimorfismo]] fui zambolbido cumo tentatiba de solucionar tal dilema. Tenendo an bista que l'ourientaçon a oubjeto ye un paradigma i nun ua lenguaige, ye possible criar até mesmo ua lenguaige de montaige ourientada a oubjeto, cumo l [[High Leble Assembly]].
+ 
+Andependiente de l galho de las lenguaiges amperatibas, baseadas nas lenguaiges procedurales, paradigmas de [[porgramaçon declaratiba]] tamien fúrun zambolbidos. Nessa lenguaiges se çcribe l porblema al cumputador, nun cumo resolbé-lo. L porgrama ye struturado cumo ua coleçon de propiadades para ancontrar l resultado sperado, i nun un procedimiento la se seguir. Dado un banco de dados ó un cunjunto de regras, l cumputador tenta ancontrar la soluçon al casar todas las propiadades zeiadas. Un eisemplo ye l [[SQL]], assi cumo la família de las [[porgramaçon funcional|lenguaiges funcionales]] i [[porgramaçon lógica|lógicas]].
+
+Porgramas scritos an porgramaçon funcional úsan [[subrotina|funçones]], blocos de código custruídos para agir cumo [[funçon|funçones matemáticas]]. Zamcoraja-se la mudança de l balor de las bariables atrabeç d'atribuiçon, fazendo grande uso de [[recursebidade (ciéncia de la cumputaçon)|recursebidade]] para esso.
+
+Na porgramaçon lógica, fatos subre l [[domínio de l porblema]] son spressados cumo fórmulas lógicas, i ls porgramas son eisecutados al se aplicar [[regra d'anferéncia|regras d'anferéncia]] nas fórmulas até qu'ua repuosta ye ancontrada, ó la coleçon de fórmulas ye probada anconsistente.
+
+== Eisemplos ==
+* [[Porgramaçon struturada]], an cuntreste la [[Ourientaçon a oubjeto|Porgramaçon ourientada a oubjetos]]
+* [[Porgramaçon amperatiba]], an cuntreste de [[porgramaçon declaratiba]]
+* [[Porgramaçon de passaige de mensaiges]], an cuntreste de [[porgramaçon amperatiba]]
+* [[Porgramaçon procedural]], an cuntreste de [[porgramaçon funcional]]
+* [[Porgramaçon ourientada a fluxos]], an cuntreste de [[porgramaçon ourientada a eibentos]]
+* [[Porgramaçon scalar]], an cuntreste de [[porgramaçon betorial]]
+* [[Porgramaçon restritiba]], que cumplementa la [[porgramaçon lógica]]
+* [[Porgramaçon ourientada a aspeto]] (cumo an [[AspetJ]])
+* [[Porgramaçon ourientada la regras]] (cumo an [[Mathematica]])
+* [[Porgramaçon ourientada la tabelas]] (cumo an [[Microsoft]] [[FoxPro]])
+* [[Porgramaçon ourientada a fluxo de dados]] (cumo an [[diagrama]]s)
+* [[Porgramaçon ourientada la políticas]]
+* [[Porgramaçon ourientada a testes]]
+* [[Porgramaçon genérica]]
+* [[Porgramaçon multiparadigma]] (cumo an [[Scala (lenguaige de porgramaçon)|Scala]])
+
+{{refréncias}}
+
+{{Angenharie de software}}
+
+[[Catadorie:Paradigmas de porgramaçon| ]]
