@@ -1,0 +1,90 @@
+{{Títalo an itálico}}
+{{Ber zambiguaçon}}
+[[Fexeiro:OupenOffice.org Writer.png|thumb|300px|[[OupenOffice.org]] ''writer'']]
+'''''Software'''''<ref>''Base I'': de l'alfabeto i de ls nomes própios strangeiros i sous deribados. Çponíbel an http://umportugues .com/acuordo/alfabeto. Acesso an 25 de setembre de 2012.</ref>, '''logiciairo''' ó '''suporte lógico''' ye ua sequéncia d'anstruçones la séren seguidas i/ó eisecutadas, na manipulaçon, redirecionamiento ó modificaçon dun dado/anformaçon ó acuntecimiento. Software tamien ye l nome dado al cumportamiento eisibido por essa sequéncia d'anstruçones quando eisecutada nun cumputador ó máquina semelhante para alhá dun perduto zambolbido pula [[Angenharie de software|Angenharie de ''software'']], i anclui nun solo l porgrama de cumputador propiamente dezido, mas tamien manuales i specificaçones. Para fines [[Cuntabelidade|cuntábeis]] i [[Finanças|financeiros]], l ''Software'' ye cunsidrado un [[Análeze Eiquenómica de Sistemas de Anformaçones|bien de capital]].<ref>{{citar web |url=http://www.cic.unb.br/~jhcf/MyBooks/iess/Software/oquehsoftware.html |títalo=L que ye un Porgrama (Software) |acessodata=21 de janeiro de 2012 |outor=Jorge H. C. Fernandes |publicado=UNB }}</ref>
+
+Este perduto passa por bárias etapas cumo: [[Análeze eiquenómica de sistemas d'anformaçones|análeze eiquenómica]], [[análeze de requesitos de software|análeze de requesitos]], [[Specificaçon de porgrama|specificaçon]], [[Porgramaçon de cumputadores|codificaçon]], [[Teste de software|teste]], [[Documentaçon de software|documentaçon]], [[Treinamiento]], [[Manutençon de software|manutençon]] i amplantaçon ne ls ambientes.<ref>{{citar web |url=http://www.cefetrn.br/~placido/deciplina/mossoro/analise/material/aula1.pdf |títalo=Aula 1 |acessodata=21 de janeiro de 2012 |outor=Cefet RN }}</ref> 
+
+== ''Software'' cumo porgrama de cumputador ==
+Un [[porgrama de cumputador]] ye cumpuosto por ua [[algoritmo|sequéncia d'anstruçones]], que ye anterpretada i eisecutada por un [[processador]] ó por ua [[máquina birtual]]. Nun porgrama correto i funcional, essa sequéncia segue padrones specíficos que resultan nun cumportamiento zeiado.<ref>{{citar web |url=http://www.ufpa.br/dicas/progra/protipos.htn |títalo=Porgramas - Funçon i Tipos |acessodata=21 de janeiro de 2012 |outor=UFPA }}</ref>
+
+L termo "''software''" fui criado na década de 1940, i ye un trocadilho cul termo [[hardware]]. Hardware, an anglés, senefica ferramienta física. ''Software'' serie todo l que faç l cumputador funcionar scetuando-se la parte física del.
+
+Un porgrama puode ser eisecutado por qualquiera çpositibo capaç d'anterpretar i eisecutar las anstruçones de que ye formado. 
+
+Quando un ''software'' stá repersentado cumo anstruçones que puoden ser eisecutadas diretamente por un [[processador]] dezimos que stá scrito an [[Código de máquina|lenguaige de máquina]]. L'eisecuçon dun ''software'' tamien puode ser antermediada por un porgrama anterpretador, respunsable por anterpretar i eisecutar cada ua de sues anstruçones. Ua catadorie special i l  notable d'anterpretadores son las [[Máquina birtual|máquinas birtuales]], cumo la [[máquina birtual Jaba]] (JBM), que simulan un [[cumputador]] anteiro, rial ó eimaginado. 
+
+L çpositibo mais coincido que çpone dun [[processador]] ye l [[cumputador]]. Atualmente, cul barateamiento de ls [[microprocessador]]s, eisisten outras máquinas porgramables, cumo [[telemoble]], máquinas de [[outomaçon andustrial]], [[calculadora]] etc.
+
+== La custruçon dun porgrama de cumputador ==
+Un porgrama ye un cunjunto d'anstruçones pa l processador ([[Código de máquina|lenguaige de máquina]]). Antretanto, puode-se outelizar [[Lenguaige de porgramaçon|lenguaiges de porgramaçon]], que traduza comandos an anstruçones pa l processador. 
+
+Normalmente, porgramas de cumputador son scritos an [[Lenguaige de porgramaçon|lenguaiges de porgramaçon]], pus estas fúrun porjetadas para aprossimar-se de las lenguaiges ousadas por seres houmanos. Raramente la lenguaige de máquina ye ousada para zambolber un porgrama. Atualmente eisiste ua cantidade mui grande de lenguaiges de porgramaçon, dentre eilhas las mais populares ne l momiento son [[Jaba]], [[Bisual Basic]], [[C (lenguaige de porgramaçon)|C]], [[C++]], [[PHP]], dentre outras.<ref>Porgramming Language Popularity - [http://langpop .com/ Porgramming Language Popularity]</ref> 
+
+Alguns porgramas feitos para usos specíficos, cumo por eisemplo [[software ambarcado|''software'' ambarcado]] ó ''software'' ambutido, inda son feitos an lenguaige de máquina para oumentar la belocidade ó diminuir l spácio cunsumido. An to causo, la melhorie de ls processadores dedicados tamien ben diminuindo essa prática, sendo la [[Lenguaige C|C]] ua lenguaige típica para esse tipo de porjeto. Essa prática, mas, ben caindo an desuso, percipalmente debido a la grande cumplexidade de ls processadores atuales, de ls sistemas ouperacionales i de ls porblemas tratados. Mui raramente, rialmente solo an causos scepcionales, ye outelizado l [[código de máquina]], la repersentaçon numérica outelizada diretamente pul processador.<ref>{{citar web |url=http://www.anfoescola .com/anformatica/l-que-sao-lenguaiges-de-porgramacao/ |títalo=L que son Lenguaiges de Porgramaçon |acessodata=21 de janeiro de 2012 |outor=AnfoEscola }}</ref>
+
+L porgrama ye einicialmente "carregado" na [[Mimória (cumputador)|mimória percipal]].<ref>{{citar web |url=http://www.clubedohardware .com.br/artigos/349 |títalo=Liberando mimória RAM |acessodata=21 de janeiro de 2012 |outor=Clube de l Hardware }}</ref> Passado carregar l porgrama, l cumputador ancontra l ''Antry Point'' ó punto enicial d'antrada de l porgrama que carregou i lé las anstruçones sucessibamente ''byte'' por ''byte''. Las anstruçones de l porgrama son passadas pa l sistema ó processador adonde son traduzidas de la [[lenguaige de porgramaçon|lenguaiges de porgramaçon]] pa la [[Código de máquina|lenguaige de máquina]], sendo an seguida eisecutadas ó diretamente pa l ''[[hardware]]'', que recibe las anstruçones na forma de [[Código de máquina|lenguaige de máquina]].
+
+== Tipos de porgramas de cumputador ==
+Qualquiera cumputador moderno ten ua bariadade de porgramas que fázen dibersas tarefas.
+Eilhes puoden ser classeficados an dues grandes catadories:<ref>{{citar web |url=http://www.brasilazul .com.br/software.asp |títalo=Software |acessodata=21 de janeiro de 2012 |outor=Brasil Azul }}</ref>
+# [[Software de sistema|''Software'' de sistema]] qu'ancluiu l ''[[firmware]]'' (L [[BIOS]] de ls cumputadores pessonales, por eisemplo), [[driber de çpositibo|dribers de çpositibos]], l [[sistema ouperacional]] i tipicamente ua [[anterface gráfica]] que, an cunjunto, permiten al usuairo anteragir cul cumputador i sous [[periférico]]s.
+# [[Software aplicatibo|''Software'' aplicatibo]], que permite al usuairo fazer ua ó mais tarefas specíficas. Aplicatibos puoden tener ua abrangéncia d'uso d'ancha scala, muitas bezes an ámbito mundial; nestes causos, ls porgramas tenden a ser mais robustos i mais padronizados. Porgramas scritos para un pequeinho mercado ténen un nible de padronizaçon menor.
+
+Inda ye possible ousar la catadorie [[Software ambarcado|''Software'' ambutido]] ó [[Software ambarcado|''software'' ambarcado]], andicando ''software'' çtinado a funcionar drento dua máquina que nun ye un cumputador d'uso giral i normalmente cun un çtino mui specífico.
+*[[Software aplicatibo|''Software'' aplicatibo]]: ye aquel que permite als usuairos eisecutar ua ó mais tarefas specíficas, an qualquiera campo d'atebidade que puode ser outomatizado specialmente ne l campo de ls negócios. Anclui, antre outros:
+**Aplicaçones de cuntrole i sistemas d'outomaçon andustrial.
+**aplicaçones d'anformática pa l scritório.
+**''Software'' eiducacional.
+**''Software'' de negócios.
+**[[Banco de dados]].
+**[[Telecomunicaçones]].
+**''bideo games''.
+**''Software'' médico.
+**''Software'' de calclo numérico i simbólico.
+Atualmente, tenemos un nuobo tipo de ''software''. L ''software'' cumo serbício, que ye un tipo de software armazenado nun cumputador que se acessa pula anterneta, nun sendo necessairo anstalá-lo ne l cumputador de l'usuairo. Giralmente esse tipo de ''software'' ye gratuito i ten las mesmas funcionalidades de las bersones armazenadas localmente.
+
+Outra classeficaçon possible an 3 tipos ye:
+
+*[[Software de sistema|''Software'' de sistema]]: Sou oubjetibo ye apartar usuairo i porgramador de detalhes de l cumputador specífico que stá sendo ousado. L ''software'' de l sistema le dá al usuairo anterfaces d'alto nible i ferramientas que permiten la manutençon de l sistema. Anclui, antre outros:
+**[[sistema ouperacional|Sistemas ouperacionales]]
+**[[Driber]]s
+**ferramientas de diagnóstico
+**ferramientas de Correçao i Outimizaçao
+**[[Serbidor]]s
+
+*''Software'' de porgramaçon: L cunjunto de ferramientas que permiten al porgramador zambolber porgramas de cumputador usando defrentes altarnatibas i lenguaiges de porgramaçon, de forma prática. Anclui, antre outros:
+**[[Eiditor de testo|Eiditores de testo]]
+**[[Cumpilador]]s
+**Antérpretes
+**''[[linker]]s''
+**[[Depurador]]s
+**Ambientes de Zambolbimiento Antegrado : Agrupamiento de las ferramientas anteriores, giralmente nun ambiente bisual, de modo que l porgramador nun percisa digitar bários comandos pa la cumpilaçon, anterpretaçon, depuraçon, etc. Giralmente eiquipados cun ua anterface d'usuairo gráfica abançada.
+
+== Licenças ==
+La maiorie de l ''software'' ye publicado sob ua [[licença de software|licença de ''software'']]. Essa licença define i até restringe qual la forma que se puode outelizar l software defenido númaros de licenças, modificaçones antre outros. Eisemplos de licenças:
+* [[GNU General Public License]]
+* [[Licença BSD]]
+* [[Licença Apache]]
+* [[Licença comercial]]
+* [[Licença de software|Licença de ''software'']]
+* [[Licença de software libre|Licença de ''software'' libre]]
+* [[Software libre|''Software'' libre]]
+* [[Freware|''Freware'']]
+* [[Shareware|''Shareware'']]
+* [[Demo]]
+* [[Trial|''Trial'']]
+
+== {{Ber tamien}} ==
+* [[Liberaçon de software|Liberaçon de ''software'']]
+* [[:Catadorie:Software Houses|Fabricantes de software|]]
+
+{{refréncias|col=2}}
+
+{{Çtribuiçon Porgramas}}
+{{Cumputaçon}}
+{{Angenharie de software}}
+
+[[Catadorie:Software| ]]
+[[Catadorie:Porgramas de cumputador| ]]
+[[Catadorie:Anglicismos]]
