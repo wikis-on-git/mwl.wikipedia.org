@@ -1,7 +1,7 @@
 
 {{Anfo/Cientista
-|nome             =John bon Neumann
-|eimaige            =JohnbonNeumann-LosAlamos.jpg
+|nome             =John von Neumann
+|eimaige            =JohnvonNeumann-LosAlamos.jpg
 |tamanho           =200px
 |legenda           =Neumann, a la época de [[Laboratório Nacional de Los Alamos|Los Alamos]] (c. [[1943]]-[[1945]]), purmeiro laboratório de [[armas nucleares]] de ls [[Stados Ounidos]]
 |nome_natibo        =
@@ -19,7 +19,7 @@
 |tese             =1926
 |ourientador         =[[Lipót Fejér]]
 |ourientado          ={{nowrap|[[Eisrael Halperin]]}}, {{nowrap|[[Donald Bruce Gillies]]}}, {{nowrap|[[John Patterson Mayberry]]}}
-|coincido_por       ={{nowrap|[[Álgebra abeliana de bon Neumann]]}}, {{nowrap|[[Álgebra de bon Neumann]]}}, {{nowrap|[[Arquitetura de bon Neumann]]}}, {{nowrap|[[Ouniberso de bon Neumann]]}}
+|coincido_por       ={{nowrap|[[Álgebra abeliana de von Neumann]]}}, {{nowrap|[[Álgebra de von Neumann]]}}, {{nowrap|[[Arquitetura de von Neumann]]}}, {{nowrap|[[Ouniberso de von Neumann]]}}
 |anfluenciado        =
 |premio            ={{nowrap|[[Prémio Bócher|Prémio Bócher (1938)]]}}, {{nowrap|[[Prémio Anrico Fermi|Prémio Anrico Fermi (1956)]]}}
 |cunjuge           =
@@ -33,11 +33,11 @@ Na [[Ciéncia de la Cumputaçon]], '''porgramaçon amperatiba''' ye un [[paradig
 [[Fexeiro:Máquina de Turing.png |thumb|Máquina de Turing|squierda|x1000px]]
 
 L fundamiento de la porgramaçon amperatiba ye l cunceito de [[Máquina de Turing]], que nada mais ye qu'ua abstraçon matemática que corresponde al cunjunto de funçones cumputables.
-La Máquina de Turing fui aprossimada por [[John Bon Neumann]] a ua arquitetura de cumputadores que fundamenta ls cumputadores custruídos até hoije. Esso splica, an parte, l sucesso de las lenguaiges que seguen esse [[paradigma]] an relaçon a las demales. Nesta arquitetura( ousada hoije ne ls microcumputadores comercializados), tanto ls dados cumo ls porgramas son armazenados na mesma mimória, i la CPU que porcessoa las anstruçones, ye apartada de a mimória. Dessa forma, ls dados i anstruçones dében ser trasportados de a mimória pa la CPU i ls resultados de las ouparaçones rializadas na CPU dében ser debolbidos pa a mimória.
+La Máquina de Turing fui aprossimada por [[John von Neumann]] a ua arquitetura de cumputadores que fundamenta ls cumputadores custruídos até hoije. Esso splica, an parte, l sucesso de las lenguaiges que seguen esse [[paradigma]] an relaçon a las demales. Nesta arquitetura( ousada hoije ne ls microcumputadores comercializados), tanto ls dados cumo ls porgramas son armazenados na mesma mimória, i la CPU que porcessoa las anstruçones, ye apartada de a mimória. Dessa forma, ls dados i anstruçones dében ser trasportados de a mimória pa la CPU i ls resultados de las ouparaçones rializadas na CPU dében ser debolbidos pa a mimória.
 
 Las lenguaiges amperatibas struturadas sofren inda assi dua falta de flexibelidade dadas l caráter sequencial de las anstruçones. Cuntrariamente la porgramaçon declaratiba, la porgramaçon amperatiba antroduç un paradigma de porgramaçon que çcribe la [[cumputaçon]] an tenermos dun stado dun porgrama i açones que modifican esse stado, tal cumo l modo amperatibo nas lenguaiges naturales (faladas i scritas) spressa comandos para perfazer açones, las lenguaiges amperatibas spressan ua sequencia de comandos para un cumputador efetuar.
 
-[[Fexeiro:arquiteturavn.png|thumb|left|Bison simplificada de l'arquitetura de Bon Neumann.]]
+[[Fexeiro:arquiteturavn.png|thumb|left|Bison simplificada de l'arquitetura de von Neumann.]]
 
 Las lenguaiges de porgramaçon amperatiba cuntrastan cun outros tipos de lenguaige, tales cumo lenguaiges de porgramaçon [[porgramaçon declaratiba|declaratiba]], [[porgramaçon funcional|funcional]] i [[porgramaçon lógica|lógica]]. Lenguaiges de porgramaçon funcional, cumo por eisemplo [[Haskell]], nun son ua sequéncia d'afirmaçones i nó possuen, por cunsequéncia, un stado global cumo las lenguaiges amperatibas. Lenguaiges de porgramaçon lógica, cumo eisemplo [[Prolog]], frequentemente definen "l que" ye para ser cumputado, mais de l que "cumo" cumputar, cumo serie normal nua lenguaige amperatiba. 
 
@@ -134,7 +134,7 @@ Ls percipales eilemientos de la porgramaçon amperatiba son:
 
 == Bantaiges ==
 
-* Eficiéncia (ambute l modelo [[Bon Neumann]])
+* Eficiéncia (ambute l modelo [[Von Neumann]])
 * Paradigma dominante i bien stablecido
 * Modelaige natural d'aplicaçones de l mundo rial
 * Ten tipaige fraca i tamien mui flexible (alguns specialistas cunsidran esso ua zbantaige)
