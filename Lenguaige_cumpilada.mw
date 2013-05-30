@@ -1,0 +1,55 @@
+'''Lenguaige cumpilada''' ye ua [[lenguaige de porgramaçon]], adonde l [[código fuonte]] nessa lenguaige ye eisecutado diretamente pul [[Sistema ouperatibo|sistema ouperacional]] ó pul [[processador]], passado ser traduzido, atrabeç dun porcesso chamado cumpilaçon, usando un [[porgrama de cumputador]] chamado [[cumpilador]], para ua [[Lenguaige de porgramaçon de baixo nible|lenguaige de baixo nible]], cumo [[lenguaige de montaige]] ó [[código de máquina]].<ref name="scott">{{Citar libro|outor=Scott, Michael L|títalo=Porgramming Language Pragmatics|subtítulo=|léngua=anglés|eidiçon=|local=San Francisco|eiditora=Morgan Kaufmann/Academic Press|anho=2006|páigina=15|páiginas=875|belumes=|belume=|isbn=978-0-12-633951-2}}</ref><ref name="alice">{{Citar libro|outor=Fisher, Alice; Grodzinsky, Frances S|títalo=The Anatomy of Porgramming Languages|subtítulo=|léngua=anglés|eidiçon=|local=Anglewod Cliffs, New Jersey|eiditora=Prentice Preça de casa|anho=1993|páigina=167|páiginas=557|belumes=|belume=|isbn=0-13-035155-5}}</ref>
+
+Teoricamente, qualquiera lenguaige puode ser cumpilada ó [[Lenguaige anterpretada|anterpretada]] i, por causa desso, hai alguas lenguaiges que possuen ambas amplementaçones.<ref name="scott" />
+
+== Lenguaiges tipicamente cumpiladas ==
+Ambaixo, segue-se alguas lenguaiges de porgramaçon que son tipicamente cumpiladas:
+
+{{Col-begin}}
+{{Col-2}}
+* [[Ada (lenguaige de porgramaçon)|Ada]]
+* [[ALGOL]]
+* [[BASIC]]
+* [[C (lenguaige de porgramaçon)|C]]
+* [[C++]]
+* [[CLEO]]
+* [[COBOL]]
+* [[Queluobra (lenguaige de porgramaçon)|Queluobra]]
+* [[Common Lisp]]
+* [[D (lenguaige de porgramaçon)|D]]
+* [[Ambarcadero Delphi|Delphi]]
+* [[Eiffel]]
+* [[Fortran]]
+{{Col-2}}
+* [[JOBIAL]]
+* [[LabBIEW]]
+* [[Lush]]
+* [[ML]]
+* [[Oubjetibe-C]]
+* [[Ocaml]]
+* [[Pascal (lenguaige de porgramaçon)|Pascal]]
+* [[Sather]]
+* [[Ubercode]]
+* [[Urq]]
+* [[Bisual Basic]]
+* [[Bisual Foxpro]]
+* [[Bisual Prolog]]
+{{Col-and}}
+
+== {{Ber tamien}} ==
+* [[Código de máquina]]
+* [[Cumpilador]]
+* [[Lenguaige de montaige]]
+* [[Lenguaige de porgramaçon]]
+* [[Lenguaige de scrit]]
+* [[Lenguaige anterpretada]]
+* [[Aneixo:Lista de lenguaiges de porgramaçon]]
+
+{{Refréncias}}
+
+
+{{Lenguaiges de porgramaçon}}
+{{Rabisco-porgramaçon}}
+{{Sin eimaige}}
+
+[[Catadorie:Lenguaiges de porgramaçon| ]]
