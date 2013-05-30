@@ -1,0 +1,122 @@
+{{Títalo an itálico}}
+{{mais-fuontes|data=febreiro de 2012}}
+L '''''hardware'''''<ref>''Base I'': de l'alfabeto i de ls nomes própios strangeiros i sous deribados. Çponíbel an http://umportugues .com/acuordo/alfabeto. Acesso an 21 de setembre de 2012.</ref> puode ser defenido cumo un termo giral para eiquipamientos cumo chabes, fechaduras, dobradiças, trincos, puxadores, filos, corrientes, material d'ancanhamiento, ferramientas, ferramientas, talheres i peças de máquinas. Ne l ámbito eiletrónico l termo "''hardware''" ye bastante outelizado, percipalmente na ária de cumputaçon, i se aplica a la [[ounidade central de processamiento]], a la [[Mimória (cumputador)|mimória]] i als çpositibos de [[Antrada/salida|antrada i salida]].<ref>{{citar libro|outor=Silberschatç, Abrahan; Galbin, Peter Bauer; Cagne, Grieg|títalo=Sistemas Ouperacionales cun Jaba|anho=2008|eidiçon=7ª|local=Riu de Janeiro|eiditora=Campus|páigina=3|páiginas=672|isbn=978-85-352-2406-1}}</ref> L termo "''hardware''" ye ousado para fazer refréncia a detalhes specíficos dua dada máquina, ancluindo-se sou porjeto lógico pormenorizado bien cumo la tecnologie d'ambalaige de la máquina.<ref>{{citar libro|outor=Heinnessy, John L.; Patterson, David La|títalo=Arquitetura de Cumputadores|subtítulo=Ua Abordaige Quantitatiba|anho=2003 |eidiçon=3ª |local=Riu de Janeiro |eiditora=Campus |páigina=7|páiginas=827|isbn=85-352-1110-1}}</ref>
+
+L ''[[software]]'' ye la parte lógica, l cunjunto d'anstruçones i dados processado puls circuitos eiletrónicos de l ''hardware''. To anteraçon de ls usuairos de cumputadores modernos ye rializada atrabeç de l ''software'', que ye la camada, colocada subre l ''hardware'', que trasforma l cumputador an algo útele pa l ser houmano.
+
+L termo "''hardware''" nun se refire solo als cumputadores pessonales, mas tamien als [[Sistemas ambarcados|eiquipamientos ambarcados]] an perdutos que necessitan de processamiento cumputacional, cumo ls çpositibos ancontrados an eiquipamientos spitalares, outomobles, apareilhos [[telemoble]]s (an [[Pertual]] telemobles), antre outros.
+
+Na [[ciéncia de la cumputaçon]] la deciplina que trata de las soluçones de porjeto de ''hardware'' ye coincida cumo [[arquitetura de cumputadores]].
+
+Para fines [[cuntábil|cuntábeis]] i [[financeiro]]s, l ''hardware'' ye cunsidrado un [[Análeze Eiquenómica de Sistemas de Anformaçones|bien de capital]].
+
+== ''Stória de l Hardware'' ==
+[[Fexeiro:Abacus 6.png|right|framed|Ábaco]]
+{{artigo percipal|Stória de l'hardware}}
+La Houmanidade ten outelizado çpositibos para auxeliar la cumputaçon hai milénios. Puode se cunsidrar que l [[ábaco]], outelizado para fazer cálclos, tenga sido un de ls purmeiros hardwares ousados pula houmanidade. A partir de l seclo 17 surge las purmeiras calculadoras macánicas. An 1623 [[Wilheln Schickard]] custruiu la purmeira calculadora macánica. La [[La pascaline|Pascalina]] de [[Vlaise Pascal]] (1642) i la calculadora de [[Gottfried Leibniç|Gottfried Wilheln bon Leibniç]] (1670) benirun a seguir.<ref>{{Refréncia a libro|outor=Ifrah, Georges|títalo=The Ounibersal Story of Cumputing|subtítulo=|léngua=anglés|eidiçon=|local=New York|eiditora=John Wiley and Sonidos|anho=2001|páiginas=410|páigina=121-122|belumes=|belume=|isbn=0-471-39671-0}}</ref> 
+
+An 1822 [[Charles Babbage]] apersenta sue [[máquina defrencial]] i an 1835 çcribe sue [[máquina analítica]].<ref>{{citar libro|outor=Swade, Doron|títalo=The Difference Angine: Charles Babbage and the Quest to Build the First Cumputer |anho=2000|eiditora=Penguin|páigina=84–87|isbn=0-1420-0144-9}}</ref><ref>{{citar jornal | ultimo = Huskey | purmeiro = Belma R. | coautores = Huskey, Harry D. | anho = 1980 | mes = outubre | titulo = Lady Lobelace and Charles Babbage | jornal = Annals of The Story of Cumputing | belume = 2 | numero = 4 | paginas = 384 | eiditora = Amarican Federation of Anformation Processing Societies | local = Arlington, BA | issn = 1058-6180 | léngua = angles }}</ref><ref name=breton>{{Citar libro|url= |outor=Breton, Phelippe|titulo=Stória de la Anformática|subtítulo= |léngua= |eidiçon= |local=San Paulo |eiditora=UNESP|anho=1991|páiginas=260|páigina=68-69 |belumes= |belume= |isbn= 85-7139-021-5}}</ref> Esta máquina trataba-se dun porjeto dun cumputador porgramable de propósito giral, ampregando cartones perfurados para antrada i ua máquina d'oupor para fornecer einergie. Babbage ye cunsidrado l pioneiro i pai de la [[cumputaçon]].<ref>{{citar libro|outor=Halacy, Daniel Stephen|títalo=Charles Babbage, Father of the Cumputer|anho=1970|eiditora=Crowell-Collier Press|isbn=0-02741370-5}}</ref> [[Ada Lobelace]], filha de [[Lord Byron|''lord'' Byron]], traduziu i adicionou anotaçones al Zeinho de la Máquina Analítica.
+
+A partir çto, la tecnologie de l feturo fui eiboluindo passando pula criaçon de calculadoras balbuladas, leitores de cartones perfurados, máquinas a oupor i eilétrica, até que se cria l purmeiro cumputador digital durante la segunda guerra mundial. Passado esso, l'eiboluçon de ls ''hardwares'' ben sendo muita rápida i sofisticada. L grande ampulso de l'andústria de l ''hardware'' fui la criaçon de l'anterneta i la criaçon de çpositibos portáteles cumo telemobles i [[mp3]] ''players''.
+
+== Sistema binairo ==
+Ls [[cumputador]]s digitales trabalhan anternamente cun dous nibles de [[tenson eilétrica|tenson]], pul que l sou sistema de numeraçon natural ye l [[Sistema binairo (matemática)|sistema binairo]] (aceso, apagado).<ref name=murdoca>{{Citar libro|url= |outor=Murdoca, Miles J.; Heiuring, Bincent P|titulo=Antroduçon a la Arquitetura de Cumputadores|subtítulo= |léngua= |eidiçon= |local=Riu de Janeiro |eiditora=Campus|anho=2000|páiginas=512|páigina=8|belumes= |belume= |isbn=85-352-0684-1}}</ref> 
+
+== Conexones de l ''hardware'' ==
+Ua conexon para quemunicaçon an série ye feita atrabeç dun cabo ó grupo de cabos outelizados para trasferir anformaçones antre la [[CPU]] i un çpositibo sterno cumo l ''[[mouse]]'' i l [[Botoneira (cumputador)|botoneira]], un ''[[moden]]'', un [[digitalizador]] ([[scanner]]) i alguns tipos de [[ampressora]]. Esse tipo de conexon trasfire un ''bit'' de dado de cada beç, muitas bezes de forma lenta. La bantaige de trasmisson an série ye que ye mais eficaç la longas çtáncias.
+
+Ua conexon para quemunicaçon an paralelo ye feita atrabeç dun cabo ó grupo de cabos outelizados para trasferir anformaçones antre la [[CPU]] i un periférico cumo ''[[moden]]'' sterno, outelizado an conexones çcadas d'acesso la rede, alguns tipos de [[ampressora]]s, un [[çco rigido]] sterno dentre outros. Essa conexon trasfire uito ''bits'' de dado de cada beç, inda assi hoije an die sendo ua conexon mais lenta quea las demales.
+
+Ua conexon para quemunicaçon [[USB]] ye feita atrabeç dun cabo ó un cunjunto de cabos que son outelizados para trocar anformaçones antre la [[CPU]] i un periférico cumo [[webcan]]s, un [[botoneira cumputador]], un [[mouse]], ua [[cámera digital]], un [[pda]], un ''[[mp3 player]]''. Ó que se outelizan de la conexon para armazenar dados cumo por eisemplo un [[pen dribe]]. Las conexones [[USB]]s se tornórun mui populares debido al grande númaro de çpositibos que podien ser conetadas a eilha i l'outelizaçon de l padron PnP ([[Plug and Play]]). La conexon [[USB]] tamien permite prober l'alimentaçon eilétrica de l çpositibo conetada a eilha.
+
+== Arquiteturas de cumputadores ==
+L'arquitetura de ls cumputadores puode ser defenida cumo "las defrenças na forma de fabricaçon de ls cumputadores".
+
+Cula popularizaçon de ls cumputadores, houbo la necidade dun eiquipamiento anteragir cul outro, surgindo la necidade de se criar un padron. An meados de la década de 1980, solo dues "arquiteturas" rejistiran al tiempo i se popularizórun fúrun: l [[Cumputador pessonal|PC]] (''Personal Cumputer'' ó an pertués Cumputador Pessonal), zambolbido pula ampresa [[IBM]] i [[Macintosh]] (carinhosamente chamado de Mac) zambolbido pula ampresa [[Apple Anc.]].
+
+Cumo l [[IBM-PC]] se tornou l'arquitetura "dominante" na época, acabou tornando-se padron pa ls cumputadores que conhecemos hoije.
+
+=== Arquitetura abierta ===
+L'arquitetura abierta (atualmente mais outelizada, criada einicialmente pula IBM) ye la mais aceita atualmente, i cunsiste an permitir qu'outras ampresas fabriquen cumputadores cula mesma arquitetura, permitindo que l'usuairo tenga ua gama maior d'oupçones i puoda montar sou própio cumputador d'acuordo cun sues necidades i cun custos que se enquadren cun cada usuairo.
+
+=== Arquitetura cerrada ===
+L'arquitetura cerrada cunsiste an nun permitir l'uso de l'arquitetura por outras ampresas, ó senó tener l cuntrole subre las ampresas que fabrican cumputadores dessa arquitetura. Esso faç cun que ls cunflitos de ''hardware'' diminuan muito, fazendo cun que l cumputador funcione mais rápido i oumentando la culidade de l cumputador. Inda assi, nesse tipo d'arquitetura, l'outelizador stá restringido a scolher d'antre ls perdutos de l'ampresa i nun puode montar l sou própio cumputador.
+
+Neste momiento, la Apple nun pertence satamente a ua arquitetura cerrada, mas l'ambas las arquiteturas, sendo la única ampresa que porduç cumputadores que puoden correr l sou sistema ouperatibo de forma legal, mas tamien fazendo parte de l mercado de cumpatibles IBM.
+
+== Percipales cumponentes ==
+* 1 [[Microprocessador]] (Antel, AMD i BIA)
+* 2 [[Çco rígido]] (mimória de massa, nun bolátil, outelizada para scrita i armazenamiento de ls dados)
+* 3 [[Periféricos]] (ampressora, ''scanner'', ''webcan'', etc.)
+* 4 [[Softwares]] (sistema ouperatibo, ''softwares'' specíficos)
+* 5 [[BIOS]] ó [[EFI]]
+* 6 [[Barramiento]]
+* 7 [[Mimória RAM]]
+* 8 [[Çpositibos de multimídie]] (sonido, bídeo, etc.)
+* 9 [[Mimória auxeliar|Mimórias Auxeliares]] (hd, cdron, floppy etc.)
+* 10 [[Cache|Mimória cache]]
+* 11 Botoneira
+* 12 Mouse
+* 13 Placa-Mai
+
+== Redes ==
+
+Eesisten alguns ''hardwares'' que dependen de redes para que puodan ser outelizados, telifones, telemobles, máquinas de carton de crédito, las placas moden, ls modems ADSL i Cable, ls Acess points, roteadores, antre outros.
+
+La criaçon d'alguns ''hardwares'' capazes de conetar dous ó mais hardwares possibelitou l'eisisténcia de redes de ''hardware'', la criaçon de [[redes de cumputadores]] i de la rede mundial de cumputadores (anterneta) ye, hoije, un de ls maiores stímulos para que las pessonas adquiran ''hardwares de cumputaçon''.
+
+== ''Oberclock'' ==
+''Oberclock'' ye ua spresson sin traduçon (serie algo cumo subre-pulso (de çparo) ó inda oumiento de l pulso). Puode-se defenir l ''oberclock'' cumo l'ato d'oumentar la frequéncia d'ouparaçon dun cumponente (an giral ''[[chip]]s'') que cumpone un çpositibo ([[BGA]] ó mesmo [[CPU]]) ne l'antuito d'oubter ganho de zampenho. Eesisten bárias formas d'efetuar l ''oberclock'', ua deilhas ye por ''[[software]]'' i outra serie altarando la ''[[BIOS]]'' de l çpositibo.
+
+== Eisemplos de ''hardware'' ==
+* [[Caixas de sonido]]
+* ''[[Coler]]''
+* [[Dissipador de calor]]
+* [[CPU]] ó [[Microprocessador]]
+* [[Çpositibo d'armazenamiento]] ([[CD]]/[[DBD]]/[[Çco Blu-ray|Blu-ray]], [[Çco rígido|Çco Rídido]] (HD), ''[[pendribe]]''/[[carton de mimória]])
+* [[Stabelizador]]
+* [[Gabinete]]
+* ''[[Hub]]'' ó [[Cuncentrador]]
+* [[Ampressora]]
+* ''[[Joystick]]''
+* [[Mimória RAM]]
+* [[Microfone]]
+* [[Moden]]
+* [[Monitor]]
+* [[Mouse]]
+* ''[[Ne l Break|Ne l-Break]]'' ó [[Fuonte d'alimentaçon ininterruta]]
+* [[Placa de catura]]
+* [[Placa sintonizadora de TB]]
+* [[Placa de sonido]]
+* [[Placa de bídeo]]
+* [[Placa mai|Placa-mai]]
+* ''[[Scanner]]'' ó [[Digitalizador]]
+* [[Botoneira (anformática)|Botoneira]]
+* ''[[Webcan]]''
+
+{{Refréncias}}
+
+== Ligaçones sternas ==
+{{Correlatos
+|commons = Cumputer hardware
+|wikcionairo = hardware
+}}
+* {{Link|en|2=http://www .pthocp.net/hardware/hardware.htn|3=The story of cumputing porjet — Hardware}}
+* {{Link|en|2=http://www.apple-story .com/|3=Apple-Story}}
+* {{Link|en|2=http://www.microsoft .com/hardware/annobation/story.mspx|3=Microsoft Corporation — Stória de l Hardware}}
+* {{Link|t|2=http://docs.gogle .com/biewer?la=b&q=cache:jFIukWKN418J:www.librariacultura .com.br/eimaige/capitulo/11012714.pdf+rede+de+cumputadores&hl=t-BR&gl=br&pid=bl&srcid=ADGEEShEXmODAeRDN22dIf6AD7kp7kJZ5hcp4YgpexR3lMnDHpWY67ol7LQMeBg_GAZlhhKp6c8AloQW02_CrDDLg2_GIcU1ijXbapBMKfbeDeOAuab8b28780ywMoL6BObxHG5BlobR&sig=AHIEtbQRLX0tbm79YombEkalIcJCMTaPRg|3=Mendes, Douglas Peinha. Redes de Cumputadores. An Librarie Cultura}}
+* {{Link|t|2=http://www.hardware .com.br/artigos/eibolucao-puortas/|3=Eiboluçon de las puortas de quemunicaçon}}
+
+{{Cumputaçon}}
+{{portal3|Tecnologies d'anformaçon}}
+{{Buono anterwiki|s}}
+
+[[Catadorie:Hardware| ]]
+[[Catadorie:Eiquipamientos]]
+[[Catadorie:Anglicismos]]
+[[Catadorie:Treminologie anformática]]
+
+[[fa:سخت‌افزار رایانه]]
+[[th:อุปกรณ์คอมพิวเตอร์]]
+[[tl:Hardwer ng kompyuter]]
+[[uk:Комп'ютерна техніка]]
