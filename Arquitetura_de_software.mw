@@ -1,0 +1,93 @@
+La '''arquitetura de software''' dun sistema cunsiste na defeniçon de ls cumponentes de software, sues propiadades sternas, i sous relacionamientos cun outros [[software]]s. L termo tamien se refire a la [[documentaçon]] de l'arquitetura de software de l sistema. La documentaçon de l'arquitetura de l software facelita: la quemunicaçon antre ls [[stakeholder]]s, registra las decisones eniciales acerca de l [[porjeto]] d'alto-nible, i permite l reuso de l porjeto de ls cumponentes i padrones antre porjetos.
+
+== Antroduçon ==
+L campo de la [[ciéncia de la cumputaçon]] ten lidado cun porblemas associados, cumo la [[cumplexidade de l'anformaçon]], zde sue criaçon.<ref>{{cite web|outhor=University of Waterlo|title= La Bery Brief Story of Cumputer Science |url=http://www.cs.uwaterlo.ca/~shallit/Courses/134/story.html |date=2006|acessdate=2006-09-23}}</ref> Ls purmeiros porblemas de cumplexidade fúrun resolbidos puls zambolbedores atrabeç de la scolha de la [[estrutura de dados]], de l zambolbimiento de [[algoritmo]]s i pula aplicaçon de cunceitos de separaçon de scopos. Ambora l termo ''arquitetura de software'' seia relatibamente nuobo na andústria, ls percípios fundamentales deste campo bénen sendo aplicados sporadicamente pula [[angenharie de software]] zde l'ampeço de ls anhos 80. Las purmeiras tentatibas de caturar i splicar l'arquitetura de software de l sistema fúrun amprecisas i desorganizadas – frequentemente caratelizadas por un cunjunto de diagramas.<ref>{{cite web|outhor=IEEE Trasationes on Software Anginering|title= Antrodution to the Special Issue on Software Architeture |url=http://csdl2.cumputer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/tras/ts/&toc=cump/tras/ts/1995/04/e4toc.xml&DOI=10.1109/TSE.1995.10003
+|date=2006|acessdate=2006-09-23}}</ref> Durante l decorrer de la década de 90 houbo un sfuorço cuncentrado para defenir i codificar ls aspetos fundamentales desta deciplina. Einicialmente un cunjunto de padrones de porjeto, stilo, melhores práticas, çcriçon de [[Lenguaige de porgramaçon|lenguaiges]], i [[lógica formal]] fúrun zambolbidas durante este período.
+
+La deciplina d'arquitetura de software ye centrada na eideia de la reduçon de la cumplexidade atrabeç de l'abstraçon i separaçon d'antrisses. L glossairo de l site oufecial SOFTWARE ENGINEERING INSTITUTE (Anstituto de Angenharie de Software) <ref>{{cite web|outhor=SEI|title= Glossary?|url= http://www.sei.cmu.edu/architeture/start/glossary |date=2010|acessdate=2010-01-31}}</ref> çcribe qu'arquitetura de software ye la strutura ó estruturas dun sistema, cun todos ls eilemientos de software bendo i tenendo sues propiadades bistas por todos ls outros eilemientos i relacionamientos.
+
+Sendo l'arquitetura de sistema ua deciplina an maturaçon, sin regras claras, l'açon de l'arquiteto ye inda ua cumposiçon d'arte i ciéncia. Ls aspetos de ''[[arte]]'' de l'arquitetura de software son debidos al fato que ls sistemas de software comerciales suportan alguns aspetos dun negócio ó misson. Assi cumo l direcionamiento de negócio chabe pa l suporte ls sistemas son çcritos ne ls [[cenairo]]s cumo [[requesito nó-funcional|requesitos nó-funcionales]] de sistema, tamien coincidos cumo atributos de culidade, que detreminan cumo un sistema eirá se cumportar.<ref name="softwareqa">{{cite web|outhor=SoftwareArchitetures .com|title= Antro to Software Quality Attributes |url=http://www.softwarearchitetures .com/one/Zeigning+Architeture/78.aspx |date=2006|acessdate=2006-09-23}}</ref> Cada sistema ye único debido a la natureza de l negócio qu'el suporta, tal que l nible de ls atributos de [[culidade]] eisigidos dun sistema cumo [[cumpatibelidade]], [[stensibelidade]], [[cunfiabelidade]], [[manutenabelidade]],  [[çponibelidade]], [[sigurança]], [[usabelidade]], dentre outros – eiran bariar para cada aplicaçon sendo zambolbida.<ref name="softwareqa"/>
+
+Para trazer la perspetiba de l'usuairo para drento de l'arquitetura de software, puode-se dezir qu'essa deciplina dá la direçon de ls passos que seran tomados i las tarefas ambolbidas an cada ária de specialidade i antresse de l'usuairo, por eisemplo, ls''stakeholders'' de sistemas de software, ls zambolbedores de software, l grupo de suporte al software de l sistema ouperacional, ls testadores i ls usuairos de negócio final. Neste sentido, l'arquitetura de software se torna la ligaçon de las múltiplas perspetibas qu'un sistema traç nel ambutido. L fato de qu'estas bárias perspetibas defrentes puodan ser postas juntas nua arquitetura de software padron justifica i balida la necidade de criaçon de l'arquitetura de software antes de l zambolbimiento de l software para que l porjeto alcance la maturidade.
+
+== Stória ==
+L'ourige de l'arquitetura de software cumo un cunceito fui purmeiramente eidantificado ne l trabalho de pesquisa de [[Edsger Dijkstra]] an 1968 i [[David Parnas]] ne l'ampeço de 1970. Estes cientistas anfatizórun l'amportança de las struturas dun sistema de software i la [[criticidade]] de l'eidantificaçon de la sue strutura.<ref>{{cite web|outhor=SEI|title= Ourigines of Software Architeture Study |url= http://www.sei.cmu.edu/architeture/rots.html |date=2006|acessdate=2006-09-25}}</ref> L studo deste campo oumentou de popularidade zde l'ampeço de [[1990]] culs trabalhos de pesquisa cuncentrando-se ne ls [[padrones]] de stilo d'arquitetura, lenguaiges de çcriçon d'arquitetura, documentaçon d'arquitetura, i métodos formales.<ref>{{cite web|outhor=Garlan & Shaw |title= An Antrodution to Software Architeture |url= http://www.cs.cmu.edu/afs/cs/porjet/able/ftp/antro_softarch/antro_softarch.pdf |date=2006|acessdate=2006-09-25}}</ref> Muitas anstituiçones de pesquisa tales cumo la [[Carnegie Mellon University]] i la [[University of California, Irbine]] stában rializando muitas pesquisas ne l campo de l'arquitetura de software. Mary Shaw i David Garlan de la [[Carnegie Mellon]] screbírun un libro antitulado ''Software Architeture: Perspetibes on an Eimerging Decipline'' an [[1996]], l qual trazie a tona cunceitos de l'arquitetura de software, tales cumo [[cumponente software|cumponentes]], conexones, stilos, etc. Ls sfuorços de l UCI's (Anstitute fur Software Research) na pesquisa de l'arquitetura de software fúrun einicialmente direcionados pa ls stilos d'arquitetura, çcriçones de lenguaiges d'arquitetura, i arquiteturas dinámicas.
+
+''[[IEEE 1471|ANSI/IEEE 1471-2000: Recommended Pratice fur Architeture Çcrition of Software-Antensibe Systems]][http://en.wikipedie.org/wiki/IEEE_1471]'' fui la purmeira [[norma padron]] na ária d'arquitetura de software, i fui recentemente adotada pul ISO cumo ''[[IEEE 1471|ISO/IEC DIS 25961]]''.
+
+== Çcribendo arquiteturas ==
+=== Lenguaige de çcriçon d'arquitetura ===
+Las [[Lenguaige de çcriçon d'arquitetura|Lenguaiges de çcriçon d'arquitetura]] (LDAs) son ousadas para çcrebir l'arquitetura de software. Bárias LDAs çtintas fúrun zambolbidas por defrentes ourganizaçones, ancluindo [[Wright (ADL)|Wright]] (zambolbido por Carnegie Mellon), Acme (zambolbido por Carnegie Mellon), xADL (zambolbido por UCI), Darwin (zambolbido por [[Amperial College London]]), DAOP-ADL (zambolbido pula University of Málaga). Eilemientos quemuns dua LDA son [[cumponente software|cumponente]], conexon i cunfiguraçon.
+
+=== Bisones ===
+L'arquitetura de software ye normalmente ourganizada an bisones<ref name="documentaçon">{{Refréncia a libro
+ | Outor = Clements, Paul
+ | Coautores= Felix Bachmann, Len Bass, David Garlan, James Ibers, Red Little, Robert Nord, Judith Stafford
+ | Títalo = Documenting Software Architetures: Biews and Beyond
+ | Eidiçon = 2
+ | Local de publicaçon = Boston
+ | Eiditora = Addison-Wesley
+ | Anho = 2003
+ | Páiginas = pp. 13-15
+ | ID = ISBN 0201703726 }}</ref>, las quales son análogas als defrentes tipos de [[Planta baixa|plantas]] outelizadas ne l stablecimiento de la [[arquitetura]]. Na [[Ontologie (ciéncia de la cumputaçon)|Ontologie]] establecida pula [[Iee 1471|ANSI/IEEE 1471-2000]], ''bisones'' son anstáncias de ''puntos de bista'', adonde cada punto de bista eisiste para çcrebir l'arquitetura na perspetiba dun cunjunto de stakeholders i sous cunsurtes.
+
+Alguas possibles bisones son:
+* Bison funcional/lógica
+* Bison de código.
+* Bison de zambolbimiento/strutural
+* Bison de cuncorréncia/[[porcesso]]/''[[thread (ciéncia de la cumputaçon)|thread]]''
+* Bison física/eibolutiba
+* Bison d'açon de l'usuairo/''[[fedback|retorno]]''
+
+Bárias lenguaiges para çcriçon de l'arquitetura de software fúrun ambentadas, mas nanhun cunsenso fui inda alcançado an relaçon la qual cunjunto de simblos ó sistema de repersentaçon debe ser adotado. Alguns acraditan que la [[UML]] eirá stablecer un padron para ''repersentaçon d'arquitetura de software''. Outros acraditan que ls zambolbimientos efetibos de software dében cuntar cula cumprenson única de las restriçones de cada porblema, i notaçones tan ounibersales son cundenadas a un final anfeliç porque cada ua probé ua [[notaçon defrenciada]] que necessariamente torna la notaçon inútil ó peligrosa para alguns cunjuntos de tarefas. Eilhes apuntan la proliferaçon de [[lenguaige de porgramaçon|lenguaiges de porgramaçon]] i la sucesson de tentatibas falhas para ampor ua simples 'lenguaige ounibersal' na porgramaçon, cumo ua proba de la tendéncia de l software pa la dibersidade i nun pa ls padrones.
+
+=== Padrones d'arquitetura ===
+* [[DODAF]] [http://en.wikipedie.org/wiki/Department_of_Defense_Architeture_Framework]
+* [[MODAF]] [http://en.wikipedie.org/wiki/MODAF]
+* [[TOGAF]] [http://en.wikipedie.org/wiki/TOGAF]
+* [[Zachman framework]] [http://en.wikipedie.org/wiki/Zachman_framework]
+* [[Federal Enterprise Architeture]] [http://en.wikipedie.org/wiki/Federal_Enterprise_Architeture]
+
+== Eisemplos d'arquitetura ==
+Hai muitas formas quemuns de porjetar módulos de software de cumputador i sues quemunicaçones, antre eilhas:
+* [[Cliente-Serbidor]]
+* [[Cumputaçon çtribuída]]
+* [[P2P]]
+* [[Quadro Negro (cumputaçon)|Quadro Negro]]
+* [[Criaçon amplícita]]
+* [[Pipes i filtros]]
+* [[Plugin]]
+* [[Aplicaçon monolítica]]
+* [[Modelo an trés camadas]]
+* [[Analise de sistema struturada]] (baseada an módulos, mas usualmente monolíticas an drento de ls módulos)
+* [[Serbice-ouriented architeture|Arquitetura ourientada la serbício]]
+* [[Arquitetura ourientada la busca]]
+
+{{Refréncias|Notas i Refréncias}}
+
+== {{Ber tamien}} ==
+* [[Padron de porjeto de software|Padrones de porjeto de software]]
+* [[Antipadrones de software]]
+* [[Modelaige de dado padron|Modelaiges de dados padrones]]
+* [[Matriç de strutura de dependéncia]]
+* [[Arquitetura de negócio]]
+* [[Arquitetura de dados]]
+* [[Arquitetura de porcesso]]
+* [[Arquiteto de software]]
+
+== {{Ligaçones sternas}} ==
+*[http://www.sei.cmu.edu/architeture/defenitiones.html Software architeture defenitiones at Carnegie Mellon University Software Anginering Anstitute]
+* [http://eden-study.org/articles/2003/icse03.pdf Software architeture bs. software zeign]
+* [http://www.wwisa.org/ Worldwide Anstitute of Software Architets]
+* [http://www.boch .com/architeture/andex.jsp Grady Boch's [[Handbook of Software Architeture]] porjet]
+* [http://www.SoftwareArchitetures .com SoftwareArchitetures .com [[Andependent resource of anformation on the decipline]]]
+* [http://www.iasahome.org/ Anternational Association of Software Architets]
+* [http://www.architetureijournal.net/ Microsoft Architeture Journal]
+* [http://pangeanet.org/ Pangea - Professional and Academic Network to the Growing and Eibolution of Architeture (Pertuese)]
+* [http://blog.oto .com/t-br/ Blog de la OCTO Technology Brasil, ampresa de cunsultoria an Arquitetura de Sistemas de Anformaçon]
+
+{{Angenharie de software}}
+{{Porcesso de zambolbimiento de software}}
+
+{{DEFAULTSORT:Arquitetura Software}}
+[[Catadorie:Angenharie de software]]
