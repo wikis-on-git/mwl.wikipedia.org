@@ -1,0 +1,170 @@
+La '''codificaçon [[binairo|binária]] [[decimal]]''' ó '''codificaçon binária''', tamien coincida cumo '''BCD''' ('''Binary-coded decimal'''), ye un sistema de numeraçon mui outelizado na [[Anformática]], assi cumo na [[Matemática]], i an [[sistema digital|sistemas digitales eiletrónicos]]. Stamos falando dun sistema de base dous i posicional, ó seia, outelizando solo dous algarismos: l 0 (zero) i l 1 (un). <ref> "L Sistema Binário" de DIEGO, Darlan, Çponíbel an http://www.ouficinadanet .com.br/artigo/1347/l_sistema_binario </ref> La cumbinaçon de posiçones defrentes corresponde a un nuobo balor, de forma semelhante al sistema de numeraçon decimal. La forma de repersentaçon puode ser outelizando un [[nibble]] de 4 [[bit]]s, ó un [[Byte|byte]] de 8 bits. L nibble ye normalmente l padron de codificaçon decimal outelizado an muitos [[circuitos antegrados]]. Tamien ye l formato anterno de numerales ousado na lenguaige [[Cobol]] i an sistemas de quemunicaçon de dados, bisando cumpataçon d'anformaçones puramente numéricas.
+
+== Stória ==
+Las purmeiras ceblizaçones siempre se preocupórun an criar un sistema de numeraçon simples para rializar ouparaçones básicas de la 
+Matemática an fatos cotidianos. Las ouriges de l Sistema binairo son çconhecidas, mas eisisten relatos de que por buolta de 3000 a.C.  la China yá outelizaba esse sistema para cuntaiges, somatórias, antre outras ouparaçones básicas de la Matemática.
+Mas, l Sistema Binário solo passou a ser outra beç liebantado an pauta 46 seclos depuis cul cientista i angenheiro alman [[Gottfried Wilheln Leibniç]], que para alhá de defender esse Sistema de Numeraçon, aperfeiçou i formalizou dibersas cumbinaçones binárias pa la repersentaçon de nuobos númaros, auxeliando mais tarde, las purmeiras [[Lenguaiges de Porgramaçon]]. <ref> Capítulo 7 - MARTINS, João Paulo Goubeia, FIGUEIREDO, Rui i VAZ, Nuno Ricardo Eilias an: "La Stória de ls Númaros", Çponíbel an http://t.scribd .com/doc/31222298/56/Storia-de l-Sistema-Binario </ref>
+Mais dun seclo depuis, [[George Vole]] retomou ls studos de [[Gottfried Wilheln Leibniç|Leibniç]], aperfeiçoando alguns cunceitos i antroduzindo l Sistema Binário an [[Sistemas Digitales]]. Mais tarde inda, [[George Bole]] zambolberie la [[Álgebra Boleana]], fundamental an dibersas árias de la [[Cumputaçon]] <ref> Biografie de George Bole - Wikipédia - http://t.wikipedie.org/wiki/George_Bole </ref>.
+
+== Defeniçon ==
+L sistema binairo ye cumpuosto por dous algarismos fundamentales: l 0 (zero) i l 1 (un), adonde sues posiçones andican l balor spresso. Segundo [[Leibniç]], l cunceito de 0 (zero) ne l Sistema Binário serie l nó, bazio, nada, l'auséncia de corriente na [[Lógica digital|Lógica Digital]], ó l false(falso) na [[Álgebra de Bole|Algébra de Bole]] , yá l 1 (un) serie l'ouposto, l si, todo, Dius ne l cunceito de [[Leibniç]], la persença de corriente eilétrica na [[Lógica digital|Lógica Digital]], ó l true(berdadeiro) na [[Álgebra de Bole|Algébra de Bole]].
+Defrentemente de la [[Sistema decimal|base decimal]], ls númaros ne l Sistema Binário son lidos ambersamente, ó seia, de la dreita para squierda, adonde cada dígito recibe l nome de bit ([[Bit|Binary Digit]]), yá un [[byte]] ye cumpuosto por uito bits (ua sequéncia binária d'uito dígitos) i a partir d'anton segue: 1 [[KB]] (1024 bytes), 1[[MB]] (1024 KB), i assi sucessibamente.
+La tabela a seguir eilustra alguas cumbersones de l Sistema Binário pa l Sistema Decimal. <ref> Çponíbel an: http://student.dei.uc .pt/~jsilba/anformaticabasica/cumputador/anformacao/binario.html </ref>
+{| class="wikitable"
+|-
+! Sistema Decimal !! Sistema Binário
+|-
+| 0 || 0000
+|-
+| 1 || 0001
+|-
+| 2 || 0010
+|-
+| 3 || 0011
+|-
+| 4 || 0100
+|-
+| 5 || 0101
+|-
+| 10 || 1010
+|-
+| 100 || 1100100
+|-
+| 1000 || 1111101000
+|}
+
+I assi segue ua sequéncia linear de posiçones, adonde cada cumbinaçon de la posiçon de ls bits anflige na formaçon dun nuobo algarismo.
+
+== Cumbersones ==
+
+La cumberson para outras bases ye fundamental ne l Sistema Binário, an alguas [[calculadora]]s, por eisemplo, ocorre ua cumberson de ls [[Algarismo|algarismos]] anformados pul usuairo para base binária para eisecuçon de la [[Ouparaçones Matemáticas|ouparaçon matemática]], i passado esso hai ua nuoba cumberson para base decimal para eisibiçon de l resultado.<ref> Çponíbel an: http://wwwusers.rdc.puc-riu.br/rmano/rd8bcd.html </ref>
+Ne l sistema binairo, la posiçon dun bit ye fundamental na cumberson para outra base. L purmeiro bit la dreita (l radadeiro ne l sistema decimal) corresponde a la posiçon 0  (zero), l segundo bit la dreita a la posiçon 1 (un) i assi sucessibamente.
+Eisemplo: <br>
+		1 <sup>3</sup> 0 <sup>2</sup> 0 <sup>1</sup> 0 <sup>0</sup>
+
+
+Nesse eisemplo l 1 (un) “acupa” la posiçon 3, l purmeiro 0 (zero) la posiçon 2, l segundo 0 (zero) la posiçon 1 i l radadeiro 0 (zero) la posiçon 0.
+
+
+Para alhá de la necidade funcional, l porcesso de cumberson antre ua base i outra ye fundamental pa l'uso de l'anformaçon, pus ne l Sistema de numeraçon binairo, a partir de cierto balor, passamos a tener muitas posiçones, l que torna cálclo i la leitura de ls númaros cada beç mais cumplexos. Las cumbersones mais quemuns son de binairo pa las bases: [[Sistema de numeraçon otal|otal]], [[Sistema de numeraçon decimal|decimal]] i [[heixadecimal]].
+
+=== Binário - Otal ===
+
+La cumberson de binairo para [[Sistema de numeraçon otal|Otal]] outeliza l seguinte porcesso <ref> "Sistemas de Numeraçon
+Cumberson Antre Bases" de STEINMACHER, Eigor - Aula 02 - Slides 6 a a 8 - Çponíbel an: http://eigor.pro.br/utfpr/2009/utfpr/arquibos/IM21A0/aula02.pdf </ref>:
+
+<b> 1 - Agrupa-se l númaro binairo an 3 bits: </b> <br>
+10101001 &rarr; 10     -     101    -      001
+
+
+<b> 2 - Soma-se ls perdutos, de la base 2( dous) eilebado a la posiçon eiquibalente: </b> <br>
+* la) 10 =  [(1 x 2<sup>1</sup>) + (0 x 2<sup>0</sup>)] = (2 + 0) = <b> 2 </b> <br>
+* b) 101 = [(1 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup>)] = (4 + 0 + 1) = <b> 5 </b> <br>
+* c) 001 = [(0 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup>)] = (0 + 0 + 1) = <b> 1 </b> <br>
+
+
+<b> 3 - Junta-se las somas: </b> <br>
+A seguir, junta-se las somas de la purmeira ouparaçon rializada até la radadeira, ne l causo citado(2, 5, 1), formando l'algarismo 251 na base otal.
+
+L'ouparaçon ambersa segue ls seguintes passos:
+
+<b> 1 – Sepa ls algarismos de l númaro na base [[Sistema de numeraçon otal|Otal]]: </b> <br>
+251 &rarr;  2     -      5      -     1 
+
+
+<b> 2 – Cumberte-se cada un desses algarismos para sou respetibo númaro binairo de 3 bits: </b> <br>
+* la) 2 = 010
+* b) 5 = 101
+* c) 1 = 001
+
+<b> 3 - Junta-se las somas: </b> <br>
+A seguir, junta-se las somas de la purmeira ouparaçon rializada até la radadeira, ne l causo citado(010, 101, 001), formando l'algarismo 010101001 ó simplesmente 10101001 na base binária.
+
+=== Binário - Decimal ===
+
+La cumberson de binairo para [[Sistema de numeraçon decimal|Decimal]] outeliza l seguinte porcesso <ref> "Sistemas de Numeraçon" de STEINMACHER, Eigor - Aula 01 - Slides 3 a a 19 - Çponíbel an: http://eigor.pro.br/utfpr/2009/utfpr/arquibos/IM21A0/aula01.pdf </ref> <ref> Çponíbel an: http://www.raymundodeolibeira.ang.br/binario.html </ref>:
+
+
+<b> 1 - Separa-se cada bit de l númaro binairo: </b> <br>
+1010 &rarr;  1   -    0   -    1    -    0
+
+
+<b> 2 - Soman-se ls perdutos de la base dous eilebados la respetiba posiçon: </b> <br>
+* la) 0 x 2<sup>0</sup> = <b> 0 </b> <br> 
+* b) 1 x 2<sup>1</sup> = <b> 2 </b> <br>
+* c) 0 x 2<sup>2</sup> = <b> 0 </b> <br>
+* d) 1 x 2<sup>3</sup> = <b> 8 </b>  
+
+
+<b> 3 - Soma-se ls resultados oubtidos: </b> <br>
+Cumo trata-se dua soma, tanto faç la sequencia de ls resultados(0, 2, 0, 8), lougo 0 + 2 + 0 + 8, que corresponde la <b> 10 </b> ne l [[Sistema de numeraçon decimal|sistema decimal]].
+
+
+L'ouparaçon ambersa segue ls seguintes passos:
+
+<b> 1 - Debedimos l'algarismo na base decimal por 2, até l sou resto ser eigual a 1 i sou quociente ser eigual a zero. </b> <br>
+
+
+<math> \frac{23}{2} </math> = <b> 11 </b>  - Resto = <b> 1 </b>
+
+
+<math> \frac{11}{2} </math> = <b> 5 </b>  - Resto = <b> 1 </b>
+
+
+<math> \frac{5}{2}  </math> = <b> 2 </b>  - Resto = <b> 1 </b>
+
+
+<math> \frac{2}{2}  </math> = <b> 1 </b>  - Resto = <b> 0 </b> 
+
+
+<math> \frac{1}{2}  </math> = <b> 0 </b>  - Resto = <b> 1 </b> 
+
+
+<b> 2 - Junta-se ls restos de la radadeira debison até la purmeira: </b> <br>
+Nesse causo, (1, 0, 1, 1, 1), forman l'algarismo 10111 de la base binária que corresponde al algarismo 23 de la base decimal.
+
+=== Binário - Heixadecimal ===
+
+La cumberson de binairo para [[heixadecimal]] outeliza l seguinte porcesso <ref> "Sistemas de Numeraçon
+Cumberson Antre Bases" de STEINMACHER, Eigor - Aula 01 - Slides 9 a a 18 - Çponíbel an: http://eigor.pro.br/utfpr/2009/utfpr/arquibos/IM21A0/aula02.pdf </ref>:
+
+
+<b> 1 - Agrupa-se l númaro binairo an 4 bits: </b> <br>
+10101001 &rarr; 1010      -       1001
+
+
+<b> 2 - Soma-se ls perdutos, de la base 2( dous) eilebado a la posiçon eiquibalente: </b> <br>
+
+
+* la) 1010 = [(1 x 2<sup>3</sup>) + (0 x 2<sup>2</sup>) + (1 x 2<sup>1</sup>) + (0 x 2<sup>0</sup>)] = (8 + 0 + 2 + 0) = <b> 10  = La </b> <br>
+* b) 1001 = [(1 x 2<sup>3</sup>) + (0 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup>)] = (8 + 0 + 0 + 1) = <b> 9 </b> <br>
+
+
+<b> 3 - Junta-se las somas: </b> <br>
+A seguir, junta-se las somas de la purmeira ouparaçon rializada até la radadeira, ne l causo citado(La, 9), formando l'algarismo A9 na base heixadecimal.
+
+L'ouparaçon ambersa segue ls seguintes passos:
+
+
+<b> 1 – Sepa ls algarismos de l númaro na base heixadecimal: </b> <br>
+C13 &rarr;  C     -      1     -      3
+
+
+<b> 2 – Cumberte-se cada un desses algarismos para sou respetibo númaro binairo de 4 bits: </b> <br>
+* la) C = 12 = 1100 <br>
+* b) 1    = 0001 <br>
+* c) 3    = 0011 <br>
+
+
+<b> 3 - Junta-se las somas: </b> <br>
+A seguir, junta-se las somas de la purmeira ouparaçon rializada até la radadeira, ne l causo citado(1100, 0001, 0011), formando l'algarismo 110000010011 na base binária.
+
+{{refréncias}}
+
+== Ber tamien ==
+* [[Binário]]
+* [[Sistema digital]]
+
+{{rabisco-anformática}}
+
+[[Catadorie:Aritmética cumputacional]]
