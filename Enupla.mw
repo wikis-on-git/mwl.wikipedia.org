@@ -1,0 +1,27 @@
+{{Sin-fuontes|data=márcio de 2011| angola=| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+
+Ua '''enupla''' (tamien coincida cumo ''m-tuplo'', ó ''m-upla'') ye ua [[sequéncia]] ourdenada de ''m'' eilemientos, que puode ser defenida pula recurson de l '''[[par ourdenado]]'''.
+
+Las percipales propiadades que çtinguen ua enupla dun [[cunjunto]] son:
+* Ua enupla puode cunter un oubjeto mais dua beç.
+* Ls oubjetos son repersentados oubrigatoriamente na orde dada.
+
+Debe notar-se que la purmeira de las caratelísticas çtinguen ua enupla dun [[cunjunto ourdenado]] i la segunda, dun [[multiconjunto]]. 
+
+== Causos particulares ==
+Quando m = 2, podemos chamar la sequéncia de dupla; para m = 3, de terna …
+
+=== Eisemplo ===
+Cunsidre la [[eiquaçon]] <math> 2x_1 + x_2 = 0 </math>. La m-upla <math>(1,-2)</math> (que neste causo podemos chamar simplesmente de dupla) ye soluçon de l'eiquaçon. Note que la dupla <math>(-2,1)</math> nun ye soluçon de l'eiquaçon, antoce l'orde de ls eilemientos, de fato, ye amportante.
+
+== Uso an anformática ==
+Un tuplo ye un local d'armazenamiento pequeinho i temporairo drento de l [[processador]] central. Cada linha dun [[banco de dados]], formada por un cunjunto de colunas, repersenta un registro (ó tupla). Ls registros nun percisan necessariamente cunter dados an todas las colunas, ls sous balores puoden ser nulos.
+
+== {{Ber tamien}} ==
+* [[Par ourdenado]]
+* [[Perduto cartesiano]]
+
+[[Catadorie:Admenistraçon de dados]]
+[[Catadorie:Sucessones]]
+[[Catadorie:Notaçon matemática]]
+[[Catadorie:Teorie de ls tipos]]
