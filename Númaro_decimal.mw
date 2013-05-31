@@ -5,7 +5,7 @@ Ls númaros decimales ténen ourige nas fraçones decimales. Por eisemplo, la fr
 
 [[Simon Stebin|Stebin]], [[angenheiro]] i [[matemático]] [[Houlanda|houlandés]], an [[1585]] eilaborou un método para efetuar ouparaçones por meio de númaros [[anteiro]]s, sin l'uso de [[fraçon|fraçones]], ne l qual ourdenaba ls númaros naturales subre ls algarismos de l numerador, l qu'andicaba la posiçon a ser acupada pula bírgula ne l numeral decimal.
 
-<math>\frac{1532}{1000} = </math><sup><math> \begin{matrix}  &  & 1 & 2 & 3\\1&, & 5 & 3 & 2\and{matrix}</math></sup>
+<math>\frac{1532}{1000} = </math><sup><math> \begin{matrix}  &   & 1 & 2 & 3\\1&, & 5 & 3 & 2\end{matrix}</math></sup>
 
 La repersentaçon probeniente de fraçones decimales recebie un traço ne l numerador andicando l númaro de zeros eisistentes ne l chamador.
 
@@ -114,7 +114,7 @@ Para multiplicarmos un ó dous númaros cun bírgula, efetuamos la multiplicaço
 
 S: 1,25 X 0,56 = 0,7000
 
-<math> \begin{matrix} 1{,}25 \\ \frac{X  0,56}{0,7000}\and{matrix} </math>
+<math> \begin{matrix} 1{,}25 \\ \frac{X  0,56}{0,7000}\end{matrix} </math>
 
 ===== Justificatiba =====
 To l númaro decimal [[racional]] puode ser repersentado por ua [[fraçon]]. Bamos repersentar 1,25 i 0,56 dessa maneira.
