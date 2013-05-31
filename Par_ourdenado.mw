@@ -1,6 +1,6 @@
 {{sin-fuontes|data=Márcio de 2012}}
 Antuitibamente, un '''par ourdenado''' cunsiste de dous eilemientos, dígamos ''la'' i ''b'', de ls quales un, dígamos ''la'', ye zeignado cumo purmeiro eilemiento i l'outro cumo segundo eilemiento. Un par ourdenado ye zeignado por <math>(la,b)</math>.
- dous pares ourdenados <math>(la,b)</math> i <math>(c,d)</math> son eiguales se, i solamente se, <math>la = c</math> i <math>b = d</math>
+dous pares ourdenados <math>(la,b)</math> i <math>(c,d)</math> son eiguales se, i solamente se, <math>la = c</math> i <math>b = d</math>
                          
 <math>(la, b) = (c, d)</math> ↔ <math>(la = c</math> i <math>b = d)</math>
 
@@ -77,15 +77,15 @@ Ambertido: ''(la, b)'' Ambertido = ''<math>{{b}, {la, b}} = {{b}, {b, la}}</math
 Rosser (1953) usou stensibamente ua defeniçon de par ourdenado debido la [[Willard ban Orman Quine]]. La defeniçon de Quine-Rosser requer ua defeniçon prébia de ls númaros naturales tal cumo la seguinte:
 :Tome ''Nn'' cumo l cunjunto de ls [[númaros naturales]], i defina
 <br />
-:: <math>\barphi(x) = \{ ç : \eisists{y}{\in}{x} : ({y}{\in}{Nn} \and {ç}{=}{y}{+}{1}) \or ({y}{\notin}{Nn} \and {ç}{=}{y}) \}.</math>
+:: <math>\varphi(x) = \{ z : \exists{y}{\in}{x} : ({y}{\in}{Nn} \and {z}{=}{y}{+}{1}) \or ({y}{\notin}{Nn} \and {z}{=}{y}) \}.</math>
 <br />
 φ(''x'') cunten l sucessor de cada númaro natural an ''x'', junto cun todos ls númaros nun naturales de ''x''. an particular, φ(''x'') nun cunten l númaro 0, de modo que para alguns cunjuntos ''La'' i ''B'', 
 <br />
-:<math>\barphi(La) \not= \{0\} \cup \barphi(B)</math>.
+:<math>\varphi(La) \not= \{0\} \cup \varphi(B)</math>.
 <br />
 Defenir l par ourdenado ''(La, B)'' por 0 sendo cuntíguo cun cada eilemiento de l φ(B), formando anton a l'ounion de l resultado cun φ (La):
 <br />
-:<math>(La,B) = \barphi(La) \cup \{x : \eisists y \in\barphi(B) : x = y\cup\{0\} \}</math>
+:<math>(La,B) = \varphi(La) \cup \{x : \exists y \in\varphi(B) : x = y\cup\{0\} \}</math>
 <br />
 Straindo todos ls eilemientos de l par que nun cunténen 0 tenemos ''La''. De l mesmo modo, ''B'' puode ser recuperado straindo todos ls eilemientos de l par que cunténen 0. 
 
@@ -96,7 +96,7 @@ Antoce, ua funçon defenida cumo un cunjunto de pares ourdenados, ten un tipo ma
 === Defeniçon de Morse ===
 La [[Morse-Kelley set theory|teorie de ls cunjuntos de Mose-Kelley]], defenida por Morse an 1965, faç libre uso de classes própias. Morse defeniu ls pares ourdenados desta maneira para permitir sue projeçon ser tanto classes própias quanto ne ls cunjuntos (la defeniçon de (Kuratowski nun permite esso). Defeniu purmeiramente ls pares requesitados cujas las projeçones son 
 Cunjuntos na maneira de Kuratowski 
-jogos na maneira de Kuratowski. El anton redefeniu l par ''(x, y)'' cumo<math>(x \eiquipas \{0\}) \cup (y \eiquipas \{1\})</math> , adonde ls cumponentes de ls perdutos cartesianos son pares de Kuratowski an cunjuntos. Esta segunda etapa rende possibles pares cujas projeçones son própias classes. La defeniçon de Rosser an seçon anterior admite tamien las própias classes cumo projeçones.
+jogos na maneira de Kuratowski. El anton redefeniu l par ''(x, y)'' cumo<math>(x \times \{0\}) \cup (y \times \{1\})</math> , adonde ls cumponentes de ls perdutos cartesianos son pares de Kuratowski an cunjuntos. Esta segunda etapa rende possibles pares cujas projeçones son própias classes. La defeniçon de Rosser an seçon anterior admite tamien las própias classes cumo projeçones.
 
 === Teorie de las catadories ===
 [[Perduto]] ye la noçon de la [[teorie de las catadories]] mais similar a la dun par ourdenado. Anquanto un númaro d'oubjetos puode fazer l papel de pares, eilhes son todos eiquibalentes quanto a la séren categoricamente [[eisomorfismo|eisomórficos]].
