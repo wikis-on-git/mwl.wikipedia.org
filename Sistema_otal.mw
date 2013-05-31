@@ -1,0 +1,155 @@
+{{Sistemas numéricos}}
+
+'''Sistema Otal''' ye un [[sistema de numeraçon]] cuja base ye 8, ó seia, outeliza 8 simblos pa la repersentaçon de cantidade. Ne l'oucidente, estes simblos son ls [[algarismos arábicos]]:
+0 1 2 3 4 5 6 7
+
+L'otal fui mui outelizado an anformática cumo ua altarnatiba mais cumpata al [[Sistema binairo (matemática)|binairo]] na porgramaçon an [[Código de máquina|lenguaige de máquina]]. Hoije, l [[sistema heixadecimal]] ye mais outelizado cumo altarnatiba al binairo.
+
+Este sistema tamien ye un [[Notaçon posicional|sistema posicional]] i la posiçon de sous [[algarismo]]s detreminada an relaçon a la bírgula decimal. Causo esso nun ocorra, supone-se amplicitamente colocada a la dreita de l númaro.
+
+La [[aritmética]] desse sistema ye semelhante la de ls sistemas [[Sistema decimal|decimal]] i binairo, l motibo pul qual nun será apersentada.
+
+ Eisemplo:
+ - Qual l númaro decimal repersentado pul númaro otal 4701?
+   Outelizar l [[TFN]].
+ 4 x 8³ + 7 x 8² + 0 x 8¹ + 1 x  8° =
+ = 2048 + 448 + 0 + 1 = 2497
+
+== Cumbersones dun sistema para outro ==
+=== Cumberson Decimal – Otal ===
+==== Método de multiplicaçones sucessibas por 8 ====
+Ye outelizado para cumberter ua fraçon decimal pa l sistema otal. Multiplica-se la fraçon decimal por 8, oubtendo-se na parte anteira de l resultado l purmeiro dígito de la fraçon otal resultante. L porcesso ye repetido sucessibamente cula parte fracionária de l resultado para oubter ls dígitos seguintes i tremina quando la parte fracionária ye nula ó anferior a la medida d'erro specificada.
+
+Eisemplo:
+ Cun decimal 0.140625 an otal.
+ 0.140625 x 8 = 1.125
+
+ 0.125 x 8 = 1.0
+ Cumbinamos ls dous métodos anteriores podemos cumberter para otal númaros decimales cun parte anteira i fracionária.
+
+==== Método de Dibisones sucessibas por 8 ====
+Ye outelizado para cumberter ua fraçon decimal pa l sistema otal. Debedi-se la fraçon decimal por 8, oubtendo-se na parte anteira de l resultado l purmeiro dígito de la fraçon otal resultante. L porcesso ye repetido sucessibamente cula parte fracionária de l resultado para oubter ls dígitos seguintes i tremina quando la parte fracionária ye nula ó anferior a a 8 neste causo
+ Eisemplo: 61 /8 = 7 resto 5 => 61(decimal) = 75(otal)
+
+=== Cumberson Otal – Decimal ===
+Eesisten bários métodos, sendo mais quemumente outelizado l probeniente de l TFN, an que se faç la cumberson de forma direta atrabeç de la fórmula.
+
+Eisemplo:
+ Cumberter l númaro otal 764 pa l sistema decimal
+ 764 (8) = 7 x 8² + 6 x 8¹ + 4 x 8°  = 448 + 48 + 4 = 500 (10)
+
+=== Cumberson Heixadecimal – Binário ===
+Quando eisistir necidade de cumberter númaros heixadécimales an binairos, debe-se apartar cada dígito de l númaro heixadécimal i sustituí-lo pul sou balor correspondente de binairo.
+
+Eisemplo:
+ Cumberter l númaro heixadecimal 1572  an binairo.
+
+ Lougo, 1 5 7 2   =  0001 0101 0111 0010
+
+==== Cumberson Binário – Otal ====
+Para cumberter un númaro binairo an otal, eisecuta-se l porcesso amberso al anterior. Agrupan-se ls dígitos binairos de 3 an 3 de l punto decimal de la dreita pa la squierda, sustituindo-se cada trio de dígitos binairos pul eiquibalente dígito otal.
+
+Por eisemplo, la cumberson de l númaro binairo 1010111100 an otal:
+
+{| border="1"
+|- align="center"
+| 001 || 010 || 111 || 100
+|- align="center"
+| 1 || 2 || 7 || 4
+|}
+
+Assi, ten-se 1010111100<sub>bin</sub> = 1274<sub>ot</sub>
+
+==== Cumberson Otal – Heixadecimal ====
+Para esta cumberson ye necessairo eisecutar un passo antermediairo outelizando l sistema binairo. Purmeiramente cumberte-se l númaro otal an binairo i depuis cumberte-se l binairo pa l sistema heixadecimal, agrupando-se ls dígitos de 4 an 4 i fazendo cada grupo corresponder a un dígito heixadecimal.
+
+Por, eisemplo, la cumberson l númaro otal 1057 an heixadecimal:
+
+:Passaige al binairo:
+:{| border="1"
+|- align="center"
+| 1 || 0 || 5 || 7
+|- align="center"
+| 001 || 000 || 101 || 111
+|}
+
+:Passaige al heixadecimal:
+:{| border="1"
+|- align="center"
+| 0010 || 0010 || 1111
+|- align="center"
+| 2 || 2 || F
+|}
+
+Assi, ten-se 1057<sub>ot</sub> = 22F<sub>heix</sub>
+
+==== Cumberson Heixadecimal – Otal ====
+Esta cumberson, assi cula anterior, eisige un passo antermediairo an que se outeliza l sistema binairo. Cumberte-se l númaro heixadecimal an binairo i este an otal.
+
+Eisemplo:
+ Cumberter l númaro heixadecimal 1F4 an otal.
+:{| border="1"
+|- align="center"
+| 1 || F || 4
+|- align="center"
+| 0001 || 1111 || 0100
+|}
+
+Cumberson para otal
+:{| border="1"
+|- align="center"
+| 0 || 7 || 6 || 4
+|- align="center"
+| 000 ||111|| 110 ||100
+|}
+
+== Tabela de balores ==
+{| border="1"
+|-
+! N.º Decimal 10
+! N.º Binário 2
+! N.º Heixadecimal 16|| N.º Otal 8
+|- align="right"
+| 0 || 0 || 0 || 0
+|- align="right"
+| 1 || 1 || 1 || 1
+|- align="right"
+| 2 || 10 || 2 || 2
+|-  align="right"
+| 3 || 11 || 3 || 3
+|- align="right"
+| 4 || 100 || 4 || 4
+|- align="right"
+| 5 || 101 || 5 || 5
+|- align="right"
+| 6 || 110 || 6 || 6
+|- align="right"
+| 7 || 111 || 7 || 7
+|- align="right"
+| 8 || 1000 || 8 || 10
+|- align="right"
+| 9 || 1001 || 9 || 11
+|- align="right"
+| 10 || 1010 || La || 12
+|- align="right"
+| 11 || 1011 || B || 13
+|- align="right"
+| 12 || 1100 || C || 14
+|- align="right"
+| 13 || 1101 || D || 15
+|- align="right"
+| 14 || 1110 || I || 16
+|- align="right"
+| 15 || 1111 || F || 17
+|- align="right"
+|}
+
+== {{Ber tamien}} ==
+* [[Sistema binairo (matemática)|Sistema binairo]]
+* [[Sistema decimal]]
+* [[Sistema heixadecimal]]
+* [[Cumberson antre sistemas numéricos]]
+
+{{DEFAULTSORT:Sistema Otal}}
+[[Catadorie:Sistemas de numeraçon]]
+[[Catadorie:Aritmética cumputacional]]
