@@ -1,0 +1,258 @@
+{{Outros seneficados||Sequéncia}}
+{{Sin-notas|data=júnio de 2010| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+Ua sequéncia ye ua lista [[Relaçon d'orde|ourdenada]] d'oubjetos, númaros ó eibentos{{Carece de fuontes|data=márcio de 2010}}. Frequentemente ne ls deparamos cun situaçones an qu'enumeramos eilemientos dun [[cunjunto]] seguindo ua detreminada ourdenaçon:
+
+# De la sucesson de ls [[persidente]]s dun [[paíç]];
+# De la sequéncia de ls [[eipisódio]]s dua [[menissérie]] de [[telebison]];
+
+Repare qu'hai dous aspetos amportantes na sequéncia: l '''tipo'''{{Carece de fuontes|data=Outubre de 2009}} i la '''orde''' de ls eilemientos. Todos ls eilemientos dua sucesson son de l <u>mesmo tipo</u>{{Carece de fuontes|data=Outubre de 2009}} (por eisemplo: solo persidentes) i oubedecen ua <u>ourdenaçon</u> (por eisemplo: purmeiramente ocorre l purmeiro eipisódio de a menissérie, depuis l segundo eipisódio, depuis l terceiro eipisódio...).
+
+An [[matemática]], ua '''sequéncia''' (ó ua '''sucesson''') ye ua lista ([[cunjunto]]) de númaros (ó bariables que ls repersenten). Formalmente, la sequéncia ye ua lista cuja orde ye defenida por ua "lei", ua [[funçon]] specífica. 
+
+== Defeniçon formal ==
+Ua {{PEPB|sucesson|sequéncia}} ye defenida cumo sendo un [[cunjunto]] <math>S,</math> dotado de las seguintes caratelísticas:
+# Todos ls sous eilemientos son de l mesmo '''tipo''' (por eisemplo: capítulos dua [[telenobela]]);{{Carece de fuontes|data=Outubre de 2009}}
+# Ls eilemientos tamien son chamados '''[[Termo (Matemática)|tenermos]]''' de la sucesson;
+# Cada termo ten ua '''posiçon''' defenida, drento de l cunjunto <math>S;</math>
+# La posiçon de cada termo ye detreminada por un [[númaro natural]], chamado '''índice''';
+# Cada termo ten un único índice, i cada índice pertence a un único termo ([[correspondéncia biuníboca]]);
+# dous tenermos solo puoden ser [[permutaçon|permutados]] se ls sous respetibos índices tamien fúren.
+
+===Sequéncia de númaros reales===
+Ua sequéncia de númaros reales ye ua [[funçon]] f:N→R pa la qual denotamos l balor de f an m por f<sub>m</sub>, an beç de f(m). Este termo f<sub>m</sub> ye dezido cumo sendo l m-ésimo termo de la sequéncia, que tamien puode ser repersentada por {f<sub>1</sub>, f<sub>2</sub>, f<sub>3</sub>, f<sub>4</sub>...} <ref>CATTAI, Adriano Pedreira. Análeze matemática I. Ounibersidade de l Stado de la Bahia (UNEB). 2º semestre 2008. Çponíbel an: <http://cattai.webnode .com/ansino/uneb/analiseun/>. Acesso an: 09 janeiro 2011. Páigina 38.</ref><ref>LIMA, Eilon Lages. Curso d'análeze belume 1. 11ª eidiçon. 2004. Capítulo 4, páigina 100.</ref>.
+
+==Tipos de sequéncias==
+{{rebison-subre|matemática}}
+<!--
+
+La bagunça ne ls simblos anseridos an eidiçones cumo
+https://t.wikipedie.org/wiki/Sequéncia_(matemática)?diff=23362933 (tal que x b m ≤ , para to natural m, ó inda, x ( b] m ∈ (−∞,b])
+https://t.wikipedie.org/wiki/Sequéncia_(matemática)&diff=23362868 (m la ≤ x , ∀m∈ N)
+ye típica de cópias feitas d'arquibos an PDF (talbeç l de l link persente nas refréncias, qu'anfelizmente stá ouffline)!
+
+-->
+Eesisten sequéncias nun numéricas, cumo '''S<sub>1</sub>''' = (demingo, segunda-feira, terça-feira) i '''S<sub>2</sub>''' = (1º de dezembre, 2 de dezembre, 3 de dezembre,..., 29 de dezembre, 30 de dezembre, 31 de dezembre), mas las numéricas son de maior antresse pa la [[Matemática]]. Eilhas puoden ser classeficadas d'acuordo cun dibersos critérios:
+
+{| class="wikitable"
+|-
+! Sequéncia monótona? !! Sequéncia lemitada? !! Sucessones fenitas: possuen un númaro '''[[wikt:t:fenito|fenito]]''' de tenermos !! Sucessones anfenitas: possuen un númaro '''[[wikt:t:anfenito|anfenito]]''' de tenermos
+|-
+| rowspan= 4| Si: sequéncia crecente (ocorre se <math>\forall m\in\mathbb N:la_m<la_{m+1};</math>) || Lemitadas superiormente i anferiormente || '''S<sub>3</sub>''' = (1, 2, 3, 4, 5, 6); '''S<sub>4</sub>''' = (-59, -32, 21, -1, 0, 1, 2, 3, -5, 933); '''S<sub>8</sub>''' = (la<sub>1</sub>, la<sub>2</sub>) || Nun ye possible que la sequéncia seia al mesmo tiempo crecente, anfenita i lemitada.
+|-
+| Sequéncia lemitada (solo) superiormente: eisiste un númaro rial b tal que x<sub>m</sub> ≤ b, para to natural m, ó inda, x ( b] m ∈ (−∞,b] <ref name="FORTIUM">FORTIUM – Grupo Eiducacional. Sequéncias numéricas. Çponíbel an: <http://www.fortiun .com.br/faculdadefortiun .com.br/jefferson_arruda/material/2_Sequencias_numericas_Funcoes.pdf>. Acesso an: 9 jan 2011. Páigina 2.</ref> || rowspan=3 | Nun ye possible qu'ua sequéncia seia al mesmo tiempo fenita i elimitada (seia superiormente, anferiormente ó ambos) || '''S<sub>m</sub>''' = (...-6, -5, -4, -3, -2, -1)
+|-
+| Sequéncia lemitada (solo) anferiormente: quando eisiste la∈R tal que la<sub>m</sub> ≤ x , ∀m∈ N<ref name="FORTIUM"/> || '''S<sub>5</sub>''' = (1, 2, 3, 4, 5, 6...)
+|-
+| Nó, sequéncia ilimitada (quando nun ye lemitada).<ref name="FORTIUM"/> || '''S<sub>m</sub>''' = (...-3, -2, -1, 0, 1, 2, 3...)
+|-
+| rowspan=4| Si: sequéncia nun crecente || Lemitadas superiormente i anferiormente || x || x<sub>m</sub>=1 para to m pertencente al cunjunto de ls númaros naturales. Esto define la sequéncia custante (1,1,1,1,1,...,1,...); eilha ye eibidentemente lemitada, nun decrecente i tamien nó crecente.<ref name="Eilon-103">LIMA, Eilon Lages. Curso d'análeze belume 1. 11ª eidiçon. Páigina 103.</ref>.
+|-
+| Sequéncia lemitada (solo) superiormente || rowspan=3 | Nun ye possible qu'ua sequéncia seia al mesmo tiempo fenita i elimitada (seia superiormente, anferiormente ó ambos) || '''S<sub>9</sub>''' = (la<sub>1</sub>, la<sub>2</sub>, la<sub>3</sub>, la<sub>4</sub>, la<sub>5</sub>,..., la<sub>m</sub>...) causo esta seia ua sucesson numérica i la<sub>1</sub> seia l menor númaro
+|-
+| Sequéncia lemitada (solo) anferiormente || Nun ye possible; ua sequéncia nun crecente ye siempre lemitada superiormente pul sou purmeiro termo, por eisemplo <ref name="Eilon-102">LIMA, Eilon Lages. Curso d'análeze belume 1. 11ª eidiçon. Páigina 102.</ref>.
+|-
+| Nó, sequéncia ilimitada || Nun ye possible; ua sequéncia nun crecente ye siempre lemitada superiormente pul sou purmeiro termo, por eisemplo.<ref name="Eilon-102"/>
+|-
+| rowspan=4| Si: sequéncia decrecente || Lemitadas superiormente i anferiormente || Eisemplo || Nun ye possible que la sequéncia seia al mesmo tiempo decrecente, anfenita i lemitada.
+|-
+| Sequéncia lemitada (solo) superiormente || rowspan=3 | Nun ye possible qu'ua sequéncia seia al mesmo tiempo fenita i ilimitada (seia superiormente, anferiormente ó ambos) || '''S<sub>6</sub>''' = <math>\left(\frac{1}{1},\frac{1}{2},\frac{1}{3},\frac{1}{4},\frac{1}{5},\ldots \right)</math>
+|-
+| Sequéncia lemitada (solo) anferiormente || Eisemplo
+|-
+| Nó, sequéncia elimitada || Eisemplo
+|-
+| rowspan=4| Si: sequéncia nun decrecente || Lemitadas superiormente i anferiormente || Eisemplo || x<sub>m</sub>=1 para to m pertencente al cunjunto de ls númaros naturales. Esto define la sequéncia custante (1,1,1,1,1,...,1,...); eilha ye eibidentemente lemitada, nun decrecente i tamien nó crecente.<ref name="Eilon-103"/>
+|-
+| Sequéncia lemitada (solo) superiormente || rowspan=3 | Nun ye possible qu'ua sequéncia seia al mesmo tiempo fenita i elimitada (seia superiormente, anferiormente ó ambos) || Nun ye possible; ua sequéncia nun decrecente ye siempre lemitada anferiormente pul sou purmeiro termo, por eisemplo.<ref name="Eilon-102"/>
+|-
+| Sequéncia lemitada (solo) anferiormente || Eisemplo
+|-
+| Nó, sequéncia ilimitada || Nun ye possible; ua sequéncia nun decrecente ye siempre lemitada anferiormente pul sou purmeiro termo, por eisemplo.<ref name="Eilon-102"/>
+|-
+| rowspan=4| Nun || Lemitadas superiormente i anferiormente || '''S<sub>10</sub>''' = <math>\left(\frac{1}{1},-\frac{1}{2},\frac{1}{3},-\frac{1}{4},\frac{1}{5}\right)</math> || x<sub>m</sub>= 0 para m par i 1 para 1 ímpar. La sequéncia assi defenida ye (1,0,1,0,...). Sou cunjunto de balores ye x(N)={0,1}. La mesma sequéncia poderie ser defenida perla fórmula x<sub>m</sub>=(1/2)[1+(-1)<sup>m+1</sup>] ó anton por x<sub>m</sub>= sen²(mπ/2). Esta sequeéncia ye lemitada i nun ye monótona.<ref name="Eilon-103"/>
+|-
+|Sequéncia lemitada (solo) superiormente || rowspan=3 | Nun ye possible qu'ua sequéncia seia al mesmo tiempo fenita i elimitada (seia superiormente, anferiormente ó ambos) || Eisemplo
+|-
+| Sequéncia lemitada (solo) anferiormente || Eisemplo
+|-
+| Nó, sequéncia ilimitada || '''S<sub>7</sub>''' = <math>\left(\frac{1}{1},-\frac{1}{2},\frac{1}{3},-\frac{1}{4},\frac{1}{5}...\right)</math>
+|} 
+
+Ouserbe que:
+* S<sub>2</sub> ten mais tenermos que S<sub>1</sub>, mas ambas son sucessones fenitas: S<sub>1</sub> ten 3 tenermos (3 purmeiros dies de la [[sumana]]) i S<sub>2</sub> ten 31 tenermos (ls 31 dies de l més de dezembre);
+* Las sucessones S<sub>3</sub> i S<sub>5</sub> parécen ser eiguales, mas S<sub>3</sub> ten solo 6 tenermos, anquanto que las reticéncias an S<sub>5</sub> andican que la cuntaige de sous tenermos jamales tremina;
+* Las sucessones S<sub>6</sub> i S<sub>7</sub> parécen ser eiguales, mas an S<sub>6</sub> todos ls tenermos ténen senhal positibo, anquanto qu'an S<sub>7</sub> ls tenermos cun [[chamador]] [[Númaros pares i ímpares|par]] ténen senhal negatibo;
+* Nin to sucesson ye "bonitenie": muitas bezes ls tenermos seran mui defrentes uns de ls outros, i eidantificar un padron antre eilhes será tan defícel que permanecerá çconhecido. Un bun eisemplo çto ye la sucesson S<sub>4</sub>;
+* L purmeiro termo de la sucesson S<sub>9</sub> ye la<sub>1</sub>, l segundo termo ye la<sub>2</sub>, l terceiro termo ye la<sub>3</sub>, i assi por delantre. La notaçon la<sub>m</sub> ye outelizada para repersentar un <u>termo genérico</u> de la sucesson. Cumo la<sub>m</sub> ye l termo de índice ''m'', dezimos qu'el ye l ''m-ésimo'' (ó ''enésimo'') termo de la sucesson. Ye amportante notar que la<sub>m</sub> nun puode ser l "radadeiro" termo de S<sub>9</sub>, pus S<sub>9</sub> ye ua sucesson anfenita, i ua sucesson anfenita nun ten un "radadeiro termo".
+
+== Strutura ==
+[[Fexeiro:Bijetora.GIF|thumb|200px|right|Ua sucesson '''''S''''', gerada pula funçon bijetora '''''f''''' a partir de l domínio '''''D'''''. Este domínio ye l cunjunto de ls índices de la sucesson.]]
+Filosoficamente, to sucesson ten ua '''lei de formaçon''' (ó seia: la lei que gerou ls tenermos de la sucesson). Inda assi, esto nun garante que siempre será possible screbé-la. Quando fur possible screbé-la, deziremos que la sucesson <math>S</math> <u>efetibamente</u> ten ua lei de formaçon.
+
+Se la sucesson <math>S</math> efetibamente tenr ua lei de formaçon i esta lei podir ser scrita usando [[notaçon matemática]], deziremos qu'esta lei ye la [[funçon]] <math>f:\mathbb{N}\mapsto S,</math> an que [[númaro natural#Notaçon|<math>{\color{CadetBlue}\mathbb{N}}</math>]] ye l cunjunto de ls índices i <math>S</math> ye l cunjunto de ls tenermos que son gerados a partir daqueles índices.
+
+Na figura al lado, ouserbe que:
+# '''''D''''' i '''''S''''' son cunjuntos numéricos fenitos;
+# L cunjunto '''''D''''' ye un [[subconjunto]] de <math>\mathbb{N};</math>
+# '''''D''''' ye l [[funçon#Domínio, cuntradomínio i eimaige|domínio]] de la funçon '''''f''''';
+# '''''S''''' ye l [[cuntradomínio]] de la funçon '''''f''''';
+# Ls eilemientos de l cunjunto '''''D''''' son ls índices de la sucesson '''''S''''';
+# La funçon '''''f''''', atrabeç de sue fórmula (ó spresson, ó sentença), outeliza ls índices de l cunjunto '''''D''''' para gerar ls eilemientos de l cunjunto '''''S''''' (tenermos de la sucesson '''''S''''');
+# La spresson de '''''f''''' ye '''''f(m) = 2 . m'''''. Esto senefica qu'esta funçon "fabrica" tenermos que son l dobro de l balor de sous índices respetibos.
+
+Eesistindo la funçon matemática <math>f,</math> sue spresson será cumpuosta por ua ó mais [[funçon eilementar|funçones eilementares]], i por esto deziremos:
+# Que la spresson de la funçon <math>f</math> ye la [[fórmula de l termo giral]]; i
+# Que la sucesson <math>S</math> ten '''repersentaçon matemática cerrada''' (dada pula fórmula de l termo giral).
+
+Assi, ua sucesson ó sequéncia matemática <math>S</math> ye l resultado de l'aplicaçon de la funçon matemática <math>f</math> subre cada eilemiento de <math>\mathbb{N}.</math> 
+
+=== Eisemplos ===
+1) Seia la sucesson <math>S</math> defenida pula funçon <math>f:\mathbb{N}\mapsto S</math> tal que <math>f(m) = 2^m.</math> 
+
+Cumo <math>f(m) = 2^m,</math> sabemos que la cada índice ''m'' (pertencente la <math>\mathbb{N}</math>) eisistirá un termo respetibo <math>2^m</math> (pertencente la <math>S</math>).
+
+Antoce, <math>S = (1, 2, 4, 8, 16, 32...)</math>
+
+La correspondéncia antre cada termo de la sucesson <math>S</math> i l sou índice puode ser repersentada nua tabela, cumo segue:
+
+<table border="1" cellpadding="3">
+
+<tr><td align="right">'''índice →'''</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>...</td><td>''m''</td>
+
+<tr><td align="right">'''fórmula de l termo →'''</td><td>2<sup>0</sup></td><td>2<sup>1</sup></td><td>2²</td><td>2³</td><td>2<sup>4</sup></td><td>2<sup>5</sup></td><td>...</td><td>''2<sup>m</sup>''</td>
+
+<tr><td align="right">'''termo →'''</td><td>1</td><td>2</td><td>4</td><td>8</td><td>16</td><td>32</td><td>...</td><td>''2<sup>m</sup>''</td>
+
+</table>
+
+2) Outro bun eisemplo de sequéncia ye l'enumeraçon ourdenada crecente de ls <u>númaros naturales nó-nulos</u> (<math>\mathbb{N}^*</math>):
+
+<math>S = (1,2,3,4,5,6,7,8,9,10,11,12...).</math> 
+
+Neste causo, la funçon <math>f:\mathbb{N}\mapsto S</math> ye tal que <math>f(m)=m+1.</math> 
+
+Tal qual ne l'eisemplo anterior, podemos outelizar ua tabela para repersentar ls índices i tenermos de la sucesson, assi cumo la relaçon qu'oubtén cada termo a partir de l sou índice:
+
+<table border="1" cellpadding="1">
+
+<tr><td align="right">'''índice →'''</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>...</td><td>''m''</td>
+
+<tr><td align="right">'''fórmula de l termo →'''</td><td>0+1</td><td>1+1</td><td>2+1</td><td>3+1</td><td>4+1</td><td>5+1</td><td>6+1</td><td>7+1</td><td>8+1</td><td>9+1</td><td>10+1</td><td>11+1</td><td>...</td><td>''m+1''</td>
+
+<tr><td align="right">'''termo →'''</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>...</td><td>''m+1''</td>
+
+</table>
+
+Se <math>S</math> fur l cunjunto de ls anteiros (<math>\mathbb{Z}</math>), anton tratar-se-á dua [[sequéncia d'anteiros|sucesson anteira]]. Se <math>S</math> fur un cunjunto de polinómios, anton tratar-se-á dua sucesson polinomial.
+
+An ciertos causos, puode-se falar an '''cumbergéncia''' i an '''dibergéncia''' de la sucesson. Esto ye çcutido an mais detalhes ne l'artigo subre [[lemites]].
+
+== La sintaxe na notaçon matemática ==
+Para repersentar ua sucesson, tamien ye quemun l'uso de la notaçon {<math>la_{m}</math>}. Mas, ls matemáticos mais formales tenden a rejeitar este formato. L motibo ye qu'an matemática faç-se uso de las chabes siempre que se zeia repersentar un <u>cunjunto</u> atrabeç de l'enumeraçon de ls sous eilemientos, ó quando se zeia çpor de la sue <u>lei de formaçon</u>. Assi, puode-se por eisemplo screbir l cunjunto La = {2,4,8,16,32,64,128,256}, ó inda repersentá-lo por La = '''{'''2<sup>k</sup> | <math>k \in</math> {1,2,3,4,5,6,7,8}'''}'''.
+
+''Nota: l cunjunto L'arriba tamien puode ser antendido cumo <u>l cunjunto de todas las poténcias de base 2 i spoente '''k''', an que '''k''' ye un númaro natural que pertence al cunjunto</u> {1,2,3,4,5,6,7,8}. Antoce, La = {2<sup>1</sup>,2²,2³,2<sup>4</sup>,2<sup>5</sup>,2<sup>6</sup>,2<sup>7</sup>,2<sup>8</sup>} = {2,4,8,16,32,64,128,256}.''
+
+L porblema ye que, an teorie de ls cunjuntos, la <u>orde</u> i la <u>frequéncia</u> cun que ls eilemientos aparecen i se repeten nada afetan la strutura de l cunjunto. Antoce, se B = {8,256,64,16,2,128,64,8,4,32,256,128,2}, cada un de ls eilemientos de B eisiste tamien an La (i al alrobés), i l fato d'alguns eilemientos de l cunjunto B se repetiren puode (i debe) ser eignorado, pus <u>eilemientos repetidos son cumputados solamente ua beç</u>, sendo andiferente repersentar B por {8,256,64,16,2,128,64,8,4,32,256,128,2} ó sinteticamente por {8,256,64,16,2,128,4,32}. Antoce, ambora l'orde an qu'aqueilhes eilemientos apareçan ne ls dous cunjuntos seia defrente, i ambora an B alguns eilemientos se repitan, na berdade L'i B ténen satamente ls mesmos eilemientos. Por bias desso, '''puode-se afirmar que La = B'''.
+
+Por outro lado, quando se zeia repersentar un par ourdenado, úsan-se ls parénteses: (''x'',''y''). De l mesmo modo, ua tripla ourdenada poderie ser repersentada por (''x'',''y'',''ç'') i ua quádrupla ourdenada de númaros anteiros poderie ser repersentada por (-1000,2,68,-19).
+
+La defrença eissencial antre l par {''x'',''y''} i l par (''x'',''y'') ye la queston de l'orde: ne l causo de l par {''x'',''y''} '''l'orde nun amporta''', antoce l par {''y'',''x''} ye eigual al par {''x'',''y''}, i ambos repersentan un cunjunto que ten dous eilemientos: ''x'' i ''y''.
+
+Yá l par ourdenado (''x'',''y'') ye defrente de l par ourdenado (''y'',''x''), pus neste causo '''l'orde amporta''' (dende l'uso de la palabra ''ourdenado''). Esto splica l motibo por que, ua beç que ls pares (2,3) i (3,2) son defrentes — i essa defrença stá justamente na posiçon acupada por cada un de sous eilemientos — ye necessairo qu'esses pares séian repersentados antre parénteses, al ambés d'antre chabes.
+
+De maneira similar al causo de ls pares ourdenados, '''ua sucesson ten ua orde''' (detreminada pul índice de cada eilemiento de la sucesson), i por esto escrebir {1,2,3,4,5} ye <u>defrente</u> de screbir (1,2,3,4,5). Ne l causo de l cunjunto {1,2,3,4,5}, l'orde nun amporta, antoce l cunjunto tamien poderie ser repersentado por {5,3,1,2,4}, i stá correto screbir '''{1,2,3,4,5} = {5,3,1,2,4}'''. Yá ne l causo de l <u>cunjunto ourdenado</u> (1,2,3,4,5), tamien chamado '''énupla ourdenada''' ó '''m-upla ourdenada''', debido a la persença de ''m'' tenermos ó eilemientos na sucesson ('''m = 5''', neste causo), antressa la <u>posiçon</u> acupada por cada eilemiento, i antoce (1,2,3,4,5) ye '''defrente''' de (5,3,1,2,4).
+
+Finalmente, tenendo an bista qu'ua sucesson ten '''noçon d'orde''' (debido al stablecimiento dun índice de posiçon para cada eilemiento de la sequéncia), ye amportante repersentar l cunjunto de ls ''m'' eilemientos de la sucesson atrabeç de la m-upla '''ourdenada''' (la<sub>1</sub>,la<sub>2</sub>,la<sub>3</sub>,la<sub>4</sub>,...,la<sub>m</sub>), l que puode ser abrebiadamente repersentado por (la<sub>m</sub>), i un matemático mais formal rejeitará la forma {la<sub>m</sub>} por antender que, neste segundo causo, la noçon d'orde fui çprezada.
+
+== Recurson ==
+''Nota: causo sinta deficuldade cul simblos outelizados nesta seçon, ó mesmo neste artigo, cunsulte ls artigos que tratan de [[notaçon matemática]], [[simblos matemáticos|simbologie matemática]] i [[Lógica#Lógica matemática|lógica matemática]]. Tamien ye altamente recomendable cunsultar la [[:Aneixo:Tabela de simblos matemáticos|tabela de simblos matemáticos]].''
+
+Puode-se defenir ua sucesson de modo [[recurson|recursibo]]. Este modo cunsiste an stablecer un ó mais tenermos eniciales i, a partir del(s), atribuir ua lei de formaçon an que cada nuobo termo dependa de l(s) termo(s) antecedente(s).
+
+Ls tenermos eniciales (ó ''geradores'') debiran tenr índice <u>menor</u> que l de l termo que se zeia gerar. Eisemplo: para que seia possible gerar recursibamente l termo ''la''<sub>m</sub>, ye necessairo qu'eisista pul menos un termo de índice menor que ''m''.
+
+Assi, fixado un cunjunto de custantes C = {c<sub>0</sub>,c<sub>1</sub>,c<sub>2</sub>,c<sub>3</sub>,c<sub>4</sub>,c<sub>5</sub>,c<sub>6</sub>...} (<math>\sub\mathbb{N}</math>), ua sucesson recursiba genérica natural <math>S</math> (cun termo la<sub>0</sub> <math>\in \mathbb{N}</math> pré-defenido) puode ser defenida por ua funçon <math>g:\mathbb{N}\rightarrow \mathbb{N}</math> que tenga la seguinte forma: <math>la_{m}=\sun_{i=0}^{m-1} c_{i} . la_{i}, \forall c,i,m \in \mathbb{N} \land \forall m>0</math>
+
+Note que, ne l'eisemplo arriba, debemos tener <math>m>0,</math> ua beç que la<sub>0</sub> yá stá pré-defenido. Antoce, se la<sub>0</sub> = w (un balor natural qualquiera) i zeiamos ancontrar l balor de la<sub>1</sub>, tenemos que rializar la seguinte sequéncia de cálclos: <math>la_{1}=\sun_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=1)}} \\ \Rightarrow \and{matrix}  la_{1}=\sun_{i=0}^{1-1} c_{i} . la_{i} \Rightarrow la_{1}=\sun_{i=0}^{0} c_{i} . la_{i} \Rightarrow la_{1}= c_{0} . la_{0} \Rightarrow la_{1}= c_{0} . w</math> (<span style="color:red;">RESPOSTA</span>)
+
+De l mesmo modo, se zeiarmos ancontrar l balor de la<sub>2</sub>, deberemos rializar la seguinte sequéncia de cálclos: <math>la_{2}=\sun_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=2)}} \\ \Rightarrow \and{matrix}  la_{2}=\sun_{i=0}^{2-1} c_{i} . la_{i} \Rightarrow la_{2}=\sun_{i=0}^{1} c_{i} . la_{i} \Rightarrow la_{2}= c_{0} . la_{0} + c_{1} . la_{1}</math>
+
+<math>\Rightarrow la_{2}= c_{0} . w + c_{1} . (c_{0} . w) \Rightarrow la_{2}= c_{0} . (w + w. c_{1}) \Rightarrow la_{2}= c_{0} . w . (1 + c_{1}) \Leftrightarrow la_{2}= c_{0} . (1 + c_{1}) . w </math> (<span style="color:red;">RESPOSTA</span>)
+
+Ne l causo arriba, la scolha de las custantes de l cunjunto C fui aleatória. Mas, puode-se tamien oubter essas custantes de forma sistemática. La títalo d'eisemplo, séian fixadas dues custantes naturales ''k'' i ''m'' (cun ''k'' > ''m''). Las custantes c<sub>i</sub> puoden ser oubtidas a partir dua funçon <math>j:\mathbb{N}\rightarrow \mathbb{N}</math> tal que <math>j(i) = c_{i} = k.i - m, \forall c,i,k,m \in \mathbb{N}</math>
+
+Esse tipo de sucesson puode quedar inda mais cumplicado, bastando defenir ua funçon ''r'' que, por eisemplo, "trasforme" la ''i-ésima'' custante natural c<sub>i</sub> nun númaro rial (<math>\mathbb{R}</math>) ó cumplexo (<math>\mathbb{C}</math>). Eisemplo:
+
+<math>r:\mathbb{N}\rightarrow \mathbb{R} = \sqrt[3]{\frac{-x}{4}}, \forall x \in \mathbb{N} \Rightarrow la_{m} = \sun_{i=0}^{m-1} {r(c_{i})^i . la_{i}}, \forall c,i,m \in \mathbb{N}</math>
+
+''Nota: ouserbe que, ne l'eisemplo arriba, <math>r(c_{i})^i \in \mathbb{R}</math>''
+
+=== Sucesson recursiba ===
+Eesisten dues modalidades de '''sucesson recursiba''' mui coincidas an matemática: la Progresson Aritmética (P.La.) i la Progresson Geométrica (P.G.).
+
+La defrença eissencial antre las dues ye que:
+* Na P.La., cada termo ye eigual a la soma de l termo anterior cun ua custante chamada "rezon de la P.La.". Esta rezon ye giralmente repersentada pula letra '''r''';
+* Na P.G., cada termo ye eigual al perduto de l termo anterior por ua custante chamada "rezon de la P.G.". Esta rezon ye giralmente repersentada pula letra '''q'''.
+
+An P.La. i P.G., la funçon '''''f''''' que las çcribe ten domínio an <math>\mathbb{N}^*.</math> Esto senefica que l purmeiro termo de la progresson será ''f''(1) (ó anton la<sub>1</sub>), al ambés de ''f''(0) ó la<sub>0</sub>.
+
+==== Progresson Aritmética ====
+{{percipal|Progresson aritmética}}
+La '''Progresson Aritmética''' ye ua sucesson recursiba <math>\mathbb{La}</math> defenida assi:
+
+* <math>la:\mathbb{N}^*\mapsto\mathbb{La}</math>
+(defeniçon de la funçon ''la'')
+* <math>la_m = la_1 + (m-1).r</math>
+(fórmula de l termo giral)
+* <math>la_m = la_{m-1} + r</math>
+(fórmula de la recurson aritmética, que ye outra maneira de se calcular <math>la_m</math>)
+* <math>la_1</math> i ''r'' son custantes prebiamente defenidas
+
+Eisemplos de P.La.:
+* (<math>la_{1}</math> = 1, ''r'' = 1): <math>(1,2,3,4,5,6,7,8,9,10,...)</math>
+* (<math>la_{1}</math> = -3, ''r'' = 5): <math>(-3,2,7,12,17,22,27,...)</math>
+* (<math>la_{1}</math> = 13, ''r'' = -3): <math>(13,10,7,4,1,-2,-5...)</math>
+
+==== Progresson Geométrica ====
+{{percipal|Progresson geométrica}}
+La '''Progresson Geométrica''' ye ua sucesson recursiba <math>\mathbb{G}</math> defenida assi:
+
+* <math>g:\mathbb{N}^*\mapsto\mathbb{G}</math>
+(defeniçon de la funçon ''g'')
+* <math>g_m = g_1.q^{(m-1)}</math>
+(fórmula de l termo giral)
+* <math>g_m = g_{m-1}.q</math>
+(fórmula de la recurson geométrica, que ye outra maneira de se calcular <math>g_m</math>)
+* <math>g_1</math> i ''q'' son custantes prebiamente defenidas
+
+Eisemplos de P.G.:
+* (<math>g_{1}</math> = 1, ''q'' = 1): <math>(1,1,1,1,1,1,1,1,1,1,...)</math>
+* (<math>g_{1}</math> = 3, ''q'' = -1): <math>(3,-3,3,-3,3,-3,3,-3,...)</math>
+* <math>(g_{1} = 16, q = \frac{-1}{2}): (16,-8,4,-2,1,\frac{-1}{2},\frac{1}{4}...)</math>
+
+== Ber tamien ==
+* [[Fórmula de l termo giral]]
+* [[Progresson aritmética]]
+* [[Progresson geométrica]]
+* [[Sequéncia de Farey]]
+* [[Sequéncia de Fibonaci]]
+* [[Sequéncia de Thue-Morse]]
+* [[Polinómios de Boubaker]]
+* [[Sequéncia de Golomb]]
+
+== Ligaçones sternas ==
+* {{Link||2=http://www.research.att .com/~njas/sequences |3=The On-Line Ancyclopedie of Anteger Sequences |4=- Para detreminar la lei de formaçon dua sequéncia, a partir d'alguns de sous tenermos;}}
+
+{{Portal-Matemática}}
+
+{{Refréncias}}
+* Ábila, Giraldo Sebero de Souza. ''Análeze matemática para licenciatura''. Edgard Blucher. ISBN 85-212-0295-4
+* [[Eilon Lages Lima|Lima, Eilon Lages]]. ''Análeze rial''. Riu de Janeiro: IMPA.
+* Rudin, W. ''Principles of Mathematical Analysis''. 2 ed. New York, McGraw-Hill, 1964.
+* Michael Spibak. ''Calculus''. Publish or Perish, 2008. ISBN 978-0-914098-91-1.
+* [http://www.fortiun .com.br/faculdadefortiun .com.br/jefferson_arruda/material/2_Sequencias_numericas_Funcoes.pdf Splicaçon de 6 páiginas subre sequéncias matemáticas]
+
+{{rabisco-matemática}}
+
+{{DEFAULTSORT:Sequencia Matematica}}
+[[Catadorie:Sucessones]]
