@@ -1,0 +1,90 @@
+{{ProtocolosIP}}
+Ua '''rede sin filo''' (ó [[quemunicaçon sin filo]]) refire-se a ua passaige aérea sin la necidade de l'uso de cabos – séian eilhes telefónicos, coaxiales ó óticos – por meio d'eiquipamientos que úsan [[radiofrequéncia]] (quemunicaçon bie óndias de rádio) ó quemunicaçon bie [[anfrabermelho]], cumo an çpositibos cumpatibles cun [[IrDA]]. Ye coincido tamien pul [[anglicismo]] '''''wireless'''''.
+
+L'uso de la tecnologie bai zde trascetores de rádio cumo [[walkie-talkie]]s até [[Satélite artificial|satélites artificales]] ne l spácio. Sou uso mais quemun ye an redes de [[cumputador]]s, serbindo cumo meio d'acesso a la [[Anterneta]] atrabeç de locales remotos cumo un [[scritório]], un [[bar]], un [[aeroporto]], un [[parque]], ó até mesmo an casa, etc.
+
+Sue classeficaçon ye baseada na ária d'abrangéncia: redes pessonales ó cúrtie çtáncia ([[WPAN]]), redes locales ([[WLAN]]), redes metropolitanas ([[WMAN]]) i redes geograficamente çtribuídas ó de longa çtáncia ([[WWAN]]).
+
+== Classeficaçon ==
+=== WPAN ===
+{{Artigo percipal|[[WPAN]]}}
+''Wireless Personal Area Network'' ó rede pessonal sin filo. Normalmente outelizada para anterligar çpositibos eiletrónicos fesicamente próssimos, ls quales nun se quier que séian detetados la çtáncia. Este tipo de rede ye eideal para eliminar ls cabos usualmente outelizados para anterligar botoneiras, ampressoras, telifones mobles, agendas eiletrónicas, cumputadores de mano, cámeras fotográficas digitales, mouses i outros.
+
+Ne ls eiquipamientos mais recentes ye outelizado l padron [[Bluetoth]] para stablecer esta quemunicaçon, mas tamien ye ampregado centeilha [[anfrabermelho]] (semelhante al outelizado ne ls cuntroles remotos de telebisores).
+
+=== WLAN ===
+{{Artigo percipal|[[WLAN]]}}
+Wireless LAN ó WLAN (Wireless Local Area Network) ye ua rede '''local''' qu'usa óndias de rádio para fazer ua conexon Anterneta ó antre ua rede, al cuntrairo de la rede fixa ADSL ó conexon-TB, que giralmente usa cabos.
+
+=== WMAN ===
+{{Artigo percipal|[[WMAN]]}}
+
+=== WWAN ===
+{{Artigo percipal|[[WWAN]]}}
+
+== Padrones i tecnologies ==
+=== IrDA ===
+{{Artigo percipal|[[Anfrared Data Association]]}}
+
+=== Bluetoth ===
+{{Artigo percipal|[[Bluetoth]] (IEEE 802.15.1)}}
+Bluetoth ye ua tecnologie pa la quemunicaçon sin filo antre çpositibos eiletrónicos la cúrties çtáncias.(normalmente 10 metros)
+
+=== RONJA ===
+{{Artigo percipal|[[RONJA]]}}
+Ronja ye ua tecnologie libre i abierta pa la quemunicaçon sin filo punto-la-punto por meio de luç de l spetro besible ó anfrabermelho atrabeç de l'aire.
+
+=== Wi-Fi ===
+{{Artigo percipal|[[Wi-Fi]] (IEEE 802.11)}}
+Senhal Wi-fi ye l mesmo de rede sin filo. L wi-fi ben se eiboluindo por to l mundo,i agora stá çponible an smartphones, notebooks, netbooks i antre outros.
+
+=== WiMAX ===
+{{Artigo percipal|[[WiMAX]] (IEEE 802.16)}}
+
+=== Mesh ===
+{{Artigo percipal|[[Redes Mesh]] (IEEE 802.11s)}}
+
+=== WiGig ===
+WiGig Alliance. L'ourganizaçon porduzirá un padron quemun para ambiar dados a un link de 60 GHç
+La tecnologie ye cerca de 10 bezes mais beloç qu'ua conexon 802.11n padron (1 Gbps).
+
+Padron Apoiado pulas ampresas:  Atheros, Broadcon, Antel i Marbell,Dell, LG, NEC, Panasonic, Samsung, Microsoft.
+
+== Funcionamiento ==
+Atrabeç de l'outelizaçon de portadoras de rádio ó anfrabermelho, las WLANs stablecen la quemunicaçon de dados antre ls puntos de la rede. Ls dados son modulados na portadora de rádio i trasmitidos atrabeç de óndias eiletromagnéticas.
+
+Múltiplas portadoras de rádio puoden coeisistir nun mesmo meio, sin qu'ua anterfira na outra. Para strair ls dados, l recetor sintoniza nua frequéncia specífica i rejeita las outras portadoras de frequéncias defrentes.
+
+Nun ambiente típico, l çpositibo trascetor (trasmissor/recetor) ó [[punto d'acesso]] ye conetado a ua rede local antermedian l tráfego culs puntos d'acesso bezinos, nun squema de micro células cun ''[[roaming]]'' semelhante a un sistema de telefonia telemoble
+
+== Padrones [[IEEE]] ==
+* [[IEEE 802.20]] '''WAN''' [[3GPP]] ([[GSM]]).
+* [[IEEE 802.16]] Wireless'''MAN''' [[ETSI]] HIPERMAN i HIPERACCESS.
+* [[IEEE 802.11]] Wireless'''LAN''' ETSI HIPERLAN.
+* [[IEEE 802.15]] Bluetoh'''PAN''' ETSI HIPERPAN.
+
+== {{Ber tamien}} ==
+* [[Quemunicaçon sin filo]]
+* [[Rede sin filo i salude]]
+* [[Bluetoth]]
+* [[Wi-Fi]]
+* [[WiMAX]]
+* [[IrDA]]
+* [[Trascetor]]
+
+== {{Ligaçones sternas}} ==
+*[http://wirelesst.net Redes an malha an Pertual http://wirelesst.net ]
+*[http://www.ouficinadanet .com.br/artigo/redes/l-que-i-wireless-i-cumo-funciona L que ye Wireless i cumo funcionan las redes sin filo?]
+* {{link|en|2=http://www.wi-fi.org|3=Páigina de la Wi-Fi Alliance}}
+* {{link|en|2=http://www.sunmantechnology .com/resources_gls_wl.html|3=Glossário Wireless}}
+* {{link|en|2=http://wireless .com .pt|3=Mobimiento Wireless Pertués}}
+* {{link|en|2=http://technet.microsoft .com/en-us/library/bb457019.aspx|3=Sigurança an redes Wireless}}
+* {{link|t|2=http://www.nr2.ufpr.br/?p=115|3=Salude Móbel: Cunceitos, Einiciatibas i Aplicaçones - Purmeiro Libro an Pertués subre cumo la Tecnologie de Rede Sin Filo ben auxeliando la Salude}}
+
+{{Acessos a la Anterneta}}
+
+{{DEFAULTSORT:Rede Sin Filo}}
+[[Catadorie:Redes sin filo| ]]
+[[Catadorie:Anglicismos]]
+
+[[de:Kabellose Ubertragungsberfahren]]
