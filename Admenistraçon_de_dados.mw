@@ -1,0 +1,52 @@
+'''Admenistraçon de dados''' ye la funçon respunsable por zambolber i admenistrar de modo centralizado las stratégias, procedimientos i práticas pa l porcesso de geréncia de ls recursos de dados i aplicatibos, ancluindo prainos para sue defeniçon, padronizaçon, ourganizaçon, proteçon i outelizaçon. 
+
+==Cumpeténcias==
+Cabe a l'admenistraçon de dados — guiada por ciertos percípios i atrabeç d'atebidades de planeijamiento, ourganizaçon i cuntrole de ls dados corporatibos — gerenciar ls dados cumo recursos d'uso quemun de l'ampresa, promobendo-les ls balores d'outenticidade, outoridade, percison, acessibelidade, seguridade i anteligibelidade. 
+
+Ten cumo misson l planeijamiento central, la documentaçon i l gerenciamiento de ls dados a partir de la perspetiba de sous seneficados i balores pa l'ourganizaçon cumo un to.
+
+==Relacionamiento cun admenistraçon de banco ó base de dados==
+Muitas ourganizaçones nun reconhecen las defrenças eissenciales antre admenistraçon de dados i admenistraçon de bases de dados. Cumo resultado, eisisten muitas cunfusones subre esses papéis i sues respetibas respunsabelidades. Ne l Brasil, un eisemplo d'ourganizaçon que ten demunstrado tirar bun probeito de l'aplicaçon de la funçon AD ne l sou porcesso de zambolbimiento de soluçones de TI ye l [[Banco de l Brasil]], que mantén, zde 1996, eiquipe de specialistas buoltada pa l zampenho desse amportante papel.
+
+Cada deciplina ye neçaira al apropiado gerenciamiento de ls recursos corporatibos d'anformaçon, mas estas atebidades nun dében jamales star cumbinadas nua única pessona ó un único sub-grupo. Cada deciplina requer defrentes perfis, treinamiento i talentos, antoce, la maiorie de las pessonas nun trasita bien antre ua deciplina i outra. 
+
+La funçon d'admenistraçon de dados defrencia-se de la funçon de Admenistraçon de Banco de Dados porque dedica-se mais als dados an si de l qu'als meios físicos adonde son armazenados, besitados i çtribuídos. Na berdade, hai un anfoque maior culas anformaçones custantes ne ls dados. 
+
+L'admenistrador de l [[banco de dados]] ten la respunsabelidade de porjetar l'armazenamiento de dados de forma a atender a las necidades d'acesso, siempre tenendo an bista l modelo de dados lógico, qu'ancorpora las necidades atuales i feturas de l negócio.
+
+L Porcesso de [[Normalizaçon an banco de dados|normalizaçon]] repersenta un punto de cuntato antre las dues respunsabelidades - AD i DBA. La Admenistraçon de Dados eidantifica las dependéncias funcionales de ls dados (relaçones antre atributos na mesma antidade) i fornece a l'admenistraçon de banco de dados un modelo lógico cumpletamente normalizado. L DBA, antretanto, ne l porcesso d'amplementaçon, poderá çcubrir que ls dados refleten dependéncias funcionales adicionales nun çcubiertas durante la modelaige lógica, ó que l'amplementaçon física requer passar por cima de las regras de [[antegridade referencial]]. La normalizaçon, antoce, zampenha papéis defrentes ne ls dous porcessos de modelaige, i ten que ser cordenada pulas dues funçones (AD i DBA).
+
+==L'admenistraçon de dados i sues sub-deciplinas==
+La [[modelaige de dados]], la defeniçon de dados, l planeijamiento i l'análeze son assuntos relatibamente nuobos na ária de processamiento de dados. Solamente a partir de la década de 1990 las ourganizaçones passórun a cunsidrar seriamente l gerenciamiento lógico i l cuntrole de l'anformaçon cumo un recurso corporatibo. Eesiste ua deficiéncia na cumprenson de ls propósitos i oubjetibos de l'admenistraçon de dados até mesmo antre ls profissionales sperientes.
+ 
+ dues abordaiges son possibles. An ambos ls causos, antretanto, ls admenistradores de dados i ls admenistradores de banco de dados copírun stritamente ne l gerenciamiento de l'ourganizaçon de ls dados:
+*La purmeira, coloca l'admenistraçon de dados i de banco de dados separadamente por séren funçones frequentemente eisecutadas por árias çtintas. 
+*La segunda, coloca l'admenistraçon de banco de dados anferior a l'admenistraçon de dados porque sous cunceitos i percípios son un subconjunto daqueles ousados na admenistraçon de dados, l que nun necessariamente amplica ua hierarquia ourganizacional. 
+
+Talbeç, mais que qualquiera outra deciplina drento de ls [[sistemas d'anformaçon]], l'admenistraçon de dados requer ua cumprenson cuncreta de l negócio de la cumpanha, nun solo de ls aspetos técnicos de l'anteraçon cul cumputador. Frequentemente, l DBA ó ls porgramadores de sistemas puoden ser facilmente trasferidos dua andústria para outra, cun necidades mínimas de re-treinamiento pus l coincimiento tecnológico permanece custante. L AD, por outro lado, ten mui a daprender nua andústria nuoba para ser rialmente efetibo. L gerenciamiento de l'anformaçon i l zeinho de ls dados requíren ua cumprenson clara de las metas, oubjetibos i táticas de l'ourganizaçon i de l mercado an que stá anserido (farmacéutico, bancairo, siguros, etc). 
+
+La modelaige lógica ye ua parte de la funçon d'admenistraçon de dados i ye ua respunsabelidade an tiempo antegral daqueles ambolbidos ne l zambolbimiento dun porjeto. Frequentemente ye ancrementada por outras funçones d'admenistraçon de dados, tales cumo zambolbimiento de las defeniçones de ls eilemientos de dados i gerenciamiento de ls modelos i itenes associados ne l repositório de [[metadados]]. Un de ls papéis de l'admenistraçon de dados ye patrocinar l planeijamiento i cordenaçon de ls recursos d'anformaçon antre aplicaçones relacionadas i las árias de negócio. Fazendo esto, l cumpartilhamiento de dados puode ser maximizado i la redundáncia de dados puode ser menimizada. 
+
+Outelizando técnicas de modelaige lógica de dados, ls admenistradores de dados (tamien chamados "analistas de dados") puoden auxeliar l cumpartilhamiento i manutençon de la cunsisténcia de ls dados atrabeç de las aplicaçones. 
+
+L'oubjetibo percipal de l'admenistraçon de dados ye planeijar, documentar, gerenciar i antegrar ls recursos d'anformaçon corporatibos. Esta antegraçon puode ser alcançada por meio dua cumbinaçon de perfis refinados i técnicas apropiadas, uso de las ferramientas de Admenistraçon de Dados tales cumo un repositório de metadados i perdutos de modelaige [[Ferramienta CASE|CASE]], i struturas de dados logicamente zenhadas. 
+
+Nua análeze final, la cordenaçon de l coincimiento d'admenistraçon de dados i admenistraçon de banco de dados, sous talentos, papéis i respunsabelidades capacitan l'ourganizaçon a atingir la meta de l gerenciamiento adequado de sous recursos d'anformaçon.
+
+=={{Beija tamien}}==
+
+*[[Arquitetura de dados]]
+*[[Banco de Dados]]
+*[[Antegridade referencial]]
+*[[Modelaige de dados]]
+*[[Modelaige dimensional]]
+*[[Sistemas d'anformaçon]]
+*[[Ferramienta CASE]]
+
+=={{Ligaçones sternas}}==
+*{{((en))}} [http://www.dama.org/i4a/pages/andex.cfn?pageid=1 Site oufecial de la The Data Management Association]
+* [http://www.anst-anformatica .pt/l-anstituto/fatos-storicos/publicacoes/cadernos-de-gestao/Caderno5.pdf Dezesseis Mitos acerca de la Admenistraçon de Dados (Carlos M. L. Garcia)]
+* [http://www.reidastribos .com/2013/01/admenistracao-de-banco-de-dados/ Motibos para se tornar un admenistrador)]
+[[Catadorie:Admenistraçon de dados]]
+
+[[ne l:Dataforbaltning]]
