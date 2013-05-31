@@ -1,0 +1,21 @@
+'''Cumputaçon científica''' (ó '''ciéncia cumputacional''') ye l campo de studo antressado na custruçon de modelos [[matemática|matemáticos]] i técnicas de soluçones numéricas outelizando [[cumputador]]s para analisar i resulber porblemas [[ciéncia|científicos]] i de [[angenharie]]. De forma prática, ye l'aplicaçon de simulaçon cumputacional outras formas de cumputaçon para porblemas an dibersas deciplinas científicas.
+
+L campo ye çtinto de la [[ciéncia de la cumputaçon]], l studo matemático de la cumputaçon, de ls cumputadores i de l processamiento d'anformaçon. Tamien ye defrente de la teorie i spurmentaçon, formas tradecionales de ciéncia i angenharie. Cientistas i angenheiros zambolben [[porgrama de cumputador|porgramas de cumputador]] que modelan sistemas sendo studados i ls eisecutan cun dibersos cunjuntos de parámetros d'antrada. Tipicamente, tales modelos requíren ua grande cantidade de cálclo, i son giralmente eisecutados an [[supercumputador]]s ó plataformas de [[cumputaçon çtribuída]].
+
+La cumputaçon científica ye atualmente cunsidrada cumo un terceiro modo de la ciéncia, cumplementado la [[spurmentaçon]] (ouserbaçon) i la [[teorie]].
+
+==Aplicaçones==
+
+Eilemientos de l domínio de porblemas pa la cumputaçon científica ancluen la simulaçon numérica, que puode ser ousada para reconstruir ó antender eibentos coincidos, cumo un [[zastre natural]], i para preber l feturo ó situaçones nun ouserbadas, cumo l [[tiempo]]. Outra aplicaçon ye l'adequaçon de modelos i l'análeze de dados, cumo l'uso de la [[teorie de grafos]] para modelar redes. Ua outra aplicaçon ye l'uso de dibersos parámetros nun modelo cumputacional para ancontrar cenairos outimizados.
+
+==Amplementaçon==
+[[Lenguaige de porgramaçon|Lenguaiges de porgramaçon]] giralmente ousadas para aspetos mais matemáticos de la cumputaçon científica ancluen [[Fortran]], [[MATLAB]], [[GNU Otabe]] i [[Perl Data Language|PDL]]. Para aspetos mais antensos cumputacionalmente son giralmente outelizadas bariaçones de [[C (lenguaige de porgramaçon)|C]] ó Fortran.
+
+=={{Ber tamien}}==
+*[[Ciéncia de la cumputaçon]]
+*[[Matemática aplicada]]
+
+{{rabisco-ciéncia}}
+
+[[Catadorie:Cumputaçon científica| ]]
+[[Catadorie:Matemática aplicada]]
