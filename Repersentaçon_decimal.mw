@@ -2,7 +2,7 @@
 
 '''Repersentaçon decimal''' dun [[númaro rial]] [[nó-negatibo]] ''r'' ye ua spresson de la forma
 
-:<math> r=\sun_{i=0}^\anfty \frac{la_i}{10^i}</math>
+:<math> r=\sum_{i=0}^\infty \frac{la_i}{10^i}</math>
 
 adonde <math>la_0</math> ye un [[númaro natural]],  i <math>la_1,
 la_2, \dots</math> son [[Númaro natural|númaros naturales]] que sastifazen <math>0\leq la_i\leq 9</math>;
@@ -24,9 +24,9 @@ Seia <math>x\geq 0</math>. Anton, para to [[númaro natural]] <math>m\geq 1</mat
 
 Demunstraçon:
 
-Seia <math>r_m = \textstyle\frac{p}{10^m}</math>, adonde <math>p = \lflor 10^nx\rflor</math>.
+Seia <math>r_m = \textstyle\frac{p}{10^m}</math>, adonde <math>p = \lfloor 10^nx\rfloor</math>.
 Anton <math>p \leq 10^nx < p+1</math>, i l resultado surge pula debison d'ambos ls lados por <math>10^m</math>.
-(L fato de que <math>r_m</math> ten ua repersentaçon decimal fenita ye facilmente stablecido.)
+(L fato de que <math>r_n</math> ten ua repersentaçon decimal fenita ye facilmente stablecido.)
 
 ==Repersentaçones decimales múltiplas==
 *(Ber artigo percipal [[0,999...]])
