@@ -1,0 +1,138 @@
+'''Númaros decimales''' son [[numeral|numerales]] qu'andican un númaro que nun ye anteiro. Giralmente passado l [[algarismo]] de las ounidades, usa-se ua bírgula, andicando que l'algarismo a seguir pertence a l'orde de las décimas, ó casas decimales. Todos ls númaros decimales fenitos ó anfenitos i periódicos puoden ser scritos na forma de [[fraçon]], mas, ls númaros decimales eirracionales, cumo l [[pi]], por eisemplo, nun puoden ser scritos na forma de fraçon pus son anfenitos i nó ténen período.
+
+== Stória ==
+Ls númaros decimales ténen ourige nas fraçones decimales. Por eisemplo, la fraçon <math>\frac{1}{2}</math> eiquibale a la fraçon <math>\frac{5}{10}</math> qu'eiquibale al númaro decimal <math>0,5 \,\!</math>.
+
+[[Simon Stebin|Stebin]], [[angenheiro]] i [[matemático]] [[Houlanda|houlandés]], an [[1585]] eilaborou un método para efetuar ouparaçones por meio de númaros [[anteiro]]s, sin l'uso de [[fraçon|fraçones]], ne l qual ourdenaba ls númaros naturales subre ls algarismos de l numerador, l qu'andicaba la posiçon a ser acupada pula bírgula ne l numeral decimal.
+
+<math>\frac{1532}{1000} = </math><sup><math> \begin{matrix}  &  & 1 & 2 & 3\\1&, & 5 & 3 & 2\and{matrix}</math></sup>
+
+La repersentaçon probeniente de fraçones decimales recebie un traço ne l numerador andicando l númaro de zeros eisistentes ne l chamador.
+
+<math>\frac{532}{100} = 5,\frac{32}{100}</math> 
+
+An [[1617]] la notaçon antroduzida por Stebin fui adatada por [[John Napier]], matemático [[Scócia|scocés]], que sugeriu l'uso dun punto ó dua bírgula para apartar la parte anteira de la parte decimal.
+
+Durante mui tiempo ls númaros decimales fúrun ampregados solo para cálclos [[astronomie|astronómicos]] an birtude de la percison proporcionada. Esses númaros simplificórun mui ls cálclos i passórun a ser ousados cun mais énfase passado la criaçon de l [[sistema métrico decimal]].
+
+== Casa decimal ==
+Ye la posiçon qu'un [[algarismo]] acupa passado la bírgula nun númaro decimal.
+
+* Eisemplo:
+:L númaro decimal 12,34563 ten 5 casas decimales. Ouserbe que ne l'eisemplo arriba eisisten 5 algarismos passado la bírgula, son eilhes:  l 3, l 4, l 5, l 6, i l 3 outra beç.
+
+== Nomenclatura ==
+{| class="wikitable"
+|-
+! Balor !! Nome !! Cantidade de casas decimales
+|-
+| align="right" | 10<sup>−1</sup> || Décimo || 1
+|-
+| align="right" | 10<sup>−2</sup> || Centésimo || 2
+|-
+| align="right" | 10<sup>−3</sup> || Milésimo || 3
+|-
+| align="right" | 10<sup>−4</sup> || Décimo de milésimo || 4
+|-
+| align="right" | 10<sup>−5</sup> || Centésimo de milésimo || 5
+|-
+| align="right" | 10<sup>−6</sup> || Melionésimo || 6
+|-
+| align="right" | 10<sup>−7</sup> || Décimo de melionésimo || 7
+|-
+| align="right" | 10<sup>−8</sup> || Centésimo de melionésimo || 8
+|-
+| align="right" | 10<sup>−9</sup> || Bilionésimo || 9
+|-
+| align="right" | 10<sup>−10</sup> || Décimo de belionésimo || 10
+|-
+| align="right" | 10<sup>−11</sup> || Centésimo de belionésimo || 11
+|-
+| align="right" | 10<sup>−12</sup> || Trelionésimo || 12
+|-
+| align="right" | 10<sup>−13</sup> || Décimo de trelionésimo || 13
+|-
+| align="right" | 10<sup>−14</sup> || Centésimo de trelionésimo || 14
+|-
+| align="right" | 10<sup>−15</sup> || Quatrilhonésimo || 15
+|-
+| align="right" | 10<sup>−16</sup> || Décimo de quatrilhonésimo || 16
+|-
+| align="right" | 10<sup>−17</sup> || Centésimo de quatrilhonésimo || 17
+|-
+| align="right" | 10<sup>−18</sup> || Quintilhonésimo || 18
+|-
+| align="right" | 10<sup>−19</sup> || Décimo de quintilhonésimo || 19
+|-
+| align="right" | 10<sup>−20</sup> || Centésimo de quintilhonésimo || 20
+|-
+|}
+
+== Eisemplos de decimales ==
+* 0,9
+* 0,05
+* 0,81
+* 0,56
+* 0,797
+* 0,6786
+* 0,78776
+* 1,5766786856
+* 21,22255555121111
+
+== Decimales anfenitos ==
+Tamien puoden ser chamados de [[dízima periódica]], causo apersenten repetiçon, ó númaros eirracionales causo nun apersenten repetiçon.
+
+* 1,7575647856487543785348738745374...
+* 2,2222222222222222222222222222222...
+* 5366576,7558967589675895634896687...
+* 67,687764986357348963894439864386...
+* 2,4832483248324832483248324832483...
+
+== Ouparaçones ==
+=== Adiçon i subtraçon ===
+Quando se [[adiçon|adiciona]] un númaro decimal cun outro númaro decimal, la regra debe ser "Númaro anteiro ambaixo de númaro anteiro, bírgula ambaixo de [[bírgula]] i casa decimal ambaixo de casa decimal."
+
+S: <center>1,556</center>
+   <center>0,30+</center>
+  <center>——————</center>
+   <center>1,856</center>
+
+Agora, repare que la regra arriba stá sendo oubedecida, mas nun eisiste nanhun [[númaro]] na orde de ls milésimos, para se calcular cul "6". Quando nun se ten la (s) casa (s) decimal (is) para se calcular l'adiçon (ó subtraçon) se adiciona zero, ó repete l balor a ser calculado (ne l causo, 6).
+
+=== Multiplicaçon i debison ===
+==== Pula regra prática (bálido quando l multiplicador ó l debisor ye ua poténcia de 10) ====
+Quando se multiplica un númaro decimal por 10, 100, 1000, ó qualquiera outra [[potenciaçon|poténcia]] de 10, la bírgula anda ua casa decimal pa la [[dreita]], d'acuordo cul númaro de zeros ne l multiplicador. Esso ye chamado de "regra prática".
+
+S: 0,56 X '''100''' = 56<br /> 12,00 X '''100''' = 1200<br /> 350,33 X '''10''' = 3503,3
+
+De l mesmo jeito ye la [[debison]] por qualquiera poténcia de 10, solo que dessa beç la bírgula anda ua casa decimal pa la [[squierda]] para cada zero de l debisor.
+
+S: 1200000 ÷ '''100000''' = 12<br /> 5,55 ÷ '''10''' = 0,555
+
+==== Multiplicaçon Ourdinária ====
+Para multiplicarmos un ó dous númaros cun bírgula, efetuamos la multiplicaçon "squecendo-se" de la bírgula. Quando oubtemos l perduto, cunta-se quantas casas depuis de la bírgula ls dous númaros decimales possuían juntos i marcan-se estas casas ne l perduto.
+
+S: 1,25 X 0,56 = 0,7000
+
+<math> \begin{matrix} 1{,}25 \\ \frac{X  0,56}{0,7000}\and{matrix} </math>
+
+===== Justificatiba =====
+To l númaro decimal [[racional]] puode ser repersentado por ua [[fraçon]]. Bamos repersentar 1,25 i 0,56 dessa maneira.
+
+<math>1{,}25 = \frac{125}{100}</math>
+
+<math>0{,}56 = \frac{56}{100}</math>
+
+Efetuando la multiplicaçon dessas fraçones, tenemos:
+
+<math> \frac{125}{100} \cdot \frac{56}{100} = \frac{125 \cdot 56}{100 \cdot 100} = \frac{7000}{10000}</math>
+
+Retornando a la forma de númaro decimal, tenemos:
+
+<math> \frac{7000}{10000} = 0{,}7000 = 0{,}7 </math>
+
+{{rabisco-matemática}}
+{{Portal3|Matemática}}
+
+{{DEFAULTSORT:Numero Decimal}}
+[[Catadorie:Númaros]]
