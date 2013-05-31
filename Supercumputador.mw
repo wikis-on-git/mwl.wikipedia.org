@@ -1,0 +1,65 @@
+{{Sin-fuontes|data=nobembre de 2010| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+[[Fexeiro:Us-nasa-columbia.jpg|thumb|300px|right|Eisemplo dun supercumputador.]]
+
+'''Supercumputador''' ye un [[cumputador]] cun altíssema belocidade de processamiento i grande capacidade de [[Mimória (cumputador)|mimória]].Ten aplicaçon an árias de pesquisa que grande cantidade de processamiento se faç neçaira, cumo pesquisas melitares, científica, química, medecina.
+Supercumputadores son ousados para cálclos mui cumplexos i tarefas antensibas, cumo porblemas ambolbendo física quántica, macánica, meteorologie, pesquisas de clima, modelaige molecular (cumputaçon nas struturas i propiadades de cumpuostos químicos, macromoléculas biológicas, polímeros i cristales) i simulaçones físicas, cumo simulaçon d'abiones an túneis de bento, simulaçon de la detonaçon d'armas nucleares i ambestigaçon subre la fuson nuclear.
+
+Ls purmeiros supercumputadores fúrun criados na década de [[1960]] por [[Seymour Cray]].Seymour Cray fondou sue própia ampresa, la [[Cray Research]], an 1970 i dominou l mercado de la supercumputaçon durante 25 anhos (1965-1990).
+
+Na década de 70 la [[Ounibersidade de Eillinois]] montou an cunjunto cula [[Burroughs Corporation]] l [[ILLIAC IB]], un supercumputador que quedou famoso pulas dimensones.
+
+La [[fiçon científica]] abordou l tema nun romance chamado "[[Colossus]]".
+
+Hoije ls supercumputadores son fabricados por ampresas cumo [[Supermicro|SUPERMICRO]], [[NEC Corporation|NEC]], [[Sun Microsystems|SUN]] (esta fui cumprada pula [[Ouracle Corporation|Ouracle]] an 2010), [[Anternational Business Machines|IBM]], [[Heiwlett-Packard|HP]], [[Apple Anc.]], i etc. La lista atualizada de ls 500 [[sistemas cumputacionales]] mais poderosos coincidos puode ser oubtida an [http://www .ptop500.org/ top500.org].
+
+== Caratelísticas ==
+Las percipales caratelísticas de ls supercumputadores son:
+
+* '''Belocidade de processamiento''': trilhones d'ouparaçones de punto flutuante por segundo ([[flop|TFlops]]). Cunforme l'http://www .ptop500.org/lists/2011/11 lista Top500 de nob/2011], percebe-se que las ampresas fabricantes de (super)cumputadores tenden a chamar sous própios perdutos de supercumputador (''supercumputer)'' aqueilhes cun processamiento superior a 80 TFlops (68º posiçon até a 1º), i de serbidor (''serber'') aqueilhes cun processamiento antre 25 i 80 TFlops (500º posiçon até a 67º);
+* '''Tamanho''': requíren anstalaçones i sistemas de refrigeraçon speciales;
+* '''Deficuldade d'uso''': scolhido por especialistas;
+* '''Clientes usuales''': grandes centros de pesquisa;
+* '''Penetraçon social''': praticamente zero;
+* '''Ampato social''': mui amportante ne l spácio de l'ambestigaçon, a partir de l momiento an que fornece cálclos an alta belocidade, permitindo, por eisemplo, analisar l'orde de l genoma, l númaro pi, númaros cumplexos, l zambolbimiento de cálclos para porblemas físicos que requíren ua baixíssema borda d'erro, etc.
+* '''Parques anstalados''': menos de mil an qualquiera lugar ne l mundo;
+* '''Custo''': atualmente (2010) até cientos de milhones de dólares cada (~ US$ 225MM l Cray XT5);
+
+== Tipos de supercumputadores ==
+=== Processadores betoriales paralelos (PBP) ===
+Sistemas cumpuostos de poucos processadores poderosos. L'anterconexon ye feita, an giral, por ua matriç de chabeamiento (crossbar) d'alta bazon. La mimória ye cumpartilhada, i ls sistemas puoden ser classeficados cumo multiprocessadores UMA. Normalmente nun outelizan mimória cache, usando para essa funçon un grande númaro de registradores betoriales i un buffer d'anstruçon. 
+Eisemplos: Cray C-90 (mássimo de 16 processadores), Cray T-90 (mássimo de 32 processadores), Fujitsu BPP 700 (mássimo de 256 processadores). L NEC SX-6 tamien ye un PBP, i l Earth Simulator, que ye un NEC SX-6, yá fui l númaro 1 na lista de las 500 máquinas mais poderosas de l mundo, tenndo 5120 processadores.
+Atualmente l supercumputador mais poderoso de l mundo chama-se "K Cumputer", anstalado ne l Japon i ten 548352 nucleos de processamiento.
+
+=== Multiprocessadores simétricos (SMP) ===
+Ls Symmetric Multiprocessors son sistemas custituídos de processadores comerciales conetados a ua mimória cumpartilhada, podendo tamien ser classeficados cumo multiprocessadores UMA. Outelizan-se amplamente de mimória cache i todos ls processadores ténen eigual acesso al barramiento i a a mimória cumpartilhada. San mais fáceles de porgramar que máquinas que se quemunican por troca de mensaiges, yá que la forma de porgramaçon se aprossima daquela feita an sistemas cumbencionales, mas ten cumo zbantaige l'uso dun barramiento d'anterconexon (permitindo solo ua trasaçon por beç). Esta lemitaçon puode reduzir la scalabelidade desta classe de sistemas, fazendo cun que sistemas comerciales stéian, giralmente, lemitados a 64 processadores. Eisemplos: IBM R50 (mássimo de 8 processadores), SGI Power Challenge (mássimo de 36 processadores), SUN Ultra 
+Enterprise 10000 (mássimo de 64 processadores) i HP/Cumbex Eisemplar X-Class
+(mássimo de 32 nós de 16 processadores cada).
+
+=== Máquinas maciçamente paralelas (MPP) ===
+Ls MPPs (Massibely Parallel Processors) son multicumputadores NORMA custruídos cun miles de processadores comerciales conetados por ua rede d'alta belocidade. L'alto zampenho ye oubtido cul grande númaro de processadores. L fato d'haber troca de mensaiges torna la porgramaçon mais defícel que ne ls causos an que a mimória ye cumpartilhada. Eisemplos: Antel Paragon
+(mássimo de 4000 processadores), Cunnetion Machine CM-5 
+(mássimo de 2048 processadores), IBM SP2 (mássimo de 512 processadores) i Cray T3D (mássimo de 2048 processadores).
+
+=== Máquinas cun mimória cumpartilhada çtribuída (DSM) ===
+Ne ls sistemas DSM (Çtributed Shared Memory), mesmo cula mimória sendo çtribuída antre ls nós, todos ls processadores puoden acessar todas las mimórias. L spácio d'andereçamiento único, l cumpartilhamiento de dados i l cuntrole de coeréncia de cache son cunseguidos cun software. Puoden ser sistemas NUMA cun mimória antrelaçada çtribuída, ó sistemas NORMA (cun mimórias locales), adonde las mimórias puoden ser ligadas atrabeç d'adatadores de rede (AR) a ua rede d'anterconexon specífica, que permite l'acesso a mimórias remotas. 
+La máquina, ne ls dous causos, ye cunsidrada CC-NUMA ó SC-NUMA dependendo de l'amplementaçon de la coeréncia de cache. Eisemplo: SGI Ourigin
+(mássimo de 512 processadores).
+
+=== Redes de staçones de trabalho (NOW) ===
+Las redes de staçones de trabalho (NOW – Network of Workstationes) son custituídas de bárias staçones de trabalho anterligadas por algua tecnologie tradecional de rede, cumo Ethernet i ATM. Na prática son redes locales outelizadas na eisecuçon d'aplicaçones paralelas. Puoden ser bistas cumo máquinas NORMA de baixo custo, ó sin custo algun causo la rede yá eisista, ó seia, esta ye ua soluçon seneficatibamente mais barata an relaçon als MPPs. La zbantaige clara que se bé nua rede de staçones de trabalho ye l fato de que las redes tradecionales questuman ser ousadas solo an tarefas menores (para cumpartilhar arquibos i acessar ampressoras remotas, por eisemplo), i giralmente nun son outimizadas para ouparaçones de quemunicaçon dua aplicaçon paralela. L resultado ye ua alta laténcia nessas ouparaçones, l que cumpromete l zampenho de la máquina cumo un to. San ousadas percipalmente an anstituiçones d'ansino pa l studo de processamiento paralelo i çtribuído. Eisemplo: Staçones de trabalho anterligadas por tecnologie Ethernet.
+
+== Ber tamien ==
+{{commonscat|Supercumputers}}
+* [[Cumputador]]
+* [[Mainframe]]
+* [[Serbidor]]
+
+== Ligaçones sternas ==
+* [http://www.bibaolinux .com.br/artigo/Clusters-i-Supercumputacao/ ''Clusters'' i Supercumputaçon]
+
+{{rabisco-anformática}}
+
+[[Catadorie:Cumputadores]]
+[[Catadorie:Supercumputadores| ]]
+
+[[ml:സൂപ്പര്‍ കമ്പ്യൂട്ടര്‍]]
