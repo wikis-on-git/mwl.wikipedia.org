@@ -1,0 +1,91 @@
+{{mais notas|data=nobembre de 2012}}
+{{Ber zambig|prefixo=Se percura|l serbidor houmano|trabalhador}}
+[[Fexeiro:Serber Linux.jpg|thumb|180px|Serbidores Linux.]]
+An [[anformática]], un '''serbidor''' ye un sistema de [[cumputaçon]] centralizada que fornece serbícios a ua [[rede de cumputadores]]. Esses serbícios puoden ser de natureza dibersa, cumo por eisemplo, [[arquibo de cumputador|arquibos]] i [[correio eiletrónico]]. Ls cumputadores qu'acessan ls serbícios dun serbidor son chamados [[cliente]]s. Las redes qu'outelizan serbidores son de l tipo [[cliente-serbidor]], outelizadas an redes de médio i grande porte (cun muitas máquinas) i an redes adonde la queston de la [[sigurança]] zampenha un papel de grande amportança. L termo serbidor ye largamente aplicado a cumputadores cumpletos, ambora un serbidor puoda eiquibaler a un ''software'' ó a partes dun sistema cumputacional, ó até mesmo a ua máquina que nun seia necessariamente un cumputador.
+
+La stória de ls serbidores ten, oubbiamente, a ber culas redes de cumputadores. Redes permitian la quemunicaçon antre dibersos cumputadores, i, cul crecimiento destas, surgiu l'eideia de dedicar alguns cumputadores para prestar algun serbício a la rede, anquanto outros se outelizarian destes serbícios. Ls serbidores quedarian respunsables pula purmeira funçon.
+
+Cul adbento de las redes, fui crecendo la necidade de las redes tenéren serbidores i menicumputadores, l qu'acabou cuntribuindo pa la diminuiçon de l'uso de ls ''[[mainframe]]s''.
+
+L crecimiento de las ampresas de redes i l crecimiento de l'uso de la [[Anterneta]] antre profissionales i usuairos quemuns fui l grande ampulso pa l zambolbimiento i aperfeiçoamiento de tecnologies para serbidores.
+
+== Tipos de serbidores ==
+[[Fexeiro:Wikimedia-serbers-Set04.jpg|thumb|200px|Serbidores de la [[Wikimedie Foundation]].]]
+Eesisten dibersos tipos de serbidores. Ls mais coincidos son:
+* '''[[Serbidor de Fax]]''': Serbidor para trasmisson i recepçon outomatizada de [[fax]] pula [[Anterneta]], çponibelizando tamien la capacidade d'ambiar, recebir i çtribuir ''fax'' an todas las staçones de la [[Net Serbícios de Quemunicaçon|NET]].
+* '''[[Serbidor d'arquibos]]''': Serbidor qu'armazena arquibos de dibersos usuairos.
+* '''[[Serbidor web]]''': Serbidor respunsable pul armazenamiento de páiginas dun detreminado [[site]], requesitados puls clientes atrabeç de ''[[browser]]s''.
+* '''[[email|Serbidor de correio eiletrónico]]''': Serbidor respunsable pul armazenamiento, ambio i recebimiento de mensaiges de correio eiletrónico.
+* '''[[Serbidor d'ampresson]]''': Serbidor respunsable por cuntrolar pedidos d'ampresson d'arquibos de ls dibersos clientes.
+* '''Serbidor de banco de dados''': Serbidor que ten i manipula anformaçones cuntidas nun banco de dados
+* '''Serbidor [[DNS]]''': Serbidores respunsables pula cumberson d'andereços de sites an [[andereço IP|andereços IP]] i al alrobés.
+* '''[[prossy|Serbidor prossy]]''': Serbidor qu'atua cumo un [[cache]], armazenando páiginas de la [[anterneta]] recén-bejitadas, oumentando la belocidade de carregamiento destas páiginas al chamá-las outra beç.<ref>http://prossy.serbidor.goglepages .com/</ref>
+* '''Serbidor d'eimaiges''': Tipo special de serbidor de banco de dados, specializado an armazenar [[eimaige digital|eimaiges digitales]].
+* '''[[Serbidor FTP]]''': Permite acesso d'outros usuairos a un [[çco rígido]] ó serbidor. Esse tipo de serbidor armazena arquibos para dar acesso a eilhes pula anterneta.
+* '''[[Serbidor webmail]]''': serbidor para criar emails na ''web''.
+* '''[[Serbidor de birtualizaçon]]''': permite la criaçon de máquinas birtuales (serbidores eisolados ne l mesmo eiquipamiento) mediante cumpartilhamiento de ''hardware'', senefica que, oumentar l'eficiéncia einergética, sin prejudicar las aplicaçones i sin risco de cunflitos dua cunsulidaçon rial.
+* '''[[Serbidor de sistema ouperacional]]''': permite cumpartilhar l sistema ouperacional dua máquina cun outras, anterligadas na mesma rede, sin qu'essas percisen tener un sistema ouperacional anstalado, nin mesmo un HD própio.
+
+Ls clientes i ls serbidores quemunican atrabeç de [[protocolo]]s, assi cumo dous ó mais cumputadores de redes.
+
+Un cumputador, ocasionalmente, puode prober mais dun serbício a la par. Puode eisistir nua rede, un cumputador qu'atue cumo un [[serbidor web]] i [[Sistema de gerenciamiento de banco de dados|serbidor de banco de dados]], por eisemplo; ó un cumputador puode atuar cumo [[serbidor d'arquibos]], de correio eiletrónico i ''[[prossy]]'' al mesmo tiempo. Cumputadores qu'atuen cumo un único tipo de serbidor ye chamado de serbidor dedicado. Ls serbidores dedicados possuen la bantaige d'atender a ua requesiçon dun cliente mais debrebe.
+
+[[Fexeiro:Paris serbers DSC00190.jpg|thumb|200px|left|Un [[Cluster]] cun trés serbidores.]]
+
+Cun sceçon de l serbidor de banco de dados (un tipo de [[serbidor d'aplicaçon]]), ls demales serbidores solo armazenan anformaçones, quedando por cunta de l cliente l processamiento de las anformaçones. Ne l serbidor d'aplicaçones, ls papéis se amberten, cul cliente recebindo l resultado de l processamiento de dados de la máquina serbidora.
+
+Nua rede heiterogénea (cun dibersos ''[[hardware]]s'' i ''[[software]]s'') un cliente tamien puode ser un serbidor i assi un serbidor puode ser "cliente de l cliente" tal cumo "serbidor de l serbidor". Por eisemplo, ua rede ten un [[serbidor d'ampresson]] i un d'arquibos, supondo que bocé stá ne l [[serbidor d'arquibos]] i necessita amprimir ua fuolha dun decumiento que bocé stá screbendo, quando bocé mandar amprimir la fuolha l serbício de l [[serbidor d'ampresson]] será outelizado, i assi la máquina que bocé stá usando, que ye l serbidor d'arquibos, stá sendo cliente de l serbidor d'ampresson, pus stá outelizando de sou serbício.
+
+== ''Hardware'' i ''software'' de serbidores ==
+=== ''Hardware'' ===
+Serbidores dedicados, que possuen ua alta requesiçon de dados por partes de ls clientes i qu'atuan an aplicaçones críticas outelizan ''[[hardware]]'' specífico para serbidores. Yá serbidores que nun possuan essas atuaçones puoden outelizar ''hardware'' dun cumputador quemun.
+
+Para ampeçar, muitos serbidores baseian-se an antradas i salidas d'anformaçones (percipalmente grabaçones i deleçones d'arquibos), l qu'amplica anterfaces d'antrada i salida i [[çco rígido|çcos rígidos]] d'alto zampenho i cunfiabelidade. L tipo de çco rígido mais outelizado ten l padron [[SCSI]], que permite l'anterligaçon de bários periféricos, çpuostos an arranjos [[RAID]].
+
+Debido a ouperar cun muitas antradas i salidas d'anformaçones, ls serbidores necessitan de [[processador]]s d'alta belocidade, alguas bezes alguns serbidores son multi-processados, ó seia, possuen mais dun processador. Serbidores tamien ten çponible ua grande cantidade de mimória RAM, sendo giralmente ousada para ''caching'' de dados.
+
+Por tener d'ouperar por mui tiempo (frequentemente de maneira ininterruta), alguns serbidores son ligados a geradores eilétricos. Outros outelizan sistemas d'alimentaçon (por eisemplo, l [[UPS (eiletrónica)|UPS]]) que cuntinan a alimentar l serbidor causo haba algua queda de tenson.
+
+I, por ouperar durante longos anterbalos de tiempo, i debido a l'eisisténcia dun ó mais processadores d'alta belocidade, ls serbidores percisan dun eficiente sistema de dissipaçon de calor, l qu'amplica ''colers'' mais caros, mais barulhentos, mas de maior eficiéncia i cunfiabelidade.
+
+Eesisten outros ''hardwares'' specíficos para serbidor, specialmente placas, de l tipo ''[[hot swapping]]'', que permite la troca destes anquanto l cumputador stá ligado, l que ye primordial para que la rede cuntine a ouperar.
+
+Çcute-se mui subre l'outelizaçon ó nun dun micro quemun, l popular ''Personal Cumputer'' (PC), cumo serbidor i la necidade de ó nun de se adquirir un eiquipamiento mais robusto para atuar cumo serbidor. La repuosta a essa queston depende de l'outelizaçon de l'eiquipamiento i de la "criticidade" de l serbício que l serbidor stá eisecutando. Nua strutura nun crítica, un cumputador quemun puode ser ousado cumo serbidor. Note que l tamanho de la rede nun amporta; por eisemplo: ua ampresa cun 3 anstrutores ''on-line'' na Anterneta ten 3 cumputadores i un deilhes ye l serbidor d'acesso a la Anterneta. Se este serbidor falha l negócio de l'ampresa stá parado. {{carece de fuontes|data=Dezembre de 2008}} 
+
+Prebendo esse tipo de necidade, ls fabricantes de cumponentes de cumputadores zambolben placas mais robustas, aplican ua angenharie mais eilaborada de bentilaçon, redundáncia d'itenes i capacidade de spanson ampliada, para que l serbidor puoda garantir la [[çponibelidade]] de l serbício i la cunfiabelidade ne l mesmo. {{carece de fuontes|data=Dezembre de 2008}}
+
+Normalmente la preocupaçon an zambolber serbidores queda centrada an grandes fabricantes de l mercado, que possuen eiquipes preparadas i laboratórios cun esse fin.
+
+=== Sistemas Ouperacionales ===
+Para que funcione ua rede cliente-serbidor, ye necessairo que ne l serbidor steia anstalado un [[sistema ouperacional]] que reconheça esse tipo de rede. Ls sistemas ouperacionales para redes cliente-serbidor son:
+* [[Unix]]
+* [[Linux]]
+* [[Solaris]]
+* [[FreBSD]]
+* [[Nobell Netware]]
+* [[Windows NT]], [[Windows 2000]], [[Windows 2003]], [[Windows XP]], [[Windows Bista]], [[Windows Serber 2008]] i [[Windows 7]]
+
+Ls sistemas ouperacionales [[Windows 95]], [[Windows 98]] i [[Windows ME]] reconhecen solamente redes de l tipo punto-la-punto; i l sistema ouperacional [[DOS]] nun ten suporte la qualquiera tipo de rede.
+ 
+An serbidores, l sistema Unix i sistemas baseados neste (cumo Linux i Solaris) son ls sistemas mais outelizados para aplicaçones cumo Firewall i serbidor web, al passo que l sistema Windows, son mais outelizados para Gerenciamiento de Usuários i serbícios pula facelidade d'ouparaçon i manutençon (AD).{{carece de fuontes|data=Dezembre de 2008}}
+
+== Serbidores na Anterneta ==
+La [[Anterneta]], maior rede de cumputadores de l mundo, outeliza l modelo cliente-serbidor. Muitos serbidores an to l mundo son anterligados i processan anformaçones a la par. 
+
+Alguns serbícios ouferecidos por serbidores de ''anterneta'' son: páiginas ''web'', correio eiletrónico, trasferéncia d'arquibos, acesso remoto, mensaiges anstantáneas i outros. Ye antressante notar que qualquiera açon efetuada por un usuairo ambolbe l trabalho de dibersos serbidores spalhados pul mundo.
+
+{{Refréncias}}
+
+== Ber tamien ==
+{{commonscat|Wikimedie serbers}}
+* [[Cliente-serbidor]]
+* [[Mainframe]]
+* [[SSH]]
+* [[Supercumputador]]
+* [[Telnet]]
+* [[Torre de serbidores]]
+* [[XSP]]
+
+[[Catadorie:Serbidores| ]]
+[[Catadorie:Cumputadores]]
+[[Catadorie:Cumputaçon]]
