@@ -1,0 +1,106 @@
+{{sin-fuontes|data=júnio de 2009}}
+Na [[Matemática]], dados dous [[cunjunto]]s ''X'' i ''Y'', l '''perduto cartesiano''' (ó ''perduto direto'') de ls dous cunjuntos (scrito cumo ''X'' × ''Y'') ye l cunjunto de todos ls [[Par ourdenado|pares ourdenados]] cujo purmeiro eilemiento pertence la ''X'' i l segundo, la ''Y''.
+
+:<math>X\eiquipas Y = \{(x,y) \mid x\in X\;\wedge\;y\in Y\}. </math>
+
+L perduto cartesiano recibe sou nome de [[René Çcartes]], cuja formulaçon de la [[geometrie analítica]] dou ourige l'este cunceito.
+
+Por eisemplo, se l cunjunto X ye l de ls treze eilemientos de l [[baralho|baralho anglés]]
+: <math>X = \{\mathrn{La}, \mathrn{K}, \mathrn{Q}, \mathrn{J}, 10, 9, 8, 7, 6, 5, 4, 3, 2\} </math>
+i l Y ye l de ls quatro naipes:
+:  ''Y'' = {&spades;, &heiarts;, &diams;, &clus;}
+
+anton l perduto cartesiano desses dous cunjuntos será l cunjunto culas 52 cartas de l baralho:
+
+:  ''X'' × ''Y'' = {(La, &spades;), (K, &spades;), ..., (2, &spades;), (La, &heiarts;), ..., (3, &clus;), (2, &clus;)}.
+
+Outro eisemplo ye l praino bidimensional '''R''' &eiquipas; '''R''', adonde '''R''' ye l cunjunto de [[númaro rial|númaros reales]] i ls pares ourdenados ténen la forma de (''x'',''y''), adonde ''x'' i ''y'' son númaros reales (beija l [[sistema de cordenadas cartesiano]]). Subconjuntos de l perduto cartesiano son chamados de [[Relaçon (matemática)|relaçones binárias]], i [[funçon|funçones]], un de ls cunceitos mais amportantes de la matemática, son defenidas cumo tipos speciales de relaçones.
+
+== Teorie de ls Cunjuntos ==
+Na [[teorie de ls cunjuntos]], i, an special, na sue formulaçon puls [[axiomas de Zermelo-Fraenkel]], la defeniçon de
+: <math>X \eiquipas Y = \{ (x, y) \ | \ x \in X \land y \in Y \}\,</math>
+nun ye sastifatória. Debemos custruir, usando ls axiomas, un cunjunto suficientemente grande para cunter todos ls [[par ourdenado|pares ourdenados]], i, depuis, reduzir este cunjunto al perduto escalar pul [[axioma de la separaçon]].
+
+Cumo un [[par ourdenado]] ye defenido por <math>(la, b) = \{ \{la\}, \{la,b\}\}\,</math>, tenemos qu'eilhes son cunjuntos formados por subconjuntos de l'ounion de ls cunjuntos ''X'' i ''Y''. Ó seia, cada par ourdenado ye un [[subconjunto]] de l [[cunjunto de las partes]] de <math>X \cup Y\,</math>. Antoce, l [[axioma de la poténcia]] debe ser aplicado dues bezes subre la [[ounion (matemática)|ounion]] de ''X'' i ''Y'', i subre este cunjunto aplica-se l [[axioma de la separaçon]].
+
+Splicitamente:
+
+:<math>X \eiquipas Y = \{ p \in P(P(X \cup Y)) \ | \ p = \{ \{x\}, \{x,y\}\}, x \in X, y \in Y \}\,</math>
+
+Debe-se amostrar que ''naide quedou de fura'', ó seia, que qualquiera par ourdenado pertence al perduto scalar. Para esso, suponha que <math>la \in X \land b \in Y\,</math>. Anton, pula defeniçon d'ounion, <math>la \in X \cup Y \land b \in X \cup Y\,</math>. Pula defeniçon de l [[cunjunto de las partes]], <math>\{la\} \in P(X \cup Y) \land \{la,b\} \in P(X \cup Y)\,</math>. Finalmente, aplicando-se de nuobo la defeniçon de l [[cunjunto de las partes]], tenemos que <math>(la,b) = \{\{la\}, \{la,b\}\} \in P(P(X \cup Y))\,</math>.
+
+== Cardinal ==
+L [[númaro cardinal|cardinal]] de l perduto cartesiano de dous cunjuntos ye l [[multiplicaçon|perduto]] de ls cardinales de ls cunjuntos andebiduales:
+
+: <math>|X \eiquipas Y| = |X| \cdot |Y|</math>
+
+== Generalizaçon ==
+L perduto cartesiano puode ser generalizado para mais de dous cunjuntos:
+
+:''X''<sub>1</sub> × ... × ''X<sub>m</sub>'' = { (''x''<sub>1</sub>,... ,''x<sub>m</sub>'') | ''x''<sub>1</sub> pertence la ''X''<sub>1</sub> i ... i ''x<sub>m</sub>'' pertence la ''X<sub>m</sub>'' }
+
+ó antuitibamente (''X''<sub>1</sub> × ... ×  ''X<sub>m-1</sub>'') × ''X<sub>m</sub>''.
+
+Un eisemplo ye l seguinte. Seia l cunjunto L cun trés eilemientos:
+: {1, 2, 3}
+l cunjunto M cun dous eilemientos:
+: {la,b},
+i l cunjunto N cun 2 eilemientos:
+: {$, %},
+l perduto cartesiano L × M × N ye:
+: {(1 ,la, $), (1 ,la ,%), (2 ,la ,$), (2 ,la ,%), (3 ,la ,$), (3 ,la ,%), (1 ,b, $), (1 ,b ,%), (2 ,b ,$), (2 ,b ,%), (3 ,b ,$), (3 ,b ,%)}
+
+Un outro eisemplo desso ye l [[spácio euclidiano]] de trés dimensones <math>\mathbb{R} \eiquipas \mathbb{R} \eiquipas \mathbb{R}</math>.
+
+== Notaçon potencial ==
+Para spressar l perduto cartesiano dun cunjunto por si mesmo stá permitida la notaçon potencial:
+
+<math>\begin{matrix}
+& \underbrace{ X \eiquipas X \eiquipas \cdots \eiquipas X } & = X^m \\ & m \mathrn{bezes}
+\and{matrix}
+</math>
+
+Assi, l mencionado spácio euclidiano tridimensional puode-se repersentar cumo <math>\mathbb{R}^3</math>.
+
+== Perduto anfenito ==
+L'ouserbaçon de que la strutura de l perduto cartesiano <math>X^m\,</math> ten ua [[teorie de las catadories|strutura]] semelhante al cunjunto de las funçones de domínio {1, 2, ..., m} i eimaige ''X'' sugere que l perduto cartesiano puoda ser generalizado para anfenitas parcelas, cumo un cunjunto de funçones.
+
+Seia <math>\Lambda\,</math> un cunjunto (nó-bazio), chamado de cunjunto de índices. Seia <math>X_{\lambda}\,</math> un cunjunto defenido para cada índice <math>\lambda \in \Lambda\,</math> (eilhes puoden ser eiguales ó nó). Anton l '''perduto''' destes cunjuntos ye defenido por:
+* <math>\prod_{\lambda \in \Lambda} X_{\lambda} = \{ f : \Lambda \rightarrow \bigcup_{\lambda \in \Lambda} X_{\lambda} \ , \ f(la) \in X_la \} \, </math>
+
+=== Eisemplo ===
+Seia <math>\Lambda = \mathbb{N^\star}\,</math>, ó seia, stamos andexando puls númaros naturales (sin l zero). Seia <math>X_i = \{ 1, 2, \ldots, i \} \,</math>. Anton <math>\prod X_i\,</math> ye l cunjunto de las sequéncias de númaros naturales an que l purmeiro termo ye 1, l segundo termo ye 1 ó 2, l terceiro termo ye 1, 2 ó 3, etc.
+
+=== Axioma de la Scolha ===
+Un resultado paradoxal ye que, usando ls axiomas usuales de la Teorie de ls Cunjuntos sin ancluir l [[axioma de la scolha]], nun ye possible amostrar que l perduto de cunjuntos nó-bazios ten algun eilemiento.
+
+== Projeçon canónica ==
+Las funçones mais amportantes que ten cumo domínio un '''perduto cartesiano''' son las projeçones canónicas.
+
+Ne l causo fenito, la ''i-ésima'' projeçon canónica ye la funçon que retorna la ''i-ésima'' cordenada.
+
+Ó seia:
+
+* <math>\pi_i(x_1, \ldots, x_i, \ldots, x_m) = x_i\,</math>
+
+Ne l causo anfenito, cumo cada eilemiento de <math>\Pi_{\lambda} X_{\lambda}\,</math> ye ua funçon, tenemos que:
+
+* <math>\pi_{\lambda}(f) = f(\lambda)\,</math>
+
+=== Eisemplos ===
+* An <math>\mathbb{R}^2\,</math>, las dues projeçones canónicas son:
+:: <math>\pi_1(x, y) = x\,</math>
+:: <math>\pi_2(x, y) = y\,</math>
+* Ne l cunjunto de las [[Sequéncia matemática|sequéncias]] de númaros reales, que puode ser bisto cumo l perduto <math>\Pi_{i \in \mathbb{N^{\star}}} \mathbb{R}\,</math>, la ''i-ésima'' projeçon canónica ye la funçon que retorna l ''i-ésimo'' eilemiento. Por eisemplo:
+:: <math>\pi_{10} (2, 4, 8, 16, \ldots) = 1024\,</math>
+
+== Perdutos de Struturas Matemáticas ==
+Bárias struturas matemáticas son mantidas, dua forma natural (canónica) al se passar pa ls perdutos cartesianos. Por eisemplo:
+* l perduto cartesiano de [[grupo (matemática)|grupos]] ye un grupo.
+* l perduto cartesiano de [[spácio betorial|spácios betoriales]] subre l mesmo cuorpo ye un spácio betorial.
+* l perduto cartesiano de [[spácio topológico|topologies]] ye ua topologie, la [[topologie perduto]].
+
+Todos estes cunceitos puoden ser unificados usando-se l [[perduto categorial]], defenido na [[Teorie de las catadories]].
+
+{{DEFAULTSORT:Perduto Cartesiano}}
+[[Catadorie:Teorie de ls cunjuntos]]
