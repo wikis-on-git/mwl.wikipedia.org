@@ -1,0 +1,107 @@
+[[Fexeiro:relogio binario.JPG|dreita|thumb|280px|Reloijo binario an [[Protoboard|placas d'ansaio]]]]
+'''Circuitos Digitales''' (ó '''Circuitos Lógicos''') son defenidos cumo [[circuitos eiletrónicos]] qu'ampregan l'outelizaçon de senhales eilétricos an solo dous nibles de corriente (ó tenson) para defenir la repersentaçon de balores binairos.<ref>{{citar web |url=http://www.cp.utfpr.edu.br/chiisse/Sistemas_Digitales/Antroducao.pdf |títalo=Circuitos Digitales |acessodata=14 de Maio de 2012 |outor=Prof. Luiç Marcelo Chiisse de la Silba |ultimo=Chiisse de la Silba |purmeiro=Luiç Marcelo |anho=2012|mes=Maio |formato=PDF |publicado=Cefet PR - Cornélio Procópio }}</ref>
+
+Circuitos Lógicos baseian sou funcionamiento na [[lógica binária]], que cunsiste, que to anformaçon debe ser spressa na forma de dous dígitos (tanto armazenada, cumo processada), sendo tales digítos, 0 (zero) ó 1 (un). A partir dende surge antuitibamente a la nomeaçon “digital” ( dous dígitos).
+
+Este fato auxelia pa la repersentaçon de stados de çpositibos que funcionan an dous nibles çtintos, sendo estes: ligado/çligado (on/ouff), alto/baixo (high/low), berdadeiro/falso (true/false) antre outros.
+
+Ls [[cumputadores]], [[telemoble]], leitores de [[DBD]] ó [[Blu-ray]], son alguns eisemplos d'apareilhos que baseian a totalidade, ó parte, de l sou funcionamiento an circuitos digitales.
+
+=== Custruçon de Circuitos Digitales ===
+Circuitos son custituidos pula associaçon de [[puortas lógicas|blocos lógicos]].
+
+Ls blocos lógicos son debedidos an 7 classes:
+* [[I (AND)]]
+* [[OU (OR)]]
+* [[NÃO (NOT)]]
+* [[NE (NAND)]]
+* [[NOU (NOR)]]
+* [[XOR|XOR (OU EXCLUSIBO)]]
+* [[Puorta XNOR|XNOR (NÃO-OU EXCLUSIBO)]]
+
+A partir destes blocos lógicos ye possible custruir praticamente todas las outras associaçones necessaries.<ref>{{citar web |url=http://200.17.141.72/lew/sites/default/files/aula_03_circuitos_digitales_1.pdf |títalo=Sistemas digitales: ua abordaige antegrada |acessodata=21 de Maio de 2012 |outor=John P. Uyemura |ultimo=P. Uyemura |purmeiro=John |anho=2012|mes=Maio |formato=PDF |publicado=Laboratório de Angenharie Web - LEW }}</ref>
+
+Eisemplos:
+# [[Cuntadores binairos|Cuntadores Binários]] (Flip-Flops).
+# [[Ounidade Lógico-Aritmética|Ounidades lógico-aritméticas]] (ULA, ó, an anglés ALU).
+# Etc.
+
+== Circuitos Digitales Bs Circuitos Analógicos ==
+Circuitos Digitales apersentan dibersas bantaiges subre [[circuitos analógicos|Circuitos Analógicos]], tales cumo:
+# Facelidade de porjetar i armazenar anformaçones;
+# Stensa porgramabelidade;
+# Maior satidon i antegraçon;
+# San menos afetados por rugidos ouriginairos de flutuaçones de tenson d'alimentaçon (causado pul fato de que circuitos digitales nun dependen de l balor sato de la tenson eilétrica recebida, i si de la defrença antre ls nibles Alto i Baixo).
+
+Todabie, ls circuitos digitales apersentan tamien zbantaiges, sendo eilhas:
+L mundo ye de natureza analógica, ó seia, balores cuntinos cun stensa bariaçon de frequéncia, cun esso, to circuito digital que lida cun bariables físicas de natureza analógica necessita cumberter tal anformaçon pa l meio digital, para anton processar, i mais tarde fazer l fluxo amberso, cumberte de la natureza digital pa l'analógica, sendo este porcesso, an alguns causos, nun benéfico.
+
+== Ourige de l nome ==
+La palabra '''digital''' deriba de dígito, que por sue beç procede de l latin ''digitus'', seneficando dedo.
+
+Zde que la [[houmanidade]] zambolbiu l porcesso de cuntaige, ls [[dedo]]s fúrun ls [[strumiento]]s mais simples i eficientes para cuntar pequeinhos balores. L [[sistema de numeraçon ando-arábico]], l mais ousado atualmente, ye un sistema de base dieç, pus son dieç ls dedos de las dues manos de ls seres houmanos. Muitos outros [[sistemas de numeraçon]] úsan la base decimal, pus serbian para [[simblos matemáticos|simbolizar]] la cuntaige culs dedos.
+
+Normalmente culs dedos solo ye possible cuntar balores [[númaro anteiro|anteiros]]. Por causa dessa caratelística, la palabra ''digital'' tamien ye ousada para se referir la qualquiera oubjeto que trabalha cun balores [[Matemática çcreta|çcretos]]. Ó seia, antre dous balores cunsidrados aceitables eisiste ua cantidade ''fenita'' de balores aceitables.
+
+Digital '''nó''' ye sinónimo de [[eiletrónica|eiletrónico]]: por eisemplo, l [[cumputador eiletrónico]] puode ser chamado de digital porque trabalha cul [[sistema binairo]], que ye simbolizado por ua sequéncia fenita de zeros i uns, qualquiera que seia l tipo de dados.
+
+Hoije an die, mas, nun se cunsegue zbincular la palabra "digital" de l sistema anformático i de tecnologies ligadas a la cumputaçon, cumo, por eisemplo, "trasmisson digital".
+
+L'antroduçon de la tecnologie digital na radiodifuson ye bista, potencialmente, por specialistas cumo ua berdadeira reboluçon, qu'eirá criar un nuobo meio de quemunicaçon. "La TB digital puode quebrar todos paradigmas eisistentes na quemunicaçon", diç Gustabo Gindre, cordenador giral de l Anstituto de Studos i Porjetos an Quemunicaçon i Cultura (Andecs) i antegrante de l Coletibo Anterbozes.
+
+== Circuitos cumbinacionales ==
+Un circuito digital ye dezido cumbinacional se an que nun dado anstante de tiempo la salida depende única i sclusibamente de las cumbinaçones de la bariables d'antrada, ó seia, l circuito cumbinacional nun ye capaç d'armazenar balores an "mimória", para uso posterior. Sou [[fluxograma]] ye cumpuosto de situaçon, tabela de la berdade spresson [[lógica binária|lógica]] i circuito.
+
+L funcionamiento de todas las [[puortas lógicas]] básicas i la [[lógica boleana]] que çcriben i analisan ls circuitos feitos a partir de la cumbinaçon de puortas lógicas puoden ser classeficados cumo circuitos lógicos cumbinacionales porque, an qualquiera anstante de tiempo, l nible lógico de la salida de l circuito depende de la cumbinaçon de ls nibles lógicos persente nas antradas. Un circuito cumbinacional nun ten la caratelística de [[mimória]], antoce sue salida depende solo de ls balores atuales de las antradas.<ref>{{citar web|url=http://www.anf.ufsc.br/ine5365/mixtcomb.html |títalo=Logica Mista. Circuitos Cumbinacionales |publicado=UFSC}}</ref>
+
+L circuito cumbinacional rializa un cunjunto d'eiquaçones boleanas rializando ua detreminada ouparaçon de processamiento de l'anformaçon, ó seia, la cumbinaçon de balores d'antrada ye bista cumo ua anformaçon çtinta de las outras i l cunjunto de balores de salidas de las ouparaçones repersenta l resultado de l'ouparaçon. An cada circuito puode ser ousado la simplificaçon de circuitos lógicos pul método de [[Mapeamiento de porcessos|mapeamiento]] ó teoremas de la [[álgebra boleana]].<ref>{{citar web|url=http://minerba.ufpel.edu.br/~guntzel/isd/isd3.pdf |títalo=Circuitos Cumbinacionales |publicado=UFPEL}}</ref>
+
+== Circuitos Antegrados an Sistemas Digitales (CIs) ==
+Ls Circuitos Antegrados permitiran ua amplementaçon de Sistemas Digitales mais simples i sigura, ó seia, permitiu que sistemas digitales cumplexos fússen criados de maneira mais limpa i fuorte, an relaçon la sistemas amplementados cun cumponentes çcretos.<ref>{{citar web |url=http://www.de.ufrj.br/cirlog/TestosCompl/Circuitos%20integrados.pt |títalo=Circuitos Antegrados |acessodata=17 de maio de 2012 |outor=Lucínio Preza de Araújo |ultimo=Preza de Araújo |purmeiro=Lucínio |anho=2012|mes=Maio |formato=PDF |publicado=Ounibersidade Federal de l Riu de Janeiro}}</ref>
+
+Eesisten dibersas tecnologies ousadas atualmente pa la porduçon de circuitos antegrados, dentre eilhas, las mais quemuns son:
+* [[Trasistor-Trasistor Logic|Lógica Trasistor-Trasistor]].
+* [[CMOS|CMOS (Cumplementary Metal-óxido-semicondutor)]].
+* [[Lógica NMOS|NMOS (N-type Metal-ouxide-semicondutor Logic)]].
+* [[Eimitter-coupled logic|ECL (Eimitter-Coupled Logic)]]<ref name="CEFETES">{{citar web |url=ftp://ftp.cefetes.br/Cursos/Eiletrotecnica/Fabio/EiletronicaDigital/Apostilas/Apostila%20con%20base%20no%20libro%20-%20Sistemas%20Digitales.pdf |títalo=Circuitos i Sistemas Digitales |acessodata=15 de maio de 2012 |outor=Marcelo Calderaro |ultimo=Calderaro |purmeiro=Marcelo |anho=2012|mes=Maio |formato=PDF |publicado=Anstituto Federal de l Sprito Santo}}</ref>
+
+=== Trasferéncia de Anformaçones cun Circuitos Antegrados Digitales ===
+De maneira giral, eisisten dues formas de trasferéncia de dados an CIs, sendo eilhas:
+* Paralelo
+* Serial
+
+Las CIs Paralelas funcionan de maneira que ls bits son trasferidos a la par, ó seia, baries filas de dados sofren trasiçon todas al mesmo tiempo (macanismo de múltiplas filas.).
+
+I las CIs Seriales funcionan cul macanismo de única fila, ó seia, ls bits son trasferidos  un de cada beç ne l mesmo fluxo de dados.
+<ref name="CEFETES">{{citar web |url=ftp://ftp.cefetes.br/Cursos/Eiletrotecnica/Fabio/EiletronicaDigital/Apostilas/Apostila%20con%20base%20no%20libro%20-%20Sistemas%20Digitales.pdf |títalo=Circuitos i Sistemas Digitales |acessodata=15 de maio de 2012 |outor=Marcelo Calderaro |ultimo=Calderaro |purmeiro=Marcelo |anho=2012|mes=Maio |formato=PDF |publicado=Anstituto Federal de l Sprito Santo}}</ref>
+
+== Performance de circuitos digitales ==
+Circuitos digitales possuen atrasos na propagaçon de sous senhales. Estes atrasos puoden ocorrer debido al tiempo que cada puorta lógica lieba para gerar un senhal de salida, dada ua mudança ne l senhal d'antrada, i debido la propagaçon de ls senhales atrabeç de ls filos de l circuito.<ref name="brbr" /> {{rp|p.57}}
+
+La belocidade dun circuito digital ye siempre lemitada d'acuordo cul maior atraso de l circuito. Tal atraso ye causado pulas puortas lógicas i ye chamado de ''atraso de camino crítico''. L camino cun maior tiempo d'atraso antre dous puntos de l circuito ye chamado de ''camino crítico''.<ref name="brbr">{{Citar libro |outor=Stephen Brown |coautor=Zbonko Branesic |títalo=Fundamentals of Digital Logic with BHDL Zeign |léngua=Anglés |eidiçon=2 |local=Det. of Eiletrical and Cumputer Anginering - University of Toronto | eiditora=McGraw-Hill |anho=2005 |isbn=0-07-246085-7 }}</ref>{{rp|p.271}}
+
+{{refréncias}}
+
+== Ber tamien ==
+{{Wikelibros}}
+* [[Circuito sequencial]]
+* [[Senhal Digital]]
+* [[Processamiento digital de senhales]]
+* [[Puorta lógica]]
+* [[Circuitos cumbinacionales]]
+* [[Cuntador assíncrono]]
+* [[Simplificaçon de circuitos lógicos]]
+
+{{Sistemas digitales}}
+
+{{Rabisco-eiletrónica}}
+{{Portal3|Eiletrónica}}
+
+[[Catadorie:Hardware]]
+[[Catadorie:Eiletrónica digital]]
+[[Catadorie:Circuitos digitales]]
+[[Catadorie:Ciéncia de la cumputaçon]]
+[[Catadorie:Lógica]]
+[[Catadorie:Álgebra boleana]]
+[[Catadorie:Cumputaçon]]
+[[Catadorie:Síntese lógica]]
