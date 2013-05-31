@@ -1,0 +1,30 @@
+{{Nota:|Nun cunfundir cun [[Byte]]}}
+{{sin-fuontes|ciéncia=si|data=dezembre de 2009}}
+'''Bit''' (simplificaçon para dígito [[binairo]], "''BInary digiT''" an [[Léngua anglesa|anglés]]) ye a menor ounidade d'anformaçon que puode ser armazenada ó trasmitida. Ousada na [[Cumputaçon]] i na [[Teorie de la Anformaçon]]. Un bit puode assumir solamente 2 balores, por eisemplo: 0 ó 1, berdadeiro ó falso.
+
+Ambora ls cumputadores téngan anstruçones (ó comandos) que puodan testar i manipular bits, giralmente son eidealizados para armazenar anstruçones an múltiplos de bits, chamados '''[[bytes]]'''. Ne l percípio, byte tenie tamanho bariable mas atualmente ten uito bits. Bytes d'uito bits tamien son chamados de '''otetos'''. Eesisten tamien tenermos para referir-se la múltiplos de bits usando padrones prefixados, cumo quilobit ('''kb'''), megabit ('''Mb'''), gigabit ('''Gb''') i Terabit ('''Tb'''). De notar que la notaçon para bit outeliza un ''"b"'' minúsclo, an ouposiçon a la notaçon para '''byte''' qu'outeliza un ''"B"'' maiúsclo ('''kB''', '''MB''', '''GB''', '''TB''').
+
+Fesicamente, l balor dun bit ye, dua maneira giral, armazenado cumo ua carga eilétrica arriba ó ambaixo dun nible padron nun único [[capacitor]] drento dun çpositibo de [[mimória]]. Mas, bits puoden ser repersentados fesicamente por bários meios. Ls meios i técnicas quemumente ousados son: Pula eiletricidade, cumo yá citado, por bie de la luç (an [[fibras óticas]], ó an [[leitores]] i [[grabadores]] de [[çcos óticos]] por eisemplo), por bie de [[óndias eiletromagnéticas]] ([[rede]] [[wireless]]), ó tamien, por bie de [[polarizaçon]] [[magnética]] ([[çcos rígidos]]).
+
+Telecomunicaçones ó belume de tráfego an redes de cumputadores son giralmente çcritos an tenermos de bits por segundo. Por eisemplo, "un moden de 56 kb/s ye capaç de trasferir dados a 56 quilobits nun único segundo" (l qu'eiquibale a 6,8 quilobytes (kibibyte), 6,8 k'''B''', cun '''B''' maiúsclo para amostrar que stamos ne ls referindo a bytes i nun la bits. [[Ethernet]] trasfire dados a belocidades que barian de 10 megabits por segundo a 1 gigabit por segundo (de 1,19 a 119 megabytes(mebibyte) por segundo). Ne l [[Sistema Anternacional]] ([[Sistema Anternacional de Ounidades|SI]]), ls prefixos quilo-, mega-, etc a las bezes ténen l seneficado modificado quando aplicados la bits i bytes (até bits tolírun calclos decimales pus ye pontual ó ye 0 ó ye 1, yá bytes nun pus se fala de ls dados agrupados): para splicaçon, beija [[Prefixos binairos]].
+
+== Saba Mais ==
+Bit tamien ye cunceituado cumo a menor ounidade de "anformaçon" armazenable. L bit (0 '''ó''' 1)por ser un dado (fato nun processado) nó puode ser cunfundido cumo a menor ounidade de medida de la [[anformaçon]], pus repersenta solo balores que, solamente an cunjunto ([[oteto]] ó [[byte]]), formaran l'anformaçon an si, que ye l perduto de l processamiento desse cunjunto de dados.
+
+Cabe salientar que l bit ye ousado cumo ounidade de medida si, mas an trasmisson de dados de forma serial.
+
+== {{Ber tamien}} ==
+* [[Qubit]]
+* [[Decimal]]
+* [[ASCII]]
+* [[Çpositibo d'armazenamiento]]
+* [[Quilobit por segundo]]
+* [[Kibibit por segundo]]
+
+{{Portal3|Ciéncia|Tecnologies d'anformaçon}}
+
+{{bit}}
+
+{{DEFAULTSORT:Bit}}
+[[Catadorie:Ounidades d'anformaçon]]
+[[Catadorie:Treminologie anformática]]
