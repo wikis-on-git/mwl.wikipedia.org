@@ -1,12 +1,12 @@
 {{sin-fuontes|data=júnio de 2009}}
 Na [[Matemática]], dados dous [[cunjunto]]s ''X'' i ''Y'', l '''perduto cartesiano''' (ó ''perduto direto'') de ls dous cunjuntos (scrito cumo ''X'' × ''Y'') ye l cunjunto de todos ls [[Par ourdenado|pares ourdenados]] cujo purmeiro eilemiento pertence la ''X'' i l segundo, la ''Y''.
 
-:<math>X\eiquipas Y = \{(x,y) \mid x\in X\;\wedge\;y\in Y\}. </math>
+:<math>X\times Y = \{(x,y) \mid x\in X\;\wedge\;y\in Y\}. </math>
 
 L perduto cartesiano recibe sou nome de [[René Çcartes]], cuja formulaçon de la [[geometrie analítica]] dou ourige l'este cunceito.
 
 Por eisemplo, se l cunjunto X ye l de ls treze eilemientos de l [[baralho|baralho anglés]]
-: <math>X = \{\mathrn{La}, \mathrn{K}, \mathrn{Q}, \mathrn{J}, 10, 9, 8, 7, 6, 5, 4, 3, 2\} </math>
+: <math>X = \{\mathrm{La}, \mathrm{K}, \mathrm{Q}, \mathrm{J}, 10, 9, 8, 7, 6, 5, 4, 3, 2\} </math>
 i l Y ye l de ls quatro naipes:
 :  ''Y'' = {&spades;, &heiarts;, &diams;, &clus;}
 
@@ -14,25 +14,25 @@ anton l perduto cartesiano desses dous cunjuntos será l cunjunto culas 52 carta
 
 :  ''X'' × ''Y'' = {(La, &spades;), (K, &spades;), ..., (2, &spades;), (La, &heiarts;), ..., (3, &clus;), (2, &clus;)}.
 
-Outro eisemplo ye l praino bidimensional '''R''' &eiquipas; '''R''', adonde '''R''' ye l cunjunto de [[númaro rial|númaros reales]] i ls pares ourdenados ténen la forma de (''x'',''y''), adonde ''x'' i ''y'' son númaros reales (beija l [[sistema de cordenadas cartesiano]]). Subconjuntos de l perduto cartesiano son chamados de [[Relaçon (matemática)|relaçones binárias]], i [[funçon|funçones]], un de ls cunceitos mais amportantes de la matemática, son defenidas cumo tipos speciales de relaçones.
+Outro eisemplo ye l praino bidimensional '''R''' &times; '''R''', adonde '''R''' ye l cunjunto de [[númaro rial|númaros reales]] i ls pares ourdenados ténen la forma de (''x'',''y''), adonde ''x'' i ''y'' son númaros reales (beija l [[sistema de cordenadas cartesiano]]). Subconjuntos de l perduto cartesiano son chamados de [[Relaçon (matemática)|relaçones binárias]], i [[funçon|funçones]], un de ls cunceitos mais amportantes de la matemática, son defenidas cumo tipos speciales de relaçones.
 
 == Teorie de ls Cunjuntos ==
 Na [[teorie de ls cunjuntos]], i, an special, na sue formulaçon puls [[axiomas de Zermelo-Fraenkel]], la defeniçon de
-: <math>X \eiquipas Y = \{ (x, y) \ | \ x \in X \land y \in Y \}\,</math>
+: <math>X \times Y = \{ (x, y) \ | \ x \in X \land y \in Y \}\,</math>
 nun ye sastifatória. Debemos custruir, usando ls axiomas, un cunjunto suficientemente grande para cunter todos ls [[par ourdenado|pares ourdenados]], i, depuis, reduzir este cunjunto al perduto escalar pul [[axioma de la separaçon]].
 
 Cumo un [[par ourdenado]] ye defenido por <math>(la, b) = \{ \{la\}, \{la,b\}\}\,</math>, tenemos qu'eilhes son cunjuntos formados por subconjuntos de l'ounion de ls cunjuntos ''X'' i ''Y''. Ó seia, cada par ourdenado ye un [[subconjunto]] de l [[cunjunto de las partes]] de <math>X \cup Y\,</math>. Antoce, l [[axioma de la poténcia]] debe ser aplicado dues bezes subre la [[ounion (matemática)|ounion]] de ''X'' i ''Y'', i subre este cunjunto aplica-se l [[axioma de la separaçon]].
 
 Splicitamente:
 
-:<math>X \eiquipas Y = \{ p \in P(P(X \cup Y)) \ | \ p = \{ \{x\}, \{x,y\}\}, x \in X, y \in Y \}\,</math>
+:<math>X \times Y = \{ p \in P(P(X \cup Y)) \ | \ p = \{ \{x\}, \{x,y\}\}, x \in X, y \in Y \}\,</math>
 
 Debe-se amostrar que ''naide quedou de fura'', ó seia, que qualquiera par ourdenado pertence al perduto scalar. Para esso, suponha que <math>la \in X \land b \in Y\,</math>. Anton, pula defeniçon d'ounion, <math>la \in X \cup Y \land b \in X \cup Y\,</math>. Pula defeniçon de l [[cunjunto de las partes]], <math>\{la\} \in P(X \cup Y) \land \{la,b\} \in P(X \cup Y)\,</math>. Finalmente, aplicando-se de nuobo la defeniçon de l [[cunjunto de las partes]], tenemos que <math>(la,b) = \{\{la\}, \{la,b\}\} \in P(P(X \cup Y))\,</math>.
 
 == Cardinal ==
 L [[númaro cardinal|cardinal]] de l perduto cartesiano de dous cunjuntos ye l [[multiplicaçon|perduto]] de ls cardinales de ls cunjuntos andebiduales:
 
-: <math>|X \eiquipas Y| = |X| \cdot |Y|</math>
+: <math>|X \times Y| = |X| \cdot |Y|</math>
 
 == Generalizaçon ==
 L perduto cartesiano puode ser generalizado para mais de dous cunjuntos:
@@ -50,14 +50,14 @@ i l cunjunto N cun 2 eilemientos:
 l perduto cartesiano L × M × N ye:
 : {(1 ,la, $), (1 ,la ,%), (2 ,la ,$), (2 ,la ,%), (3 ,la ,$), (3 ,la ,%), (1 ,b, $), (1 ,b ,%), (2 ,b ,$), (2 ,b ,%), (3 ,b ,$), (3 ,b ,%)}
 
-Un outro eisemplo desso ye l [[spácio euclidiano]] de trés dimensones <math>\mathbb{R} \eiquipas \mathbb{R} \eiquipas \mathbb{R}</math>.
+Un outro eisemplo desso ye l [[spácio euclidiano]] de trés dimensones <math>\mathbb{R} \times \mathbb{R} \times \mathbb{R}</math>.
 
 == Notaçon potencial ==
 Para spressar l perduto cartesiano dun cunjunto por si mesmo stá permitida la notaçon potencial:
 
 <math>\begin{matrix}
-& \underbrace{ X \eiquipas X \eiquipas \cdots \eiquipas X } & = X^m \\ & m \mathrn{bezes}
-\and{matrix}
+& \underbrace{ X \times X \times \cdots \times X } & = X^n \\ & n \mathrm{vezes}
+\end{matrix}
 </math>
 
 Assi, l mencionado spácio euclidiano tridimensional puode-se repersentar cumo <math>\mathbb{R}^3</math>.
