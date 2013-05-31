@@ -171,11 +171,11 @@ Puode-se defenir ua sucesson de modo [[recurson|recursibo]]. Este modo cunsiste 
 
 Ls tenermos eniciales (ó ''geradores'') debiran tenr índice <u>menor</u> que l de l termo que se zeia gerar. Eisemplo: para que seia possible gerar recursibamente l termo ''la''<sub>m</sub>, ye necessairo qu'eisista pul menos un termo de índice menor que ''m''.
 
-Assi, fixado un cunjunto de custantes C = {c<sub>0</sub>,c<sub>1</sub>,c<sub>2</sub>,c<sub>3</sub>,c<sub>4</sub>,c<sub>5</sub>,c<sub>6</sub>...} (<math>\sub\mathbb{N}</math>), ua sucesson recursiba genérica natural <math>S</math> (cun termo la<sub>0</sub> <math>\in \mathbb{N}</math> pré-defenido) puode ser defenida por ua funçon <math>g:\mathbb{N}\rightarrow \mathbb{N}</math> que tenga la seguinte forma: <math>la_{m}=\sun_{i=0}^{m-1} c_{i} . la_{i}, \forall c,i,m \in \mathbb{N} \land \forall m>0</math>
+Assi, fixado un cunjunto de custantes C = {c<sub>0</sub>,c<sub>1</sub>,c<sub>2</sub>,c<sub>3</sub>,c<sub>4</sub>,c<sub>5</sub>,c<sub>6</sub>...} (<math>\sub\mathbb{N}</math>), ua sucesson recursiba genérica natural <math>S</math> (cun termo la<sub>0</sub> <math>\in \mathbb{N}</math> pré-defenido) puode ser defenida por ua funçon <math>g:\mathbb{N}\rightarrow \mathbb{N}</math> que tenga la seguinte forma: <math>la_{m}=\sum_{i=0}^{m-1} c_{i} . la_{i}, \forall c,i,m \in \mathbb{N} \land \forall m>0</math>
 
-Note que, ne l'eisemplo arriba, debemos tener <math>m>0,</math> ua beç que la<sub>0</sub> yá stá pré-defenido. Antoce, se la<sub>0</sub> = w (un balor natural qualquiera) i zeiamos ancontrar l balor de la<sub>1</sub>, tenemos que rializar la seguinte sequéncia de cálclos: <math>la_{1}=\sun_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=1)}} \\ \Rightarrow \and{matrix}  la_{1}=\sun_{i=0}^{1-1} c_{i} . la_{i} \Rightarrow la_{1}=\sun_{i=0}^{0} c_{i} . la_{i} \Rightarrow la_{1}= c_{0} . la_{0} \Rightarrow la_{1}= c_{0} . w</math> (<span style="color:red;">RESPOSTA</span>)
+Note que, ne l'eisemplo arriba, debemos tener <math>m>0,</math> ua beç que la<sub>0</sub> yá stá pré-defenido. Antoce, se la<sub>0</sub> = w (un balor natural qualquiera) i zeiamos ancontrar l balor de la<sub>1</sub>, tenemos que rializar la seguinte sequéncia de cálclos: <math>la_{1}=\sum_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=1)}} \\ \Rightarrow \and{matrix}  la_{1}=\sum_{i=0}^{1-1} c_{i} . la_{i} \Rightarrow la_{1}=\sum_{i=0}^{0} c_{i} . la_{i} \Rightarrow la_{1}= c_{0} . la_{0} \Rightarrow la_{1}= c_{0} . w</math> (<span style="color:red;">RESPOSTA</span>)
 
-De l mesmo modo, se zeiarmos ancontrar l balor de la<sub>2</sub>, deberemos rializar la seguinte sequéncia de cálclos: <math>la_{2}=\sun_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=2)}} \\ \Rightarrow \and{matrix}  la_{2}=\sun_{i=0}^{2-1} c_{i} . la_{i} \Rightarrow la_{2}=\sun_{i=0}^{1} c_{i} . la_{i} \Rightarrow la_{2}= c_{0} . la_{0} + c_{1} . la_{1}</math>
+De l mesmo modo, se zeiarmos ancontrar l balor de la<sub>2</sub>, deberemos rializar la seguinte sequéncia de cálclos: <math>la_{2}=\sum_{i=0}^{m-1} c_{i} . la_{i}  \begin{matrix} _{_{(m=2)}} \\ \Rightarrow \and{matrix}  la_{2}=\sum_{i=0}^{2-1} c_{i} . la_{i} \Rightarrow la_{2}=\sum_{i=0}^{1} c_{i} . la_{i} \Rightarrow la_{2}= c_{0} . la_{0} + c_{1} . la_{1}</math>
 
 <math>\Rightarrow la_{2}= c_{0} . w + c_{1} . (c_{0} . w) \Rightarrow la_{2}= c_{0} . (w + w. c_{1}) \Rightarrow la_{2}= c_{0} . w . (1 + c_{1}) \Leftrightarrow la_{2}= c_{0} . (1 + c_{1}) . w </math> (<span style="color:red;">RESPOSTA</span>)
 
@@ -183,7 +183,7 @@ Ne l causo arriba, la scolha de las custantes de l cunjunto C fui aleatória. Ma
 
 Esse tipo de sucesson puode quedar inda mais cumplicado, bastando defenir ua funçon ''r'' que, por eisemplo, "trasforme" la ''i-ésima'' custante natural c<sub>i</sub> nun númaro rial (<math>\mathbb{R}</math>) ó cumplexo (<math>\mathbb{C}</math>). Eisemplo:
 
-<math>r:\mathbb{N}\rightarrow \mathbb{R} = \sqrt[3]{\frac{-x}{4}}, \forall x \in \mathbb{N} \Rightarrow la_{m} = \sun_{i=0}^{m-1} {r(c_{i})^i . la_{i}}, \forall c,i,m \in \mathbb{N}</math>
+<math>r:\mathbb{N}\rightarrow \mathbb{R} = \sqrt[3]{\frac{-x}{4}}, \forall x \in \mathbb{N} \Rightarrow la_{m} = \sum_{i=0}^{m-1} {r(c_{i})^i . la_{i}}, \forall c,i,m \in \mathbb{N}</math>
 
 ''Nota: ouserbe que, ne l'eisemplo arriba, <math>r(c_{i})^i \in \mathbb{R}</math>''
 
