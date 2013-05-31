@@ -1,0 +1,51 @@
+{{Sistemas numéricos}}
+
+'''Ternário''' ó '''trinairo''' ye un [[sistema de numeraçon]] [[notaçon posicional|posicional]] an que todas las cantidades se repersentan cun base an trés númaros, cul que se çpone de las cifras: '''[[zero]], [[un]] i [[ dous]]''' (0, 1 i 2).
+
+== Cumparaçon cun outras bases ==
+== An relaçon al decimal i binairo ==
+Repersentaçones de númaros anteiros an ternairo nun quedan çcunfortabelmente longas tan debrebe quanto an binairo. Por eisemplo, l decimal 365 corresponde al binairo 101101101 (9 dígitos) i ternairo 111112 (6 dígitos). Inda assi, eilhes inda son mui menos cirnes de l que las repersentaçones correspondentes an bases cumo decimal.
+
+{| class="wikitable"
+|+ '''Númaros 1-27 ne l padron ternairo'''
+|- align="center"
+! Ternário
+| 1 || 2 || 10 || 11 || 12 || 20 || 21 || 22 || 100
+|- align="center"
+! Binário
+| 1 || 10 || 11 || 100 || 101 || 110 || 111 || 1000 || 1001
+|- align="center"
+! Decimal
+| '''1''' || '''2''' || '''3''' || '''4''' || '''5''' || '''6''' || '''7''' || '''8''' || '''9'''
+|- align="center"
+!
+|  ||  ||  ||  ||  ||  ||  ||  ||  |
+|- align="center"
+! Ternário
+| 101 || 102 || 110 || 111 || 112 || 120 || 121 || 122 || 200
+|- align="center"
+! Binário
+| 1010 || 1011 || 1100 || 1101 || 1110 || 1111 || 10000 || 10001 || 10010
+|- align="center"
+! Decimal
+| '''10''' || '''11''' || '''12'''|| '''13''' || '''14''' || '''15''' || '''16''' || '''17''' || '''18'''
+|- align="center"
+!
+|  ||  ||  ||  ||  ||  ||  ||  ||  |
+|- align="center"
+! Ternário
+| 201 || 202 || 210 || 211 || 212 || 220 || 221 || 222 || 1000
+|- align="center"
+! Binário
+| 10011 || 10100 || 10101 || 10110 || 10111 || 11000 || 11001 || 11010 || 11011
+|- align="center"
+! Decimal
+| '''19''' || '''20''' || '''21''' || '''22'''|| '''23''' || '''24''' || '''25''' || '''26''' || '''27'''
+|}
+
+== {{Ber tamien}} ==
+* [[Ternário balanceado]]
+
+{{DEFAULTSORT:Sistema Numeracao Ternario}}
+[[Catadorie:Sistemas de numeraçon]]
+[[Catadorie:Aritmética cumputacional]]
