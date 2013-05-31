@@ -1,0 +1,65 @@
+*''Este artigo probé ua defeniçon matemática. Para anformaçones conexas, ber [[Decimal]].''
+
+'''Repersentaçon decimal''' dun [[númaro rial]] [[nó-negatibo]] ''r'' ye ua spresson de la forma
+
+:<math> r=\sun_{i=0}^\anfty \frac{la_i}{10^i}</math>
+
+adonde <math>la_0</math> ye un [[númaro natural]],  i <math>la_1,
+la_2, \dots</math> son [[Númaro natural|númaros naturales]] que sastifazen <math>0\leq la_i\leq 9</math>;
+
+Esto ye frequentemente scrito de modo mais cirne i eilegante cumo segue:
+
+:<math>r=la_0.la_1 la_2 la_3\dots.</math>
+
+Senefica-se, cun esta radadeira forma, que <math>la_0</math> ye la parte anteira de <math>r</math>, nun necessariamente antre 0 i 9, i  <math>la_1, la_2, la_3,\dots</math> son ls dígitos que cumponen la parte fracionária (ó "''nó''-anteira") de <math>r.</math>
+
+L'aparente eisigéncia de ser l númaro rial "nó-negatibo" justifica-se: pa ls númaros reales negatibos, la repersentaçon ''formal'' ye la mesma percisamente, bastando juntar-se-le l senhal cumbencional de [[númaro negatibo]] (l senhal "–"). L senhal "–" antende-se, anton, cumo un ouperador d'amberson ó simetrie aditiba: l'ouperador capaç de trasformar un dado númaro ne l sou [[Eilemiento amberso|amberso aditibo]] (ó simétrico aditibo).
+
+==Aprossimaçones decimales fenitas==
+Qualquiera númaro rial puode ser aprossimado la qualquiera zeiado ó specificado grau de percison por meio de [[Númaro racional|númaros racionales]] ''cun repersentaçones decimales fenitas''.
+
+Seia <math>x\geq 0</math>. Anton, para to [[númaro natural]] <math>m\geq 1</math>, eisiste un decimal fenito <math>r_m=la_0.la_1a_2\cdots la_m</math> tal que
+
+:<math>r_m\leq x < r_m+\frac{1}{10^m}.\,</math>
+
+Demunstraçon:
+
+Seia <math>r_m = \textstyle\frac{p}{10^m}</math>, adonde <math>p = \lflor 10^nx\rflor</math>.
+Anton <math>p \leq 10^nx < p+1</math>, i l resultado surge pula debison d'ambos ls lados por <math>10^m</math>.
+(L fato de que <math>r_m</math> ten ua repersentaçon decimal fenita ye facilmente stablecido.)
+
+==Repersentaçones decimales múltiplas==
+*(Ber artigo percipal [[0,999...]])
+Alguns númaros reales ténen dues repersentaçones decimales anfenitas. Por eisemplo, l númaro 1 puode ser corretamente repersentado por 1,0000000..., bien cumo por [[0,999...|0,9999999...]] (cun un númaro anfenito de dígitos "9", stenson al anfenito simbolizada por "...", las reticéncias). Cumbencionalmente, la purmeira berson ye preferida i hai bárias rezones práticas para esso: basta omitir la sequéncia anfenita de dígitos "0" passado l separador decimal — la bírgula decimal, an cultura lusófona, l punto decimal, an cultura anglófona — remober l separador decimal, i ua cumpata i cumbeniente forma decimal normalizada ye oubtida.
+
+Assi i to, las outras formas de repersentaçon decimal anfenitas merecen atençon i nun dében ser cunsidradas anferiores. Esso, todabie, ye melhor eisaminado an artigos specíficos.
+
+=={{Ber tamien}}==
+*[[Cunjunto cuntino]]
+*[[Cunjunto denso]]
+*[[Cunjunto çcreto]]
+*[[Cuntenidade]]
+*[[Decimal]]
+*[[Fraçon cuntínua]]
+*[[Mediçon]]
+*[[Númaros reales]]
+*[[Série (matemática)]]
+
+==Refréncias==
+*APOSTOL, Ton. '''''Mathematical analysis'''''. 2. ed.. New York: Addison-Wesley, 1974.
+
+==Ligaçones sternas==
+*[http://pi.lacin.uqan.ca/ang/ Plouffe's ambertir] çcribe un númaro, dada sue repersentaçon decimal. Por eisemplo, eisibirá 3,14159265... cumo [[Pi|π]].
+
+[[Catadorie:Matemática]]
+
+[[aire:تمثيل عشري]]
+[[de la:Decimaltal]]
+[[en:Decimal repersentation]]
+[[fr:Débeloppement décimal]]
+[[ja:小数]]
+[[ko:소수점 표기]]
+[[nl:Decimale wergabe]]
+[[ne l:Zeimaltall]]
+[[sb:Decimaltal]]
+[[zh:小数]]
