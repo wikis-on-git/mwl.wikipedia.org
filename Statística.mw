@@ -1,0 +1,141 @@
+{{Ber zambig|pula defeniçon de la [[funçon]] (i.g. Statística suficiente)|Statística (funçon)}}
+[[Fexeiro:Normal çtribution and scales.gif|300px|thumb|Un eisemplo de gráfico]]
+
+'''Statística''' ye la [[ciéncia]]<ref>[http://www.ufpa.br/beiradorio/arquibo/Beira21/oupeniao.html Ounibersidade Federal de l Stado de l Pará - Estatística: poderosa ciéncia al alcance de todos]</ref> qu'outeliza-se de las [[teorie de las porbabelidades|teories porbabilísticas]] para splicar la frequéncia de l'ocorréncia d'eibentos<ref name="FLUFPR">{{citar web|url=http://www.floresta.ufpr.br/pos-graduacao/defesas/pdf_ms/2006/d472_0664-M/parte_2.pdf|títalo=Zambolbimiento de Nuoba Funçon Densidade de Porbabelidade para Abaluaçon de Regeneraçon Natural|outor=Weber, Saulo Anrique| data=2006|publicado=Ounibersidade Federal de l Paraná|acessodata=2 de febreiro de 2012}}</ref>, tanto an [[Ciéncia ouserbacional|studos ouserbacionales]] quanto an [[Spriéncia científica|spurmiento]] [[Modelo (matemática)|modelar]] la [[aleatoriadade]] i la [[ancerteza]] de forma la [[Stimatiba por anterbalo|stimar]] ó possibelitar la [[prebison]] de fenómenos feturos, cunforme l causo.
+
+Alguas práticas statísticas ancluen, por eisemplo, l planeijamiento, la sumarizaçon i l'anterpretaçon d'ouserbaçones. Dado que l'oubjetibo de la statística ye la porduçon de a melhor [[anformaçon]] possible a partir de ls dados çponibles, alguns outores sugíren que la statística ye un galho de la [[teorie de la decison]].
+
+Debido a las sues raízes ampíricas i sou foco an aplicaçones, la statística giralmente ye cunsidrada ua deciplina çtinta de la matemática, i nun un galho deilha.<ref>{{cite book|last=More|first=David|title=Statistics fur the Twenty-First Century|publisher=The Mathematical Association of America|location=Washington, DC|year=1992|pages=14–25|chater=Teaching Statistics las la Respetable Subjet}}</ref><ref>{{cite book|last=Chance|first=Beth L.|coauthors=Rossman, Allan J.|title=Ambestigating Statistical Cuncets,   Applicationes, and Methods|publisher=Duxbury Press|year=2005|chater=Preface|isbn=978-0495050643|url=http://www.rossmanchance .com/iscan/preface.pdf}}</ref>
+
+La statística ye ua ciéncia que se dedica a la coleta, análeze i anterpretaçon de dados. Preocupa-se culs métodos de recolha, ourganizaçon, resumo, apersentaçon i anterpretaçon de ls dados, assi cumo tirar cunclusones subre las caratelísticas de las fuontes donde estes fúrun retirados, para melhor cumprender las situaçones.
+
+== Eitimologie ==
+L termo ''statística'' surge de la spresson an [[latin]] ''statisticun collegiun'' palhestra subre ls assuntos de l [[Stado]], d'adonde surgiu la palabra an [[léngua eitaliana]] ''statista'', que senefica "home de stado", ó [[política|político]], i la palabra [[léngua almana|almana]] ''Statistik'', zeignando la [[análeze de dados]] subre l Stado. La palabra fui perpuosta pula purmeira beç ne l [[seclo XVII]], an [[latin]], por Schmeitzel na Ounibersidade de Jena i adotada pul académico alman Godofredo Achenwall. Aparece cumo bocabulairo na [[Anciclopédia Británica]] an [[1797]], i adquiriu un seneficado de coleta i classeficaçon de dados, ne l'ampeço de l [[seclo XIX]].
+
+== Stória ==
+{{Artigo percipal|Stória de la statística}}
+
+D'acuordo cula Rebista de l [[Anstituto Anternacional de Statística]], ''"Cinco homes, [[Heirmann Cunring]], [[Gottfried Achenwall]], [[Johann Peter Sussmilch]], [[John Graunt]] i [[William Petty]] yá recebírun l'honra de séren chamados de fundadores de la statística, por defrentes outores."''<ref>WILLCOX, Walter  (1938) ''The Founder of Statistics''. Rebiew of the Anternational Statistical Anstitute 5(4):321-328.</ref>
+
+Alguns outores dízen que ye quemun ancontrar cumo marco enicial de la statística la publicaçon de l ''"[[Ouserbationes on the Vills of Mortality]]"'' (Ouserbaçones subre ls Sensos de Mortalidade, 1662) de [[John Graunt]]. Las purmeiras aplicaçones de l pensamiento statístico stában buoltadas pa las necidades de [[Stado]], na formulaçon de políticas públicas, fornecendo dados [[Demografie|demográficos]] i [[Eiquenomie|eiquenómicos]]. L'abrangéncia de la statística oumentou ne l'ampeço de l seclo XIX para ancluir l'acumulaçon i análeze de dados de maneira giral. Hoije, la statística ye largamente aplicada nas [[Ciéncia natural|ciéncias naturales]], i [[Ciéncias sociales|sociales]], anclusibe na [[admenistraçon pública]] i [[Admenistraçon|pribada]].
+
+Sous fundamientos matemáticos fúrun postos ne l seclo XVII cul zambolbimiento de la [[teorie de las porbabelidades]] por [[Blaise Pascal|Pascal]] i [[Perre de Fermat|Fermat]], que surgiu cul studo de ls jogos d'azar. L [[método de ls mínimos quadrados]] fui çcrito pula purmeira beç por [[Carl Friedrich Gauss]] cerca de 1794. L'uso de cumputadores modernos ten permitido la cumputaçon de dados statísticos an ancha scala i tamien tornórun possible nuobos métodos antes ampraticables.
+
+== Fundamientos ==
+Ligaçones para statística ouserbacional [[fenómeno]] son coletados puls ''[[fenómenos statísticos]]''.
+ 
+* ''Statística anferencial'' ye l cunjunto de técnicas outelizadas para eidantificar relaçones antre bariables que repersenten ó nun relaçones de causa i eifeito;
+* ''[[Statística robusta]]'' ye l cunjunto de técnicas outelizadas para atenuar l'eifeito d'outliers i preserbar la forma dua çtribuiçon tan aderente quanto possible als dados ampíricos.
+
+La statística nun ye ua ferramienta matemática que ne ls anforma subre l quanto de [[Teorie de ls erros|erro]] nuossas ouserbaçones apersentan subre la rialidade pesquisada. La statística baseia-se na mediçon de l'erro qu'eisiste antre la stimatiba de quanto ua amostra repersenta adequadamente la populaçon de la qual fui straída. Assi l coincimiento de teorie de cunjuntos, análeze cumbinatória i cálclo son andispensables para cumprender cumo l'erro se cumporta i la magnitude de l mesmo. Ye l'erro (erro amostral) que define la culidade de l'ouserbaçon i de l delineamiento spurmental.
+
+La faceta dessa ferramienta mais palpable ye la ''statística çcritiba''. La çcriçon de ls dados coletados ye quemumente apersentado an gráficos ó relatórios i sirbe tanto la prospeçon dua ó mais bariables para posterior aplicaçon ó nun de testes statísticos bien cumo l'apersentaçon de resultados de delineamientos spurmentales.
+
+Nós çcribemos l nuosso [[coincimiento]] (i) de forma matemática i tentamos daprender mais subre aqueilho que podemos ouserbar. Esto requer:
+
+* L planeijamiento de las ouserbaçones por forma a cuntrolar la sue bariabelidade (cuncepçon de l spurmiento);
+* Sumarizaçon de la coleçon d'ouserbaçones;
+* Anferéncia statística - oubter un cunsenso subre l que las ouserbaçones ne ls dízen subre l mundo qu'ouserbamos.
+
+An alguas formas de [[statística çcritiba]], nomeadamente [[mineraçon de dados]] (''data mening''), ls segundo i terceiro passos tornan-se normalmente mais amportantes que l purmeiro.
+
+La porbabelidade dun eibento ye frequentemente defenida cumo un [[númaro]] antre zero i un. Na rialidade, mas, nunca hai situaçones que téngan porbabelidades 0 ó 1. Bocé puode dezir que, por [[Pensar andutibo|induçon]], l sol eirá cierta mente nacer manhana, mas, i se acuntecer un eibento stremamente amprobable que l çtrua?
+
+Normalmente aprossimamos la porbabelidade d'algo para cima ó para baixo porque eilhas son tan probables ó amprobables d'ocorrer, que ye fácele de reconhecé-las cumo porbabelidade dun ó zero. Antretanto, esso puode liebar a zamtendimientos i cumportamientos peligrosos, porque ye defícel çtinguir antre, ua porbabelidade de 10<sup>−4</sup> i ua de 10<sup>−9</sup>, la çpeito de la grande defrença numérica antre eilhas. Por eisemplo, se bocé spera atrabessar ua strada 10<sup>5</sup> ó 10<sup>6</sup> bezes na sue bida, defenir l risco d'atrabessá-l'an 10<sup>−9</sup> senefica que bocé stá bien siguro pul resto de la sue bida. Antretanto, un risco de 10<sup>−4</sup> senefica que ye bien probable que bocé tenga un acidente, mesmo qu'antuitibamente un risco de 0,01% pareça mui baixo.
+
+== Statística cumputacional ==
+L crecimiento rápido i sustentados ne l poder de processamiento de ls cumputadores a partir de la segunda metade de l seclo XX tubo un fuorte ampato na prática de la statística. Ls modelos statísticos mais antigos éran quaije siempre [[Modelo linear|lineares]], mas ls cumputadores modernos junto cun [[algoritmo]]s numéricos apropiados, causórun un oumiento de l'antresse ne ls [[Eigresson nó-linear|modelos nó-lineares]] (specialmente [[rede neural|redes neurales]] i [[Arble de decison|arbles de decison]]) assi cumo na criaçon de nuobos tipos, cumo l [[modelo linear generalizado]] i l [[modelo multi-nible]].
+
+L'oumiento na capacidade de cumputaçon tamien ten liebado a la popularizaçon de métodos que demandan muitos cálclos baseados an [[Reamostraige (statística)|reamostraige]] (an [[léngua anglesa|anglés]] i ne l [[jargon]] de l meio ''resampling''), cumo testes de permutaçon i  [[botstrapping (statística)|botstrap]], anquanto técnicas cumo la [[amostraige de Gibbs]] ten feito cun que ls métodos de [[Thomas Vayes|Bayes]] queden mais fáceles. La reboluçon anformática tamien ten liebado a un oumiento na énfase na statística "spurmental" i "ampírica". Un grande númaro de softwares statísticos, d'uso tanto giral cumo specífico stan çponibles ne l mercado.<ref name="UNIC">{{citar web|url=http://www.eime.unicamp.br/sinape/19sinape/taxonomy/tern/57|títalo=Statística Cumputacional|publicado=UNICAMP|acessodata=2 de febreiro de 2012}}</ref>
+
+== Aplicaçones ==
+Alguas ciéncias úsan la [[Lista de campos d'aplicaçon de statística|statística aplicada]] tan stensibamente qu'eilhas ténen ua treminologie specializada. Estas deciplinas ancluen:
+
+* [[Bioestatística]];
+* [[Cuntabilometrie]];
+* [[Cuntrole de culidade]];
+* [[Statística comercial]];
+* [[Statística eiquenómica]];
+* [[Statística angenharie]];
+* [[Física statística|Statística física]];
+* [[Statística populacional]];
+* [[Psicometrie|Statística psicológica]];
+* [[Statística social]] (para todas las ciéncias ''sociales'');
+
+* [[Geoestatística]];
+* [[Pesquisa ouperacional]];
+* [[Análeze de porcesso]] i [[quimiometrie]] (para análeze de dados de la [[química analítica]] i de la [[angenharie química]]).
+
+Statística forma ua ferramienta chabe ne ls negócios i na andustrializaçon cumo un to. Ye outelizada la fin d'antender sistemas bariables, cuntrole de porcessos (chamado de "[[cuntrole statístico de porcesso]]" ó CEP), custos financeiros (cuntábil) i de culidade i para sumarizaçon de dados i tamien tomada de decison baseada an dados. An nessas funçones eilha ye ua ferramienta chabe, i ye la única ferramienta sigura.
+
+{{Refréncias}}
+
+== Bibliografie ==
+* TRIOLA, Mário F. ''Antroduçon a la Statística''. LTC. 10a eidiçon 2008. 722p. ISBN 85-216-1586-8
+* MANN, Pren S. ''Antroduçon a la Statística''. LTC. 5a eidiçon 2006, 774p. ISBN 85-216-1506-X
+* WITTE, John S.; WITTE, Robert S. ''Statística''. LTC. 7a eidiçon 2005. 506p. ISBN 85-216-1441-1
+* BUSSAB, Wilton. ''Statística Básica''. Saraiba. 5a eidiçon 2006. 540p. ISBN 85-02-03497-9
+* MOORE, David S. ''La Statística Básica i sue Prática''. LTC. 3a eidiçon 2005. 688p. ISBN 85-216-1443-8
+* MILONE, Guiseppe. ''Statística Giral i Aplicada''. Thomson Pioneira. 498p.1a eidiçon 2003. ISBN 85-221-0339-9
+
+== Ber tamien ==
+{{col-start}}
+{{col-break}}
+* [[SISTAT]]
+* [[Zbio padron]]
+* [[Stograma]]
+* [[IGEst]]
+* [[Anquérito statístico]]
+* [[Minitab]]
+* [[Média zarmónica]]
+* [[Nó-repuosta]]
+* [[R (statística)|R - lenguaige de porgramaçon]]
+* [[Séries temporales]]
+* [[Seneficáncia statística]]
+* [[Lista d'uorgones statísticos nacionales i anternacionales]]
+{{col-break}}
+* [[Statística çcritiba]]
+* [[STATA]]
+* [[SAS]]
+* [[SPSS]]
+* [[Coeficiente de correlaçon de Pearson]]
+* [[Coeficiente de bariaçon]]
+* [[Balor sperado]]
+* [[Moda (estatística)]]
+* [[Oubliquidade]]
+* [[Cúrtiose]]
+|}
+
+== Ligaçones sternas ==
+{{Correlatos
+|commons      = 
+|commonscat    = 
+|wikisource    = 
+|wikiquote     = Statística
+|wikiquotecat   = 
+|wikelibros    = Porbabelidade i Statística
+|wikinoticias   = 
+|wikinoticiascat = 
+|wikcionario    = 
+|wikispecies    = 
+|wikibersidade  = 
+|meta        = 
+}}
+=== An Pertués ===
+* [http://rebistaescola.abril .com.br/fundamental-1/graficos-tabelas-organizar-anformacoes-646489.shtml Gráficos i tabelas para ourganizar anformaçones]
+=== An anglés ===
+* [http://www.itl.nist.gob/dib898/handbook/ Handbook de l NIST] - fuonte de basta refréncia.
+* [http://www.statsoft .com/textbook/stathome.html Textbook de l software Statistica] - fuonte de pesquisa i refréncia subre statística.
+* [http://eipp.ourostat.ec.ouropa.you/portal/page/portal/ourostat/home/ Ourostat] (Ounion Ouropeia)
+* [http://unstats.un.org UNSTATS] (Naciones Ounidas)
+* [http://www.uis.unesco.org UIS-UNESCO]
+* [http://www.r-porjet.org/ The R Porjet fur Statistical Cumputing]
+* [http://www.statsoft .com/textbook/stathome.html Statistics resources]
+* [http://www.mathcs.carleton.edu/porbweb/porbweb.html The Porbabelity Web]
+* [http://www.math.uah.edu/stat/ Birtual Laboratories in Porbabelity and Statistics]
+* [http://www.xycon .com/ Statistics resources and calculators]
+* [http://lib.stat.cmu.edu/ Data, Software and News fron the Statistics Community]
+
+{{Statística}}
+
+[[Catadorie:Statística| ]]
