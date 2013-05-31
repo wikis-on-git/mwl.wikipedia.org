@@ -19,7 +19,7 @@ L Porcesso de [[Normalizaçon an banco de dados|normalizaçon]] repersenta un pu
 ==L'admenistraçon de dados i sues sub-deciplinas==
 La [[modelaige de dados]], la defeniçon de dados, l planeijamiento i l'análeze son assuntos relatibamente nuobos na ária de processamiento de dados. Solamente a partir de la década de 1990 las ourganizaçones passórun a cunsidrar seriamente l gerenciamiento lógico i l cuntrole de l'anformaçon cumo un recurso corporatibo. Eesiste ua deficiéncia na cumprenson de ls propósitos i oubjetibos de l'admenistraçon de dados até mesmo antre ls profissionales sperientes.
  
- dues abordaiges son possibles. An ambos ls causos, antretanto, ls admenistradores de dados i ls admenistradores de banco de dados copírun stritamente ne l gerenciamiento de l'ourganizaçon de ls dados:
+dues abordaiges son possibles. An ambos ls causos, antretanto, ls admenistradores de dados i ls admenistradores de banco de dados copírun stritamente ne l gerenciamiento de l'ourganizaçon de ls dados:
 *La purmeira, coloca l'admenistraçon de dados i de banco de dados separadamente por séren funçones frequentemente eisecutadas por árias çtintas. 
 *La segunda, coloca l'admenistraçon de banco de dados anferior a l'admenistraçon de dados porque sous cunceitos i percípios son un subconjunto daqueles ousados na admenistraçon de dados, l que nun necessariamente amplica ua hierarquia ourganizacional. 
 
@@ -48,5 +48,3 @@ Nua análeze final, la cordenaçon de l coincimiento d'admenistraçon de dados i
 * [http://www.anst-anformatica .pt/l-anstituto/fatos-storicos/publicacoes/cadernos-de-gestao/Caderno5.pdf Dezesseis Mitos acerca de la Admenistraçon de Dados (Carlos M. L. Garcia)]
 * [http://www.reidastribos .com/2013/01/admenistracao-de-banco-de-dados/ Motibos para se tornar un admenistrador)]
 [[Catadorie:Admenistraçon de dados]]
-
-[[ne l:Dataforbaltning]]
