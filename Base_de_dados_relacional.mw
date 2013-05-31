@@ -1,0 +1,301 @@
+{{Sin-fuontes|data=Febreiro de 2008}}
+
+Un '''Banco de Dados Relacional''' ye un [[banco de dados]] que segue l [[Modelo Relacional]].
+
+Un '''Banco de Dados Relacional''' ye un cunceito abstrato que define maneiras d'armazenar, manipular i recuperar dados struturados unicamente na forma de tabelas, custruindo un [[banco de dados]]. 
+
+L termo ye aplicado als própios dados, quando ourganizados dessa forma, ó a un '''Sistema Gerenciador de Banco de Dados Relacional (SGBDR)'''  – de l [[Léngua anglesa|anglés]] '''Relational database management systen (RDBMS)''' – un porgrama de cumputador qu'amplementa l'abstraçon. 
+
+== Stórico ==
+
+Ls '''Bancos de dados relacionales''' (BDR) surgiran an meados de la [[década de 1970]]. Mas, solo alguns anhos mais tarde las ampresas passórun l'outelizá-los ne l lugar d'arquibos prainos (de l'anglés ''flat file''), [[Banco de dados hierárquico|bancos de dados hierárquicos]] i [[Base de dados an rede|an rede]].
+
+=== Las 13 regras ===
+An [[1985]], Edgar Frank Codd, criador de l [[modelo relacional]], publicou un artigo adonde defenia 13 regras para qu'un [[SGBD|Sistema Gerenciador de Banco de Dados]] (SGBD) fusse cunsidrado relacional:
+
+# Regra Fundamental:
+#* Un SGBD relacional debe gerir ls sous dados usando solo sues capacidades relacionales
+# Regra de l'anformaçon:
+#* To anformaçon debe ser repersentada dua única forma, cumo dados nua tabela
+# Regra de la garantie d'acesso:
+#* To l dado (balor atómico) puode ser acedido logicamente (i unicamente) usando l nome de la tabela, l balor de la [[chabe purmária]] de la linha i l nome de la coluna.
+# Tratamiento sistemático de balores nulos:
+#* Ls balores nulos (defrente de l zero, de la string bazie, de la string de carateres an brancos i outros balores nun nulos) eisisten para repersentar dados nó eisistentes de forma sistemática i andependiente de l tipo de dado.
+# Catálogo dinámico on-line baseado ne l modelo relacional:
+#* La çcriçon de l banco de dados ye repersentada ne l nible lógico cumo dados ourdinairos (esto ye, an tabelas), permitindo qu'usuairos outorizados apliquen las mesmas formas de manipular dados aplicada als dados quemuns al cunsultá-las.
+# Regra de la sub-lenguaige abrangente:
+#* Un sistema relacional puode suportar bárias lenguaiges i formas d'uso, mas debe tenr al menos ua lenguaige cun sintaxe bien defenida i spressa por cadeia de carateres i cun halbelidade d'apoiar la defeniçon de dados, la defeniçon de bisones, la manipulaçon de dados, las restriçones d'antegridade, l'outorizaçon i la frunteira de trasaçones.
+# Regra de l'atualizaçon de bisones:
+#* To bison que fur teoricamente atualizable será tamien atualizable pul sistema.
+# Anserçon, atualizaçon i eliminaçon d'alto nible:
+#* Qualquiera cunjunto de dados que puode ser manipulado cun un único comando para retornar anformaçones, tamien debe ser manipulado cun un único comando para ouparaçones d'anserçon, atualizaçon i scluson. Simplificando, senefica dezir que las ouparaçones de manipulaçon de dados dében poder ser aplicadas la bárias linhas dua beç, al ambés de solo ua por beç.
+# Andependéncia de ls dados físicos:
+#* Porgramas d'aplicaçon ó atebidades de treminal permanecen logicamente einalteradas qualesquiera que séian las modificaçones na repersentaçon d'armazenaige ó métodos d'acesso anternos.
+# Andependéncia lógica de dados
+#* Porgramas d'aplicaçon ó atebidades de treminal permanecen logicamente einalteradas qualesquiera que séian las mudanças d'anformaçon que permitan teoricamente la nun altaraçon de las tabelas base.
+# Andependéncia d'antegridade:
+#* Las relaçones d'antegridade specíficas dun banco de dados relacional dében ser defenidas nua sub-lenguaige de dados i armazenadas ne l catálogo (i nun an porgramas).
+# Andependéncia de çtribuiçon:
+#* La lenguaige de manipulaçon de dados debe possibelitar que las aplicaçones permaneçan einalteradas stéian ls dados centralizados ó çtribuídos fesicamente.
+# Regra de la Nó-subberson:
+#* Se l sistema relacional ten ua lenguaige de baixo nible (un registro por beç), nun debe ser possible subberter ó eignorar las regras d'antegridade i restriçones defenidas ne l'alto nible (muitos registros por beç).
+
+== Por qu'ousar un Banco de Dados Relacional? ==
+
+Ls Bancos de Dados Relacionales fúrun zambolbidos para prober acesso facelitado als dados, possibelitando que ls usuairos outelizassen  ua grande bariadade d'abordaiges ne l tratamiento de las anformaçones. Pus, anquanto nun banco de dados hierárquico ls usuairos percisan defenir las questones de negócios de maneira specífica, ampeçando pula raiç de l mesmo, ne ls Bancos de Dados Relacionales ls usuairos puoden fazer preguntas relacionadas als negócios atrabeç de bários puntos.
+La lenguaige padron de ls Bancos de Dados Relacionales ye la [[SQL|Strutured Query Language]], ó simplesmente '''SQL''', cumo ye mais coincida.
+
+== L Modelo Relacional ==
+
+Un Banco de Dados Relacional segue l [[Modelo Relacional]].
+
+L'arquitetura dun banco de dados relacional puode ser çcrita de maneira anformal ó formal. Na çcriçon anformal stamos preacupados cun aspetos práticos de l'outelizaçon i usamos ls tenermos tabela, linha i coluna. Na çcriçon formal stamos preacupados cula semántica formal de l modelo i usamos tenermos cumo relaçon (tabela), tupla(linhas) i atributo(coluna).
+
+=== Tabelas (ó relaçones, ó antidades) ===
+Todos ls dados dun banco de dados relacional (BDR) son armazenados an tabelas. Ua tabela ye ua simples strutura de linhas i colunas. Nua tabela, cada linha cuntén un mesmo cunjunto de colunas. Nun banco de dados puoden eisistir ua ó cientos de tabelas, sendo que l lemite puode ser ampuosto tanto pula ferramienta de software outelizada, quanto puls recursos de [[hardware]] çponibles ne l'eiquipamiento.
+
+Las tabelas associan-se antre si atrabeç de regras de relacionamientos, estas regras cunsisten an associar un ó bários atributos dua tabela cun un ó bários atributos d'outra tabela.
+
+* Eisemplo: La tabela ''funcionairo'' relaciona-se cula tabela ''cargo''. Atrabeç deste relacionamiento esta radadeira tabela fornece la lista de cargos pa la tabela ''funcionairo''.
+
+Modelo teórico ousado para repersentar cunceitualmente un BD, Eidealizado por Codd (1970). Baseado nua strutura de dados simples chamada relaçon. Ye l modelo mais amplamente ousado, percipalmente an aplicaçones cumbencionales de BD.
+
+=== Registros (ó tuplas) ===
+Cada linha formada por ua lista ourdenada de colunas repersenta un '''registro''', ó '''tupla'''. Ls registros nun percisan cunter anformaçones an todas las colunas, podendo assumir balores nulos quando assi se fazir necessairo.
+
+Resumidamente, un registro ye ua [[anstáncia]] dua tabela, ó antidade.
+L start de la modelaige se dá a partir de las ENTIDADES. Ua antidade ye ua repersentaçon dun cunjunto d'anformaçones subre detreminado cunceito de l sistema. To antidade ten ATRIBUTOS, que son las anformaçones que referencian l'antidade.
+Para eisemplificar ne l sistema de cuntrole de Biblioteca, partimos de l cunceito percipal que ye l'ampréstimo d'obras por usuairos de la biblioteca. A partir deste cunceito enicial, bamos ramificando i çcubrindo nuobos cunceitos. Podemos ampeçar nuosso pensar de la seguinte forma:
+
+"Ua biblioteca ten Obras literárias que puoden ser tomadas an ampréstimos puls usuairos credenciados."
+
+Podemos debrebe anxergar un cadastro de libros, un cadastro d'usuairos i un registro d'ampréstimos, cierto ? Ye essa bison que tenemos que tener al modelarmos un banco, esto ye, debemos detetar las anformaçones que debemos armazenar.
+
+Para eidantificar se aquel cunceito puode ser ua antidade bocé debe solo se preguntar: "You zeio armazenar quales anformaçones subre este cunceito ?" Se houbíren anformaçones la séren armazenadas, bocé ten ua ENTIDADE. Eisemplificando: You zeio armazenar ls seguintes dados de l libro: Títalo, Outor, Eiditora, Anho, Eidiçon i Belume. Tenemos anton l'antidade Libro.
+
+* Eisemplo: L'ampregado ''Pedro'' ye ua anstáncia (registro) de la tabela ''funcionairo'', i la funçon ''Analista Comercial'' ye l'anstáncia (registro) de la tabela ''cargo''. Ua associaçon antre estas dues tabelas criarie la seguinte anstáncia de relacionamiento: ''Pedro '''ye''' Analista Comercial'', adonde l berbo '''ser''' repersenta ua ligaçon antre ls registros çtintos.
+
+=== Colunas (atributos) ===
+
+Las colunas dua tabela son tamien chamadas d'atributos. S.: L campo Nome, ó andereço dua tabela dun BD relacional.
+
+=== Chabe ===
+Las tabelas relacionan-se uas las outras atrabeç de '''chabes'''. Ua chabe ye un cunjunto dun ó mais atributos que detreminan a unicidade de cada registro.
+
+Por eisemplo, se un banco de dados ten cumo chabes ''Código de l Perduto'' i ''ID Sistema'', siempre qu'acuntecer ua anserçon de dados l sistema de gerenciamiento de banco de dados eirá fazer ua cunsulta para eidantificar se l registro yá nun se ancontra grabado na tabela. Neste causo, un nuobo registro nun será criado, resultando esta ouparaçon solo de l'altaraçon de l registro eisistente.
+
+A unicidade de ls registros, detreminada por sue chabe, tamien ye fundamental pa la criaçon de ls índices.
+
+Tenemos dous tipos de chabes:
+
+:'''[[Chabe purmária]]:''' (''PK - Primary Key'') ye la chabe qu'eidantifica cada registro dando-le unicidade. La chabe purmária nunca se repetirá.
+
+:'''[[Chabe Strangeira]]:''' (''FK - Foreign Key'') ye la chabe formada atrabeç dun relacionamiento cula chabe purmária d'outra tabela. Define un relacionamiento antre las tabelas i puode ocorrer repetidas bezes. Causo la chabe purmária seia cumpuosta na ourige, la chabe strangeira tamien l será.
+
+== Relacionamientos ==
+{{Artigo percipal|[[Modelo de Antidades i Relacionamientos]]}}
+
+Cul adbento de l [[Modelo de Antidades i Relacionamientos]] fui causada ua cunfuson antre ls tenermos '''relaçon''' i '''relacionamiento'''
+
+L [[Modelo Relacional]], quando çcrito de forma matemática, ye defenido cumo un modelo formado por relaçones (ne l sentido matemático) antre ls domínios. Cada tupla ye un eilemiento de l cunjunto relaçon.
+
+Ó seia, la relaçon ye la tabela.
+
+Un relacionamiento de l [[Modelo de Antidades i Relacionamientos]] ye ua associaçon antre antidades çtintas. Nun hai relaçon direta antre l nome ''relacionamiento'' i l nome ''relaçon''.
+
+Mas, un relacionamiento, de l [[Modelo de Antidades i Relacionamientos]] ye traduzido pa la criaçon d'atributos cun chabes sternas de l [[Modelo Relacional]]. Esta traduçon ye feita ligando-se un campo dua tabela X cun un campo dua tabela Y, por meio de l'ancluson de l campo chabe de la tabela Y cumo un campo (coincido cumo chabe strangeira) de la tabela X.
+
+Por meio de las chabes strangeiras, ye possible amplementar restriçones ne ls SGBDR.
+
+Eesisten alguns tipos de relacionamientos possibles ne l MER:
+
+* Un para un ([[Funçon anjetiba|1 para 1]]) - andica que las tabelas ténen relaçon uníboca antre si. Bocé scolhe qual tabela bai recebir la chabe estrangeira;
+* Un para muitos ([[1 para N]]) - la chabe purmária de la tabela que ten l lado 1 stá para ir pa la tabela de l lado N. Ne l lado N eilha ye chamada de chabe strangeira;
+* Muitos para muitos ([[N para N]]) - quando tabelas ténen antre si relaçon m..m, ye necessairo criar ua nuoba tabela culas chabes purmárias de las tabelas ambolbidas, quedando assi ua chabe cumpuosta, ó seia, formada por dibersos campos-chabe d'outras tabelas. La relaçon anton se reduç para ua relaçon 1..m, sendo que l lado m quedará cula nuoba tabela criada.
+
+Ls relacionamientos ''1 para 1'' i ''1 para N'' puoden ser mapeados diretamente an chabes strangeiras nas tabelas ouriginales. Yá l relacionamiento ''N para N''  eisige l'uso dua tabela auxeliar.
+Ne l relacionamiento N:N nun hai chabe strangeira.
+
+== Modelaige ==
+=== Normalizaçon ===
+Ls bancos de dados relacionales outelizan la [[normalizaçon de dados]] para eibitar redundáncias i possibelitar un 
+maior zampenho nas pesquisas.
+
+;Normalizaçon
+
+Ye l porcesso d'ourganizaçon eficiente de ls dados drento dun banco de dados cujos oubjetibos percipales son:
+
+# Eiliminar dados redundantes (por eisemplo, armazenando ls mesmos dados an mais dua tabela).
+# Garantir que las dependéncias antre ls dados fágan sentido (armazenando solo dados logicamente relacionados nua tabela).
+
+Eesisten cinco stágios de normalizaçon, 1º, l 2º, l 3º, l 4º i l 5º. Para un banco de dados se ancontrar an cada un desses stágios ó formas (chamadas formas normales), cada ua de sues tabelas debe atender l'alguns pré-requesitos. Ls pré-requesitos son cumulatibos, esto ye, para alcançar a 3ª forma normal (3NF), un banco de dados percisa atender als pré-requesitos de las 1ª i 2ª formas normales, acrescidos de ls requesitos sclusibos de a 3NF.
+
+=== Dependéncia Funcional ===
+Un atributo B ten ua dependéncia funcional de l'atributo La se, para cada balor de l'atributo La, eisiste satamente un único balor de l'atributo B. 
+La dependéncia funcional ye repersentada por  La → B.
+
+Eisemplo:
+Ouserbe ls cunjuntos:
+
+{| class="wikitable"
+|+ '''Cliente'''
+!CPF !! Nome
+|-
+|1
+|José
+|----
+|2
+|João
+|----
+|3
+|Rui
+|----
+|4
+|Manoel
+|----
+|}
+
+Ouserbe qu'eisiste ua dependéncia antre ls balores de ls cunjuntos, ó seia, nome ye funçon de l CPF, se you stubir cun numero de l CPF, poderei ancontrar l nome de la pessona correspondente.
+
+Essa dependéncia ye spressa por:
+
+     CPF → Nome
+
+Leia de la seguinte maneira:
+- cun un númaro de CPF puodo ancontrar nome de la pessona, ó
+- nome depende de la funcionalidade de l CPF.
+
+=== Purmeira Forma Normal (FN1) ===
+
+Ua relaçon stá na purmeira forma normal se ls balores de sous atributos son atómicos (simples, andebesibles) i monobalorados. An outras palabras, FN1 nun permite “relaçones drento de relaçones” ó “relaçones cumo atributos de tuplas”<ref name=cericola>{{Citar libro|outor=Cerícola, Osbaldo Bicente|títalo=Banco de Dados Relacional i Çtribuído|subtítulo=|léngua=|eidiçon=|local=Riu de Janeiro|eiditora=LTC|anho=1991|páigina=115|belumes=|belume=|id=|isbn=85-216-0769-5}}</ref>.
+
+Ua tabela stá na purmeira forma normal quando sous atributos nun cunténen grupos de repetiçon.
+Eisemplo: 
+{| class="wikitable"
+|+ '''Cliente'''
+!ClienteID !! Nome !!  Telifone
+|-
+|123
+|Rachel Angran
+|555-861-2025
+|----
+|456
+|James Wright
+|555-403-1659<br />555-776-4100
+|----
+|789
+|Marie Fernandeç
+|555-808-9633
+|----
+|}
+Esta tabela lougo arriba nun stá na purmeira forma normal porque apersenta grupos de repetiçon (possibelidade de mais dun telifone por cliente).
+
+Yá estas tabelas lougo ambaixo, Cliente i Telifone, stan na purmeira forma normal.
+
+Tabela Cliente:
+{| class="wikitable"
+|+ '''Cliente'''
+!ClienteID !! Nome
+|-
+|123
+|Rachel
+|----
+|456
+|James
+|----
+|789
+|Marie
+|----
+|}
+
+Tabela Telifone:
+{| class="wikitable"
+|+ '''Telifone'''
+!ClienteID !!  Telifone
+|-
+|123
+|555-861-2025
+|----
+|456
+|555-403-1659
+|----
+|456
+|555-776-4100
+|----
+|789
+|555-808-9633
+|----
+|}
+
+=== Segunda Forma Normal (FN2) ===
+
+Ua relaçon stá na FN2 quando dues cundiçones son sastifeitas:
+
+1 - La relaçon stá na 1FN; 
+
+2 - To atributo de la tabela seia dependente funcional de la chabe cumpleta i nun de parte de la chabe. Ó seia, Todos ls atributos nó-chabe dependen funcionalmente de to la chabe purmária.
+
+=== Terceira Forma Normal (FN3) ===
+
+A 3FN eisige que nun eisistan atributos trasitibamente dependentes de la chabe.
+
+Un eisemplo dua tabela 2FN que nun atende l critério para 3FN ye:
+
+{| class="wikitable"
+|+ '''Bencedores de Torneios'''
+! <u>Torneio</u> !! <u>Anho</u> !! Bencedor!! Data de nacimiento de l bencedor
+|-
+|Andiana Ambitational||1998||Al Fredrickson||21 de júlio de 1975
+|-
+|Clebeland Oupen||1999||Bob Albertson||28 de setembre de 1968 
+|-
+|Ç Moines Masters||1999||Al Fredrickson||21 de júlio de 1975
+|-
+|Andiana Ambitational||1999||Chip Masterson||14/3/1977
+|}
+
+La chabe purmária cumpuosta ye {Torneio, Anho}.
+
+La tabela nun stá na terceira forma normal porque l'atributo ''"data de nacimiento de l bencedor"'' ye dependente trasitibamente de {Torneio, Anho} bie l'atributo "''Bencedor''". L fato de la ''data de nacimiento de l bencedor'' nun ser dependente de l ''bencedor'' torna la tabela bulnerable l'anconsisténcias lógicas, yá que nada ampedirie dua mesma pessona aparecer cun datas de nacimiento defrentes an dous registros.
+
+Para atender la terceira forma normal, la mesma anformaçon deberie ser debedida an dues tabelas:
+
+{| class="wikitable"
+|+ '''Bencedores de Torneios'''
+! <u>Torneio</u> !! <u>Anho</u> !! Bencedor
+|-
+|Andiana Ambitational||1998||Al Fredrickson
+|-
+|Clebeland Oupen||1999||Bob Albertson
+|-
+|Ç Moines Masters||1999||Al Fredrickson
+|-
+|Andiana Ambitational||1999||Chip Masterson
+|}
+
+{| class="wikitable"
+|+ '''Datas de nacimiento de jogadores'''
+! <u>Jogador</u> !! Data de nacimiento
+|-
+|Chip Masterson||14/3/1977
+|-
+|Al Fredrickson||21 de júlio de 1975
+|-
+|Bob Albertson||28 de setembre de 1968
+|}
+
+Las dues tabelas arriba stan na terceira forma normal.
+
+== {{Ber tamien}} ==
+* [[Admenistraçon de dados]]
+* [[Banco de dados]]
+* [[Data warehouse]]
+* [[Ciéncia de la Cumputaçon]]
+* [[Arquitetura de dados]]
+* [[Modelo de Antidades i Relacionamientos]]
+
+{{refréncias}}
+
+{{DEFAULTSORT:Banco Dados Relacional}}
+[[Catadorie:Tipos de bancos de dados]]
+[[Catadorie:SGBDs]]
