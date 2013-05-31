@@ -1,0 +1,95 @@
+'''Modelaige cumputacional''' ye ua ária de coincimiento multidisciplinar que trata de l'aplicaçon de [[matemática|modelos matemáticos]] i técnicas de la cumputaçon a l'análeze, cumprenson i studo de la fenomenologie de porblemas cumplexos an árias tan abrangentes quanto las [[angenharie]]s, [[ciéncias satas]], [[biologie|biológicas]], [[ciéncias sociales|houmanas]], [[eiquenomie]] i [[ciéncias ambientales]].
+
+==Antroduçon==	
+
+La modelaige cumputacional ye la ária que trata de la [[simulaçon]] de soluçones para porblemas científicos, analisando ls fenómenos, zambolbendo [[modelo matemático|modelos matemáticos]] para sue çcriçon, i eilaborando [[software|códigos cumputacionales]] para oubtençon daquelas soluçones. Ye ária an spanson, d'ampla aplicaçon, an:
+
+*zambolbimiento de perdutos andustriales,
+*[[pesquisa científica|pesquisas científicas]] básicas i aplicadas,
+*[[simulaçon|simulaçones]] i prebisones temporales i spaciales de [[fenómeno]]s,
+*[[matemática]], [[física]], [[química]],
+*[[angenharie]] i [[tecnologie]],
+*[[biologie]] i [[salude]],
+*[[meio ambiente]] i [[ecologie]],
+*[[ouceanografie]] i [[geofísica]], dentre outras.
+
+Alguas árias d'atebidade eiquenómica qu'aufíren benefícios de la modelaige cumputacional son:
+
+*[[agroindústria]],
+*[[medecina]],
+*[[custruçon cebil]] i [[angenharie strutural|estruturas]],
+*[[aeronáutica]], [[angenharie nabal]] i [[andústria outomobilística]],
+* [[Hidráulica]]
+* [[Angenharie Hidráulica]]
+* [[Sedimentologie]]
+* [[Macánica de ls fluidos]]
+*[[andústria de l petrólio]] i [[Petroquímica]], dentre outras árias d'aplicaçon.
+
+== Motibaçon ==
+
+La sofisticaçon de ls porblemas cun que l'houmanidade ten se deparado nas radadeiras décadas, an árias tan dibersas cumo las megaestruturas i la macánica de l cuntino, la nanotecnologie, la genómica i la bioinformática, la cumputaçon quántica, l'ecologie, i l'astrofísica, an nuobos materiales i an zambolbimiento sustentado, la títalo d'eisemplo, ne ls apersenta eisigéncia de repuostas sponencialmente mais cumplexas cun relaçon àquelas que percisamos gerar ne l passado, apersentando pa la ciéncia i pa la quemunidade científica un zafio: la necidade d'oubtençon de repuosta cada beç mais sofisticadas, oubjetibando tratar aqueilha cumplexidade, an tiempo sucessibamente menor i por meio de soluçon de porblemas cumplexos.
+
+== Porblemas cumplexos ==
+
+Porblemas cumplexos, ó de grande grau de cumplexidade, resultan an anflaçon de la cantidade de bariables físicas a manipular i cuntrolar ne l porcesso de stablecimiento de l porblema, establecimiento d'heipóteses pa l modelo, proposiçon de teories, [[Postulado|postulados]] i [[Teorema|teoremas]], guias pa la busca de soluçon de l porblema, cuntrole, aferimiento i aprossimaçon de la soluçon. Usualmente porblemas cumplexos demandan fuorte sfuorço de cálclo, a partir de l stablecimiento de modelos matemáticos robustos ó de l stablecimiento de teias de relaçones antre bariables an dibersas scalas d'ouserbaçon, zde a nano, passando pula micro, até l macro. L'eixe de stablecimiento de l modelo de soluçon de porblemas cumplexos ten sido l'ouserbaçon de l porblema, de sue fenomenologie i la cuncepçon de l modelo físico i de l modelo fenomenológico qu'antecede l zambolbimiento de l modelo matemático, zambolbimiento de l sistema d'eiquaçones que regen l porblema, i sue soluçon cumputacional mediante un código apropiado. L stablecimiento desta cuncepçon de tratamiento i abordaige de porblemas cumplexos an ciéncia, bien cumo de sue soluçon a partir deste modelo, cunsidrando ua dibersidade de modelos qualitatibos, i subretodo modelos quantitatibos, an abordaige numérica usualmente cumputacional, busca assi superar l'ancerteza na trajetória d'eiboluçon de l porblema sob análeze, i subre las bariables de l porblema.
+	
+Modelos matemáticos stablecidos a partir de modelos fenomenológico, recaen an sistemas d'eiquaçones defrenciales parciales ó d'eiquaçones defrenciales ourdinárias d'eilebado númaro de [[Ancógnita (matemática)|ancógnitas]], demandando fuorte sfuorço cumputacional na sue soluçon. L'aprossimaçon de las soluçones dessas eiquaçones por procedimientos numéricos tornou-se neçaira a la medida que las ciéncias ambientales, angenharies, tecnológicas i las ciéncias niológicas i de la salude abançában ne l sentido de la sastifaçon de las necidades houmanas.
+
+== Abordaige de soluçones ==
+
+[[Fexeiro:EPET 3-D animation PrintScren.jpg|thumb|Catura de tela dua spriéncia cumputacional tridimensional, 3D, animada cun ua criaçon de l modelo subre [[w:en:base eisolation|base eisolation]], [[w:en:Charlottesbille, BA|Charlottesbille, U.S.]]<ref>[http://www.seismicebaluation.org Earthquake Performance Eibaluation Tol Online]</ref>]]L'abordaige cumputacional ye l'adotada na modelaige cumputacional. Trata-se de ária Anterdisciplinar pa l stablecimiento de [[modelos]], cun adoçon de formulaçones matemáticas na soluçon de porblemas científicos an streita aliança i antegraçon culas linhas de pesquisa que definen las árias de coincimiento associadas als porblemas cumplexos. Ls resultados porjetados ouferecen ua metodologie pa la detreminaçon, ne l [[tiempo]] i ne l [[spácio]] de l'ampato d'anterbençones houmanas, cumo por eisemplo ne l [[çmatamiento]] de mata natiba i amplantaçon d'andústrias, cun base ne l coincimiento de l fluxo de las sustáncias ó materiales ambolbidos nas [[eimissones andustriales]] i ne l trasporte destas ne l'ambiente, de las taxas d'acumulaçon nas árias d'anfluéncia i projeçon de ls eifeitos subre las populaçones afetadas.
+
+Tal abordaige cumpone la ária de [[modelaige cumputacional]], na anterface culas [[angenharies]], la [[matemática cumputacional]], la [[física cumputacional]], i cula [[cumputaçon científica]], pertinente á abordaige de soluçones para porblemas cumplexos, pertinente a la [[macánica de l cuntino]]. Na [[modelaige cumputacional]] ls porblemas tratan d'eilebado númaro de bariables, propondo-se l'adoçon de [[análeze numérica|métodos numéricos]] de tratamiento de l porblema, associado a la ferramienta cumputacional, i a las [[técnicas de porgramaçon]] abançadas, adequadas a l'outimizaçon de la busca de las soluçones de ls porblemas cumplexos. Tal procedimiento ye adequado tanto a meios cuntinos, homogéneos cumo heiterogéneos, bien cumo la sistemas çcretos, [[determinístico]]s i [[porbabilístico]]s, ancorrendo an menor custo cumputacional.
+
+== Abrangéncia i anterfaces ==
+
+La ária qu'eiqui cunceituamos, ye tamien chamada cumo [[simulaçon cumputacional científica]] i [[macánica cumputacional]]. Trata-se de ária qu'angloba l [[cunjunto]] de [[coincimientos]] relacionados als [[métodos numéricos]] qu'ambolben ls procedimientos d'análeze i soluçon de [[porblemas cumplexos]] relacionados a la [[Macánica de l Cuntino]], a las [[Ciéncias Satas]] i a las [[Ciéncias Naturales]] i [[Ciéncias de l Meio Ambiente]], la [[Fenómenos Biológicos]], i a la [[Macánica Orgánica]]. Diç respeito al studo de árias dibersas, particularmente la [[Macánica de ls Sólidos]] i la [[Macánica de ls Fluidos]], la [[Biofísica]] i [[Biomecánica]], la [[Sistemas Ecológicos i Populacionales]]. Sou campo d'aplicaçon, i scalas d'ouserbaçon, abrange las [[scalas]] [[spacial]] i de l [[tiempo]], [[trasientes]] i [[stacionairos]]. La modelaige cumputacional, çtina-se a la soluçon de [[porblemas cumplexos]] regidos por [[eiquaçones defrenciales ourdinárias]] i [[eiquaçones defrenciales parciales]], i la [[porblemas de balores eniciales]] i de [[porblemas de balores de cuntorno]].
+
+== Ourige i aplicaçones ==
+
+Reunindo un grupo de coincimientos ouriginados na [[Macánica Clássica]] i na [[Angenharie Macánica]], passou la superá-las, i ten sido outelizado ne l [[meio académico]] i técnico, chamando l cunjunto de coincimientos fuortemente associados al amprego de cumputadores na soluçon de [[porblemas científicos]] i particularmente [[métodos numéricos]], tales cumo:
+
+# nas [[Angenharies]], an [[Ciéncias Tecnológicas]], i nas [[Ciéncias Satas]]: abrangendo la [[macánica de l cuntino]], [[macánica de ls sólidos]], [[macánica de ls fluidos]], [[macánica de las struturas]], [[nanotecnologie]] i [[nanofísica]], [[macánica de ls tierras]] i [[fundaçones]], [[macánica de la fratura]], [[teorie de l'eilasticidade]], [[teorie de las struturas]] i [[resisténcia de ls materiales]], aspetos de [[teorie de porjetos]] i [[porjeto auxeliado por cumputador]], angenharie assistida por cumputador, [[plasticidade i biscoelasticidade]], [[scoamiento de fluidos]], [[scoamiento]] i [[macánica de ls meios porosos]], [[outimizaçon]] i [[porgramaçon linear]], [[métodos bariacionales]] i [[métodos numéricos]], [[algoritmos genéticos]], [[cumputaçon paralela]] i [[cumputaçon çtribuída]], [[bisualizaçon científica]], [[modelaige molecular]], [[teorie de l caos]], i la [[álgebra]] an sues dibersas teories, dentre outras aplicaçones.
+# an [[Ciéncias Ambientales]]: an ecologie cumputacional, an modelaige d'ecossistemas i biomas, na simulaçon i modelaige de trocas de massa i einergie antre populaçones, destas pa l meio ambiente, i antre ecossistemas, ne l zambolbimiento de métodos numéricos de soluçon de sistemas de EDOs i EDPs, studos d'ampato de çmatamiento de mata natiba, de las altaraçones ambientales decorrientes, simulaçon i projeçon temporal. Modelos d'amplantaçon d'andústrias, i simulaçon d'ampato ambiental detreminada pula amplantaçon de sistemas de porduçon. Simulaçon, análeze, modelaige i projeçon temporal i spacial de l fluxo de las sustáncias ó materiales ambolbidos nas eimissones andustriales i ne l trasporte destas ne l'ambiente, de las taxas d'acumulaçon nas árias d'anfluéncia i projeçon de ls eifeitos subre las populaçones afetadas
+# an [[Ciéncias Biológicas]] i de la [[Salude]]: abrangendo la genómica i la proteómica cumputacionales, simulaçon d'açon de proteínas i de sequéncias de códigos genético, bisualizaçon spacial de sequéncias genéticas, modelaige spacial de proteínas, modelaige strutural de bírus i batérias, análeze de mobimientos de seres microscópicos, modelaige heimodinámica, de sistemas ourgánicos, de l'açon farmacológica i de la simulaçon birtual de drogas terapéuticas ó curatibas. Modelos cumputacionales odontológicos, protéticos i d'amplantes. Modelaige de sistemas ourgánicos biofísicos, biomecánicos i telemobles.
+
+Debe ser ouserbado, tamien, que nun se trata de ária de la [[Ciéncia de la Cumputaçon]], inda que cun esta anter-relacionada, i si de la possibelidade d'aplicaçon de [[cunceito]]s i [[eideia]]s abrangendo las etapas d'análeze i cumprenson de l [[fenómeno]] sob studo, establecimiento de sistema d'eiquaçones adequado la simulaçon de l fenómeno an queston, zambolbimiento de [[softwares]] adequados a la soluçon de l porblema científicos abordado, i aplicaçon a a studo teórico ó prático, cumprendendo análeze crítica de ls resultados i calibraçon de l modelo zambolbido.
+
+== Métodos i técnicas ==
+
+Alguns de ls métodos studados na modelaige cumputacional cun direcionamiento a la soluçon de porblemas típicos de las angenharies, de las ciéncias satas, biológicas i ambientales, son: Métodos de ls [[Eilemientos Finitos]], Métodos de ls [[Eilemientos de Cuntorno]], Método de ls [[Belumes Finitos]], Métodos de las [[Defrenças Finitas]], [[Métodos de Antegraçon|Método Antegral]] i [[Bariábel (matemática)|Bariacional]], [[Métodos Outoadatatibos]], [[cumputaçon çtribuída]], [[Redes i Grids]] Cumputacionales, [[Cumputaçon Betorial]] i [[Cumputaçon paralela|Paralela]] Aplicada, [[Pré i Pós-processamiento]] [[Gráfico]] i [[Outimizaçon]], Sistemas de [[Ourientaçon Spacial]], Modelaige de l [[Spácio Houmano]], Simulaçon Cumputacional, [[rialidade birtual]] i [[Protótipos Cumputacionales]]. 
+
+La modelaige cumputacional outeliza un cunjunto de métodos, ferramientas i formulaçones direcionadas a la soluçon de porblemas cumplexos, ambolbendo grande númaro de bariables, bolumosa massa de dados, processamiento i manipulaçon d'eimaiges. Zambolbimiento de modelos matemáticos i de métodos numéricos, bien cumo çcretizaçon i tratamiento de meios cuntinos stan ne l sou campo d'abrangéncia.
+
+La Modelaige Científica Cumputacional aplica anton la cumputaçon l'outras árias de l coincimiento. Eilha permite que se crien modelos cumputacionales para situaçones an que ye ampossible ó mui caro testar ó medir las dibersas soluçones possibles para un fenómeno a partir de modelos spurmentales ó por soluçon analítica. Biabeliza l'adoçon d'abordaige cumputacional, abançando para alhá de las lemitaçones, cumpletando i antegrando-se l'estas outras abordaiges i muitas bezes sendo la única oupçon, a l'abordaige spurmental i a l'analítica.
+
+Por modelaige científica cuncebe-se nun solo la modelaige relacionada al zambolbimiento de métodos numéricos i bariacionales, cumo tamien a la cumprenson i zambolbimiento de modelos associados a la fenomenologie física de ls porblemas cumplexos, aplicaçon de modelos yá zambolbidos, simulaçon, prebison i projeçones temporales i spaciales de l zambolbimiento de soluçones para aqueilhes porblemas.
+
+== Lemitaçones an ciéncia cognitiba<ref>Eysenck, Michael W.: "Cognitibe Psychology: La Student's Handbook", páiginas 15 i 16. Psychology Press, 1990 ISBN 0-86377-154-8.</ref> ==
+
+Puoden aparecer porblemas quando se simula porcessos cognitibos, por causa de las lemitaçones de l cumputador. Fui sugerido por [http://socrates.berkeley.edu/~plab/palmercb.html Palmer] i [http://research.haifa.ac.eil/~iipdn/personal_homepages/kimchip.htn Kimchi] que se puode specificar ua teorie sucessibamente cun mais detalhe até chegar al punto de ser possible screbir un porgrama de cumputador i que debe ser possible tamien d'apartar a partir de que punto ye que l'amplementaçon ye dependente de la lenguaige de porgramaçon i máquina, an beç de ser depender de l cérebro. Ye que l porgrama bai tener siempre aspetos que nun stan relacionados cula teorie psicológica, mas que la tecnologie çponible ampone al pesquisador. Un eisemplo son las funcionalidades que son ancluídas ne l porgrama para saber qual ye l sou stado anterno la detreminada altura anquanto corre, i que, oubbiamente, nun stan relacionadas cul funcionamiento de l cérebro.
+
+L zampenho tamien puode ser porblemático, porque tamien ye lemitado cula tecnologie çponible, sendo ampossible acumparar diretamente las belocidades de repuostas d'ambos máquina i cérebro, ambora puoda haber ua relaçon de proporcionalidade antre ls dous, ó ne l mínimo l perduto d'ambos debe star bastante próssimo.
+
+== Ber tamien ==
+* [http://www.struturalpedie .com/andex.php?title=EPETO EPETO]
+* [[Modelos físicos]]
+* [[Modelo]]
+* [[IPRJ]] - Anstituto Politécnico de la [[UERJ]] qu'ouferece doutorado pioneiro an Modelaige Cumputacional
+* [[Hidráulica]]
+* [[Angenharie Hidráulica]]
+* [[Sedimiento]]s
+* [[Sedimentologie]]
+* [[Hanes Albert Einstein]]
+* [[Macánica de ls fluidos]]
+
+== Refréncias ==
+
+<references />
+
+[[Catadorie:Matemática aplicada]]
+[[Catadorie:Cumputaçon científica]]
+[[Catadorie:Angenharie]]
+[[Catadorie:Tecnologie]]
+
+[[uk:Імітаційне моделювання]]
