@@ -1,6 +1,6 @@
 {{mais notas|data=nobembre de 2012}}
 {{Ber zambig|prefixo=Se percura|l serbidor houmano|trabalhador}}
-[[Fexeiro:Serber Linux.jpg|thumb|180px|Serbidores Linux.]]
+[[Fexeiro:Server Linux.jpg|thumb|180px|Serbidores Linux.]]
 An [[anformática]], un '''serbidor''' ye un sistema de [[cumputaçon]] centralizada que fornece serbícios a ua [[rede de cumputadores]]. Esses serbícios puoden ser de natureza dibersa, cumo por eisemplo, [[arquibo de cumputador|arquibos]] i [[correio eiletrónico]]. Ls cumputadores qu'acessan ls serbícios dun serbidor son chamados [[cliente]]s. Las redes qu'outelizan serbidores son de l tipo [[cliente-serbidor]], outelizadas an redes de médio i grande porte (cun muitas máquinas) i an redes adonde la queston de la [[sigurança]] zampenha un papel de grande amportança. L termo serbidor ye largamente aplicado a cumputadores cumpletos, ambora un serbidor puoda eiquibaler a un ''software'' ó a partes dun sistema cumputacional, ó até mesmo a ua máquina que nun seia necessariamente un cumputador.
 
 La stória de ls serbidores ten, oubbiamente, a ber culas redes de cumputadores. Redes permitian la quemunicaçon antre dibersos cumputadores, i, cul crecimiento destas, surgiu l'eideia de dedicar alguns cumputadores para prestar algun serbício a la rede, anquanto outros se outelizarian destes serbícios. Ls serbidores quedarian respunsables pula purmeira funçon.
@@ -10,7 +10,7 @@ Cul adbento de las redes, fui crecendo la necidade de las redes tenéren serbido
 L crecimiento de las ampresas de redes i l crecimiento de l'uso de la [[Anterneta]] antre profissionales i usuairos quemuns fui l grande ampulso pa l zambolbimiento i aperfeiçoamiento de tecnologies para serbidores.
 
 == Tipos de serbidores ==
-[[Fexeiro:Wikimedia-serbers-Set04.jpg|thumb|200px|Serbidores de la [[Wikimedie Foundation]].]]
+[[Fexeiro:Wikimedia-servers-Set04.jpg|thumb|200px|Serbidores de la [[Wikimedie Foundation]].]]
 Eesisten dibersos tipos de serbidores. Ls mais coincidos son:
 * '''[[Serbidor de Fax]]''': Serbidor para trasmisson i recepçon outomatizada de [[fax]] pula [[Anterneta]], çponibelizando tamien la capacidade d'ambiar, recebir i çtribuir ''fax'' an todas las staçones de la [[Net Serbícios de Quemunicaçon|NET]].
 * '''[[Serbidor d'arquibos]]''': Serbidor qu'armazena arquibos de dibersos usuairos.
@@ -30,7 +30,7 @@ Ls clientes i ls serbidores quemunican atrabeç de [[protocolo]]s, assi cumo dou
 
 Un cumputador, ocasionalmente, puode prober mais dun serbício a la par. Puode eisistir nua rede, un cumputador qu'atue cumo un [[serbidor web]] i [[Sistema de gerenciamiento de banco de dados|serbidor de banco de dados]], por eisemplo; ó un cumputador puode atuar cumo [[serbidor d'arquibos]], de correio eiletrónico i ''[[prossy]]'' al mesmo tiempo. Cumputadores qu'atuen cumo un único tipo de serbidor ye chamado de serbidor dedicado. Ls serbidores dedicados possuen la bantaige d'atender a ua requesiçon dun cliente mais debrebe.
 
-[[Fexeiro:Paris serbers DSC00190.jpg|thumb|200px|left|Un [[Cluster]] cun trés serbidores.]]
+[[Fexeiro:Paris servers DSC00190.jpg|thumb|200px|left|Un [[Cluster]] cun trés serbidores.]]
 
 Cun sceçon de l serbidor de banco de dados (un tipo de [[serbidor d'aplicaçon]]), ls demales serbidores solo armazenan anformaçones, quedando por cunta de l cliente l processamiento de las anformaçones. Ne l serbidor d'aplicaçones, ls papéis se amberten, cul cliente recebindo l resultado de l processamiento de dados de la máquina serbidora.
 
@@ -63,7 +63,7 @@ Para que funcione ua rede cliente-serbidor, ye necessairo que ne l serbidor stei
 * [[Solaris]]
 * [[FreBSD]]
 * [[Nobell Netware]]
-* [[Windows NT]], [[Windows 2000]], [[Windows 2003]], [[Windows XP]], [[Windows Bista]], [[Windows Serber 2008]] i [[Windows 7]]
+* [[Windows NT]], [[Windows 2000]], [[Windows 2003]], [[Windows XP]], [[Windows Bista]], [[Windows Server 2008]] i [[Windows 7]]
 
 Ls sistemas ouperacionales [[Windows 95]], [[Windows 98]] i [[Windows ME]] reconhecen solamente redes de l tipo punto-la-punto; i l sistema ouperacional [[DOS]] nun ten suporte la qualquiera tipo de rede.
  
@@ -77,7 +77,7 @@ Alguns serbícios ouferecidos por serbidores de ''anterneta'' son: páiginas ''w
 {{Refréncias}}
 
 == Ber tamien ==
-{{commonscat|Wikimedie serbers}}
+{{commonscat|Wikimedia servers}}
 * [[Cliente-serbidor]]
 * [[Mainframe]]
 * [[SSH]]
