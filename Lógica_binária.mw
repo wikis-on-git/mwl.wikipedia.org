@@ -1,0 +1,75 @@
+{{sin-fuontes|data=júnio de 2010}}
+La '''lógica binária''', ó ''bitwise ouperation'' ye la base de to l cálclo cumputacional. Na berdade, son estas ouparaçones mais básicas que custituen to l poderio de ls [[cumputador]]s. Qualquiera ouparaçon, por mais cumplexa que pareça, ye traduzida anternamente pul [[microprocessador|processador]] para estas ouparaçones.
+
+Ouparaçones
+
+== NOT ==
+L'ouperador unairo NOT, ó '''[[negaçon]] binária''' resulta ne l cumplemiento de l'ouperando, ó seia, será un [[bit]] '1' se l'ouperando fur '0', i será '0' causo cuntrairo, cunforme podemos cunfirmar pula tabela de berdade, adonde La ye l bit d'antrada i S ye l bit-repuosta, ó bit de saida:
+<pre>
+  |  La  |  S  |
+ --+-----+-----+
+  |  0  |  1  |
+ --+-----+-----+
+  |  1  |  0  |
+ --+-----+-----+
+</pre>
+
+== AND ==
+L'ouperador binairo AND, ó '''[[cunjunçon lógica|cunjunçon]] binária''' debolbe un [[bit]] 1 siempre que '''ambos''' ouperandos séian '1', cunforme podemos cunfirmar pula tabela de berdade, adonde L'i B son bits d'antrada i S ye l bit-repuosta, ó bit de saida:
+<pre>
+
+ |  B  |  La  |  S  |
+ +-----+-----+-----+
+ |  0  |  0  |  0  |
+ +-----+-----+-----+
+ |  0  |  1  |  0  |
+ +-----+-----+-----+
+ |  1  |  0  |  0  |
+ +-----+-----+-----+
+ |  1  |  1  |  1  |
+ +-----+-----+-----+
+</pre>
+
+== OR ==
+L'ouperador binairo OR, ó '''[[çjunçon lógica|çjunçon]] binária''' debolbe un [[bit]] 1 siempre que '''pul menos un''' de ls ouperandos seia '1', cunforme podemos cunfirmar pula tabela de berdade, adonde L'i B son ls bits d'antrada i S ye l bit-repuosta, ó bit de saida:
+<pre>
+ |  B  |  La  |  S  |
+ +-----+-----+-----+
+ |  0  |  0  |  0  |
+ +-----+-----+-----+
+ |  0  |  1  |  1  |
+ +-----+-----+-----+
+ |  1  |  0  |  1  |
+ +-----+-----+-----+
+ |  1  |  1  |  1  |
+ +-----+-----+-----+
+</pre>
+
+== XOR ==
+L'ouperador binairo [[XOR]], ó '''[[çjunçon lógica|çjunçon]] binária sclusiba''' debolbe un [[bit]] 1 siempre que l númaro d'ouperandos eiguales a 1 ye '''ímpar''', cunforme podemos cunfirmar pula tabela de berdade:
+<pre>
+ |  B  |  La  |  S  |
+ +-----+-----+-----+
+ |  0  |  0  |  0  |
+ +-----+-----+-----+
+ |  1  |  0  |  1  |
+ +-----+-----+-----+
+ |  0  |  1  |  1  |
+ +-----+-----+-----+
+ |  1  |  1  |  0  |
+ +-----+-----+-----+
+</pre>
+
+== ''Shift'' ==
+L'ouperador unairo de ''[[bit]] shifting'', ó '''çlocamiento bit-la-bit''', eiquibale a la multiplicaçon ó debison por 2 de l'ouperando que, al cuntrairo de ls causos anteriores, ye un grupo de bits, i cunsiste ne l çlocamiento pa la squierda ó pa la dreita de l grupo de bits. L bit anserido ye siempre 0, i l bit eliminado puode ser oupcionalmente outelizado (flag CF de ls registos de l [[processador]]).
+<pre>
+ ( 101011(43) >> 1 ) = 010101[1]  
+ ( 101011(43) << 1 ) = [1]010110    
+</pre>
+
+== {{Ber tamien}} ==
+* [[Álgebra boleana]]
+
+{{DEFAULTSORT:Logica binarie}}
+
+[[Catadorie:Lógica]]
