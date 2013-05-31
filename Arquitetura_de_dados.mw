@@ -1,0 +1,120 @@
+'''Arquitetura de dados''' ye la strutura de ls cumponentes de [[Dados|dados]] dua [[Organizaçon|organizaçon]] - cunsidrados sob defrentes nibles de [[Abstraçon|abstraçon]], sues anter-relaçones, bien cumo ls [[Percípio|percípios]], [[Diretriç|diretrizes]], [[Norma técnica|normas]] i padrones que regen sou porjeto i eiboluçon al longo de l tiempo. 
+
+Ambolbe, antoce, l porcesso de gerenciamiento de ls atibos anformacionales i l porjeto de dados ousado para defenir ua detreminada situaçon fetura, ancluindo l susequente planeijamiento necessairo para alcançar tal stado. Ye cunsidrada un de ls domínios que custituen ls pedamiegos de la [[arquitetura ampresarial|Arquitetura Ampresarial]]. Nun sentido restrito, puode seneficar tamien l cunjunto de las defeniçones de [[Strutura de dados|struturas de dados]], relacionamientos i regras cumportamentales aplicadas a ua particular soluçon de [[Tecnologie de l'anformaçon|TI]].
+
+== Resumo ==
+L'arquitetura de dados çcribe la [[Strutura de dados|strutura de dados]] outelizada por ua ourganizaçon i/ó sous aplicatibos i cuntempla çcriçones de dados - tanto armazenados quanto an mobimiento, çcriçones de meios d'armazenamiento, grupos de dados, itenes de dados i [[Modelaige de dados|modelos de dados]] de soluçones de [[Tecnologie de l'anformaçon|TI]].
+
+Eissencial a la cuncepçon de la situaçon fetura, la Arquitetura de Dados çcribe cumo ls dados son processados, armazenados i outelizados nun detreminado [[Sistema|sistema]] (sentido amplo). Eilha fornece ls critérios pa las ouparaçones de processamiento de dados, possibelitando que séian porjetados i tamien cuntrolados ls fluxos de dados ne l sistema.<ref>{{cite web|outhor=LEWIS, G.; COMELLA-DORDA, S.; PLACE, P.; PLAKOSH, D.; SEACORD, R.|title= An Enterprise Anformation Systen Data Architeture Guide|publisher = Carnegie Mellon University |url=http://www.manjetss .com/articles/DataArchiteture/01tr018.pdf |date=2001|acessdate=03/05/2011}}</ref>
+
+L Arquiteto de Dados ye respunsable por defenir la situaçon fetura, pul alinhamiento durante l zambolbimiento i pul acumpanhamiento para garantir que melhories séian feitas siempre d'acuordo culas specificaçones arquitetónicas ouriginales. El se acupa de trabalhar ls dados cumo un recurso stratégico de l'ourganizaçon, repersentando-los andependientemente de ls [[Porcesso de negócio|porcessos]] de las defrentes ounidades que ls outelizan, respeitando las múltiplas bisones deribadas de l mesmo dado, permitindo sou cumpartilhamiento, cunsidrando las caratelísticas de ls nibles d'anformaçon necessairos: ouperacional – tático – stratégico i çponibelizando estruturas de dados de forma ourganizada; propiciando cun esso la custruçon de la base para sistemas d'anformaçon flexibles i antegrados.<ref>{{Refréncia a libro
+ | Outor = SERRA, Laércio
+ | Títalo = La Eissencia de l Business Antelligence
+ | Eidiçon = 1
+ | Local de publicaçon = San Paulo, Brasil
+ | Eiditora = Berkeley
+ | Anho = 2002
+ | ID = ISBN 8572516301 }}</ref>
+
+Durante la defeniçon de l stado de çtino, la Arquitetura de Dados decumpone un assunto d'anformaçon até l sou nible atómico para, an seguida, trilhar l camino amberso i cumpor l cuntesto zeiado. Ls Arquitetos de Dados eisecutan essa tarefa, outelizando trés porcessos tradecionales de Arquitetura: Cunceitual, Lógico i Físico.
+
+
+Abordaige de l [[Zachman Framework|Framework Zachman]] pa la Arquitetura de Dados: 
+
+{| border=1
+|'''Camada''' || '''Bison''' || '''Dados (l qué)''' || '''Antressado''' 
+|-
+|1||'''Scopo/Cuntesto''' || Lista de cousas amportantes pa l negócio (árias temáticas) || Planeijador 
+|-
+|2||'''Modelo de Negócios / Cunceitual'''  || Modelo semántico ó [[Modelo d'antidades i relacionamientos|Cunceitual]] / [http://www .ptdan .com/i005fe12.htn Enterprise Data Model] || Propiatário 
+|-
+|3||'''Modelo de Sistema / Lógico''' || Modelo de dados lógico || Porjetista 
+|- 
+|4||'''Modelo Tecnológico / Físico''' || Modelo de dados físico || Custrutor 
+|-
+|5||'''Cunfiguraçon de Cumponentes'''  ||  Defeniçones de dados || Amplementador 
+|-
+|6||'''Corporaçon Funcional'''  ||  Dados || Trabalhador 
+|}
+
+Neste segundo - i mais amplo - sentido, la Arquitetura de Dados anclui ua análeze cumpleta de ls relacionamientos antre las [[Funçon i porcesso de negócio|funçones]] dua ourganizaçon, tecnologies çponibles i tipos de dados.
+
+La Arquitetura de Dados debe ser defenida na fase de planeijamiento de l porjeto dua nuoba soluçon de TI qu'ambolba persisténcia. Ls percipales tipos i fuontes de dados necessairos para apoiar ua ourganizaçon dében ser eidantificados de modo cumpleto, cunsistente i cumprensible. L requesito percipal nesta fase ye la defeniçon de todas las antidades de dados relebantes i nun la specificaçon d'itenes tecnológicos ó d'hardware. Ua [[Antidade (anformática)|antidade de dados]] ye qualquiera cousa rial ó abstrata subre la qual ua ourganizaçon ó andibíduo zeia armazenar dados.<ref>{{Refréncia a libro
+ | Outor = MARTIN, James i ODELL, James J.
+ | Títalo = Análeze i Porjeto Ourientados la Oubjetos 
+ | Eidiçon = 1
+ | Local de publicaçon = San Paulo, Brasil
+ | Eiditora = Makron Books
+ | Anho = 1996
+ | ID = ISBN 8534604266 }}</ref>
+
+== Tópicos de Arquitetura de Dados ==
+
+=== Arquitetura Cunceitual de Dados ===
+Bison d'alto nible que dá suporte al atendimiento de las necidades de l negócio dua ourganizaçon, direcionando las decisones subre las soluçones de tecnologie. Essa perspetiba çtaca ls eilemientos ambolbidos nas relaçones negociales i nun negociales de l'ourganizaçon (antidades corporatibas), cuntemplando-los an modelos andependientes de qualquiera lemitaçon tecnológica i que buscan alinhar l suporte de TI a a misson ampresarial stablecida.
+
+=== Arquitetura Lógica de Dados ===
+Ua arquitetura lógica de dados çcribe cun percison las propiadades i ls relacionamientos de cada ua de las antidades de dados ambolbidas nun domínio ourganizacional ó porblema de negócio a ser resolbido cun apoio de TI, cumpondo un zeinho detalhado a partir de l qual líderes de porjeto i zambolbedores puodan trabalhar cun relatiba andependéncia. 
+
+[[Normalizaçon]] de las struturas de dados i deribaçon de relacionamientos de cardinalidade múltipla an antidades associatibas son práticas inerentes a essa abordaige, para alhá de l streito alinhamiento a un modelo corporatibo prebiamente cuncebido i d'algua preocupaçon cun padrones d'amplementaçon de l'arquitetura de [[Banco de dados|banco de dados]].
+
+=== Arquitetura Física de Dados ===
+Arquitetura física de dados dun sistema d'anformaçon ye parte dun Praino de Tecnologie. Cumo l própio nome andica, l praino tecnológico stá focado an eilemientos reales i tangibles la séren outelizados na amplementaçon de l'arquitetura de dados de l porjeto. Arquitetura Física de Dados angloba "arquitetura de banco de dados", que ben a ser un squema de la tecnologie de banco de dados outelizado para biabelizar la rializaçon dun porjeto d'arquitetura de dados. 
+
+Antoce, la sue cuncepçon stá ligada a la necidade de suportar l'amplementaçon dun modelo que bisa al atendimiento de las necidades dun negócio i que direciona las decisones subre las soluçones de tecnologie la séren adotadas.
+
+=== Eilemientos de la Arquitetura de Dados ===
+Hai ciertos eilemientos que dében ser defenidos cumo partes de l squema d'arquitetura de dados zenhado nua ourganizaçon. Por eisemplo, la strutura admenistratiba que será criada para gerir ls recursos de dados debe ser çcrita. Para alhá desso, las metodologies que seran ampregadas para armazenar ls dados percisan ser defenidas. Hai inda la necidade de se gerar ua çcriçon de la tecnologie de banco de dados a ser outelizada, assi cumo ua çcriçon de ls porcessos qu'eiran manipular ls dados. 
+
+Tamien ye amportante defenir un porjeto de gobernança de dados, que serbirá para garantir l'alinhamiento de todos ls porjetos de dados a las diretrizes i padrones eileitos na ourganizaçon. Causo cuntrairo, las ouparaçones quemuns de dados corren l risco de séren amplementadas de dibersas formas, tornando-se defíceles de cumprender i de cuntrolar l [[Fluxo de dados|fluxo de dados]] drento de tales sistemas. Este tipo de fragmentaçon ye altamente andeseijable debido al sou potencial maior custo i por gerar dados çcrepantes. Tales deficuldades puoden aparecer an ampresas que spurmentan un crecimiento mui rápido, assi cumo an ourganizaçones qu'apersentan grande dibersidade de negócios (perdutos i serbícios).<ref>{{Refréncia a libro
+ | Outor = ADLEMAN, Sid; MOSS, Larissa; ABAI, Majid
+ | Títalo = Data Strategy
+ | Eidiçon = 1
+ | Local de publicaçon = Upper Saddle Riber, NJ
+ | Eiditora = Addison-Wesley Professional
+ | Anho = 2005
+ | ID = ISBN 0321240995 }}</ref>
+
+Faç-se necessairo l stablecimiento de padrones capazes d'homogeneizar l seneficado de palabras, spressones i simblos outelizados an to l ciclo de porduçon de las soluçones de TI. L'antroduçon dun bocabulairo cuntrolado (ó [[Glossário|glossairo]]) puode cuntribuir decesibamente para menimizar las barreiras d'antendimiento, proporcionando un meio eficiente i cunfiable pa l cumpartilhamiento de ls dados.
+
+Quando eisecutada apropiadamente, la fase arquitetura de dados de l planeijamiento de sistema d'anformaçon anduç l'ourganizaçon a specificar i delinear tanto fluxos d'anformaçon anternos quanto sternos. Estes son padrones para cuja cunceituaçon l'ourganizaçon puode nun tener ambestido tiempo prebiamente. Ye antoce possible, nesta fase, eidantificar amportantes lacunas d'anformaçon, dibergéncias antre departamientos i antre ls sistemas ourganizacionales que puoden nun tener quedado eibidentes antes de l'análeze de l'arquitetura de dados.
+
+=== Restriçones i anfluéncias ===
+Bárias restriçones i anfluéncias puoden tener eifeito subre un porjeto d'arquitetura de dados: requesitos ourganizacionales, direcionadores tecnológicos, fatores eiquenómicos, políticas de negócios i necidades de processamiento de dados.
+
+; Requesitos ourganizacionales: Giralmente ancluen eilemientos tales cumo la spanson de l sistema, nibles de zampenho aceitables - specialmente quanto a la belocidade d'acesso, cunfiança de las trasaçones i trasparéncia na [[Admenistraçon de dados|geston de dados]]. Para alhá desso, la cumberson de dados brutos, tales cumo registros d'ouparaçones i arquibos d'eimaiges, an anformaçones úteles, por meio de recursos tales cumo [[Armazén de dados|data warehouses]], ye tamien un requesito ourganizacional quemun, yá que biabeliza decisones gerenciales i outros porcessos ourganizacionales. Ua de las técnicas  ousadas na geston dua arquitetura ye la separaçon antre "Dados Trasacionales" i "Dados de Refréncia". Outra stratégia cunsiste an apartar "Sistemas de Catura de Dados" de "Sistemas de Recuperaçon de Dados".
+
+; Direcionadores tecnológicos: Normalmente detreminados pula arquitetura de dados bigente i por porjetos d'arquitetura de banco de dados. Para alhá desso, alguns direcionadores de tecnologie deriban de frameworks i padrones d'antegraçon ourganizacional eisistentes, assi cumo de sistemas legados, resultantes de zambolbimiento anterno ó adquiridos de terceiros.
+
+; Fatores eiquenómicos: Trata-se d'aspetos amportantes que dében ser liebados an cunta durante la fase d'arquitetura de dados. Ye possible qu'alguas soluçones, cunsidradas eideales an percípio, nun puodan ser potenciales candidatas debido al sou custo. Fatores sternos, tales cumo l ciclo de negócios, taxas de juros, cundiçones de mercado i questones legales, puoden eisercer anfluéncia subre las decisones relebantes subre ua arquitetura de dados. 
+
+; Políticas de negócios: Políticas negociales que tamien direcionan l porjeto d'arquitetura de dados. Ancluen políticas anternas de l'ourganizaçon, normas d'uorgones reguladores, padrones profissionales i leis ouriginadas an  defrentes anstáncias gobernamentales. Tales políticas i regras ajudan la çcrebir la maneira pula qual l'ourganizaçon zeia processar ls sous dados.
+
+; Necidades de processamiento de dados: Ancluen trasaçones percisas i reprodutibles, rializadas an grandes belumes, data warehousing para suporte la [[Sistema d'anformaçon de geston|sistemas d'anformaçones gerenciales]] (potencial [[Mineraçon de dados|data mening]]), relatórios periódicos repetitibos, relatórios [[Ad hoc|ad hoc]] i apoio la bárias eniciatibas ourganizacionales cunforme requeridas (por eisemplo: ourçamiento anual i zambolbimiento de nuobo perduto).
+
+{{Ref-section|Notas i Refréncias}}
+
+== {{Ber tamien}} ==
+* [[Arquitetura ampresarial]]
+* [[TOGAF|TOGAF - The Oupen Group Architeture Framework]]
+* [[Admenistraçon de dados]]
+* [[Modelaige de dados]]
+* [[Matriç CRUD]]
+* [[Arquitetura de software]]
+* [[Angenharie de software]]
+* [[Arquitetura de Porcessos]]
+
+== {{Ligaçones sternas}} {{((en))}} ==
+* [http://www.anformation-management .com/issues/20040101/7910-1.html Enterprise Data Architeture: Who Neds It?] by Rand Losey, 2004
+* [http://www.sei.cmu.edu/library/abstrats/reports/01tr005.cfn Achiebing Usabelity Through Software Architeture] 2001 
+* [http://www.sei.cmu.edu/library/abstrats/reports/01tr018.cfn Enterprise Anformation Systen Data Architeture Guide], 2001.
+* [http://sunsite.uakon.sk/sunworldonline/swol-07-1998/swol-07-itarchitet.html The Logical Data Architeture], by Nirmal Baid
+* [http://www.antelligententerprise .com/010130/feat3_1.jhtml?_requestidx472 Get the COMPLETE Piture], by Rajan Chandras.
+* [http://www.dama.org/i4a/pages/andex.cfn?pageid=1 The Data Management Association]
+* [http://www.dama.org/i4a/pages/Andex.cfn?pageID=3364 DMBOK The Data Management Body of Knowledge]
+* [http://www.dmrebiew .com/ The DM Rebiew]
+* [http://www .ptdan .com/ The Data Admenistration Newsletter]
+
+[[Catadorie:Angenharie de software]]
+[[Catadorie:Dados]]
+[[Catadorie:Admenistraçon de dados]]
