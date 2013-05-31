@@ -1,0 +1,184 @@
+Ua '''rede de cumputadores''' ye formada por un cunjunto de módulos processadores capazes de trocar anformaçones i cumpartilhar recursos, anterligados por un sub-sistema de quemunicaçon, ó seia, ye quando hai pul menos 2 ó mais [[cumputadores]] i outros çpositibos anterligados antre si de modo la podéren cumpartilhar recursos físicos i lógicos, estes puoden ser de l tipo: [[dados]], [[ampressora]]s, mensaiges ([[correio eiletrónico]]s),antre outros.<ref>Mendes, Douglas Peinha. [http://docs.gogle .com/biewer?la=b&q=cache:jFIukWKN418J:www.librariacultura .com.br/eimaige/capitulo/11012714.pdf+rede+de+cumputadores&hl=t-BR&gl=br&pid=bl&srcid=ADGEEShEXmODAeRDN22dIf6AD7kp7kJZ5hcp4YgpexR3lMnDHpWY67ol7LQMeBg_GAZlhhKp6c8AloQW02_CrDDLg2_GIcU1ijXbapBMKfbeDeOAuab8b28780ywMoL6BObxHG5BlobR&sig=AHIEtbQRLX0tbm79YombEkalIcJCMTaPRg ''Redes de Cumputadores'']. An ''Librarie Cultura''</ref>
+
+La Anterneta ye un amplo sistema de quemunicaçon que coneta muitas redes de cumputadores. Eesisten bárias formas i recursos de bários eiquipamientos que puoden ser anterligados i cumpartilhados, mediante meios d'acesso, protocolos i requesitos de sigurança.
+
+Ls meios de quemunicaçon puoden ser: linhas telefónicas, cabo, satélite ó quemunicaçon sin filos (wireless). 
+
+L'oubjetibo de las redes de [[cumputadores]] ye permitir la troca de [[dados]] antre cumputadores i la partilha de recursos de [[hardware]] i [[software]]. <ref>http://blog.wolkartt .com/</ref>
+
+[[Fexeiro:Pkuczynski RJ-45 patchcord.jpg|thumb|[[conetores]] [[RJ-45]] ousados para conetar redes an anformática.]]
+[[Fexeiro:Backbone.jpg|thumb|Eimaige dun ''backbone'', ousado para anterligar grandes redes, cumo la própia [[anterneta]].]]
+
+== Stória ==
+Antes de l'adbento de cumputadores dotados cun algun tipo de sistema de [[telecomunicaçon]], la quemunicaçon antre máquinas calculadoras i [[Stória de la cumputaçon|cumputadores antigos]] era rializada por usuairos houmanos atrabeç de l carregamiento d'anstruçones antre eilhes.
+
+An setembre de [[1940]], [[George Stibitç]] usou ua máquina de [[teletipo]] para ambiar anstruçones para un cunjunto de porblemas a partir de sou Model K na [[Faculdade de Dartmouth]] an [[Nuoba Hampshire]] pa la sue calculadora an [[Nuoba Iorque]] i recebiu ls resultados de buolta pul mesmo meio. Conetar sistemas de salida cumo teletipos a cumputadores era un antresse na Adbanced Research Porjets Agency ([[ARPA]]) quando, an [[1962]], [[J. C. R. Licklider]] fui cuntratado i zambolbiu un grupo de trabalho l qual el chamou de la "Rede Antergalática", un precursor de la [[ARPANET]].
+
+An [[1964]], pesquisadores de Dartmouth zambolbírun l [[Sistema de Cumpartilhamiento de Tiempo de Dartmouth]] para usuairos çtribuídos de grandes sistemas de cumputadores. Ne l mesmo anho, ne l [[MIT]], un grupo de pesquisa apoiado pula [[General Eiletric]] i [[Bell Labs]] usou un cumputador (DEC’s [[PDP-8]]) para rotear i gerenciar conexones telefónicas.
+
+Durante la década de 1960, [[Leonard Kleinrock]], [[Paul Baran]] i Donald Dabies, de maneira andependiente, cunceituórun i zambolbírun sistemas de redes ls quales usában datagramas ó [[pacotes]], que podien ser ousados nua rede de [[quemutaçon de pacotes]] antre sistemas de cumputadores.
+
+An [[1969]], la [[Ounibersidade de la Califórnia an Los Angeles]], SRI (an Stanford), la [[Ounibersidade de la Califórnia|Ounibersidade de la Califórnia an Santa Bárbela]] i la [[Ounibersidade de Utah]] fúrun conetadas cul ampeço de la rede [[ARPANET]] usando circuitos de 50 kbits/s.
+
+Redes de cumputadores i las tecnologies neçairas para conexon i quemunicaçon atrabeç i antre eilhas cuntinan a comandar las andústrias de [[hardware|hardware de cumputador]], [[software]] i [[periféricos]]. Essa spanson ye spelhada pul crecimiento ne ls númaros i tipos d'usuairos de redes, zde l pesquisador até l'usuairo doméstico.
+
+Atualmente, redes de cumputadores son l núcleo de la quemunicaçon moderna. L scopo de la quemunicaçon creciu seneficatibamente na década de 1990 i essa spluson nas quemunicaçones nun tenerie sido possible sin l'abanço progressibo de las redes de cumputadores.
+
+== Classeficaçon ==
+{{Artigo percipal|Tipos de Rede}}
+* '''Segundo la [[Arquitetura de Rede]]''':
+** [[Arcnet]] (Attached Resource Cumputer Network)
+** [[Ethernet]] 
+** [[Token ring]] 
+** [[Fiber Çtributed Data Anterface|FDDI]] (Fiber Çtributed Data Anterface)
+** [[ISDDN]] (Antegrated Serbice Digital Network)
+** [[Frame Relay]]
+** [[Asynchronous Trasfer Mode|ATM]] (Asynchronous Trasfer Mode)
+** [[X.25]] 
+** [[Digital Suscriber Line|DSL]] (Digital Suscriber Line)
+'''* Segundo la stenson geográfica:'''
+** [[Rede de ária d'armazenamiento|SAN]] (Storage Area Network)
+** [[Rede de ária local|LAN]] (Local Area Network)
+** [[Rede pessonal|PAN]] (Personal Area Network)
+** [[Rede de ária metropolitana|MAN]] (Metropolitan Area Network)
+** [[Wireless Metropolitan Area Network|WMAN]] Wireless Metropolitan Area Network, ye ua rede buona sin filo de maior alcance an relaçon la WLAN
+** [[Rede de longa çtáncia|WAN]] (Wide Area Network)
+** [[Wireless Wide Area Network|WWAN]] (Wireless Wide Area Network)
+** [[Regional Area Network|RAN]] (Regional Area Network)
+** [[Redes de campus|CAN]] (Campus Area Network)'''
+'''* Segundo la [[topologie de la Rede|topologie]]:'''
+** [[Rede an anielho]] (Ring)
+** [[Rede an barramiento]] (Bus)
+** [[Rede an streilha]] (Star)
+** [[Rede an malha]] (Mesh)
+** [[Rede an punto-la-punto]] (ad-hoc)
+'''* Segundo l [[Rede de Trasmisson#Linhas físicas|meio de trasmisson]]:'''
+** [[Rede por cabo]]
+*** Rede de [[Cabo coaxial]]
+*** Rede de [[Fibra ótica|Cabo de fibra ótica]]
+*** Rede de [[Cabo de par trançado]]
+** [[Rede sin filos]]
+*** [[Rede por anfrabermelhos]]
+*** [[Rede por microndas]]
+*** [[Rede por rádio]]
+
+== [[Hardware]] de Rede ==
+* Eilemientos de Cabeamiento:
+** [[Cabo coaxial]]
+** [[Fibra ótica|Cabo de fibra ótica]]
+** [[Cabo de par trançado]]
+** [[Repetidor]]
+** [[Trascetor]]
+* [[Staçon de trabalho]]
+* [[Placa de rede]]
+* [[Cuncentrador]] (''hub'')
+* [[quemutador (redes)|Quemutador]] (''switch'')
+* [[Roteador]] (''router'')
+* [[Moden]]
+* [[Puorta de Ligaçon]] (''gateway'')
+* [[Bridge (anformática)|Puonte]] (''bridge'')
+* [[Serbidor]]
+** [[Serbidor d'arquibos]]
+** [[Serbidor de quemunicaçones]]
+** [[Serbidor de çco]]
+** [[Serbidor d'ampresson]]
+** [[Serbidor de bluetoth]]
+
+== [[Modelo OSI]] ==
+* [[Níbel físico]]
+* [[Camada de ligaçon de dados|Níbel d'enlace de dados]]
+** '''[[Ethernet]]'''
+** [[Point-to-Point Protocol|PPP]]
+* [[Camada de rede|Níbel de Rede]]
+** '''[[protocolo IP|IP]]'''
+** [[IPX/SPX|IPX]]
+* [[Camada de trasporte|Níbel de trasporte]]
+** [[Trasmission Cuntrol Protocol|TCP]]
+** [[Protocolo UDP|UDP]]
+* [[Camada de sesson|Níbel de sesson]]
+** [[NetBIOS]]
+** [[IPX]]
+** [[Appletalk]]
+* [[Camada d'apersentaçon|Níbel d'apresentaçon]]
+* [[Camada d'aplicaçon|Níbel d'aplicaçon]]
+** [[Simple Carta eiletrónica Trasfer Protocol|SMTP]]
+** [[Fexeiro Trasfer Protocol|FTP]]
+** [[Telnet]]
+** [[SSH]]
+** [[Anterneta Relay Xat|IRC]]
+** [[Hypertext Trasfer Protocol|HTTP]]
+** [[Post Ouffice Protocol|POP3]]
+** [[Boice ober Frame Relay|BFRAD]]
+
+== Normas ==
+* [[Norma IEEE 802|IEEE 802]]
+* [[X.25]]
+
+== Técnicas de trasmisson ==
+* [[Banda ancha]]
+* [[Banda base]]
+
+== Modelaige de rede de cumputadores segundo Tanenbaun ==
+Ua rede puode ser defenida por sou tamanho, [[topologie (anformática)|topologie]], [[Camada física|meio físico]] i [[protocolo]] outelizado.
+
+* '''[[Rede de ária pessonal|PAN]]''' (Personal Area Network, ó rede pessonal). Ua PAN ye ua rede de cumputadores ousada para quemunicaçon antre çpositibos de cumputador (ancluindo telifones i assistentes pessonales digitales) acerca dua pessona.
+* '''[[Rede de ária local|LAN]]''' (Local Area Network, ó Rede Local). Ye ua rede adonde sou tamanho se lemita a solo ua pequeinha region física.
+* '''[[BAN]]''' (Bertical Area Network, ó rede de bertical). Ua BAN ye usualmente outelizada an redes prediales, bista la necidade dua çtribuiçon bertical de ls puntos de rede.
+* '''[[Redes de campus|CAN]]''' (Campus Area Network, ó rede campus). Ua rede qu'abrange ua ária mais ampla, adonde puode-se cunter bários prédios drento dun spácio cuntinos ligados an rede.
+* '''[[Rede de ária metropolitana|MAN]]''' (Metropolitan Area Network, ó rede metropolitana). La MAN ye ua rede adonde tenemos por eisemplo, ua rede de framácias, nua cidade, adonde todas acessan ua base de dados quemun.
+* '''[[WAN]]''' (Wide Area Network, ó rede de longa çtáncia). Ua WAN antegra eiquipamientos an dibersas localizaçones geográficas, ambolbendo dibersos países i cuntinentes cumo la Anterneta.
+* '''[[SAN]]''' (Storage Area Network, ó Rede d'armazenamiento). Ua SAN sirbe de conexon de çpositibos d'armazenamiento remoto de cumputador pa ls serbidores de forma la que ls çpositibos aparecen cumo locales ligados al sistema ouperacional.
+
+== Topologie ==
+=== Topologie an Streilha ===
+{{Artigo percipal|Rede an streilha}}
+[[Fexeiro:NetworkTopology-Star.png|thumb|250px|Topologie de rede an streilha]]
+
+Neste tipo de rede, todos ls usuairos quemunican-se cun un nodo (nuolo) central, ten l cuntrole superbisor de l sistema, chamado ''[[host]]''. Por meio de l ''host'' ls usuairos puoden se quemunicar antre si i cun processadores remotos ó [[Treminal (anformática)|treminales]]. Ne l segundo causo, l ''host'' funciona cumo un [[Quemutador (redes)|quemutador]] de mensaiges para passar [[dados]] antre eilhes.
+
+L'arranjo an streilha ye a melhor scolha se l padron de quemunicaçon de la rede fur dun cunjunto de staçones secundárias que se quemunican cul nuolo central. Las situaçones nas quales esso acuntece son aqueilhas an que l nuolo central stá restrito a las funçones de gerente de las quemunicaçones i l'ouparaçones de diagnósticos.
+
+L gerenciamiento de las quemunicaçones por este nuolo central puode ser por chabeamiento de pacotes ó de circuitos.
+
+L nuolo central puode rializar outras funçones para alhá de las de chabeamiento i processamiento normal. Por eisemplo, puode cumpatibelizar la [[Anchura de banda|belocidade de quemunicaçon]] antre l [[Eimissor|trasmissor]] i l [[recetor]]. Se l [[Protocolo (ciéncia de la cumputaçon)|protocolo]] de ls çpositibos fuonte i çtino fur defrente, l nuolo central puode atuar cumo un [[roteador]], permitindo dues redes de fabricantes defrentes se quemunicar.
+
+Ne l causo d'ocorrer falha nua staçon ó na ligaçon cul nuolo central, solo esta estaçon queda fura d'ouparaçon.
+
+Antretanto, se ua falha ocorrer ne l nuolo central, to sistema puode quedar fura de l'aire. La soluçon deste porblema serie la [[redundáncia]], mas esto acarreta un oumiento cunsidrable de custos.
+
+La spanson dua rede desse tipo solo puode ser feita até un cierto lemite, ampuosto pul nuolo central: an tenermos de capacidade de chabeamiento, númaro de circuitos cuncorrentes que puoden ser gerenciados i númaros de nós que puoden ser serbidos.
+
+L zampenho oubtido nua rede an streilha depende de la cantidade de tiempo requerido pul nuolo central para processar i ancaminhar mensaiges, i de la carga de tráfego de conexon, ó seia, ye lemitado pula capacidade de processamiento de l nuolo central.
+
+Esta cunfiguraçon facelita l cuntrole de la rede i la maiorie de ls sistemas de cumputaçon cun funçones de quemunicaçon; possuen un [[software]] qu'amplementa esta cunfiguraçon.
+
+=== Topologie an Barramiento ó bus ===
+{{AP|Rede an bus}}
+[[Fexeiro:NetworkTopology-Bus.png|thumb|200px|Topologie de rede an barramiento - Simples]]
+Eilha cunsiste an staçones conetadas atrabeç dun circuito cerrado, an série, formando un circuito cerrado (anielho). L'anielho nun anterliga las staçones diretamente, mas cunsiste dua série de repetidores ligados por un meio físico, sendo cada staçon ligada a estes repetidores. Ye ua cunfiguraçon an desuso.
+
+=== Topologie an Anielho ===
+{{AP|Rede an anielho}}
+[[Fexeiro:Topoloxía en anielho.png|thumb|150px|Topologie de rede an anielho]]
+La [[topologie an anielho]] cumo l própio nome diç ten un formato circular.
+
+== Meio físico ==
+L meio mais outelizado hoije ye l [[Ethernet]]. L padron Ethernet ben subdebidido an: Coax/[[10base2]], UTP (''Unshielded Twisted Pair'' - [[Cabo de par trançado|Par Trançado Nun Blindado]])/[[10BASE-T|10BaseT]] i UTP/[[100BASE-TX|100baseT]] i [[Gigabit ethernet]].
+
+Tamien puode ser conetado por [[Fibra ótica]], un fino filamiento cuntino de bidro cun ua cobertura de proteçon que puode ser ousada para conetar longas çtáncias. 
+
+I inda hai las [[Rede sin filo|redes sin filos]], que se subdebiden an dibersas tecnologies: [[Wi-fi]], [[bluetoth]], [[wimax]] i outras. 
+
+== Protocolo ==
+Hoije, l [[protocolo]] mais ousado ye l [[TCP/IP]], berson IPb4, i spera-se que passemos a outelizar l [[IPb6]].
+
+{{Refréncias}}
+
+{{portal|Portal=[[Portal:Tecnologies d'anformaçon|Portal de las tecnologies d'anformaçon]]}}
+
+{{Sistema Ouperatibo}}
+
+[[Catadorie:Redes de cumputadores| ]]
+
+== Ligaçones sternas ==
+*[http://blog.wolkartt .com/ Blog Carlos Wolkartt]
