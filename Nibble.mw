@@ -1,0 +1,55 @@
+{{N-bit}}
+'''Nibble''' - ''Sucesson de quatro cifras binárias ([[bit|bits]])''<ref>{{Citar libro|url= |nome=Charles |subrenome=Petzold |títalo=Code |subtítulo=The Hidden Language of Cumputer Hardware and Software |léngua=anglés |eidiçon= |local=Redmond, Washington |eiditora=Microsoft |anho=2000 |páiginas=181 |belumes= |belume= |id=ISBN 0-7356-0505-X}}</ref>.
+1 Nibble = 4 bits, 2 Nibble = 1 Byte = 8 bits, 4 Nibble = 1 Word = 2 Bytes = 16 bits. 
+La sue amportança debe-se al fato que 4 ye l númaro mínimo de dígitos binairos necessairos para repersentar ua cifra decimal.
+Ls nibbles son, antoce, la base de l sistema de codificaçon [[BCD]], que repersentan númaros decimales cumo sucessones de nibbles que repersentan las cifras destes.
+Por eisemplo, tenendo la seguinte correspondéncia antre las dieç cifras decimales i sues correspondentes repersentaçones binárias:
+{| cellspacing="10"
+|-----
+! 0000 = 0
+|-----
+! 0001 = 1
+|-----
+! 0010 = 2
+|-----
+! 0011 = 3
+|-----
+! 0100 = 4
+|-----
+! 0101 = 5
+|-----
+! 0110 = 6
+|-----
+! 0111 = 7
+|-----
+! 1000 = 8
+|-----
+! 1001 = 9
+|-----
+|}
+Ye possible codificar númaros decimales an BCD de la seguinte forma:
+{| cellspacing="6"
+! 0100 0010 = 42
+|-----
+! 0010 0000 1001 = 209       
+|-----
+! 0001 0100 1001 = 149       
+|-----
+! 0011 1001 0110 = 396        
+|-----
+! 0001 0000 0001 = 101        
+|-----
+! 0011 0101 0100 = 354       
+|-----
+! 0001 0110 0100 = 164 
+|-----
+! 0010 0011 1001 0100 0111 0010 1000 0011 0100 0111 0010 0011 1000 0100 0111 1001 1000 0010 0011 0111 0100 1000 1001 0010 0011 = 2394728347238479823748923
+|-----
+|}
+
+An anglés hai un jogo de palabras gastronómico cun ''nibble'' (que senefica mordiscar), an cumparaçon cun ''bite''/[[byte]] (cacho) i ''[[bit]]'' (troço pequeinho).
+
+{{Refréncias}}
+
+[[Catadorie:Ounidades d'anformaçon]]
+[[Catadorie:Treminologie anformática]]
