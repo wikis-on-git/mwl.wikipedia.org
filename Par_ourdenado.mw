@@ -1,0 +1,118 @@
+{{sin-fuontes|data=Márcio de 2012}}
+Antuitibamente, un '''par ourdenado''' cunsiste de dous eilemientos, dígamos ''la'' i ''b'', de ls quales un, dígamos ''la'', ye zeignado cumo purmeiro eilemiento i l'outro cumo segundo eilemiento. Un par ourdenado ye zeignado por <math>(la,b)</math>.
+ dous pares ourdenados <math>(la,b)</math> i <math>(c,d)</math> son eiguales se, i solamente se, <math>la = c</math> i <math>b = d</math>
+                         
+<math>(la, b) = (c, d)</math> ↔ <math>(la = c</math> i <math>b = d)</math>
+
+S 1: ls pares ourdenados <math>(2,3)</math> i <math>(3,2)</math> son defrentes.
+
+S 2: pares ourdenados puoden tener ls purmeiros i segundos eilemientos idénticos tales cumo:
+<math>(1,1), (5,5)</math> i <math>(7,7)</math> 
+
+L [[cunjunto]] de todos ls pares ourdenados ne ls quales l purmeiro eilemiento ben de l cunjunto ''X'' i l segundo de l cunjunto ''Y'' ye chamado de [[Perduto cartesiano]] de ''X'' i ''Y''.
+
+== Repersentaçon gráfica dun Par Ourdenado ==
+Podemos repersentar un par ourdenado atrabeç dun punto nun praino, esse punto ye chamado de '''[[Fexeiro (matemática)|eimaige]]''' de l par ourdenado.
+Ls númaros de l par ourdenados son chamados [[cordenadas cartesianas]]. 
+Chamamos de '''[[abscissa]]''' l 1º eilemiento de l par ourdenado, i '''[[ourdenada]]''', l 2º eilemiento desse par. assi <math>P(x,y)</math> denota l punto ''P'' cun abscissa ''x'' i ourdenada ''y''. 
+
+== Listas ourdenadas ==
+Triplas ourdenadas i listas ourdenadas puoden ser defenidos recursibamente a partir de la defeniçon de par ourdenado: ua tripla ourdenada <math>(la,b,c)</math> puode ser defenido cumo <math>(la , (b,c) )</math> ó cumo <math>((la, b), c)</math>; ó seia, un par ourdenado que cuntén outro par ourdenado cumo eilemiento.
+
+Esta abordaige ye adotada an lenguaiges de porgramaçon: Ye possible repersentar ua lista d'eilemientos cumo ua custruçon de pares ourdenados amarrados. Por eisemplo, la lista (1 2 3 4 5) torna-se (1, (2, (3, (4, (5, {}))))).
+
+La [[lenguaige de porgramaçon]] [[Lisp]] usa estas listas cumo sue strutura de dados purmária.
+
+Cun base na defeniçon arriba, tenemos la seguite gramática:
+
+  '''<parOrd>''' ::= '''<tupla2>'''
+  '''<tupla2>''' ::= '(' '''<eilen>''' ',' '''<eilen>''' ')' 
+  '''<eilen>'''  ::= '''<termo>''' | '''<tupla2>'''
+  '''<termo>'''  ::= ''' la''' | '''b''' |…| '''ç''' |…
+
+Adonde ''tupla2'' repersenta ua tupla cun dous argumientos, ''eilen'' ls eilemientos (termo ó tupla) i ''termo'' ye un eilemiento treminal.
+
+== Pares ourdenados na teorie de ls cunjuntos ==
+La propiadade caratelística de ls pares ourdenados mencionada an seçon anterior cuntén todo que ye necessairo para cumprender la maneira cumo ls pares ourdenados son ousados na [[matemática]]. Antretanto, tenendo an bista ls [[matemática|fundamientos de la matemática]] bamos spressar la defeniçon de cada tipo d'oubjeto matemático an tenermos de ls cunjuntos. esta defeniçon, ne l causo de ls pares ourdenados puode ser feita de baries formas.
+
+la noçon de pares ourdenados ye crucial pa la defeniçon de [[perduto cartesiano]] i [[Relaçon (matemática)|relaçon]].
+=== La defeniçon de Wiener ===
+[[Norbert Wiener]] propós la purmeira defeniçon de pares ourdenados na teorie de ls cunjuntos an 1914:
+
+<math>(''x,y'') := {{{''x''},{}}, { { ''y ''} }}.</math>
+
+El ouserbou qu'esta defeniçon permitie spressar todos tipos qu'aparecen ne l [[Principia Mathematica]] usando solo cunjuntos.
+
+=== La defeniçon padron de Kuratowski ===
+Na [[Teorie de ls cunjuntos|teorie axiomática de ls cunjuntos]], l par ourdenado <math>(la,b)</math> ye normalmente defenido pul par de [[Kuratowski]] ( que ye bien básico, porque requer solo poucos axiomas para poder ser formulado, a saber. (l'axioma de la stenson, l'axioma de la separaçon i l'axioma de l par):
+
+<math>(la,b)K := {{''la''}, {''la,b''}}.</math>
+
+L'afirmaçon de que ''x'' ye l purmeiro eilemiento dun par ourdenado ''p'' puode anton ser formulada cumo: 
+: ''('' ∀ ''Y'' ∈ ''p'' '')'' ''('' ''x'' ∈''Y'' '')''
+i l'afirmaçon que ''x'' ye l segundo eilemiento de ''p'' puode ser formulada cumo:
+: ''('' ∃ ''Y'' ∈ ''p'' '')'' ''('' ''x'' ∈ ''Y'' '')'' ∧ (∀ ''Y''<sub>1</sub> ∈ ''p'', ∀ ''Y''<sub>2</sub> ∈ ''p'' '')'' ''('' ''Y''<sub>1</sub> ≠ ''Y''<sub>2</sub> → ''('' ''x'' ∉ ''Y''<sub>1</sub> ∨ ''x'' ∉ ''Y''<sub>2</sub> ''))''.
+
+Note qu'essa defeniçon inda ye bálida pa l par ourdenado ''p'' = (''x'',''x'') = { {''x''}, {''x'',''x''} } = { {''x''}, {''x''} } = { {''x''} }; neste causo la declaraçon (∀ ''Y''<sub>1</sub> ∈ ''p'', ∀ ''Y''<sub>2</sub> ∈ ''p'' : ''Y''<sub>1</sub> ≠ ''Y''<sub>2</sub> → (''x'' ∉ ''Y''<sub>1</sub> ∨ ''x'' ∉ ''Y''<sub>2</sub>)) ye trebialmente berdadeira, zde que nunca acuntece de que ''Y''<sub>1</sub> ≠ ''Y''<sub>2</sub>.
+
+==== Bariaçones de la defeniçon ====
+La defeniçon arriba dun par ourdenado ye “adequada”, ne l sentido de que sastifaç la propiadade caratelística qu'un par ourdenado debe tener. (a saber: se <math>(la, b) = (x, y)</math>, anton <math>la=x</math> i <math>b=y</math>), mas tamien arbitrária, porque hai muitas outras defeniçones que nun son mais cumplicadas i tamien serien adequadas. Eisemplos para outras defeniçones possibles ancluen 
+
+1. <math>(la, b)</math> ambertido: = <math>{{b, { ''la'', ''b'' } }}</math>
+
+2. <math>(la, b)</math> cúrtio: = {''la'', {''la'','' b''}} 
+
+3. <math>(la, b)</math> 01: = <math>{{0, ''la''}, {1, ''b''}}</math>
+
+L par “ambertido” quaije nunca ye ousado, porque nun ten nanhue bantaige óbbia (nin zbantaiges) subre l par usual de Kuratowski. L par “cúrtio” ten la zbantaige de que la demunstraçon de la propiadade caratelística de l par (ber arriba) ye mais cumplicada de l que pa l par de Kuratowski (l'axioma de la regularidade ten que ser ousado); para alhá desso, ua beç l númaro 2 na teorie de ls cunjuntos i a las bezes defenido cumo l cunjunto <math>{0, 1} = {{}, {0}}</math>, esto seneficarie que 2 ye l par (0.0) cúrtio.
+
+==== Probando la propiadade caratelística de l par de Kuratowski ====
+Probar: <math>(la, b) K = (c, d) K</math> se i solamente se <math>la=c</math> i <math>b=d</math>.
+
+Se ''la=b'': <math>(la, b) K</math> ='' {{la}, {la, la}} = { {la} }'', i <math>(c, d) K</math> ''= {{c}, {c, d}} = { {la} }''. Assi ''{c} = {la} = {c, d}'', ó <math>c=d=la=b</math>. Se ''la≠b'', anton ''<math>{{la}, {la, b}} = {{c}, {c, d}}</math>''. Se ''{c, d} = {la}'', anton ''c=d=la'' ó ''<math>{{c}, {c, d}} = {{la}, {la, la}} = {{la}, {la}} = { {la} }</math>''. Se ''{c} = {la, b}'', anton ''la=b=c'', que cuntradiç ''la≠b''. Cunsequentemente ''{c} = {la}'', ó ''c=la'', i ''{c, d} = {la, b}''. I se ''d=la'', anton ''{c, d} = {la, la} = {la} ≠ {la, b}''. Assi ''d=b''. Assi ''la=c'' i ''b=d''. Ambersamente, se ''la=c'' i ''b=d'', anton ''<math>{{la}, {la, b}} = {{c}, {c, d}}</math>''. Assi <math>(la, b) K = (c, d) K</math>. 
+
+Ambertido: ''(la, b)'' Ambertido = ''<math>{{b}, {la, b}} = {{b}, {b, la}}</math>'' = <math>(b, la) K</math>. Se ''(la, b)'' ambertido = ''(c, d)'' ambertido, <math>(b, la) K = (d, c) K</math>. Cunsequentemente ''b=d'' i ''la=c''. Ambersamente, se'' la=c'' i ''b=d'', anton ''<math>{{b}, {la, b}} = {{d}, {c, d}}</math>''. Assi ''(la, b)'' ambertido = ''(c, d)'' ambertido.
+
+=== La defeniçon de Quine-Rosser ===
+Rosser (1953) usou stensibamente ua defeniçon de par ourdenado debido la [[Willard ban Orman Quine]]. La defeniçon de Quine-Rosser requer ua defeniçon prébia de ls númaros naturales tal cumo la seguinte:
+:Tome ''Nn'' cumo l cunjunto de ls [[númaros naturales]], i defina
+<br />
+:: <math>\barphi(x) = \{ ç : \eisists{y}{\in}{x} : ({y}{\in}{Nn} \and {ç}{=}{y}{+}{1}) \or ({y}{\notin}{Nn} \and {ç}{=}{y}) \}.</math>
+<br />
+φ(''x'') cunten l sucessor de cada númaro natural an ''x'', junto cun todos ls númaros nun naturales de ''x''. an particular, φ(''x'') nun cunten l númaro 0, de modo que para alguns cunjuntos ''La'' i ''B'', 
+<br />
+:<math>\barphi(La) \not= \{0\} \cup \barphi(B)</math>.
+<br />
+Defenir l par ourdenado ''(La, B)'' por 0 sendo cuntíguo cun cada eilemiento de l φ(B), formando anton a l'ounion de l resultado cun φ (La):
+<br />
+:<math>(La,B) = \barphi(La) \cup \{x : \eisists y \in\barphi(B) : x = y\cup\{0\} \}</math>
+<br />
+Straindo todos ls eilemientos de l par que nun cunténen 0 tenemos ''La''. De l mesmo modo, ''B'' puode ser recuperado straindo todos ls eilemientos de l par que cunténen 0. 
+
+Esta defeniçon de par ourdenado ten ua única bantaige. Na [[teorie de ls tipos]], i an teories de ls cunjuntos tales cumo [[New Foundationes]] que surge a partir de la teorie de ls tipos, este par ye de l mesmo tipo que sues projeçones. 
+
+Antoce, ua funçon defenida cumo un cunjunto de pares ourdenados, ten un tipo maior solo por 1 de l que l tipo de sues projeçones. Para ua çcusson stensa de pares ourdenados ne l cuntesto de las teories de ls cunjuntos quineanas ó " a la la Quine", ber Holmes (1998).
+
+=== Defeniçon de Morse ===
+La [[Morse-Kelley set theory|teorie de ls cunjuntos de Mose-Kelley]], defenida por Morse an 1965, faç libre uso de classes própias. Morse defeniu ls pares ourdenados desta maneira para permitir sue projeçon ser tanto classes própias quanto ne ls cunjuntos (la defeniçon de (Kuratowski nun permite esso). Defeniu purmeiramente ls pares requesitados cujas las projeçones son 
+Cunjuntos na maneira de Kuratowski 
+jogos na maneira de Kuratowski. El anton redefeniu l par ''(x, y)'' cumo<math>(x \eiquipas \{0\}) \cup (y \eiquipas \{1\})</math> , adonde ls cumponentes de ls perdutos cartesianos son pares de Kuratowski an cunjuntos. Esta segunda etapa rende possibles pares cujas projeçones son própias classes. La defeniçon de Rosser an seçon anterior admite tamien las própias classes cumo projeçones.
+
+=== Teorie de las catadories ===
+[[Perduto]] ye la noçon de la [[teorie de las catadories]] mais similar a la dun par ourdenado. Anquanto un númaro d'oubjetos puode fazer l papel de pares, eilhes son todos eiquibalentes quanto a la séren categoricamente [[eisomorfismo|eisomórficos]].
+
+== Refréncias ==
+*Holmes, Randall, 1998. ''[http://math.boisestate.edu/~holmes/holmes/heiad.pdf Eilementary Set Theory with la Ounibersal Set]''. Academie-Bruylant. The publisher has graciously cunsented to permit diffusion of this monograph bie the web. Copyright is reserbed.
+*Morse, Anthony P., 1965. ''La Theory of Sets''. Academic Press
+*[[J. Barkley Rosser]], 1953. ''Logic fur mathematicianes''. McGraw-Hill.
+* Seymour Lipschutç, teorie de ls cunjuntos coleçon Schaun 
+*Coniglio, Marcelo Steban.Teorie axiomática de ls cunjuntos. Ounibersidade stadual de Campinas-SP, Brasil.
+
+== Ber tamien ==
+* [[Filosofie de la matemática]]
+* [[Lógica matemática]]
+
+{{portal3|matemática}}
+[[Catadorie:Teorie de ls cunjuntos|Par ourdenado]]
+
+[[ru:Пара (математика)#Упорядоченная пара]]
