@@ -1,0 +1,30 @@
+{{apagar4|19 de júnio}}
+{{rebison}}
+La '''angenharie rebersa''' cunsiste an ousar la criatebidade para, a partir dua soluçon pronta, retirar todos ls possibles cunceitos nuobos eilhi ampregados.
+
+Ye l porcesso d'análeze dun artefato (un [[apareilho]], un cumponente eilétrico, un porgrama de [[cumputador]], etc.) i de ls detalhes de sou funcionamiento, giralmente cula antençon de custruir un nuobo apareilho ó porgrama que faga la mesma cousa, sin rialmente copiar algo de l'ouriginal. 
+
+Oubjetibamente l'angenharie rebersa cunsiste an, por eisemplo, çmontar ua máquina para çcubrir cumo eilha funciona.
+
+Ó anton podemos trasformar ua simples aplicaçon d'algoritmos an binairos ó heixadecimales para facelitar ó deficultar, dependendo de l'oubjetibo de quien stá colocando an prática ua angenharie rebersa.
+
+== Angenharie rebersa de ''software'' ==
+L porcesso de Angenharie Rebersa (ER) puode auxeliar na recuperaçon de dados, por eisemplo: Softwares antigos ne ls quales ls zambolbedores ouriginales nun mais trabalhan puoden tener sous códigos-fuonte recuperados cula finalidade de rializar ajustes an partes de l porgrama.
+
+Alguns eisemplos de tal pratica son jogos antigos (Cumo ls de [[Atari]], [[Mega Dribe]],[[Super Nintendo]] etc.). La ER ye frequentemente associada la questones de sigurança tamien, pus por meio de sues técnicas puode splorar l código de ls porgramas la fin d'aberiguar se hai códigos maléficos, aberiguar se l código ouriginal dun software nun sofriu altaraçon ó anjeçon de rotinas ocultas (tal cumo bírus de cumputador fázen).
+
+Ne l que diç respeito la recuperaçon de dados inda hai mui para splorar atrabeç de la ER. Un sistema d'arquibos critografado puode ser antendido i tener sous recursos outelizados para recuperaçon d'amportantes dados perdidos.
+
+An alguns países la prática de ER ye cunsidrada eilegal i alguns praticantes antressan-se an oubter acesso nun outorizado a recursos de software nó ouferecidos gratuitamente puls fabricantes que benden l perduto. Tal prática ye chamada [[Cracking]].<ref name="http://thereberser.cjb.net">The Reberser</ref> Por outro lado, la ER ten sido outelizada cumo ferramienta de proteçon contra la própia ER praticada de forma eilegal. A partir de técnicas aplicadas nesta ária ye possible modelar melhores proteçones pa l software cumo antidescumpiladores, códigos mutantes i armadilhas.
+
+== Aplicaçones práticas notórias ==
+La Angenharie rebersa fui amplamente outelizada durante la criaçon de ls dribers para to tipo de [[hardware]], puls zambolbedores de l [[Sistema Ouperacional]] [[GNU/Linux]], mais specificamente l [[núcleo (anformática)|núcleo]] [[Linux]], debido al fato de ls fabricantes d'hardware, a principio, nun reconhecíren l Linux cumo un sistema ouperacional adonde balisse la pena ambestir tiempo i denheiro ne l zambolbimiento de  dribers. Ls coincimientos recolhidos cul grande trabalho de to tipo de colaborador pul mundo gerórun un grande "banco de dados" subre ls mais dibersos tipos d'hardware, possibelitando que ls zambolbedores de nuobos SO's nun percisassen refazer este grande trabalho. Até hoije algun hardware percisa ser [[wikt:hackeando|hackeado]] para çcubrir cumo corregir un [[defeito de software|defeito]] ó un recurso oculto. Outro causo clássico ne l mundo Linux ye l software samba, que permite a ua máquina rodando linux ó outro unix-like (solaris, frebsd) se cumportar cumo un berdadeiro serbidor Windows. L samba fui cumpletamente zambolbido por angenharie rebersa, simplesmente cul gigantesco trabalho d'analisar l tráfego de dados antre un micro rodando Windows i un serbidor rodando Windows Serber.
+
+L cumputador pessonal de sucesso IBM-PC sofriu Angenharie Rebersa pula Cumpaq. Cumo quaije todas las partes de l microcumputador podien ser cumpradas an qualquiera loija specializada, l percipal zafio era copiar l chip de la BIOS (unico iten qu'era rialmente de la IBM, i nun tercerizado) sin biolar la lei de patentes, para esso ousórun la técnica de Angenharie Rebersa, studando las funcionalidades de la BIOS i coletando specificaçones técnicas. Cun estas anformaçones  fui montada ua eiquipe de Angenheiros scolhida a dedo que nunca tubírun cuntato cul IBM-PC para amplementar l porjeto, i assi, la Cumpaq nun poderie ser processada pula IBM. L PC de la Cumpaq fui un sucesso ne l qual abriu un nuobo mercado de clones de PC mais baratos, fazendo la Microsoft i la Antel lucráren straordinariamente i la IBM perder gradatibamente l mercado de PC.
+
+{{ref-section}}
+
+
+
+[[Catadorie:Angenharie de software]]
+[[Catadorie:Sigurança de l'anformaçon]]
