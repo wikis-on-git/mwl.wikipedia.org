@@ -1,0 +1,11 @@
+Ne l [[sistema ouperacional]] [[Linux]], l [[arquibo]] '''Systen.map''' ye ua [[tabela de simblos]] de l núcleo de l sistema. Atrabeç desta tabela ye possible cunsultar ls andereços de cada simblo na [[RAM|mimória]], l que puode ser necessairo quando se rializa la [[depuraçon]] dua ocorréncia de [[kernel panic]] ó [[ops]]. Cumo ls andereços puoden mudar dependendo de cumo l núcleo ye custruído, este arquibo ye gerado outra beç la cada beç que l núcleo ye [[cumpilador|cumpilado]].
+
+== {{links sternos}} ==
+* {{link|1=en|2=http://www.faqs.org/docs/Linux-HOWTO/Kernel-HOWTO.html#systemmap|3=The Linux Kernel HOWTO: Systen.map}}
+
+{{rabisco-anformática}}
+{{Portal Linux}}
+
+[[Catadorie:Linux]] 
+[[Catadorie:Linux kernel]]
+[[Catadorie:Núcleo de sistema ouperatibo]]
