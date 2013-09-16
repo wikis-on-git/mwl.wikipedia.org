@@ -1,0 +1,62 @@
+{{Info/Estação 2
+|nome                  = Colégio
+|cor                   = green
+|título_cor            = white
+|tamanho               =
+|imagem                = Estação de Colégio.JPG
+|imagem-legenda        = Estação do metrô de Colégio
+|imagem-tamanho        =
+|pictograma            =
+|legenda_pic           =
+|uso_atual             = [[Estação de metropolitano]]
+|administração         = [[Metrô Rio]]
+|linha                 = {{Verde|'''Linha 2'''}}
+|plataformas           =  Laterais
+|código                = 
+|sigla                 = CLG
+|posição               = Elevado
+|capacidade            =
+|movimento_ano         = 2011
+|movimento_pas         = 11.000<ref>http://www.metrorio.com.br/estacoes_linha2_colegio.htm</ref>
+|serviços              ={{SES}} {{SAD}} {{BIC}}
+<!-- Informações da Via -->
+|bitola                = Bitola larga(1.6m) eletrificada
+|alimentação           = 3° trilho(750V<sub>cc</sub>)
+<!-- Informações históricas-->
+|nome-antigo           =  <!-- ou nomes antigos se houver mais de um nome -->
+|inauguração           =  
+|inauguração_edatual   =
+|fechamento            =  
+<!-- localização-->
+|latd=22 |latm=50 |lats=33.89|latNS=S 
+|longd=43 |longm=20 |longs=2.55 |longEW=O |escala=1500 
+|mapa_alfinete         = Centro-Zona-Norte-Zona-Sul-Rio
+|mapa_alfinete_nome    = 
+|mapa_alfinete_legenda = Localização da estação Colégio
+|endereço              =  
+|localização           = <!-- preencher somente quando o campo endereço não for preenchido -->
+<!-- caixas de sucessões-->
+|sentido-antes1        = Sentido Pavuna
+|sentido-depois1       =  Sentido Estácio/Botafogo
+|estação-antes1        =  [[Estação Coelho Neto|Coelho Neto]]
+|estação-depois1       =  [[Estação Irajá|Irajá]]
+|estação-meio1         =  
+|cor-caixa1            =  green
+}}
+'''Estação Colégio''' e uma estação de metrô do [[Rio de Janeiro (cidade)|Rio de Janeiro]]. Inaugurada em [[1998]], a construção da estação do Metrô em Colégio compreendeu também a instalação de uma quadra esportiva e de brinquedos para as crianças, como em outras estações da linha 2, criando uma nova forma de integração dos moradores da área ao Metrô, revitalizando a área.
+
+==Acessos==
+Os 2 acessos da estação se chamam ''Estrada do Barro Vermelho'' e ''Estrada do Colégio''.
+
+{{Referências}}
+
+== {{Ligações externas}} ==
+* {{Link||2=http://openstreetmap.org/?lat=-22.84264&lon=-43.33471&zoom=17&layers=B000FTF |3=Mapa das cercanias da estação Colégio no OpenStreetMap}}
+
+{{MetrôRJ}}
+
+{{esboço-metro}}
+{{Portal3|Rio de Janeiro}}
+
+{{DEFAULTSORT:Colegio}}
+[[Categoria:Estações do Metrô do Rio de Janeiro|Colégio]]
