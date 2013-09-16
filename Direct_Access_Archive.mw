@@ -1,0 +1,26 @@
+'''Diret Acess Archibe''', or DAA, ye un formato d'arquibo zambolbido pula PowerISO Cumputing para arquibos d'eimaiges de çco. L formato suporta caratelísticas cumo la cumpresson, proteçon por senha, i debison an bários belumes. Ls porgramas populares de  montaige d'eimaiges de çco cumo l Alcohol 120% i Daemon Tols atualmente nun suportan l formato DAA.
+
+Atualmente nun hai anformaçones publicadas subre l formato. Antre las percipales aplicaçones, puode ser abierto ó cumbertido cun PowerISO i MagicISO. Dibersos porgramas gratuitos tamien stan çponibles para cumberter DAA para eimaiges ISO.
+
+== Strutura ==
+Ambora falte documentaçon oufecial, l formato DAA parece ser eimaige ISO cumprimida cun zlib sin qualquiera funcionalidade adicional an cumparaçon cula ISO. I, antoce, nun ouferece nanhue bantaige pa l'eimaige ISO cumprimida i puode ser cunsidrado un causo de [[Apresionamiento tecnológico]].
+
+== Cumberson ==
+
+Eesiste ua ferramienta pa l Windows, [http://aluigi.altarbista.org/mytolç/daa2iso.zip DAA2ISO], que permite cumberter DAA an ISO
+
+== Caratelísticas ==
+Debido a l'outelizaçon de recursos çponibles libremente para cumpresson, l formato DAA anclui las seguintes caratelísticas que stan ausentes na norma ISO (mas que puoden ser oubtidas por manualmente cumprimir arquibos ISO):
+* Capacidade para cumprimir eimaiges, poupando spácio i permitindo que pequeinhos downloads;
+* Puode ser protegido por senha;
+* Puode ser debedido an bários arquibos menores.
+
+=={{Ligaçones sternas}}==
+*'''[http://linux-manual.wikidot .com/la:straindo-arquibo-daa Cumo abrir arquibos .daa ne l Linux]'''
+*[http://en.wikipedie.org/wiki/Diret_Acess_Archibe Artigo na wikipédia anglesa] {{en}}
+*[http://www.poweriso .com/ PowerISO Website] {{en}}
+*[http://www.poweriso .com/download.htn PowerISO downloads fur Windows Linux and Mac OS X] {{en}}
+*[http://aluigi.altarbista.org/mytolç.htn#daa2iso DAA2ISO Application fur Windows] {{en}}
+
+[[Catadorie:Çk eimages]]
+[[Catadorie:Archibe formats]]
