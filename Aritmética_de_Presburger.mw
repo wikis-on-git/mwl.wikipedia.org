@@ -1,0 +1,57 @@
+{{Sin-fuontes|data=dezembre de 2011| angola=| arte=| Brasil=| ciéncia=| geografie=| música=| Pertual=| sociadade=|1=|2=|3=|4=|5=|6=}}
+
+'''Aritmética de Presburger''' ye la teorie de purmeira-orde de ls númaros naturales cun soma. Ten esse nome an honra de [[Mojżsç Presburger]], l qual l'apersentou an 1929. L'assinatura de l'aritmética de Presburguer cuntén solo l'ouparaçon d'adiçon i eiqualizaçon, suprimindo l'ouparaçon de multiplicaçon totalmente. Esso anclui l squema d'anduçon.
+
+Aritmética de Presburger ye mui mais fraca de l que [[Aritmética de Peano | Peano aritmética]], qu'anclui tanto l'ouparaçon d'adiçon quanto la de multiplicaçon. Al cuntrairo de l'aritmética de Peano, l'aritmética de Presburger ye ua [[Decidibelidade | teorie decidible.]] Esto senefica que ye possible efetibamente detreminar, por qualquiera sentença na lenguaige de l'aritmética Presburger, se essa frase ye dedutible de ls axiomas de l'aritmética de Presburger. L tiempo de funcionamiento assintótico [[cumplexidade cumputacional]] deste [[porblema de decison]] ye duplamente sponencial, cumo mostrado por Fischer i Rabin (1974).
+
+==Bison global==
+La lenguaige de l'aritmética de Presburger cuntén custantes 0 i 1 i la funçon binária +, anterpretada cumo adiçon. Nessa léngua, ls axiomas de l'aritmética Presburger son l'ounibersal fechamiento de ls seguintes:
+
+# ¬(0 = ''x'' + 1)
+# ''x'' + 1 = ''y'' + 1 → ''x'' = ''y''
+# ''x'' + 0 = ''x''
+# (''x'' + ''y'') + 1 = ''x'' + (''y'' + 1)
+
+Se ''P'' (''x'') fur ua [[lógica de purmeira orde | fórmula de purmeira orde]] na lenguaige de l'aritmética de Presburger cun ua bariable libre'' X'' (i possiblemente outras bariables ​​libres), anton la fórmula  segue un axioma:
+::(''P''(0) &and; &forall;''x''(''P''(''x'') &rarr; ''P''(''x'' + 1))) &rarr; &forall;''y'' ''P''(''y'')
+(5) ye un squema d'axioma de l'anduçon, l que repersenta un númaro anfenito d'axiomas. Ua beç que ls axiomas ne l squema an (5) nun puoden ser sustituídos por qualquiera númaro fenito d'axiomas, l'aritmética de Presburger nun ye fenitamente axiomatizable.
+L'aritmética de Presburger nun puode formalizar cunceitos tales cumo la debesibelidade ó l númaro primo. Giralmente, qualquiera cunceito de númaro liebando la multiplicaçon nun puode ser defenida na aritmética de Presburger, ua beç que lieba a l'ancumpletude i andecidibelidade. Inda assi, puode-se formular eisemplos andebiduales de debesibelidade, cumo, por eisemplo, se rebelar "para to x, eisiste y: (y + y = x) ∨ (y + y + 1 = x)". Esto andica que cada númaro ye par ó ímpar.
+
+==Propiadades==
+
+[[Mojżsç Presburger]] probou que l'aritmética de Presburger ye:
+
+* [[Cunsisténcia lógica | cunsistente]]: Nun hai nanhue declaraçon na aritmética de Presburger que puode ser deduzida a partir de ls axiomas de tal forma que sue negaçon puode tamien ser deduzida.
+* [[Cumpletude_(lógica) | cumpleto]]: Para cada anstruçon na aritmética de Presburger, ó ye possible deduzi-l'a partir de ls axiomas ó ye possible deduzir la sue negaçon.
+* [[Decidibelidade | decidible]]: Eesiste un [[algoritmo]], que decide se qualquiera declaraçon dada na aritmética de Presburger ye berdadeira ó falsa.
+
+La decidibelidade na aritmética de Presburger puode ser repersentada outelizando eliminaçon de quantificadores, cumplementados por raciocinar subre cungruéncia aritmética (Anderton 2001, p. 188).
+
+[[Aritmética de Peano | Peano aritmética]], que ye l'aritmética de Presburger oumentada cula multiplicaçon, nun ye detreminable, cumo ua cunsequéncia de la repuosta negatiba al [[Entscheidungsproblen]]. Pul [[teorema de l'ancumpletude de Gödel]], l'aritmética de Peano ye ancumpleta i sue cunsisténcia nun ye demunstrable anternamente.
+
+L porblema de decison pa l'aritmética de Presburger ye un eisemplo antressante an [[teorie de la cumplexidade cumputacional]] i [[cumputaçon]]. Seia ''m'' l cumprimiento dua anstruçon an aritmética de Presburger. An seguida, Fischer i [[Michael L. Rabin | Rabin]] (1974) probórun que qualquiera algoritmo de decison pa l'aritmética de Presburger ten un tiempo d'eisecuçon ne l pior causo de pul menos <math> 2 ^ {2 ^ {cn}} </math>, para algua custante'' c''> 0. Assi, l porblema de decison para aritmética de Presburger ye un eisemplo dun porblema de decison que ten sido demunstrada para eisigir mais de l que l tiempo d'eisecuçon sponencial. Fischer i Rabin tamien probórun que para qualquiera axiomatizaçon razoable (defenida percisamente an sou artigo), eisisten teoremas de cumprimiento ''m'' que ténen [[dupla funçon sponencial | duplamente sponencial]] probas de cumprimiento. Antuitibamente, esto senefica qu'eisisten lemites cumputacionales subre l que puode ser cumprobado por porgramas de cumputador. L trabalho de Fischer i Rabin tamien amplica que l'aritmética de Presburger puode ser outelizada para defenir fórmulas que calculan corretamente qualquiera algoritmo, zde que las antradas stéian drento de lemites relatibamente grandes. Ls lemites puoden ser oumentados, mas solo usando nuobas fórmulas. Por outro lado, un lemite superior dua sponencial tripla para un procedimiento de decison pa l'aritmética de Presburger fui probado por Ouppen (1978).
+==Aplicaçones==
+
+Cumo ye probable la decidibelidade de l'aritmética de Presburger, [[proba outomática de teoremas]] algoritmos de berificaçon de teoremas la cunsidran bálida na aritmética. (Por eisemplo, l sistema assistente de proba [[Coq]] apersenta ua tática para aritmética de Presburger.) La cumplexidade sponencial dupla de la teorie torna ampraticable ousar ls probadores de teorema subre fórmulas cumplicadas, mas este cumportamiento ocorre solo na persença de quantificadores amarrados: Ouppen i Nelson (1980) çcriben un probador de teoremas outomático qu'usa l [[algoritmo simplex]] nua aritmética de Presburger stendida sin quantificadores amarrados. L'algoritmo simplex ten tiempo de pior causo sponencial an eisecuçon, mas eisibe eficiéncia cunsidrabelmente melhor para anstáncias típicas de la bida rial. Tiempo d'eisecuçon sponencial ye ouserbado solo pa ls causos specialmente custruídos. Esto faç cun qu'ua abordaige baseada an simplex seia prática nun sistema de trabalho.
+
+== Refréncias ==
+* Coper, D. C., 1972, "Theoren Probing in Arithmetic without Multiplication" in B. Meltzer and D. Michie, eds., ''Machine Antelligence''. Eidinburgh University Press: 91–100.
+* {{Citar libro | ultimo=Anderton | purmeiro=Heirbert | títalo=La mathematical antrodution to logic | eiditora=[[Academic Press]] | local=Boston, MA | eidiçon=2ª | isbn=978-0-12-238452-3 | anho=2001 | postscrit=<!--None-->}}
+* [[Jeanne Ferrante|Ferrante, Jeanne]], and Charles W. Rackoff, 1979. ''The Cumputational Cumplexity of Logical Theories''. Leture Notes in Mathematics 718. [[Springer-Berlag]].
+* [[Michael J. Fischer|Fischer, M. J.]], and [[Michael L. Rabin]], 1974, "[http://www.lcs.mit.edu/publicationes/pus/ps/MIT-LCS-TM-043.ps "Super-Sponential Cumplexity of Presburger Arithmetic.]" ''Procedings of the SIAM-AMS Symposiun in Applied Mathematics Bol. 7'': 27–41.
+*{{Citar periódico | outor=G. Nelson and D. C. Ouppen | titulo= A simplifier based on efficient decesion algorithms | jornal=Proc. 5th ACM SIGACT-SIGPLAN symposiun on Principles of porgramming languages | anho=abril 1978 | paginas=141&ndash;150  | doi = 10.1145/512760.512775}}
+* [[Mojżsç Presburger]], 1929, "Uber die Bollständigkeit eines gewissen Systems dar Arithmetik ganzer Zahlen, in welchen die Addition als einzige Ouperation heirbortritt" in ''Cumtes Rendus du I cungrès de Mathématicienes ç Pays Slabes''. Warszawa: 92–101.
+* [[William Pugh]], 1991, "[http://doi.acn.org/10.1145/125826.125848 The Omega test: la fast and pratical anteger porgramming algorithn fur dependence analysis,]".
+* Reddy, C. R., and D. W. Lobeland, 1978, "[http://doi.acn.org/10.1145/800133.804361 Presburger Arithmetic with Bounded Quantifier Altarnation.]" ''ACM Symposiun on Theory of Cumputing'': 320–325.
+* Young, P., 1985, "Godel theorems, sponential difficulty and undecidabelity of arithmetic theories: an sposition" in La. Nerode and R. Shore, Recursion Theory, Amarican Mathematical Society: 503-522.
+*Derek C. Ouppen: A 2<sup>2<sup>2<sup>''pn''</sup></sup></sup> Upper Bound on the Cumplexity of Presburger Arithmetic. J. Cumput. Syst. Sci. 16(3): 323-332 (1978) {{doi|10.1016/0022-0000(78)90021-1}}
+*http://en.wikipedie.org/wiki/Presburger_arithmetic
+
+==Ligaçones sternas==
+*[http://www.stefan-baur.de/prib.studies.studienarbeit.html online prober] La Jaba applet probes or çprobes arbitrary formulas of Presburger arithmetic (In German)
+*[http://www.phelipp.ruemmer.org/princess.shtml] La cumplete Theoren Prober fur Presburger Arithmetic by Phelipp Rummer
+
+{{rabisco}}
+
+[[Catadorie:Aritmética cumputacional]]
+[[Catadorie:Lógica matemática]]
