@@ -1,0 +1,16 @@
+'''Cifra de Hill''' ye un tipo de [[cifra de sustituiçon]] baseado an [[álgebra linear]] ousado para [[codificaçon]] de mensaiges. Fui ambentada por Lester S. Hill an [[1929]].
+
+Ua mensaige codificada cun ua matriç NxN ye chamada de "N-Cifra de Hill". Lougo, ua mensaige codificada cun ua matriç 2x2 ye chamada "2-Cifra de Hill".
+
+== Procedimiento ==
+Purmeiro cumberte-se las [[letra]]s an [[númaro]]s, depuis agrupa-se ls númaros m la m i multiplica-se cada grupo por ua [[matriç]]quadrada d'orde m ambertible (ó seia [[detreminante]]!defrente de 0). Ls númaros resultantes son outra beç passados para letras, i assi ten-se la mensaige codificada.
+
+Causo algun resultado de la multiplicaçon seia un númaro maior que l númaro de letras de l'alfabeto outelizado, anton debe-se outelizar l resto desse númaro pul númaro de letras de l [[alfabeto]].
+
+Para decodificar la mensaige basta aplicar l mesmo porcesso, mas outelizando la [[matriç ambersa]]. Por esso que debe-se ousar solo matrizes ambertibles.
+
+{{rabisco-matemática}}
+{{Portal3|Tecnologies d'anformaçon}}
+
+{{DEFAULTSORT:Cifra Hill}}
+[[Catadorie:Algoritmos de critografie]]
