@@ -1,0 +1,172 @@
+{{Sin-notas|data=júlio de 2009}}
+{{Rebison-subre|Física|data=febreiro de 2011}}
+{{Eiletromagnetismo}}
+La '''radiaçon eiletromagnética''' ye ua [[oscilaçon]] an [[fase (física)|fase]] de ls [[campo eilétrico|campos eilétricos]] i [[Campo magnético|magnéticos]], que, outossustentando-se, ancontran-se zacoplados de las cargas eilétricas que le dórun ourige. Las oscilaçones de ls campos magnéticos i eilétricos son perpendiculares antre si i puoden ser antendidas cumo la propagaçon dua [[Óndias trasbersales|óndia trasbersal]], cujas oscilaçones son perpendiculares a la direçon de l mobimiento de la óndia (cumo las óndias de la superficie dua lámina d'auga), que puode se çlocar atrabeç de l [[bácuo]]. Drento de l punto de bista de la [[Macánica Quántica]], puoden ser antendidas, inda, cumo l çlocamiento de pequeinhas partículas, ls [[fóton]]s. 
+
+L spetro besible, ó simplesmente [[luç besible]], ye solo ua pequeinha parte de to l spetro de la radiaçon eiletromagnética possible, que bai zde las [[óndia de rádio|óndias de rádio]] als [[centeilha gama|centeilhas gama]]. L'eisisténcia de óndias eiletromagnéticas fui prebista por [[James Clerk Maxwell]] i cunfirmada spurmentalmente por [[Heinrich Heirtç]]. La radiaçon eiletromagnética ancontra aplicaçones cumo la radiotransmisson, sou amprego ne l calecimiento d'alimientos (fornos de microndas), an lasers para corte de materiales ó mesmo na simples bumbilha ancandescente.
+
+== Radiaçon eiletromagnética ==
+La radiaçon eiletromagnética ye custituída por óndias que se outo-propagan pul spácio. Parte de to l spetro cunsegue ser anterpretada atrabeç de l [[uolho]] de ls dibersos animales i, para cada spece, chama-se essa faixa de radiaçon de luç besible. La radiaçon eiletromagnética cumpone-se dun campo eilétrico i un magnético, qu'oscilan perpendicularmente un al outro i a la direçon de la propagaçon d'einergie. La radiaçon eiletromagnética ye classeficada d'acuordo cula [[frequéncia]] de la óndia, qu'an orde decrecente de la duraçon (período T) de la óndia son: [[óndia de rádio|óndias de rádio]], [[micro-óndias]], [[Centeilhas T|radiaçon terahertç]] (Centeilhas T), [[radiaçon anfrabermelha]], [[luç]] besible, [[radiaçon ultrabioleta]], [[Centeilhas-X]] i [[Radiaçon Gama]].
+
+== Óndias Eiletromagnéticas ==
+[[Fexeiro:Adonde eiletromagnetique.sbg|thumb|400px|Repersentaçon squemática dua óndia eiletromagnética linearmente polarizada porduzida por un [[dipolo eilétrico]] oscilante (a la squierda). La óndia se propaga al longo de l'eixe horizontal cun [[cumprimiento de óndia]] λ (al centro). L [[campo eilétrico]], l [[campo magnético]] i l [[betor de óndia]] son repersentados, respetibamente, an azul, burmeilho i negro (a la dreita).]]
+Las óndias eiletromagnéticas purmeiramente fúrun prebistas teoricamente por [[James Clerk Maxwell]] i depuis cunfirmadas spurmentalmente por [[Heinrich Heirtç]]. Maxwell notou las óndias a partir d'eiquaçones de [[eiletricidade]] i [[magnetismo]], rebelando sue natureza i sue simetrie. Faraday mostrou qu'un campo magnético bariable ne l tiempo gera un campo eilétrico. Maxwell mostrou qu'un campo eilétrico bariable cul tiempo gera un campo magnético, cun esso hai ua outo-sustentaçon antre ls campos eilétrico i magnético. An sou trabalho de 1862, Maxwell screbiu:
+
+''"La belocidade de las óndias trasbersales an nuosso meio heipotético, calculada a partir de ls spurmientos eiletromagnéticos de ls Srs. Kohrausch i Weber, cuncorda tan satamente cula belocidade de la luç, calculada puls spurmientos óticos de l Sr. Fizeau, que ye defícel eibitar l'anferéncia de que la luç cunsiste nas ondulaçones trasbersales de l mesmo meio que ye la causa de ls fenómenos eilétricos i magnéticos."''{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}}
+===Óndias harmónicas===
+Ua óndia harmónica ye ua óndia cula forma dua funçon sinusoidal,
+cumo na figura , ne l causo dua óndia que se
+çloca ne l sentido positibo de l'eixe de ls <math>x</math>.
+
+La çtáncia <math>\lambda</math> antre dous puntos cunsecutibos adonde l campo i la
+sue deribada ténen l mesmo balor, ye zeignada por '''[cumprimiento de óndia]''' (por eisemplo, la çtáncia antre dous mássimos ó mínimos
+cunsecutibos). L balor mássimo de l módulo de l campo, <math>I_{0}</math>, ye la sue
+{amplitude}.
+
+[[Fexeiro:Óndia Harmónica.png|thumb|left|300px|Óndia Harmónica]]
+
+L tiempo que la óndia demora a percorrer un cumprimiento de óndia
+zeigna-se por {período}, <math>T</math>. 
+
+L'amberso de l período ye la frequéncia
+<math>f=1/T</math>, qu'andica l númaro de cumprimientos de óndia que passan por un
+punto, por ounidade de tiempo. Ne l sistema SI l'ounidade de la frequéncia ye
+l'heirtç, repersentado pul simblo Hç, eiquibalente la <math>s^{-1}</math>.
+
+Ne l causo dua óndia eiletromagnética ne l bácuo, la belocidade de
+propagaçon ye <math>c</math>que deberá berificar la relaçon:
+
+<math>c = \frac{\lambda}{T} = \lambda\,f</math>
+
+L'eiquaçon de la funçon repersentada na figura arriba ye:
+
+<math> I(x) = I_\text{máss}\,\sin(2\,\pi\,\frac{x}{\lambda}+\barphi)</math>
+
+adonde la custante <math>\barphi</math> ye la{fase enicial}. Essa funçon repersenta la forma de la óndia
+nun anstante enicial, que podemos admitir <math>t=0</math>.
+
+Para oubter la funçon de óndia nun anstante defrente, teremos que sustituir <math>x</math>por
+<math>x-c\,t</math>, yá que la óndia se propaga ne l sentido positibo de l'eixe de ls
+<math>x</math>, cun belocidade <math>c</math>.
+
+<math>I(x,t) = I_\text{máss}\,\sin\Bigg[\frac{2\,\pi}{\lambda}\,(x-c\,t)+\barphi\Bigg]</math>
+
+usando la relaçon antre la belocidade i l período, podemos screbir:
+
+<math>I(x,t) = I_\text{máss}\,\sin\Bigg(2\,\pi\Bigg(\frac{x}{\lambda}-\frac{t}{T}\Bigg)+\barphi\Bigg)</math>
+
+Se sustituirmos <math>x=0</math>, oubteremos l'eiquaçon que çcribe l campo
+eilétrico na ourige, an funçon de l tiempo:
+
+<math> I(x) = -I_\text{máss}\,\sin\Bigg(2\,\pi\,\frac{t}{T}+\barphi\Bigg)</math>
+
+assi, l campo na ourige ye ua funçon sinusoidal cun período <math>T</math>i
+amplitude <math>I_\text{máss}</math>. L campo an outros puntos ten satamente la mesma forma
+sinusoidal, mas cun defrentes balores de la fase.<ref name=Billate>[ ''Eiletricidade i Magnetismo''. Porto: Jaime I. Billate, 20 de márcio de 2013. 221 págs]. [[Creatibe Commones]] Atribuiçon-Partilha (berson 3.0) [[ISBN]] 978-972-99396-2-4. Acesso an 21 jun. 2013.</ref>
+
+==== Propiadades ====
+Ls campos eilétrico i magnético oubedecen als percípios de la [[anterferéncia|superposiçon de óndias]], de modo que sous betores se cruzan i crian ls fenómenos de la [[refraçon]] i de la [[difraçon]].{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}} Ua óndia eiletromagnética  puode anteragir cula matéria i, an particular, perturbar átomos i moléculas que las absorben, podendo ls mesmos eimitir óndias an outra parte de l spetro.
+
+Cumo qualquiera fenómeno ondulatório, las óndias eiletromagnéticas puoden anterferir antre si.
+Sendo la luç ua oscilaçon, eilha nun ye afetada pula stática eilétrica ó por campos magnéticos dua outra óndia eiletromagnética ne l [[bácuo]]. Nun meio nun linear, cumo un cristal, por eisemplo, anterferéncias puoden acuntecer i causar l [[eifeito Faraday]], an que la óndia puode ser debedida an dues partes cun belocidades defrentes.{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}}
+
+Na [[refraçon]], ua óndia, trasitando dun meio para outro de densidade defrente, ten altaradas sue belocidade i sue direçon (causo esta nun seia perpendicular a la superfice) al antrar ne l nuobo meio. La relaçon antre ls índices de refraçon de ls dous meios detremina la scala de refraçon medida pula [[Lei de Snell-Çcartes|lei de Snell]]:
+
+:<math>\sen(i) \eiquipas N_{1} = \sen(r) \eiquipas N_{2}</math>
+
+Nesta eiquaçon, i ye l ángulo d'ancidéncia, N<sub>1</sub> ye l índice de refraçon de l meio 1, r ye l ángulo de refraçon, i N<sub>2</sub> ye l índice de refraçon de l meio 2.
+
+La luç se çpersa nun spetro besible porque ye refletida por un prisma, debido al fenómeno de la refraçon. Las caratelísticas de las óndias eiletromagnéticas demunstran las propiadades de partículas i de l óndia al mesmo tiempo, i se çtacan mais quando la óndia ye mais prolongada.
+
+==== Modelo de óndia eiletromagnética ====
+Un amportante aspeto de la natureza de la luç ye la [[frequéncia]] ua óndia, sue taxa d'oscilaçon. Ye medida an [[heirtç]], l'ounidade [[Sistema Anternacional de Ounidades|SIU]] de frequéncia, na qual un heirtç (1,00 Hç) ye eigual a ua oscilaçon por segundo. La luç normalmente ten un spetro de frequéncias que, somadas, juntos forman la óndia resultante. Defrentes frequéncias forman defrentes ángulos de refraçon.
+Ua óndia cunsiste ne ls sucessibos baixos i altos, i la çtáncia antre dous puntos altos ó baixos ye chamado de cumprimiento de óndia. Óndias eiletromagnéticas barian d'acuordo cul tamanho, de óndias de tamanhos de prédios la óndias gama pequeinhas menores qu'un [[núcleo atómico]]. La frequéncia ye ambersamente proporcional al cumprimiento de la óndia, d'acuordo cula eiquaçon:
+
+<math>\çplaystyle b=\lambda \eiquipas f</math>.
+ 
+Nesta eiquaçon, b ye la [[belocidade]], λ (lambda) ye l [[cumprimiento de óndia]], i f ye la [[frequéncia]] de la óndia.
+
+Na passaige dun meio material para outro, la belocidade de la óndia muda, mas la frequéncia permanece custante. La [[anterferéncia]] acuntece quando dues ó mais óndias resultan nun nuobo padron de óndia. Se ls campos tubíren las cumponentes nas mesmas direçones, ua óndia "copera" cula outra (anterferénia custrutiba); antretanto, se stubíren an posiçones oupostas, puode haber ua anterferéncia çtrutiba.
+
+==== Modelo de partículas ====
+Un feixe luminoso ye cumpuosto por pacotes çcretos d'einergie, caratelizados por cunsistiren an partículas chamadas  {{PEPB|[[foton|fotones]]|fótones}}. La frequéncia de la óndia ye proporcional a la magnitude de l'einergie de la partícula. Cumo ls fótones son eimitidos i absorbidos por partículas, eilhes atuan cumo trasportadores d'einergie. L'einergie dun fóton ye calculada pula eiquaçon de [[Planck]]-[[Einstein]]:
+
+<math>\çplaystyle I = h \eiquipas f</math>.
+
+Nesta eiquaçon, I ye la [[einergie]], h ye la [[custante de Planck]], i f ye la frequéncia. 
+
+Se un fóton fur absorbido por un átomo, el scita un {{PEPB|[[eilétron|eiletron]]|eilétron}}, eilebando-lo a un alto nible d'einergie. Se l nible d'einergie ye suficiente, el pula para outro nible maior d'einergie, podendo scapar de l'atraçon de l núcleo i ser liberado nun porcesso coincido cumo [[fotoionizaçon]]. Un eilétron que çcer al nible d'einergie menor eimite un fóton de luç eigual la defrença d'einergie. Cumo ls nibles d'einergie nun átomo son çcretos, cada eilemiento ten sues própias caratelísticas d'eimisson i absorçon.{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}}
+
+== Spetro Eiletromagnético ==
+Espetro Eiletromagnético ye classeficado normalmente pul cumprimiento de la óndia, cumo las [[óndia de rádio|óndias de rádio]], las [[micro-óndias]], la [[radiaçon anfrabermelha]], la [[luç]] besible, ls [[radiaçon ultrabioleta|centeilhas ultrabioleta]], ls [[centeilha X|centeilhas X]], até la [[radiaçon gama]].
+
+L cumportamiento de la óndia eiletromagnética depende de l sou cumprimiento de óndia. Frequéncias altas son cúrties, i frequéncias baixas son longas. Quando ua óndia anterage cun ua única partícula ó molécula, sou cumportamiento depende de la cantidade de fótones por eilha carregada.{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}} Atrabeç de la técnica chamada [[Spetroscopia]] ótica, ye possible oubter-se anformaçones subre ua faixa besible mais ancha de l que la bison normal. Un spetroscópio quemun puode detetar cumprimientos de óndia de 2&nbsp;nn a 2500&nbsp;nn.
+
+Essas anformaçones detalhadas puoden anformar propiadades físicas de ls oubjetos, gases i até mesmo streilhas. Por eisemplo, un átomo d'heidrogénio eimite óndias an cumprimientos de 21,12&nbsp;cn.
+La luç propiamente dita corresponde a la faixa que ye detetada pul uolho houmano, antre 400&nbsp;nn a 700&nbsp;nn (un [[nanómetro|nanómetro]] bal 1,0×10<sup>-9</sup> [[metro]]). Las [[óndias de rádio]] son formadas dua cumbinaçon d'amplitude, frequéncia i fase de la óndia cula banda de la frequéncia.
+[[Fexeiro:EM spetrun.sbg|thumb|490px|right|Spetro eiletromagnético cul spetro de luç besible andicado]]
+
+== Anteraçon de la radiaçon cula matéria ==
+=== L Eifeito Kerr ===
+{{main|Eifeito Kerr}}
+
+=== L Eifeito Pockels ===
+{{main|Eifeito Pockels}}
+
+=== Eifeitos biológicos ===
+L'eifeito biológico mais óbbio de las óndias eiletromagnéticas se dá an nuossos uolhos: la luç besible ampressiona las células de l fondo de la [[retina]], causando la sensaçon bisual. Mas, eisisten outros eifeitos mais sutis.
+
+Sabe-se que, an detreminadas frequéncias, las óndias eiletromagnéticas puoden anteragir cun [[moléculas]] persentes an ourganismos bibos, por ressonáncia, esto ye, las moléculas cujas frequéncias fundamentales séian eiguas a la de la óndia an queston "catan" essa oscilaçon, cumo ua antena de TB. L'eifeito subre la molécula depende de l'antensidade (amplitude) de la óndia, podendo ir de l simples calecimiento a la modificaçon de la strutura molecular.{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}} L'eisemplo mais fácele de ser ouserbado ne l die-la-die ye l dun [[forno de micro-óndias]]: las [[micro-óndias]] de l'apareilho, capazes de calecer l'auga persente ne ls alimientos, ténen satamente l mesmo eifeito subre un tecido bibo. Ls eifeitos de la sposiçon dun animal a ua fuonte potente de micro-óndias puoden ser catastróficos. Por esso se eisige l'eisolamiento físico d'eiquipamientos de telecomunicaçones que trabalhan na faixa de micro-óndias, cumo las [[ERB|staçones rádio-base]] de [[telefonia telemoble]].
+
+Assi cumo las micro-óndias afetan l'auga, óndias an outra frequéncia de ressonáncia puoden afetar ua anfenidade d'outras moléculas. Yá fui sugerido que la prossimidade la [[linhas de trasmisson]] tenerie relaçones cun causos de cáncaro an ninos, por bie de supostas altaraçones ne l [[DNA]], probocadas pula prolongada sposiçon al campo eiletromagnético gerado puls cundutores. Tamien yá se speculou que l'uso scessibo de l telemoble tenerie relaçon cun causos de cáncaro ne l cérebro, pul mesmo motibo. Até hoije, nada desso fui probado.{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}}
+
+Tamien yá fúrun feitas spriéncias para analisar l'eifeito de campos magnéticos subre l crecimiento de plantas, sin nanhun resultado cunclusibo.
+
+=== Radiaçon de Cuorpo Negro ===
+
+{{main|Radiaçon de cuorpo negro}}
+
+La '''radiaçon de cuorpo negro''', tamien coincida por '''radiaçon térmica''', ye la radiaçon eiletromagnética eimitida por un cuorpo an qualquiera [[temperatura]]<ref name=blundell> {{citar libro|títalo=Cuncets in Modern Physics|outor=S. Blundell, K. Blundell|anho=2006}} </ref>, custituindo ua forma de trasmisson de [[calor]], ó seia, por meio deste tipo de radiaçon ocorre trasferéncia d'einergie térmica na forma de óndias eiletromagnéticas. Quando la matéria eimite i absorbe purfeitamente qualquiera cumprimiento de óndia i stá an eiquilíbrio termodinámico, cunsidra-se que ye un [[cuorpo negro]], i sue radiaçon ye chamada de radiaçon de cuorpo negro.<ref name =Huang>{{citar libro|títalo=Statistical Mechanics|outor=K. Huang|anho=2003}} </ref>
+
+La [[einergie cinética]] de [[átomo]]s i [[molécula]]s barie, cumberte-se an einergie térmica i resulta na radiaçon eiletromagnética térmica. Cumo las óndias eiletromagnéticas tamien puoden se propagar ne l [[bácuo]], la trasferéncia de [[calor]] dun cuorpo a outro ocorre mesmo se nun eisistir meio material antre ls dous, cumo ye l causo de l'einergie eimitida pul [[Sol]] i que chega a la [[Tierra]].
+
+[[Fexeiro:Cuorpo negro.sbg|right|260px|thumb|Leis de [[Lei de Wien|Wien]] i de [[Lei de Planck|Planck]]: a la medida que la temperatura diminui, l pico de la rebuolta de la radiaçon dun cuorpo negro se çloca para menores antensidades i maiores cumprimientos de óndia.]]
+La [[Lei de Wien]] relaciona l cumprimiento de óndia an qu'hai mássima eimisson de radiaçon de cuorpo negro cun ua temperatura i detremina que l cumprimiento de óndia eimitido diminui cul oumiento de la temperatura. La [[Lei de Planck]] para radiaçon de cuorpo negro sprime la radiáncia spetral an funçon de l cumprimiento de óndia i de la temperatura de l cuorpo negro i fornece la çtribuiçon de ls cumprimientos de óndia ne l spetro an funçon de la temperatura. La maior parte de l'eirradiaçon ocorre nun [[cumprimiento de óndia]] específico, chamado de cumprimiento de óndia percipal d'eirradiaçon, que depende de la temperatura de l cuorpo. Quanto maior la [[temperatura]], maior la [[frequéncia]] de la radiaçon i menor l cumprimiento de óndia.
+
+== Aplicaçones tecnológicas ==
+Antre einúmaras aplicaçones çtacan-se l rádio, la telebison, radares, ls sistemas de quemunicaçon sin filo (telefonia telemoble i quemunicaçon ''wi-fi''), ls sistemas de quemunicaçon baseados an fibras óticas i fornos de micro-óndias. Eesisten eiquipamientos pa la sterelizaçon de láminas baseados na sposiçon de l strumiento la detreminada radiaçon ultrabioleta, porduzida artificialmente por ua bumbilha de [[luç negra]].{{Carece de fuontes|cod1|cod2|codN|data=dezembre de 2012}}
+
+
+{{Refréncias}}
+* {{Literatur
+|Outor=[[John David Jackson]]
+|Titel=[[Classical Eiletrodynamics (Jackson)|Klassische Eilektrodynamik]]
+|Berlag=[[Berlag Walter de Gruyter|De Gruyter]] |Anho=2006 |Seiten= |Auflage=4 |ISBN=978-3110189704
+}}
+* {{Literatur
+ |Outor = Claus Muller
+ |Titel = Grundprobleme dar mathematischen Theorie eilektromagnetischer Schwingungen
+ |Berlag = Springer |Anho = 1957 |Seiten = | Auflage = |ISBN =
+}}
+* {{Literatur
+ |Outor = K. Kupfmuller und G. Kohn
+ |Titel = Theoretische Eilektrotechnik und Eilektronik, Eine Einfuhrung
+ |Berlag = Springer |Anho = 2005 |Seiten = | Auflage = 16. |ISBN = 3-540-20792-9}}
+* {{Literatur
+ |Outor = Károly Simonyi
+ |Titel = Theoretische Eilektrotechnik
+ |Berlag = Barth Berlagsgesellschaft|Anho=1993 |Seiten=| Auflage=10. |ISBN = 3-335-00375-6}}
+* {{Literatur
+ |Outor = [[Karl Rawer]]
+ |Titel = Wabe Propagation in the Ionosphere
+ |Berlag = Kluwer Acad.Publ.|Anho=1993 |ISBN = 0-7923-0775-5}}
+
+== {{Ligaçones sternas}} ==
+
+{{Buono anterwiki|zh}}
+
+[[Catadorie:Eiletromagnetismo]]
+[[Catadorie:Radiaçon]]
+[[Catadorie:Física aplicada i anterdisciplinar]]
+
+{{Link FA|you}}
