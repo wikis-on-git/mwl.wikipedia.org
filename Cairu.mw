@@ -25,7 +25,7 @@
 | lonP            = L | lonG = 39 | lonM = 02 | lonS = 38
 | stado          = Bahia
 | mesorregion       = [[Mesorregion de l Sul Baiano|Sul Baiano]]
-| data_mesorregion    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gob.br/Organizacao/Dibisao_Territorial/2008/DTB_2008.zip |titulo=Debison Territorial de l Brasil |data=1 de júlio de 2008 |obra=Debison Territorial de l Brasil i Lemites Territoriales| publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 d'outubre de 2008}}</ref>
+| data_mesorregion    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gov.br/Organizacao/Divisao_Territorial/2008/DTB_2008.zip|titulo=Debison Territorial de l Brasil |data=1 de júlio de 2008 |obra=Debison Territorial de l Brasil i Lemites Territoriales| publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |acessodata=11 d'outubre de 2008}}</ref>
 | microrregion      = [[Microrregion de Balença|Balença]]
 | data_microrregion   = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008" />
 | region_metropolitana = 
@@ -33,17 +33,17 @@
 | çt_capital      = 292 ó 140 (bie ferry boat);
 <!-- Caratelísticas geográficas -->
 | ária            = 451.194
-| ária_ref         = <ref name ="IBGE_Ária">{{citar web |url=http://www.ibge.gob.br/home/geociencias/cartografie/default_territ_area.shtn |títalo=Ária territorial oufecial |outor=IBGE |acessodata=5 dieç. 2010|data=10 out. 2002|outor=IBGE |publicado=Resoluçon de la Persidéncia de l IBGE de m° 5 (R.PR-5/02)}}</ref>
+| ária_ref         = <ref name ="IBGE_Ária">{{citar web |url=http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm|títalo=Ária territorial oufecial |outor=IBGE |acessodata=5 dieç. 2010|data=10 out. 2002|outor=IBGE |publicado=Resoluçon de la Persidéncia de l IBGE de m° 5 (R.PR-5/02)}}</ref>
 | populaçon        = 15678
-| data_pop         = [[IBGE]]/[[2011]]<ref name="IBGE_Pop_2010">{{citar web |url = http://www.ibge.gob.br/home/statistica/populacao/censo2010/populacao_por_municipio.shtn |títalo=Censo Populacional 2010| obra = Censo Populacional 2010 |publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |data=29 de nobembre de 2010 |acessodata = 11 de dezembre de 2010}}</ref>
+| data_pop         = [[IBGE]]/[[2011]]<ref name="IBGE_Pop_2010">{{citar web |url = http://www.ibge.gov.br/home/estatistica/populacao/censo2010/populacao_por_municipio.shtm |títalo=Censo Populacional 2010| obra = Censo Populacional 2010 |publicado=Anstituto Brasileiro de Geografie i Statística (IBGE) |data=29 de nobembre de 2010 |acessodata = 11 de dezembre de 2010}}</ref>
 | altitude         = 
 | clima           = 
 | sigla_clima       = 
 <!-- Andicadores -->
 | idh            = 0.627 <!--fabor manter l formato-->
-| data_idh         = [[PNUD]]/[[2010]] <ref name="PNUD_IDH_2010">{{citar web |url=http://www.pnud.org.br/arquibos/ranking-idhn-2010.pdf |titulo=Ranking decrecente de l IDH-M de ls munecípios de l Brasil |data=2010 |obra=Atlas de l Zambolbimiento Houmano|publicado=Porgrama de las Naciones Ounidas pa l Zambolbimiento (PNUD) |acessodata=07 d'agosto de 2013}}</ref>
+| data_idh         = [[PNUD]]/[[2010]] <ref name="PNUD_IDH_2010">{{citar web |url=http://www.pnud.org.br/arquivos/ranking-idhm-2010.pdf |titulo=Ranking decrecente de l IDH-M de ls munecípios de l Brasil |data=2010 |obra=Atlas de l Zambolbimiento Houmano|publicado=Porgrama de las Naciones Ounidas pa l Zambolbimiento (PNUD) |acessodata=07 d'agosto de 2013}}</ref>
 | pib            = {{formatnun:801437.813}} mil
-| data_pib         = [[IBGE]]/[[2008]]<ref name="IBGE_PIB">{{citar web |url=http://www.ibge.gob.br/home/statistica/eiquenomie/pibmunicipios/2004_2008/ |titulo=Perduto Anterno Bruto de ls Munecípios 2004-2008 |publicado=Anstituto Brasileiro de Geografie i Statística |acessodata=11 dieç. 2010}}</ref>
+| data_pib         = [[IBGE]]/[[2008]]<ref name="IBGE_PIB">{{citar web |url=http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2004_2008/|titulo=Perduto Anterno Bruto de ls Munecípios 2004-2008 |publicado=Anstituto Brasileiro de Geografie i Statística |acessodata=11 dieç. 2010}}</ref>
 | pib_per_capita     = 55508.92
 | data_pib_per_capita  = [[IBGE]]/[[2008]]<ref name="IBGE_PIB"/>
 }}
@@ -81,12 +81,8 @@ L munecípio fui criado an [[1608]] cul nome de ''Bila de Nuossa Senhora de l Ro
 * [[Cumbento i Eigreija de Santo António (Cairu)]]
 
 =={{Ligaçones sternas}}==
-* {{Link||2=http://www.cairu.ba.gob.br/ |3=Páigina Oufecial de la Prefeitura de Cairu}}
-*[http://www.atarde .com.br/eiquenegocios/noticia.jsf;jsessionid=2AB4A12568ED4562894FB304D004D728.jbossdube1?id=1181215 Prencipado de Cairu - Jornal La TARDE]
-*[http://www.cairu2030 .com.br Website de l Porgrama Cairu 2030 / WWI-UMA, BID]
-
-{{Mesorregion de l Sul Baiano}}
-
-{{rabisco-munecípiosbr/Bahia}}
+* {{Link||2=http://www.cairu.ba.gov.br/ |3=Páigina Oufecial de la Prefeitura de Cairu}}
+*[http://www.atarde.com.br/econegocios/noticia.jsf;jsessionid=2AB4A12568ED4562894FB304D004D728.jbossdube1?id=1181215 Prencipado de Cairu - Jornal La TARDE]
+*[http://www.cairu2030.com.br Website de l Porgrama Cairu 2030 / WWI-UMA, BID]
 
 [[Catadorie:Cairu| ]]
