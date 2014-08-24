@@ -86,7 +86,7 @@ Ouserbe que:
 * L purmeiro termo de la sucesson S<sub>9</sub> ye la<sub>1</sub>, l segundo termo ye la<sub>2</sub>, l terceiro termo ye la<sub>3</sub>, i assi por delantre. La notaçon la<sub>m</sub> ye outelizada para repersentar un <u>termo genérico</u> de la sucesson. Cumo la<sub>m</sub> ye l termo de índice ''m'', dezimos qu'el ye l ''m-ésimo'' (ó ''enésimo'') termo de la sucesson. Ye amportante notar que la<sub>m</sub> nun puode ser l "radadeiro" termo de S<sub>9</sub>, pus S<sub>9</sub> ye ua sucesson anfenita, i ua sucesson anfenita nun ten un "radadeiro termo".
 
 == Strutura ==
-[[Fexeiro:Bijetora.GIF|thumb|200px|right|Ua sucesson '''''S''''', gerada pula funçon bijetora '''''f''''' a partir de l domínio '''''D'''''. Este domínio ye l cunjunto de ls índices de la sucesson.]]
+[[Fexeiro:Bijetora.png|thumb|200px|right|Ua sucesson '''''S''''', gerada pula funçon bijetora '''''f''''' a partir de l domínio '''''D'''''. Este domínio ye l cunjunto de ls índices de la sucesson.]]
 Filosoficamente, to sucesson ten ua '''lei de formaçon''' (ó seia: la lei que gerou ls tenermos de la sucesson). Inda assi, esto nun garante que siempre será possible screbé-la. Quando fur possible screbé-la, deziremos que la sucesson <math>S</math> <u>efetibamente</u> ten ua lei de formaçon.
 
 Se la sucesson <math>S</math> efetibamente tenr ua lei de formaçon i esta lei podir ser scrita usando [[notaçon matemática]], deziremos qu'esta lei ye la [[funçon]] <math>f:\mathbb{N}\mapsto S,</math> an que [[númaro natural#Notaçon|<math>{\color{CadetBlue}\mathbb{N}}</math>]] ye l cunjunto de ls índices i <math>S</math> ye l cunjunto de ls tenermos que son gerados a partir daqueles índices.
