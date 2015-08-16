@@ -1,0 +1,88 @@
+
+{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
+|+<font size=+1>'''Warszawa'''</font>
+|-
+| style=background:#efefef; align=center colspan=2 |
+{| border=0 cellpadding=2 cellspacing=0
+|-
+| align="center" width="140px" | [[Fexeiro:POL Warszawa COA.svg|100px|Brasão de Armas da Warszawa]]
+| align="center" width="140px" | [[Fexeiro:POL Warszawa map.svg|120px|Mapa]]
+|-
+| align="center" width="140px" | [[Brasão de Armas da Warszawa|Brasão de Armas]]
+| align="center" width="140px" | Mapa
+|}
+|-
+| align=center colspan=2 | 
+|-
+| Voivodia
+| [[Voivodia de Mazowsze]]
+|-
+| Área
+| 517,24&nbsp;km²
+|-
+| População 
+| 1 735 442 <small>(31.12.2014)</small>
+|-
+| Densidade populacional
+| 3355 h/km²
+|-
+| Código telefónico
+| +48 (22)
+|}
+[[Fexeiro:Warsaw Downtown.jpg|thumb||275px|Warszawa]]
+'''Warszawa''' ye la capital de la [[Polónia]], al Rio [[Wisła]]. 
+
+== População ==
+<timeline>
+ImageSize = width:420 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:2000000
+ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1500 from:0 till:6500  
+  bar:1624 from:0 till:48000 
+  bar:1800 from:0 till:63400  
+  bar:1939 from:0 till:1289000 
+  bar:1945 from:0 till:422000 
+  bar:1960 from:0 till:1139189
+  bar:2000 from:0 till:1610471 
+  bar:2014 from:0 till:1732707 
+PlotData=
+  textcolor:black fontsize:S
+  bar:1500 at: 6500 text: 6500 shift:(0)
+  bar:1624 at: 48000 text: 48000 shift:(0)
+  bar:1800 at: 63400 text: 63400 shift:(0)
+  bar:1939 at: 1289000 text: 1289000  shift:(0)
+  bar:1945 at: 422000 text: 422000 shift:(0)
+  bar:1960 at: 1139189 text: 1139189 shift:(0)
+  bar:2000 at: 1610471 text: 1610471 shift:(0)
+  bar:2014 at: 1732707 text: 1732707 shift:(0)
+  </timeline>
+== Turismo ==
+<gallery>
+File:Warsaw Old Town 1945.jpg|Warsawa - 1945
+File:Warsaw Castle Square Panorama 2010.jpg
+File:Palac prezydencki warsaw.JPG
+File:Poland Warsaw Łazienki Palace 5.jpg
+File:Warsaw National Theater - panoramio - ekeidar.jpg
+File:FB Warszawa panorama.jpg
+File:Pałac Krasińskich BK2.JPG
+File:VARSOVIA. Plaza del Mercado de la Ciudad Vieja (Rynek Starego Miasta) 2.JPG
+File:POL Krakowskie Przedmieście Street in Warsaw 2008 07 12 (2).JPG
+File:Elewacja wschodnia.jpg
+</gallery>
+
+== {{Lhigaçones Sternas}} ==
+* [http://www.um.warszawa.pl/ Warszawa].
+[[Catadorie:Geografie]]
+[[Catadorie:Polónia]]
