@@ -1,0 +1,10 @@
+L ''FreeDOS''' (antes nomeado '''Fre-DOS''' i '''PD-DOS''') ye un [[sistema ouperacional]] pa l'arquitetura x86 (IBM PC, Antel i cumpatibles) que bisa dar cumpatibelidade culs porgramas de ls yá coincidos sistemas ouperacionales cumpatibles cun [[DOS]]. Ten lhicença [[oupen-source]] (GPL - la  mesma de l [[Linux]]) podendo ser copiado, outelizado i modificado lhibremente. L FreDOS ye custruído cumo un cunjunto de defrentes porgramas, qu'atuan cumo pacotes.
+
+Cumo un nembro de la Família [[DOS]], FreeDOS probé percipalmente l'acesso la çco i al [[sistema d'arquibos]]
+por meio de l [[núcleo (anformática)|núcleo]], i  an parte l gerenciamiento de mimória, mas nun ten nanhue anterface gráfica (anque eisistiren pacotes para [[OupenGEM]] (ancluso ne l CD) i [[Ozone]]).
+
+FreeDOS funciona an máquinas antigas cumo ls IBM PCs bien cumo nas mais atuales para alhá de [[sistemas ambarcados]].
+Assi cumo l [[MS-DOS]], el ampeça dun [[çquete]] ó [[çco rígido]], mas tamien puode ser carregado a partir de mimória ROM. Al cuntrairo de la sue cuntraparte propiatária, FreeDOS suporta arranque bie CD-ROMs,
+i qualquiera pessona ye lhibre para criar sues própias bersones i çtribuiçones, sin percisar pagar nanhue spece de royalty. FreDOS ye [[software lhibre]] i de [[código abierto]], lhicenciado pula [[GNU]] [[GNU General Public Lhicense|GPL]].
+
+L'oubjetibo de l FreeDOS ye ouferecer cumpatibelidade la quien zeia rodar [[jogos de cumputador]] i [[software|porgramas]] antigos feitos para sistemas ouperacionales cumpatibles cun [[DOS]] nun cumpatibles culs sistemas ouperacionales atuales, probendo suporte l'aplicaçones [[Anterneta]] usando anterface DOS.
