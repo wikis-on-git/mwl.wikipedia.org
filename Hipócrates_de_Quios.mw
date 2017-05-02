@@ -1,0 +1,32 @@
+Heipócrates de Quios (ca. 470 a.C. — ca. 410 a.C.) fui un matemático geómetra, nacido na ilha de Quios, ne l'arquipélago de Dodecaneso, Grécia. Las anformaçones subre sue bida i obra ténen cumo fuonte percipal relatos andiretos de Aristóteles. Alfred Jarry se refire a el cumo Ibícrates, l Geómetra, afirmando que serie un de ls precursores de la patafísica.
+{{dni|||470 a.C.|si}}{{morte|||-410}}
+
+== Bida i obra ==
+Por buolta de l'anho 430 a.C. Heipócrates seguiu para Atenas cumo mercador mas cunta-se que perdiu to l sou denheiro an Bizáncio, ambolbido nua fraude. Esse ancidente fizo cun que se buoltasse pa l studo de la geometrie. Proclo relata ua obra de sue outoria, Eilemientos de geometrie, porduzida mais dun seclo antes de Ls Eilemientos, de Euclides. L testo fui perdido mas l'obra fui coincida por Aristóteles. Un fragmiento dun testo scrito por Simplício por buolta de 520 a.C., que se supone tenga sido copiado d'outra obra, essa de l'outoria de Eudemo, çcribe ua parte de l trabalho de Heipócrates subre la quadratura de lunas, que son figuras prainas lemitadas por dous arcos circulares de centeilhas defrentes. Nesse fragmiento ancontramos un teorema atribuído al matemático de Quios: segmientos de círclo semelhantes stan na mesma rezon que ls quadrados de sues bases.
+{{dn}}
+
+== Quadratura de lunas ==
+Ye probable qu'esse teorema seia l mais antigo enunciado griego subre mensuraçon curbilínea. Segundo Eudemo, Hípócrates l probou mostrando einicialmente que árias de círclos stan antre si cumo ls quadrados de ls diámetros. Ls trabalhos culas lunas son seneficatibos por amostráren tentatibas cuncretas de se chegar la quadratura de l círclo mas mais inda andican la cumpeténcia de ls matemáticos atenienses an lidar cun trasformaçones de árias i proporçones.
+[[Fexeiro:Luna_de_Hipocrates.png|dreita|miniaturadaimagem|Quadratura de la luna]]
+
+=== La purmeira quadratura ===
+Ampeçando cun un semicírclo circunscrito a un triángulo isósceles retángulo ABC, custrua-se subre la base (heipotenusa) un segmiento circular semelhante als segmientos circulares subre ls lados de ls triángulos. Cumo ls segmientos stan antre si cumo ls quadrados de sues bases cunclui-se que, usando l Teorema de Pitágoras pa l triángulo, la soma de ls dous segmientos circulares menores ye eigual al segmiento maior. Anton la defrença antre l semicírclo subre AC i l segmiento ADCE ye eigual al triángulo ABC. Lougo la luna ABCD ye satamente eigual al triángulo ABC i cumo este ye eigual al quadrado subre la metade de AC, cumpletamos la quadratura.
+
+== Trasformando árias  ==
+Antre ls matemáticos de la época nun habie deficuldades an cumberter un retángulo de lados <math>a\,</math> i <math>b\,</math> nun quadrado, achando-se la média proporcional antre eilhes:
+<math>a : x = x : b\,</math>. Habie la percepçon de que podería se generalizar la queston anserindo dous meios antre las dues grandezas dadas. Esto ye, dados ls segmientos <math>a\,</math> e <math>b\,</math> poderie se oubter outros dous, <math>x\,</math> i <math>y\,</math> tal que <math>a : x = x : y = y : b\,</math>. <math>b = 2 . a\,</math>, por eliminaçon de <math>y\,</math> nas proporçones, cunclui-se que <math>x^3 = 2 . a^3\,</math>.
+
+== Ber tamien ==
+* Construções com régua e compasso
+* Duplicação do cubo
+* Quadratura do círculo
+* Trissecção do ângulo
+* Arquitas de Tarento
+* Hípias de Elis
+* Pierre Laurent Wantzel
+* Appbooks
+
+== Bibliografie ==
+
+[[Catadorie:Geómetras]]
+[[Catadorie:Matemáticos de la Grécia Antiga]]
