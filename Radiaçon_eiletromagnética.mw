@@ -40,25 +40,24 @@ propagaçon ye <math>c</math>que deberá berificar la relaçon:
 
 L'eiquaçon de la funçon repersentada na figura arriba ye:
 
-<math> I(x) = I_\text{máss}\,\sin(2\,\pi\,\frac{x}{\lambda}+\barphi)</math>
+<math> I(x) = I_\text{máss}\,\sin(2\,\pi\,\frac{x}{\lambda}+\phi)</math>
 
-adonde la custante <math>\barphi</math> ye la{fase enicial}. Essa funçon repersenta la forma de la óndia
-nun anstante enicial, que podemos admitir <math>t=0</math>.
+adonde la custante <math>\phi</math> ye la{fase enicial}. Essa funçon repersenta la forma de la óndia nun anstante enicial, que podemos admitir <math>t=0</math>.
 
 Para oubter la funçon de óndia nun anstante defrente, teremos que sustituir <math>x</math>por
 <math>x-c\,t</math>, yá que la óndia se propaga ne l sentido positibo de l'eixe de ls
 <math>x</math>, cun belocidade <math>c</math>.
 
-<math>I(x,t) = I_\text{máss}\,\sin\Bigg[\frac{2\,\pi}{\lambda}\,(x-c\,t)+\barphi\Bigg]</math>
+<math>I(x,t) = I_\text{máss}\,\sin\Bigg[\frac{2\,\pi}{\lambda}\,(x-c\,t)+\phi\Bigg]</math>
 
 usando la relaçon antre la belocidade i l período, podemos screbir:
 
-<math>I(x,t) = I_\text{máss}\,\sin\Bigg(2\,\pi\Bigg(\frac{x}{\lambda}-\frac{t}{T}\Bigg)+\barphi\Bigg)</math>
+<math>I(x,t) = I_\text{máss}\,\sin\Bigg(2\,\pi\Bigg(\frac{x}{\lambda}-\frac{t}{T}\Bigg)+\phi\Bigg)</math>
 
 Se sustituirmos <math>x=0</math>, oubteremos l'eiquaçon que çcribe l campo
 eilétrico na ourige, an funçon de l tiempo:
 
-<math> I(x) = -I_\text{máss}\,\sin\Bigg(2\,\pi\,\frac{t}{T}+\barphi\Bigg)</math>
+<math> I(x) = -I_\text{máss}\,\sin\Bigg(2\,\pi\,\frac{t}{T}+\phi\Bigg)</math>
 
 assi, l campo na ourige ye ua funçon sinusoidal cun período <math>T</math>i
 amplitude <math>I_\text{máss}</math>. L campo an outros puntos ten satamente la mesma forma
@@ -72,9 +71,9 @@ Sendo la luç ua oscilaçon, eilha nun ye afetada pula stática eilétrica ó po
 
 Na [[refraçon]], ua óndia, trasitando dun meio para outro de densidade defrente, ten altaradas sue belocidade i sue direçon (causo esta nun seia perpendicular a la superfice) al antrar ne l nuobo meio. La relaçon antre ls índices de refraçon de ls dous meios detremina la scala de refraçon medida pula [[Lei de Snell-Çcartes|lei de Snell]]:
 
-:<math>\sen(i) \eiquipas N_{1} = \sen(r) \eiquipas N_{2}</math>
+:<math>\sen(i) \times n_{1} = \sen(r) \times n_{2}</math>
 
-Nesta eiquaçon, i ye l ángulo d'ancidéncia, N<sub>1</sub> ye l índice de refraçon de l meio 1, r ye l ángulo de refraçon, i N<sub>2</sub> ye l índice de refraçon de l meio 2.
+Nesta eiquaçon, i ye l ángulo d'ancidéncia, n<sub>1</sub> ye l índice de refraçon de l meio 1, r ye l ángulo de refraçon, i n<sub>2</sub> ye l índice de refraçon de l meio 2.
 
 La luç se çpersa nun spetro besible porque ye refletida por un prisma, debido al fenómeno de la refraçon. Las caratelísticas de las óndias eiletromagnéticas demunstran las propiadades de partículas i de l óndia al mesmo tiempo, i se çtacan mais quando la óndia ye mais prolongada.
 
@@ -82,7 +81,7 @@ La luç se çpersa nun spetro besible porque ye refletida por un prisma, debido 
 Un amportante aspeto de la natureza de la luç ye la [[frequéncia]] ua óndia, sue taxa d'oscilaçon. Ye medida an [[heirtç]], l'ounidade [[Sistema Anternacional de Ounidades|SIU]] de frequéncia, na qual un heirtç (1,00 Hç) ye eigual a ua oscilaçon por segundo. La luç normalmente ten un spetro de frequéncias que, somadas, juntos forman la óndia resultante. Defrentes frequéncias forman defrentes ángulos de refraçon.
 Ua óndia cunsiste ne ls sucessibos baixos i altos, i la çtáncia antre dous puntos altos ó baixos ye chamado de cumprimiento de óndia. Óndias eiletromagnéticas barian d'acuordo cul tamanho, de óndias de tamanhos de prédios la óndias gama pequeinhas menores qu'un [[núcleo atómico]]. La frequéncia ye ambersamente proporcional al cumprimiento de la óndia, d'acuordo cula eiquaçon:
 
-<math>\çplaystyle b=\lambda \eiquipas f</math>.
+<math>\playstyle b=\lambda \eiquipas f</math>.
  
 Nesta eiquaçon, b ye la [[belocidade]], λ (lambda) ye l [[cumprimiento de óndia]], i f ye la [[frequéncia]] de la óndia.
 
