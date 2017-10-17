@@ -2,9 +2,9 @@ __NOTOC__ __NOEDITSECTION__
 {{Portada/Cabeceira
   |títalo=Bienbenido
 <small>a</small> [[Biquipédia]]
-  |subtítalo=La anciclopédia an lhéngua [[Lhéngua mirandesa|mirandesa]].
+  |subtítalo=La [[anciclopédia]] an lhéngua [[Lhéngua mirandesa|mirandesa]].
   |box dreita=
-Agora hai [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] artigos an [[Lhéngua mirandesa|mirandés]]:
+Aora hai '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' artigos an [[Lhéngua mirandesa|mirandés]]:
 <inputbox>
 type=search2
 searchbuttonlabel=Percurar
@@ -13,9 +13,9 @@ width=19
 id=MP
 </inputbox>
   |antroduçon=
-[[Ajuda:Cumo se registrar|Cumo se registrar]] · [[Ajuda:FAQ|FAQ]] · [[Special:Cite|Citar Biquipédia]] · [[Biquipédia:Abiso legal|Abiso legal]] <br /> [[Biquipédia:Páigina de Prebatinas|Páigina de Prebatinas]] · [[Biquipédia:Taberna|La Taberna]] · [[Portal:Portalada|Portalada]] · [[foundation:Donaçones|Donaçones]]
+[[Ajuda:Tutorial/Criar cunta|Cumo se registrar]] · [[Wikipedia:Cumo puodo dar ua upa|Cumo puodo dar ua upa]] · [[Ajuda:FAQ|FAQ]] · [[Special:Cite|Citar la Biquipédia]] · [[Biquipédia:Abiso legal|Abiso legal]] <br /> [[Biquipédia:Páigina de testes|Páigina de prebatinas]] · [[Biquipédia:Taberna|La Taberna]] · [[Portal:Portalada|Portalada]] · [https://donate.wikimedia.org/?uselang=mwl&country= Donaçones] · [irc://irc.freenode.net/#wikipedia-mwl Canal IRC]
 <!-------------------------------------------------------------
-                           SUMARIO
+                           SUMAIRO
 -------------------------------------------------------------->
   |1= Ciéncias naturales
   |2= Artes
@@ -24,89 +24,87 @@ id=MP
   |5= Tecnologie
   |6= Índice
 <!-------------------------------------------------------------
-                      CACHO PRENCIPAL
+                      CACHO PERCIPAL
 -------------------------------------------------------------->
   |seçon=
-{{finestraHome3|títalo=Bien-benido(a)
-|link=template:Portada/Buonas-benidas
+{{finestraHome3|títalo=Bienbenido(a)
+|link=Modelo:Portada/Buonas-benidas
   |logo=Emblem-fun.svg
   |testo_eimaige=Buonas-benidas
   |font_size=95
-  |cuntenido={{Portada/Buonas-benidas}} }}
-{{finestraHome3|títalo=[[Biquipédia:Quemunidade|Quemunidade]]
-  |link=plantilla:Portalada/Quemunidade
+  |cuntenido=<div id="mf-benidas">{{Portada/Buonas-benidas}} }} </div>
+{{finestraHome3|títalo=[[Biquipédia:Portal de la quemunidade|Quemunidade]]
+  |link=Modelo:Portada/Quemunidade
   |logo=Nuvola apps kuser.svg
   |testo_eimaige=Quemunidade
   |cuntenido={{Portada/Quemunidade}} }}
 {{finestraHome3|títalo=[[Biquipédia:Artigos an çtaque|Çtacado]]
-  |link=template:Portada/An çtaque
-  |logo=Nuvola filesystems services.svg
+  |link=Modelo:Portada/An çtaque
+  |logo=PODY barnstar.svg
   |testo_eimaige=An çtaque
   |font_size=95
-  |cuntenido={{Portada/An çtaque}} }}
+  |cuntenido=<div id="mf-çtaque">{{Portada/An çtaque}} }}</div>
 {{finestraHome3|títalo=Sabies que...
-  |link=template:Portada/Sabies
+  |link=Modelo:Portada/Sabies
   |logo=Nuvola apps filetypes.svg
   |testo_eimaige=Sabies que...
   |font_size=95
-  |cuntenido={{Portada/Sabies}} }} 
-{{finestraHome3|títalo=[[:m:Lista de Wikipedias|Todas las lhénguas]]
-  |link=template:Portada/Lhénguas
+  |cuntenido=<div id="mf-sabies">{{Portada/Sabies}} }} </div>
+{{finestraHome3|títalo=[[:m:List of Wikipedias/mwl|Todas las lhénguas]]
+  |link=Modelo:Portada/Lhénguas
   |logo=Gnome-globe.svg
   |testo_eimaige=Lhénguas
   |font_size=95
   |cuntenido={{Portada/Lhénguas}} }}
 }}
 <!-------------------------------------------------------------
-                       COLUNNA DREITA
+                       QUELUNA DREITA
 -------------------------------------------------------------->
-{{Portada/Coluna dreita
-  |títalo= [[Modelo:Portada/Eimaige|Eimaige de l més]]
-  |cuntenido= {{Portada/Eimaige}} 
+{{Portada/Queluna dreita
+  |títalo= [[Modelo:Portada/Eimaige|Eimaige an çtaque]]
+  |cuntenido= {{Portada/Eimaige}}
   |padding-right=23px}}
-{{Portada/Coluna dreita
-  |cuntenido= [[Special:Newpages|Nobidades]] i [[Biquipédia:Atualidade|atualidade]]
+{{Portada/Queluna dreita
+  |títalo= [[Special:Newpages|Páiginas nuobas]] i [[Biquipédia:Atualidade|atualidade]]
   |cuntenido= {{Portada/Nobidades}} }}
-{{Portada/Coluna dreita
+{{Portada/Queluna dreita
   |títalo= [[Portal:Portada|Portales]]
   |cuntenido= {{Portada/Portales}} }}
 <!-------------------------------------------------------------
                          PORJETOS
 -------------------------------------------------------------->
-{{Portada/Coluna dreita ambaixo
-  |1= Biquionairo
+{{Portada/Queluna dreita ambaixo
+  |1= Commons
   |1_px = 45
-  |2= Biquispeces
+  |2= Biquicionairo
   |2_px = 45
-  |3= Wikisource
+  |3= Biquilhibros
   |3_px = 45
-  |4= Wikiquote
+  |4= Wikisource
   |4_px = 45
-  |5= Wikinews
-  |5_px = 46
-  |6= Wikibooks
+  |5= Wikiquote
+  |5_px = 45
+  |6= Biquibersidade
   |6_px = 45
-  |7= Wikiversity
-  |7_px = 44
-  |8= Commons
+  |7= Biquiamboras
+  |7_px = 45
+  |8= Wikivoyage
   |8_px = 45
-  |9= Meta-Wiki 
+  |9= Biquispeces
   |9_px = 45
+  |10= Wikidata 
+  |10_px = 45
+  |11= MediaWiki
+  |11_px = 45
+  |12= Meta-Wiki
+  |12_px = 45
+  |13= Incubator
+  |13_px = 45
   }}
 <!-------------------------------------------------------------
-                         OUTRAS LHÉNGAS
+                         OUTRAS LHÉNGUAS
 ---------------------------------------------------------------
-* más de 50.000 artigos
+* mais de {{fmtn|50000}} artigos
 -------------------------------------------------------------->
 
 [[Catadorie:Páigina percipal]]
-
-[[ast:]]
-[[ca:]]
-[[en:]]
-[[es:]]
-[[eu:]]
-[[ext:]]
-[[gl:]]
-[[oc:]]
-[[pt:]]
