@@ -27,6 +27,12 @@ id=MP
                       CACHO PERCIPAL
 -------------------------------------------------------------->
   |seçon=
+{{finestraHome3|títalo=Bienbenido(a)
+|link=Modelo:Portada/Buonas-benidas
+  |logo=Emblem-fun.svg
+  |testo_eimaige=Buonas-benidas
+  |font_size=95
+  |cuntenido=<div id="mf-benidas">{{Portada/Buonas-benidas}} }} </div>
 {{finestraHome3|títalo=[[Biquipédia:Portal de la quemunidade|Quemunidade]]
   |link=Modelo:Portada/Quemunidade
   |logo=Nuvola apps kuser.svg
