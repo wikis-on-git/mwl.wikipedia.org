@@ -1,0 +1,51 @@
+[[Fexeiro:DVD two kinds.jpg|250px|miniaturadaimagem|Defrença antre l '''DVD-Video''' i '''DVD-R'''.]]
+'''DVD''', sigla de "'''''D'''igital '''V'''ideo '''D'''isc''" (traduzido ''Çco Digital de Bídeo'') ye un formato digital para arquibar ó guardar dados, sonido i boç, tenendo ua maior capacidade d'armazenamiento que l [[CD]], debido a ua tecnologie ótica superior, para alhá de padrones melhorados de [[cumpresson de dados]], sendo criado ne l'anho de [[1995]].
+
+== Stória ==
+Ne l'ampeço de [[1990]] dous tipos de çcos-óticos d'alta capacidade stában an zambolbimiento: un era l MultiMedie Cumpat Çc (MMCD), lhiderado pula [[Philips]] i [[Sony]], i l'outro era l Super Density Çc (SD), patrocinado pula [[Toshiba]], [[Eiquipa-Warner]], Matsushita Eiletric ([[Panasonic]]), [[Hitachi]], [[Mitsubishi]], [[Pioner]], Thomson i [[JVC]]. L persidente de la [[IBM]], Lhou Gerstner, tenie la perpuosta d'ounir ls dous sistemas, eibitando la repetiçon de ls porblemas de la década de [[1980]], culs [[bideocassete]]s de ls formatos [[BHS]] i [[Betamax]].
+
+Phelips i Sony abandonórun l formato MMCD i cuncordórun l formato de la Toshiba cun dues modificaçones relacionadas cula tecnologie amplicada. La purmeira fui la geometrie que permitisse l "''push-pull''" (pular) de las faixas (assi cumo ne l CD, puoden ser feitos saltos dua música para outra, anquanto nua bideocassete nun hai cumo fazer esso debrebe), qu'era ua tecnologie cunjunta de la Phelips i Sony. La segunda era l'adoçon de l sistema Phelips EFMPlus. L EFMPlus fui criado por Kes La. Schouhamer Eimmink, que tamien criou l EFM: ye 6% menos eficiente que l sistema SD de la Toshiba, l que resultou nua capacidade de 4,7GB al ambés de ls ouriginales 5GB de l SD. La grande bantaige de l EFMPlus ye sue grande reseliéncia i resisténcia l'antempéries tales cumo arranhones i [[ampresson digital (anatomie)|ampressones digitales]]. L resultado fui l DVD 1.5, anunciado al público an [[1995]] i treminado an setembre de [[1996]]. An maio de [[1997]], l Cunsórcio DBD mudou para Fórun DBD, que ye abierto a todas las cumpanhas (nun solamente la Phelips, Sony i Toshiba).
+
+Ls purmeiros ''[[DVD player|DVD Players]]'' (lheitores de DVD) i çcos stában çponibles an Nobembre de 1997 ne l [[Japon]], Márcio de 1998 ne ls [[Stados Ounidos]], [[1999]] na [[Ouropa]] i [[2000]] na [[Oustrália]]. Ne l [[Brasil]] la tecnologie ampeçou a ganhar fuorça an [[2002]] i [[2003]]. L purmeiro filme an DBD lhançado ne ls Stados Ounidos fui l ''[[Twister (filme)|Twister]]'' an 1996. L filme fui un teste pa l ''Surround Sound'' 2.1. Ne l Brasil, l purmeiro DBD de filme fui ''[[Era ua beç na América]]'', de la FlashStar, lhançado an 1998. An 1999, l précio de ls ''DVD Players'' baixou para 300 dólares. La rede de supermercados [[Wal-Mart]] ampeçou a bender ''DBD Players'' mesmo tenendo pouca percura an cumparaçon culs bídeos BHS, mas lhougo outras lhoijas seguiran l Wal-Mart i l DBD debrebe se tornou popular ne ls Stados Ounidos. Debido a la zbalorizaçon de la moeda brasileira an relaçon als dólares i a la demora na decison subre la region a ser adotada ne l Brasil, bien cumo outros fatores, l DVD solo ampeçou la se popularizar ne l Brasil an [[2003]], mas an poucos anhos sustituiu por cumpleto l'antigo formato [[VHS]].
+
+== Anformaçones técnicas ==
+Cumo padron, ls DBDs possuen la capacidade de lharmazenar 4,7 [[gigabyte|GB]] de dados (capacidade nominal), anquanto qu'un CD armazena, an média, 700 [[megabyte|MB]] (cerca de 14,6 % de la capacidade dun DBD). Ls chamados DBDs ''dual-lhayer'' (de dupla camada) puoden armazenar até 8,5 GB. Anque desta capacidade nominal de l DBD grabable, ye possible grabar, aprossimadamente, 4.38 GB de lhanformaçones (cun arquibos que se debeden nun tamanho mássimo de 1 GB cada). L tamanho mássimo de lharquibo barie cunforme l tipo de grabaçon: UDF, ISO normal, DVD-video etc. Por eisemplo, para grabar un arquibo cun cerca de 2 GB, ye necessairo scolher l'oupçon UDF mode. Apersenta [[resoluçon]] de 500 lhinhas (horizontales). La culidade d'eimaige i sonido de l DBD ye bien superior la la de las fitas de bídeo [[BHS]]. An DVDs cun capacidade nominal de 8,5 GB, ye possible grabar tierra 7,96 GB de dados. 
+=== Strutura de ls arquibos ===
+Ouserbando las stensones de ls arquibos nun [[sistema ouperacional]], podemos ouserbar:
+* Arquibos '''*.IFO''' (de lhanformaçon) son ''scrits'' subre "cumo" rodar l DVD;
+* Arquibos '''*.BUP''' son ''backups'' de ls *.IFO;
+* Arquibos '''*.PUO''' son d'ouparaçones proibidas al outelizador i, giralmente, son remobidos quando l DVD ye ripado (nomenclatura ousada quando cumbertemos un DVD para arquibo de cumputador);
+* Arquibos '''*[[VOB|.VOB]]''' (d'oubjeto bisual) cunténen to l filme, menu, stras, lhénguas, i lhegendas, atrabeç dua multiplexaçon.
+
+=== DVDs Nun Regrabábeis ===
+* '''DBD-R''': solamente permite ua grabaçon i puode ser lhido pula maiorie de lheitores de DBD;
+* '''DBD+R''': solamente permite ua grabaçon, puode ser lhido pula maiorie de lheitores de DBD i ye lhido mais debrebe para ''backup'';
+* '''DBD+R DL''' (''dual-lhayer''): semelhante al DBD+R, mas que permite la grabaçon an dupla camada, oumentando la sue capacidade d'armazenamiento.
+
+=== DVDs Regrabábeis ===
+* '''DVD-RW''': permite grabar i apagar cerca de mil bezes;
+* '''DVD+RW''': ye ua eiboluçon de l DBD-RW. Tamien permite grabar i apagar cerca de mil bezes, mas ten amportantes aperfeiçoamientos, an special ua cumpatibelidade mui maior culs ''DBD Players''.
+* '''DVD+RW DL''': ten dues camadas de grabaçon, l que dobra la sue capacidade d'armazenamiento.
+* '''DBD-RAM''': permite grabar i apagar mais de cien mil bezes. La grabaçon i la lheitura son feitos nua série de círclos cuncéntricos, un formato que se aprossima mais de l qu'ocorre ne ls çcos rígidos (an todos ls demales tipos de DBD, i tamien de CD, la grabaçon ye feita nua única lhinha cuntínua, ua spiral que parte de l centro i tremina na borda sterna). Dende decorre l nome "grabaçon aleatória" (ne ls demales DBD, eilha serie cuntínua). Permite eiditar l cuntenido de l DBD sin tener d'apagar to l cuntenido que yá staba grabado. Ouferece la possibelidade de grabaçon i lheitura simultáneas (''eiquipa shift'') sin l risco d'apagar la grabaçon. Cumpatíbel cun poucos lheitores de DBD. Ten ua única camada de grabaçon. Capacidade: berson 1.0 - de 2,58 GB (un lhado) a 5,16 GB ( dous lhados), i berson 2.0 - de 4,7 GB (un lhado) i 9,4 GB ( dous lhados). Formato apoiado pula Hitachi, [[LG]], Maxell, Matsushita (Panasonic), [[Samsung]], Toshiba i JBC, atrabeç de l RAM Promotion Group (RAMPRG).
+
+== Lheitor de DBD ==
+L '''lheitor de DBD''' ye un acessório doméstico capaç de reproduzir médias ne l formato DBD. Alguns mais modernos reproduzen tamien outros formatos cumo CD (de música [[mp3]] i [[foto]]s), [[BCD]], SBCD, meni-CD, DBD-RAM i çcos de dados, cumo por eisemplo, filmes ne l formato *.abi (que fúrun cumpatados an [[DibX]] ó [[XbiD]]). Eesisten inda ls "DBD-KARAOKÉ" (mesmas funçones que l ''DBD Player'' normal), mas estes possuen antradas para microfones. Eesisten ''DBD Players'' cun antradas [[USB]] para assi poder anserir algun [[MP3]] ó [[MP4]]. Sendo qu'an giral, reproduzen bideos cun resoluçon de 720x480 pixels an NTSC i 720x576 an PAL.
+
+[[Fexeiro:Cdr-dvdrw-drives.jpg|300px|thumb|right|Ounidade de lheitura de '''CD''' (cima) i de '''DVD''' (baixo).]]
+Tamien ye possible bisualizar DBD an cumputadores pessonales, usando ua ounidade de lheitura de DBD, i un ''[[software]]'' ó porgrama tocador de DBD, cumo por eisemplo l ''[[Windows Media Player]]'', Medie Player Classic, ''WinDBD'' ó ''PowerDBD'', pa l sistema ouperacional Windows, i ''[[mplayer]]'', ''[[blc]]'', xine ó toten pa ls sistemas [[GNU]]/[[Lhinux]] i deribados de l BSD.
+
+== Ber tamien ==
+* [[Outoraçon de DVD]]
+* [[Blu-ray]]
+* [[Compact Disc]] 
+* [[HD DVD]]
+* [[MPEG]]
+* [[VCD]]
+* [[Video Home System]] 
+* [[Laserdisc]]
+
+[[Catadorie:DVD| ]]
+[[Catadorie:Armazenamiento de dados]]
+[[Catadorie:Armazenamiento de áudio]]
+[[Catadorie:Armazenamiento de bídeo]]
+[[Catadorie:Ambençones de l Japon]]
