@@ -77,7 +77,7 @@ Ambertido: ''(la, b)'' Ambertido = ''<math>{{b}, {la, b}} = {{b}, {b, la}}</math
 Rosser (1953) usou stensibamente ua defeniçon de par ourdenado debido la [[Willard ban Orman Quine]]. La defeniçon de Quine-Rosser requer ua defeniçon prébia de ls númaros naturales tal cumo la seguinte:
 :Tome ''Nn'' cumo l cunjunto de ls [[númaros naturales]], i defina
 <br />
-:: <math>\varphi(x) = \{ z : \exists{y}{\in}{x} : ({y}{\in}{Nn} \and {z}{=}{y}{+}{1}) \or ({y}{\notin}{Nn} \and {z}{=}{y}) \}.</math>
+:: <math>\varphi(x) = \{ z : \exists{y}{\in}{x} : ({y}{\in}{Nn} \land {z}{=}{y}{+}{1}) \lor ({y}{\notin}{Nn} \land {z}{=}{y}) \}.</math>
 <br />
 φ(''x'') cunten l sucessor de cada númaro natural an ''x'', junto cun todos ls númaros nun naturales de ''x''. an particular, φ(''x'') nun cunten l númaro 0, de modo que para alguns cunjuntos ''La'' i ''B'', 
 <br />
