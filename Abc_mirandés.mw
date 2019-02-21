@@ -1,67 +1,151 @@
-L '''alfabeto mirandés''' ye cumpuosto cun 23 lhetras, sin las lhetras [[K]], [[V]] i [[W]], que son outelizadas an palabras strangeiras.
+L '''alfabeto mirandés''' ye cumpuosto cun 23 letras, sin las letras [[K]], [[V]] i [[W]], que son outelizadas an palabras strangeiras.
 
-== Nomes de las lhetras i repersentaçones fonéticas ==
-Pa repersentar la sibilante [s] antes de a, o, u, outeliza-se la lhetra ç (çapato, caçurro). Esta lhetra ten l mesmo balor quando stá seguida de cunsuante xorda (cuçpir, çcalçar, çfechar, çquilar, çtapar) i ne l fin de palabra (paç). Se, na frase, la palabra seguinte ampeça por cunsuante sonora, la sibilante final sonoriza, mas esta mudança nun se repersenta graficamente. Assi, paç de la tierra lé-se cun [z].
+Pa repersentar la sibilante [s] antes de a, o, u, outeliza-se la lhetra ç (çapato, caçurro). Esta lhetra ten l mesmo balor quando stá seguida de cunsuante xorda (cuçpir, çcalçar, çfechar, çquilar, çtapar) i ne l fin de palabra (paç). Se, na frase, la palabra seguinte ampeça por cunsuante sonora, la sibilante final sonoriza, mas esta mudada nó se repersenta graficamente. Assi, paç de la tierra lé-se cun [z].
 
-L sonido [v] nun eisiste an mirandés, ocorrendo an sou lhugar [b] ó [β]. Ye de notar, mas, que muitos nomes própios se screben ouficialmente cun V (Virgílio), dado que ls registros de nacimiento son feitos segundo normatibas pertuesas.
+L sonido [v] nó eisiste an mirandés, ocorrendo an sou lhugar [b] ó [β]. Ye de notar, mas, que muitos nomes própios se screben ouficialmente cun V (Virgílio), dado que ls registros de nacimiento son feitos segundo normatibas pertuesas.
 
+== Letras ==
 {| class="wikitable"
 |-
-! Lhetra !! nome de la lhetra !! fonética  
+! colspan="2"| Letra
+! rowspan="2"| Nome de la letra<ref name="CDM">{{citar web |títalo=Ls nomes de las letras de l ABéCé de l mirandés |url=https://cursodemirandes.wordpress.com/2010/01/10/ls-nomes-de-las-letras-de-l-abece-de-l-mirandes/ |eiditora=[[Associaçon de la Lhéngua i Cultura Mirandesa]] |data=10 de janeiro de 2010 }}</ref>
+! rowspan="2"| Fonética
 |-
-| Aa || á || /a/ /ɐ/ /ɐ̃/
+! Grande
+! Pequeinha
 |-
-| Bb || bé || /b/
+| [[A]]
+| a
+| á
+| {{IPA|/a/}}, {{IPA|/ɐ/}}, {{IPA|/ɐ̃/}}
 |-
-| Cc || cé || /k/ /s/
+| [[B]]
+| b
+| bé
+| {{IPA|/b/}}
 |-
-| Dd || dé || /d/ /ð/
+| [[C]]
+| c
+| cé, qué
+| {{IPA|/k/}}, {{IPA|/s/}}
 |-
-| Ee || é || /e/ /ɛ/ /ɨ/
+| [[Ç]]
+| ç
+| cé de cedilha
+| {{IPA|/s/}}, {{IPA|/z/}}
 |-
-| Ff || fé || /f/
+| [[D]]
+| d
+| dé
+| {{IPA|/d/}}, {{IPA|/ð/}}
 |-
-| Gg || gé ó gué || /g/ /ɣ/ /ʒ/
+| [[E]]
+| e
+| é
+| {{IPA|/ɛ/}}, {{IPA|/e/}}, {{IPA|/ɨ/}}, {{IPA|/ɛ/}}, {{IPA|/ɨ̃/}}
 |-
-| Hh || agá || -
+| [[F]]
+| f
+| fé
+| {{IPA|/f/}}
 |-
-| Ii || i || /i/ /j/ /ĩ/
+| [[G]]
+| g
+| gué
+| {{IPA|/g/}}, {{IPA|/ɣ/}}, {{IPA|/ʒ/}}
 |-
-| Jj || jé || /ʒ/
+| [[H]]
+| h
+| agá
+| —
 |-
-| Ll || lé || /l/ /ɫ/
+| [[I]]
+| i
+| i
+| {{IPA|/i/}}, {{IPA|/j/}}, {{IPA|/ĩ/}}
 |-
-| Mm || mé || /m/
+| [[J]]
+| j
+| jé
+| {{IPA|/ʒ/}}
 |-
-| Nn || né || /n/ 
+| [[L]]
+| l
+| lé
+| {{IPA|/l/}}, {{IPA|/ɫ/}}
 |-
-| Oo || ó || /o/ /ɔ/ /u/ /õ/
+| [[M]]
+| m
+| mé
+| {{IPA|/m/}}, {{IPA|/~/}}
 |-
-| Pp || pé || /p/
+| [[N]]
+| n
+| né
+| {{IPA|/n/}}, {{IPA|/~/}}
 |-
-| Qq || qué || /k/
+| [[O]]
+| o
+| ó
+| {{IPA|/ɔ/}}, {{IPA|/o/}}, {{IPA|/u/}}, {{IPA|/õ/}}
 |-
-| Rr || ré || /r/ /rr/
+| [[P]]
+| p
+| pé
+| {{IPA|/p/}}
 |-
-| Ss || sé || /s̥/ /z̥/
+| [[Q]]
+| q
+| qué
+| {{IPA|/k/}}
 |-
-| Tt || té || /t/
+| [[R]]
+| r
+| ré
+| {{IPA|/r/}}, {{IPA|/rr/}}
 |-
-| Uu || u || /u/ /w/ /ũ/ 
+| [[S]]
+| s
+| sé
+| {{IPA|/s̥/}}, {{IPA|/z̥/}}
 |-
-| Xx || xis || /ʃ/ /ks/
+| [[T]]
+| t
+| té
+| {{IPA|/t/}}
 |-
-| Yy || i griego || /j/
+| [[U]]
+| u
+| u
+| {{IPA|/u/}}, {{IPA|/w/}}, {{IPA|/ũ/}}
 |-
-| Zz || zé || /z/
+| [[X]]
+| x
+| xiç
+| {{IPA|/ʃ/}}
+|-
+| [[Y]]
+| y
+| i griego
+| {{IPA|/j/}}
+|-
+| [[Z]]
+| z
+| zé
+| {{IPA|/z/}}
 |-
 |}
 
 == Acientos gráficos i senhales diacríticos ==
 
-Acrecentan-se al alfabeto ls seguintes [[simblo diacrítico|simblos diacríticos]]:
+Acrecéntan-se al abc ls seguintes simblos diacríticos:
 
-*'''¸''' ('''[[Cedilha]]'''): cunfire a la lhetra "c" l sonido de la lhetra "s" ó "z", '''[[ç]]'''.
-*'''´''' ('''Aciento Agudo'''): andica la sílaba tónica i abre l timbre de las bogales ne ls causos an que se requer acentuaçon gráfica -- '''á''' / '''é''' / '''í''' / '''ó''' / '''ú'''.
+*'''¸''' ('''Cedilha'''): cunfire a la letra "c" l sonido de la letra "s" ó "z", '''ç'''.
+*'''´''' ('''Aciento agudo'''): andica la sílaba tónica i abre l timbre de las bogales ne ls causos an que se requer acentuaçon gráfica -- '''á''' / '''é''' / '''í''' / '''ó''' / '''ú'''.
+
+{{Refréncias}}
+
+{{Portal3|Miranda de l Douro|Pertual}}
+{{Rabisco}}
 
 [[Catadorie:Lhéngua mirandesa]]
