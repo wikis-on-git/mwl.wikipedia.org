@@ -43,16 +43,16 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 ==== Cunsuantes ====
 {| class="wikitable" style="margin: 0 outo;"
 |-
-|
-| colspan="2" | '''Bilabial'''
-| colspan="2" | '''Lhabio-<br />dental'''
-| colspan="2" | '''Albeolar'''
-| colspan="2" | '''Pós-<br />albeolar'''
-| colspan="2" | '''Palatal'''
-| colspan="2" | '''Belar'''
-| colspan="2" | '''Glótico'''
+!
+! colspan="2" | Bilabial
+! colspan="2" | Lhabio-<br />dental
+! colspan="2" | Albeolar
+! colspan="2" | Pós-<br />albeolar
+! colspan="2" | Palatal
+! colspan="2" | Belar
+! colspan="2" | Glótico
 |-
-| | '''Plosiba'''
+! Plosiba
 | {{IPA|p}} || {{IPA|b}}
 | colspan="2" | &nbsp;
 | {{IPA|t}} || {{IPA|d}}
@@ -61,7 +61,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | {{IPA|k}} || {{IPA|g}}
 | colspan="2" | &nbsp;
 |-
-| | '''Nasal'''
+! Nasal
 | &nbsp; || {{IPA|n}}
 | colspan="2" | &nbsp;
 | &nbsp; || {{IPA|n}}
@@ -70,7 +70,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 |-
-| | '''Bibrante'''
+! Bibrante
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 | &nbsp; || {{IPA|ɾ}}
@@ -79,7 +79,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 |-
-| | '''Fricatiba'''
+! Fricatiba
 | colspan="2" | &nbsp;
 | {{IPA|f}} || {{IPA|b}}
 | {{IPA|s}} || {{IPA|ç}}
@@ -88,7 +88,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | {{IPA|x}} || &nbsp;
 | {{IPA|h}} || &nbsp;
 |-
-| | '''Africada'''
+! Africada
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 | {{IPA|ʦ}} || &nbsp;
@@ -97,7 +97,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 |-
-| | '''Lhateral'''
+! Lhateral
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 | &nbsp; || {{IPA|l}}
@@ -106,7 +106,7 @@ L Speranto ten cinco [[bogal]]es i 23 [[cunsuante]]s, de las quales dues son sem
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 |-
-| | '''Aprossimante'''
+! Aprossimante
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
 | colspan="2" | &nbsp;
