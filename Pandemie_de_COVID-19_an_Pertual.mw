@@ -322,20 +322,20 @@ Este artigo documenta ls ampatos de la pandemia de COBID-19 de 2020 an Pertual i
 |+Eiboluçon de l númaro de causos
 !Causo
 !Data
-!{{Cabeçalho vertical|Idade|stp=1}}
+!Eidade
+!Sexo
 !Nacionalidade
 !Local de Tratamiento
 !Ourige de Deteçon
 !Ourige de la Anfeçon
-!{{Cabeçalho vertical|Estado|stp=1}}
 !Ref.as
 |-
 !1
 | rowspan="2" data-sort-value="20200302" |02/03/2020
 |33
 | rowspan="5" |♂
-| rowspan="9" |{{Flag|Portugal}}
-| rowspan="2" |Hospital de São João, Porto
+| rowspan="9" |Pertual
+| rowspan="2" |Spital de San João, Porto
 | rowspan="3" | Porto
 |Balençia, spanha
 | rowspan="23" style="background-color:#{{Template:Sim3/bgcolor}};" |<center style="line-height:100%;">'''C<br /><br />o<br /><br />n<br /><br />f<br /><br />i<br /><br />r<br /><br />m<br /><br />a<br /><br />d<br /><br />o<br /><br />s'''</center>
@@ -347,19 +347,19 @@ Este artigo documenta ls ampatos de la pandemia de COBID-19 de 2020 an Pertual i
 |-
 !3
 | rowspan="2" data-sort-value="20200303" |03/03/2020
-|Centro Hospitalar Universitário de São João, Porto
+|Centro Spitalar Ounibersitário de San João, Porto
 | rowspan="2" |Ls dous doentes anfetados "tenien ligaçones a causos cunfirmados de Cobid-19".
 | rowspan="2" |
 |-
 !4
 |37
-|Hospital Curry Cabral, Lisboa
-| Lisboa
+|Spital Curry Cabral, Lhisboua
+|Lhisboua
 |-
 !5
 | rowspan="2" data-sort-value="20200304" |04/03/2020
 |44
-|Centro Hospitalar Universitário de São João, Porto
+|Centro Spitalar Ounibersitário de San João, Porto
 | Porto
 | rowspan="3" |Trasmisson d'houmano-para-houmano. Eitália
 |
@@ -367,15 +367,15 @@ Este artigo documenta ls ampatos de la pandemia de COBID-19 de 2020 an Pertual i
 !6
 |40-49
 |♀
-|Hospital Curry Cabral, Lisboa
-| Vila Franca de Xira
+|Spital Curry Cabral, Lhisboua
+| Bila Franca de Xira
 |
 |-
 !7
 | rowspan="4" data-sort-value="20200305" |05/03/2020
 |50
 | rowspan="3" |♂
-| rowspan="2" |Centro Hospitalar Universitário de São João, Porto
+| rowspan="2" |Centro Spitalar Ounibersitário de San João, Porto
 | rowspan="2" | Porto
 | rowspan="2" |
 |-
@@ -385,7 +385,7 @@ Este artigo documenta ls ampatos de la pandemia de COBID-19 de 2020 an Pertual i
 |-
 !9
 |42
-|Hospital Curry Cabral, Lisboa
+|Spital Curry Cabral, Lhisboua
 | Amadora
 |Trasmisson d'houmano-para-houmano. Eitália
 |
