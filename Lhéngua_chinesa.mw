@@ -1,38 +1,37 @@
-{{Sin-fuontes|data=Janeiro de 2009}}
-{{Anfo léngua
-|nome      = Chinés<br />
-|nomenatibo  = 漢語 / 汉语 ''Hànyǔ'', 中文 ''Zhōngwén''
-|corfamília  = Campana-tibetana
-|outrosnomes =
-|pronúncia  =
-|stados    = [[República Popular de la China]], [[Hong Kong]], [[Macau]], [[Taiwan]], [[Singapura]], [[Malásia]], [[Andonésia]], [[Tailándia]], [[Bietname]], [[Myanmar|Mianmar]], [[Camboja]]
-|falantes   = cerca de 1,3 bilhon
-|posiçon    = 1
-|fam2      =
-|oufecial    = [[República Popular de la China]], [[Hong Kong]], [[Macau]], [[Taiwan]] (Formosa), [[Singapura]], [[Naciones Ounidas]]
-|regulador  = Na RPC: [http://www.china-language.gob.cn/ bárias agéncias] (an chinés)<br />An Taiwan: Cunseilho de Promoçon de l Mandarin<br />An Singapura: Cunseilho pa la Promoçon de l Mandarin/Campanha pa la Fala de l Mandarin 
-|scrita    = [[Carateres chineses]]
-|eiso1      = zh
-|eiso2b     = chi
-|eiso2t     = zho
-|lc1=cdo|ld1=min dong|ll1=none
-|lc2=cjy|ld2=jinyu|ll2=none
-|lc3=cmn|ld3=mandarin|ll3=Mandarin (dialeto)
-|lc4=cpx|ld4=pu xian|ll4=none
-|lc5=czh|ld5=huizhou|ll5=none
-|lc6=czo|ld6=min mhong|ll6=none
-|lc7=dng|ld7=dungan|ll7=none
-|lc8=gan|ld8=[[gàn]]|ll8=none
-|lc9=hak|ld9=hakka|ll9=none
-|lc10=hsn|ld10=xiang|ll10=none
-|lc11=mnp|ld11=min bei|ll11=none
-|lc12=nan|ld12=min nan|ll12=none
-|lc13=wuu|ld13=wu|ll13=none
-|lc14=yue|ld14=yue|ll14=none
-|sil      =
-|mapa      =
+{{Sin-fuontes}}
+{{Anfo/Lhéngua
+|nome          = Chinés
+|nomenatibo    = 漢語 / 汉语 ''Hànyǔ'', 中文 ''Zhōngwén''
+|pernúncia     =
+|outrosnomes   =
+|quelorfamília = Campana-tibetana
+|criador       =
+|data          =
+|stados        = [[República Popular de la China]], [[Hong Kong]], [[Macau]], [[Taiwan]], [[Singapura]], [[Malásia]], [[Andonésia]], [[Tailándia]], [[Bietname]], [[Myanmar|Mianmar]], [[Camboja]]
+|region        =
+|falantes      = cerca de 1,3 bilhon
+|outelizadores =
+|posiçon       = 1
+|stinçon       =
+|fam1          =
+|fam2          =
+|fam15         =
+|família       =
+|amprego       =
+|fuontes       =
+|scrita        = [[Carateres chineses]]
+<!-- Statuto oufecial   -->
+|oufecial      = [[República Popular de la China]], [[Hong Kong]], [[Macau]], [[Taiwan]] (Formosa), [[Singapura]], [[Naciones Ounidas]]
+|regulador     = RPC: [http://www.china-language.gob.cn/ bárias agéncias] (an chinés)<br />An Taiwan: Cunseilho de Promoçon de l Mandarin<br />An Singapura: Cunseilho pa la Promoçon de l Mandarin/Campanha pa la Fala de l Mandarin 
+<!-- Códigos de lhénguas -->
+|iso1          = zh
+|iso2          = chi
+|iso3          = zho
+|sil           =
+<!-- Mapa               -->
+|mapa          =
 }}
-La '''léngua chinesa''' {{Hanyu|s=汉语|t=漢語|p=Hànyǔ}} ó {{Hanyu|s=华语|t=華語|p=Huáyǔ}} ó {{Hanyu|s=中文|p=Zhōngwén}} ye na berdade ua [[família de lénguas]] que pertence al [[Lénguas campana-tibetanas|galho campana-tibetano]]. Aprossimadamente la quinta parte de ls habitantes de la [[Tierra]] fala algua forma de chinés cumo [[léngua materna]], tornando la léngua chinesa la mais falada ne l planeta, ambora nun seia la mais difundida.{{Carece de fuontes}}
+La '''léngua chinesa''' (an Hanyu 汉语 ó 漢語 ó 华语 ó 華語; an Zhōngwén 中文) ye na berdade ua [[família de lénguas]] que pertence al [[Lénguas campana-tibetanas|galho campana-tibetano]]. Aprossimadamente la quinta parte de ls habitantes de la [[Tierra]] fala algua forma de chinés cumo [[léngua materna]], tornando la léngua chinesa la mais falada ne l planeta, ambora nun seia la mais difundida.{{Carece de fuontes}}
 
 Ye ua [[léngua tonal]], eisolante i, basicamente, monossilábica, tendendo al monossilabismo percipalmente na bariante scrita, anquanto las bariantes faladas (notoriamente l [[mandarin]]) questuman fazer amplo uso de palabras dissilábicas i polissilábicas. Las raízes lexicales son, inda assi, todas monossilábicas.{{Carece de fuontes}}
 
@@ -84,10 +83,9 @@ La strutura fonológica chinesa, cumo de las demales [[lénguas campana-tibetana
 * [[Léngua de Senhales Chinesa]]
 * [[Lénguas siníticas]]
 
-{{Rabisco-lenguística}}
 {{AnterWiki|cod=zh}}
 {{DEFAULTSORT:Chines}}
-
+{{Rabisco personalizado|tema=lénguas}}
 [[Catadorie:Léngua chinesa| ]]
 [[Catadorie:Lénguas de la China]]
 [[Catadorie:Lénguas de Singapura]]
