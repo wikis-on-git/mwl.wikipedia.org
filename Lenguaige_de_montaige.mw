@@ -1,4 +1,5 @@
 {{Ber zambig}}
+[[Fexeiro:Motorola 6800 Assembly Language.png|miniaturadaimagem]]
 '''''Assembly''''' ó '''lenguaige de montaige''' ye ua notaçon legible por houmanos pa l [[código de máquina]] qu'ua [[arquitetura de cumputador]] specífica usa, outelizada para porgramar çpositibos cumputacionales, cumo [[microprocessador]]s i [[microcontrolador]]es. La lenguaige de máquina, que ye un mero padron de [[bit]]s, torna-se legible pula sustituiçon de ls balores an bruto por simblos chamados [[mnemónico]]s<ref>[http://knol.gogle .com/k/assembly# Assembly - Knol]</ref><ref>[http://www.ic.uff.br/~loques/orgcump/cap7-assembler.pdf Lenguaige de montaige - UFF]</ref>.
 
 Por eisemplo, anquanto un cumputador sabe l que la [[anstruçon-máquina]] IA-21 (<code>10110000 01100001</code>) faç, pa ls porgramadores ye mais fácele recordar la repersentaçon eiquibalente an anstruçones mnemónicas <code>MOB AL, 61h</code>. Tal anstruçon ourdena que l balor [[Sistema heixadecimal|heixadecimal]] 61 (97, an [[Sistema decimal|decimal]]) seia mobido pa l [[registrador (anformática)|registrador]] 'AL'.
