@@ -1,6 +1,6 @@
 {{geocordenadas|34_36_10_S_58_22_12_W|34°36'10"S, 58°22'12"W}}
 {| class="anfobox_b2" style="text-align:left;"
-! colspan="5" class="cabeceira" style="background-color:#{{{quelor|FF0000}}}; color:white" | <center><big><big><big> {{{nome| Leandro N. Alen }}} </big></big></big></center>
+! colspan="5" class="cabeceira" style="background-color:#{{{quelor|FF0000}}}; color:white" | <div class="center"><big><big><big> {{{nome| Leandro N. Alen }}} </big></big></big></div>
 |-
 ! colspan="2" style="text-align:center" |{{#if:{{{eimaige<ancludeonly>|</ancludeonly>}}}|[[Fexeiro:Leandro N. Alen (Subte de Buenos Aires).jpg|250px|Bista de la staçon {{{nome|Leandro N. Alen }}} de la linha B]]}}
 |-
@@ -27,9 +27,9 @@
 |colspan="2"|
 {| cellpadding="0" border=0 style="margin: 0 outo; text-align:center; font-size:90%; bertical-align:middle; border:1px #aaa solid; border-collapse:collapse;"
 |- style="background:#F0F0F0;"
-!width=100| {{#if:{{{antes|}}}&nbsp;}}  <center> '''Anterior'''
-!width=100 |<center>Linha
-!width=100| {{#if:{{{pross|}}}&nbsp;}} <center>  '''Próssima'''
+!width=100| {{#if:{{{antes|}}}&nbsp;}}  <div class="center"> '''Anterior''' </div>
+!width=100 |<div class="center"> Linha </div>
+!width=100| {{#if:{{{pross|}}}&nbsp;}} <div class="center">  '''Próssima''' </div>
 |-style="background:#F0F0F0; font-size: 100%;"
 |'''{{{antes|Treminal}}}'''
 |{{#if:{{{linea|{{{linha|}}}}}}|[[Fexeiro:Línea B (SBA).sbg|30px|La]]
