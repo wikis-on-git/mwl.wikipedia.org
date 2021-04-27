@@ -177,7 +177,7 @@ Cunsidre las proposiçones '''p''' i '''q''' (Cundiçon).
 |-
 | B || B || <div style="text-align: center;">B</div>
 |-
-| <span style="color:red;">B</span> || <span style="color:red;">F</span> || <center><span style="color:red;">F</span></center>
+| <span style="color:red;">B</span> || <span style="color:red;">F</span> || <div class="center"><span style="color:red;">F</span></div>
 |-
 | F || B || <div style="text-align: center;">B</div>
 |-
@@ -340,7 +340,7 @@ P Λ Q amplica P B Q?
 |-
 ! p !! q !! p Λ q !! p B q
 |-
-| B || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| B || B || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |-
 | B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |-
@@ -358,11 +358,11 @@ P B Q amplica P → Q?
 |-
 ! p !! q !! p B q !! p → q
 |-
-| B || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| B || B || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |-
-| B || F || <center><span style="color:red;">B</span></center> || <center><span style="color:red;">F</span></center>
+| B || F || <div class="center"><span style="color:red;">B</span></div> || <div class="center"><span style="color:red;">F</span></div>
 |-
-| F || B || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| F || B || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |-
 | F || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div>
 |}
@@ -379,13 +379,13 @@ Eisemplo:
 |-
 ! P !! Q !! ¬P !! ¬Q !! P Λ Q !! ¬(P Λ Q) !! ¬P B ¬Q
 |-
-| B || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <center><span style="color:yellow;">F</span></center> || <center><span style="color:yellow;">F</span></center>
+| B || B || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div class="center"><span style="color:yellow;">F</span></div> || <div class="center"><span style="color:yellow;">F</span></div>
 |-
-| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| B || F || <div style="text-align: center;">F</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |-
-| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| F || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div style="text-align: center;">F</div> || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |-
-| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <center><span style="color:yellow;">B</span></center> || <center><span style="color:yellow;">B</span></center>
+| F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div> || <div style="text-align: center;">F</div> || <div class="center"><span style="color:yellow;">B</span></div> || <div class="center"><span style="color:yellow;">B</span></div>
 |}
 
 Neste eisemplo podemos dezirmos que ¬(P Λ Q) ⇔ (¬P B ¬Q), pus l resultado de la tabela berdade de las dues spressones ye l mesmo.
@@ -399,9 +399,9 @@ P → Q ye eiquibalente la Q → P?
 |-
 | B || B || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |-
-| B || F || <center><span style="color:red;">F</span></center> || <center><span style="color:red;">B</span></center>
+| B || F || <div class="center"><span style="color:red;">F</span></div> || <div class="center"><span style="color:red;">B</span></div>
 |-
-| F || B || <center><span style="color:red;">B</span></center> || <center><span style="color:red;">F</span></center>
+| F || B || <div class="center"><span style="color:red;">B</span></div> || <div class="center"><span style="color:red;">F</span></div>
 |-
 | F || F || <div style="text-align: center;">B</div> || <div style="text-align: center;">B</div>
 |}
