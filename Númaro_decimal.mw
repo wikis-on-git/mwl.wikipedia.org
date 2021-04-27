@@ -92,10 +92,10 @@ Tamien puoden ser chamados de [[dízima periódica]], causo apersenten repetiço
 === Adiçon i subtraçon ===
 Quando se [[adiçon|adiciona]] un númaro decimal cun outro númaro decimal, la regra debe ser "Númaro anteiro ambaixo de númaro anteiro, bírgula ambaixo de [[bírgula]] i casa decimal ambaixo de casa decimal."
 
-S: <center>1,556</center>
-   <center>0,30+</center>
-  <center>——————</center>
-   <center>1,856</center>
+S: <div class="center">1,556</div>
+   <div class="center">0,30+</div>
+   <div class="center">—————</div>
+   <div class="center">1,856</div>
 
 Agora, repare que la regra arriba stá sendo oubedecida, mas nun eisiste nanhun [[númaro]] na orde de ls milésimos, para se calcular cul "6". Quando nun se ten la (s) casa (s) decimal (is) para se calcular l'adiçon (ó subtraçon) se adiciona zero, ó repete l balor a ser calculado (ne l causo, 6).
 
