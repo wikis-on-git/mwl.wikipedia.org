@@ -30,7 +30,7 @@
 |IZH_anho                   = 2015
 |IZH                        = 0.724
 |IZH_pos                    = 98
-|IZH_catadorie              = <font color=green>eilebado</font>
+|IZH_catadorie              = <span style="color:green;">eilebado</span>
 |moneda                     = Guaraní
 |moneda_ISO                 = PYG
 |fuso_hourário              = PYT
